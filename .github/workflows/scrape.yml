@@ -12,15 +12,22 @@ jobs:
       run: |-
         set -e -o pipefail
 
-        rm -f auto-generated/urls_with_metadata.txt
+        mkdir -p auto-generated/metadata
+
+        rm -f auto-generated/all_metadata.json
+        echo '[' > auto-generated/all_metadata.json
+        comma=""
         cat data/data_links.txt | while read url; do
           hash=$(echo ${url} | shasum -a256 | cut -d " " -f1)
           if [ ! -f auto-generated/metadata/${hash}.json ]; then
             curl ${url}/data | jq . > auto-generated/metadata/${hash}.json
             sleep .4
           fi
-          echo $url auto-generated/metadata/${hash}.json >> auto-generated/urls_with_metadata.txt
+          echo $comma >> auto-generated/all_metadata.json
+          cat auto-generated/metadata/${hash}.json >> auto-generated/all_metadata.json
+          comma=","
         done
+        echo ']' >> auto-generated/all_metadata.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
