@@ -14,20 +14,27 @@ jobs:
 
         mkdir -p auto-generated/metadata
 
-        rm -f auto-generated/all_metadata.json
-        echo '[' > auto-generated/all_metadata.json
-        comma=""
+        # Combine all metadata into a big sequence of JSON objects.  This will
+        # be combined into a JSON array of objects using jq --slurp
+        rm -f auto-generated/all_metadata_to_slurp.txt
+
         cat data/data_links.txt | while read url; do
+          if [ -z "$url" ]; then
+            # url is empty, so skip it.
+            continue
+          fi
+          # The metadata for each URL gets a unique filename based on a hash
+          # of the URL
           hash=$(echo ${url} | shasum -a256 | cut -d " " -f1)
           if [ ! -f auto-generated/metadata/${hash}.json ]; then
+            # Download the metadata if not already in this repository
             curl ${url}/data | jq . > auto-generated/metadata/${hash}.json
             sleep .4
           fi
-          echo $comma >> auto-generated/all_metadata.json
-          cat auto-generated/metadata/${hash}.json >> auto-generated/all_metadata.json
-          comma=","
+          cat auto-generated/metadata/${hash}.json >> auto-generated/all_metadata_to_slurp.txt
         done
-        echo ']' >> auto-generated/all_metadata.json
+        cat auto-generated/all_metadata_to_slurp.txt | jq --compact-output --slurp > auto-generated/all_metadata.json
+        rm auto-generated/all_metadata_to_slurp.txt
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
