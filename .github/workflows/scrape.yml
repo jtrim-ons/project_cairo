@@ -17,9 +17,9 @@ jobs:
           hash=$(echo ${url} | shasum -a256 | cut -d " " -f1)
           if [ ! -f auto-generated/metadata/${hash}.json ]; then
             curl ${url}/data | jq . > auto-generated/metadata/${hash}.json
+            sleep .4
           fi
           echo $url auto-generated/metadata/${hash}.json >> auto-generated/urls_with_metadata.txt
-          sleep .4
         done
     - name: Commit and push if it changed
       run: |-
