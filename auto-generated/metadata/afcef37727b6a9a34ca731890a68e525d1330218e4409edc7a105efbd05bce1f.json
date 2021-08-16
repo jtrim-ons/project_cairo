@@ -1,0 +1,69 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The number of people diagnosed with cancer in England every year has more than doubled in the past 40 years^1^.This is in part because the population has increased since the 1970s, particularly among the elderly. The cancer incidence rate has increased by 53%, when taking into account the changing age structure and increase in England’s population. The increase in the number of new cases has placed an increasing demand on cancer services.\n\nNHS England is about to launch a national 5-year action plan for cancer services. This article explores cancer trends over the past 40 years, looking at what the numbers tell us about improvements in diagnosis and survival^2^.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart1a/index.html\" full-width=\"false\" title=\"Cancer cases and survival rates\"/>\n\n[Download the data][2]\n\n###Five-year survival from cancer is improving\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart1b/index.html\" full-width=\"false\" title=\"Five-year survival from cancer is improving\"/>\n\n[Download the data][3]\n\nResearch undertaken by the Cancer Survival Group at the [London School of Hygiene & Tropical Medicine][4] shows that 5-year survival (for those aged 15 to 99) in England rose substantially over the 40-year period 1971 to 2011. About 30% of patients diagnosed during 1971-72 survived at least 5 years (after accounting for other causes of death) compared with 54% of patients diagnosed in 2010-11^3^.\n\n###The most common cancers for males and females account for over half of all cancers\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart2/index.html\" full-width=\"false\" title=\"The most common cancers for males and females account for over half of all cancers\"/>\n\n[Download the data][5]\n\nIn 2013, the most common cancer (for all ages combined) among males was prostate cancer (40,372 cases) and breast cancer for females (44,540 cases). The second and third most common cancers were the same for both sexes - lung cancer and colorectal (also known as bowel) cancer.\n\n###Prostate cancer: a sharp increase since the 1990s\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart4/index.html\" full-width=\"false\" title=\"Prostate cancer: a sharp increase since the 1990s\"/>\n\n[Download the data][6]\n\nThe incidence of prostate cancer has more than doubled since the 1970s, even after changes in the age structure of the population are taken into account. In the early 1990s, the incidence rate saw a sharp increase, which has been attributed mainly to a rapid increase in the use of the prostate-specific antigen (PSA) test from around 1990.\n\n[PSA testing][7] is widely used, but it is not part of a national screening programme such as those for cancers of the breast, cervix and bowel. 5-year survival from prostate cancer has increased rapidly, from 37% (for adults diagnosed during 1971-72) to 85% (predicted for males diagnosed during 2010-11).\n##Breast cancer: mortality has fallen substantially\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart5/index.html\" full-width=\"false\" title=\"Breast cancer: mortality has fallen substantially\"/>\n\n[Download the data][8]\n\nOver the 40 year period, female breast cancer mortality has decreased whilst breast cancer incidence has increased. 5-year breast cancer survival has increased from 53% (for females diagnosed in 1971-72) to 87% (predicted for those diagnosed in 2010-11). There are many factors to consider when asking why breast cancer survival has increased but improvement is likely due to earlier detection through breast cancer screening and advances in treatment.\n##Lung cancer: risen for females and fallen for males\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart6/index.html\" full-width=\"false\" title=\"Lung cancer: risen for females and fallen for males\"/>\n\n[Download the data][9]\n\nThe lung cancer incidence rate has increased for females and decreased for males over the last 40 years. 5-year survival is low for those diagnosed with lung cancer, at 8% for males and at 12% for females (predicted for adults diagnosed in 2010-11).\n\nThe narrowing gap in lung cancer incidence rates between males and females has been linked to the changes in smoking habits between the two sexes. Males have historically smoked more than females. After the Second World War, however, females started to smoke in great numbers, whereas the number of male smokers reduced considerably.\n###Colorectal cancer has increased more among males than females\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc273/chart7/index.html\" full-width=\"false\" title=\"Colorectal cancer has increased more among males than females\"/>\n\n[Download the data][10]\n\nColorectal cancer incidence rates have increased in England since the mid 1970s. The increase has been greater for males than for females. Over the same 40 year period the number of people who have died from colorectal cancer has fallen. In 2006 the national colorectal screening programme was introduced for those aged 60 to 69.\n\n\n  [1]: http://www.ons.gov.uk/ons/guide-method/classifications/international-standard-classifications/icd-10-for-mortality/comparing-trend-data-in-icd-10/changes-for-specific-causes-of-death/injury-and-poisoning.pdf\n  [2]: https://static.ons.gov.uk/visual/2015/07/cancer1a.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/cancer1b1.csv\n  [4]: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61396-9/fulltext\n  [5]: https://static.ons.gov.uk/visual/2015/07/cancer2.csv\n  [6]: https://static.ons.gov.uk/visual/2015/07/cancer4.csv\n  [7]: http://www.ncbi.nlm.nih.gov/pubmed/16832416/\n  [8]: https://static.ons.gov.uk/visual/2015/07/cancer5.csv\n  [9]: https://static.ons.gov.uk/visual/2015/07/cancer6.csv\n  [10]: https://static.ons.gov.uk/visual/2015/07/cancer7.csv \n\n\n####Footnotes:\n1. Only malignant invasive cancers are included in the analysis, using the International Classification of Disease, Tenth revision (ICD-10) codes C00 to C97 excluding C44. ICD-10 code C61 was used for prostate cancer, C50 for breast cancer and C33 and C34 for lung cancer. From 1995, colorectal cancer ICD-10 codes are usually C18 to C20. However, codes C18 to C21 have been used in the 40 year trend reported here to ensure consistency with pre-1995 data, where equivalent codes for C18 to C20 are not available. It is important to note that over the last 40 years ICD codes have changed which may have had an impact on the incidence and mortality trends. More information on the change to ICD-10 from ICD-9 on mortality can be found in: [“The effect of the introduction of ICD-10 on cancer mortality trends in England and Wales”][1]. \n2. The age-groups used in the age-standardised cancer and mortality rates (from birth onwards) are slightly different to the age-groups used in the survival estimates (15 to 99 years old). Cancer registrations for those aged 0 to 14 accounts for less than 1% of the total number of registrations.\n3. For the ‘all cancer’ 5-year survival estimate an index was designed to be independent of changes in the age distribution of patients with cancer and of changes in the proportion of lethal cancers in each sex. For the cancer specific 5-year survival estimate adjustments were made for changes in the age (and sex) profile of patients with cancer. More information on the methodology can be found in the 40-year trend article authored by the Cancer Survival Group at the London School of Health & Tropical Medicine."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Cancer registration statistics, 2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/vsob1/cancer-statistics-registrations--england--series-mb1-/no--44--2013/index.html"
+    },
+    {
+      "title": "Cancer survival in England",
+      "uri": "http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival-in-england--adults-diagnosed/2008-to-2012--followed-up-to-2013/stb-cancer-survival.html"
+    },
+    {
+      "title": "Childhood cancer survival in England",
+      "uri": "http://www.ons.gov.uk/ons/rel/cancer-unit/cancer-survival-for-children-in-england/children-followed-up-to-2013/stb-childhood-cancer-survival-in-england.html"
+    },
+    {
+      "title": "Historical cancer incidence, England, 1971-1994",
+      "uri": "http://www.ons.gov.uk/ons/rel/vsob1/cancer-statistics-registrations--england--series-mb1-/no--43--2012/sum-historical-cancer-dataset--england--1971-1994.html"
+    },
+    {
+      "title": "40 years of cancer data tables",
+      "uri": "http://www.ons.gov.uk/ons/about-ons/business-transparency/freedom-of-information/what-can-i-request/published-ad-hoc-data/health/july-2015/40-years-of-cancer-and-cancer-mortality-statistics-for-all-cancers.xls"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/survivalfromcancerimprovingandmorepeoplebeingdiagnosed/2015-07-17",
+  "description": {
+    "title": "Survival from cancer improving and more people being diagnosed",
+    "keywords": [
+      "People, population and community",
+      "Health",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "cancer.newport@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-17T08:30:15.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

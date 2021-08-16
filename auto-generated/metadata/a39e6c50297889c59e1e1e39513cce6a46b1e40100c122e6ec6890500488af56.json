@@ -1,0 +1,65 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Language is an important defining characteristic of people’s identity. Main language and proficiency in English was asked for the first time in the 2011 Census^1^. This information helps local authorities to target, deliver and facilitate the provision of public services, for example, to help identify the need for translation and the interpretation for providing English language lessons.\n\n##Nearly a million people could not speak English well or at all\n\n####People who 'can't speak English well' or 'not at all' by local authority, 2011, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc259/Chart1/index.html\" full-width=\"true\" title=\"People who 'can't speak English well' or 'not at all' by local authority, 2011, England and Wales\"/>Source: [2011 Census Analysis][1], ONS\n\n[Download the data.][2]\n\nAcross England and Wales, fewer than 1 in 50 people (aged 3 or over) could not speak English well or at all (2%, 863,000). For the majority of local authorities, the inability to speak English well or at all affected less than 1% of the population. However in areas of London, notably Newham, Brent and Tower Hamlets and also in Leicester, between 8 and 9% of the population could not speak English well or at all.\n\n##Poor English language skills linked to worse health and lower employment rates\n####Proficiency in English by health, 2011, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc259/Chart2/index.html\" full-width=\"false\" title=\"Proficiency in English by health, 2011, England and Wales\"/>\n   \n[Download the data.][3]\n\nOnly two-thirds (65%) of people who could not speak English well or at all (‘non-proficient)’ were in good health, compared with nearly 9 in 10 (88%) who could speak English very well or well (‘proficient)’. This may be due to lower proficiency in English making it difficult for people to access suitable healthcare, which may have a longer term impact on health. There was also a more rapid decline of good health by age among people who were less proficient in English.\n\nIn terms of employment, fewer than half (48%) of those ‘non-proficient’ in English were employed, compared with 72% of all usual residents aged 16 to 64. This was particularly evident for females, where around a third (34%) of those ‘non-proficient’ in English were in employment compared with 58% of women who were proficient in English.\n\nIn 2011, 562, 000 people in Wales were able to speak Welsh. \n\n50 million (92%) of people aged three and over reported English (English or Welsh in Wales) as their main language. There were over half a million people in Wales able to speak Welsh (19%, 562,000), and 15% were able to speak, read and write Welsh^2^.\n\n##Polish was the most common main language other than English^3^\n\n####Top 10 main languages other than English (English or Welsh in Wales), England and Wales, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc259/Chart3/index.html\" full-width=\"false\" title=\"Top 10 main languages other than English (English or Welsh in Wales), England and Wales, 2011\"/>[Download the data.][4]\n\nAround 1 in 13 people (8%, 4.2 million) in England and Wales had a main language other than English (English or Welsh in Wales). The 2011 Census classified 88 main languages other than English (English or Welsh in Wales). Amongst these, the most prevalent was Polish, which was the main language of 1% of the population (546,000 people), and this was followed by Panjabi (273,000 speakers) and Urdu (269,000). European languages such as French (147,000), Portuguese (133,000) and Spanish (120,000) were also in the top ten.\n\nThere were high proportions of other languages in some local authorities: Tower Hamlets in London where 18% of the population spoke Bengali as their main language or Leicester where 11% of the population spoke Gujarati as their main language.\n\n\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/language-in-england-and-wales-2011/rpt---language-in-england-and-wales--2011.html\n  [2]: https://static.ons.gov.uk/visual/2015/07/Lang11.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/Lang2.csv\n  [4]: https://static.ons.gov.uk/visual/2015/07/Lang3.csv\n  [5]: http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html\n  [6]: mailto:census.customerservices@ons.gov.uk\n\n\n###Footnotes:\n1. The language question captured information through a tick-box on those who reported their main language as English (or English or Welsh in Wales). A write-in option captured languages other than English, this included Sign Languages. Those that selected the option for another language were asked a follow-up question on proficiency of English spoken. Respondents were asked how well they could speak English and could select one of the four tick boxes, ‘How well can you speak English?’ ‘very well’, ‘well’, ‘not well’, and ‘not at all’.\n2. 'A question on Welsh language skills was also asked on the 2011 Census form in Wales. The question asked was 'Can you understand, speak, read or write Welsh?' - answered by ticking one or more of five boxes (one for each category and one for 'None of these') in any combination.\n3. 'All Other Chinese' is an aggregate of Chinese languages and excludes those that wrote in Mandarin Chinese and Cantonese Chinese"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Census 2011 analysis website",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html"
+    },
+    {
+      "title": "Language in England and Wales: 2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/language-in-england-and-wales-2011/index.html"
+    },
+    {
+      "title": "2011 Census: Detailed analysis - English language proficiency in England and Wales, Main language and general health characteristics",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census/detailed-characteristics-on-demography-for-2011-census-merged-wards-and-middle-layer-super-output-areas-in-england-and-wales/rpt-english-language-proficiency.html"
+    },
+    {
+      "title": "Effects of language proficiency on employment",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/english-language-proficiency-in-the-labour-market/rpt-english-language-proficiency.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/culturalidentity/language/articles/peoplewhocannotspeakenglishwellaremorelikelytobeinpoorhealth/2015-07-09",
+  "description": {
+    "title": "People who cannot speak English well are more likely to be in poor health",
+    "keywords": [
+      "People, population and community",
+      "2011 census",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-09T08:24:12.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,55 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Almost six million employee jobs in the UK are estimated to be paid less than the Living Wage.\n\nFigures from the Annual Survey of Hours and Earnings (ASHE) show that in 2014 an estimated 5.9 million jobs were paid below the Living Wage.\n\nThe south east of England, London and Scotland had the lowest proportion of jobs paid below the Living Wage – all at 19%. Northern Ireland had the highest, at 29%.\n\nThe Living Wage, as recommended by the Living Wage Foundation and the Mayor of London, is a voluntary pay standard which covers the basic cost of living.\n\n###Find out how many jobs are paid below the living wage in your area:\n####Proportion of employee jobs paid less than the living wage, Local Authorities of GB, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwmap/index.html\" full-width=\"full\" title=\"Proportion of employee jobs paid less than the living wage, Local Authorities of GB, 2014\"/>Source: [Annual Survey of Hours and Earnings][1], ONS\n\n[Download the data][2]\n\n###What could have influenced the increase in jobs below the Living Wage?\n\nThe figures show there has been a rise in the proportion of jobs paid less than the Living Wage, which in April 2014 rose to 19% in London and 23% in the rest of the UK.\n\nThe rise could be the result of general wage stagnation after the economic downturn of 2008-2009, accompanied by a recovery in demand for low-skill, low-pay workers by 2013-2014.\n\n####Proportion of employee jobs paid less than the living wage by age, UK, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwage/index.html\" full-width=\"false\" title=\"Proportion of employee jobs paid less than the living wage by age, UK, 2014\"/>[Download the data][3]\n\n####Proportion of employee jobs paid less than the living wage by sex, UK, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwsex/index.html\" full-width=\"false\" title=\"Proportion of employee jobs paid less than the living wage by sex, UK, 2014\"/>[Download the data][4]\n\nIn 2014, a higher percentage of female jobs were paid less than the Living Wage, compared with male jobs: 16% of male jobs in London and 18% in the rest of the UK, whereas 22% of female jobs in London and 29% in the rest of the UK.\n\nThis equates to 3.6 million female employee jobs below the Living Wage in the UK in 2014, compared with 2.3 million male employee jobs.\n\nSome 48% of jobs in the 18-24 age group in London and 58% of jobs in this age group elsewhere in the UK were paid less than the living wage.\n\n####Proportion of employee jobs paid less than the living wage by selected industries, UK, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc289/lwocc/index.html\" full-width=\"false\" title=\"Proportion of employee jobs paid less than the living wage by selected industries, UK, 2014\"/>[Download the data][5]\n\nThe industry which saw the highest proportion of jobs paying less than the Living Wage was accommodation and food services, at an estimated 65% in London and 70% in the rest of the UK.\n\nThere was also a high proportion of below-living-wage jobs in retail, with 55% of retail jobs in London and 59% outside the capital city.\n\nEmployee jobs were also particularly likely to be below the living wage in the cleaning and care sectors, which have been identified as vulnerable to low wages by the Low Pay Commission.\n\n###What is the Living Wage and how much is it?\n\nThe Living Wage is a voluntary pay standard for employees aged 18 and over who are not apprentices, interns or trainees.\n\nIt is currently set at £9.15 an hour in London and £7.85 in the rest of the UK. At the time of the latest survey estimates (April 2014), it was £8.80 in London and £7.65 in the rest of the UK.\n\nIt is due to increase by 40 pence, to £9.55 in London and £8.25 in the rest of the UK, as announced by London Mayor, Boris Johnson, on November 2, 2015.\n\nThe Out of London Living Wage is calculated by the Centre for Research in Social Policy at Loughborough University, while the London Living Wage is calculated by the Greater London Authority.\n\nThis compared with the median hourly wage of £15.82 for London and £11.08 for the rest of the UK , as calculated by the Annual Survey of Hours and Earnings, 2014 provisional results. (Link to Appendix 1 of main Living Wage article.)\n\n###What is the National Living Wage and how much is it?\n\nPlans to introduce a compulsory minimum wage premium for all staff over 24 years of age were introduced in the July 2015 budget.\n\nFrom April 2016, employers are required to pay the National Living Wage of £7.20 an hour for workers aged 25 and older.\nThe government has instructed the Low Pay Commission that the minimum wage premium for over 24s should reach 60% of median earnings by 2020.\n\nThe compulsory rate (the National Living Wage) is based on median earnings while the voluntary living wage rates are calculated according to the cost of living.\n\n###What is the National Minimum Wage and how much is it?\n\nThe National Minimum Wage is the minimum pay per hour almost all employees are entitled to by law. This depends on a worker’s age and whether or not they are an apprentice.\n\nIt is currently (2015 rate) £6.70 for those 21 and over; £5.30 for 18 to 20 year olds; £3.87 for under 18s and £3.30 for apprentices aged 16 to 18 and those aged 19 or over who are in their first year of training.\n\nThe National Minimum Wage is set by the business secretary each year on the advice of the Low Pay Commission and enforced by HM Revenue and Customs (HMRC).\n\nFrom April 2016, the National Minimum Wage will still apply for workers aged 24 and under while the National Living Wage will apply for those aged 25 and over.\n\n<ons-box align=\"full\">At present it is not possible to present estimates of jobs below the National Living Wage because data for April 2016 will not be available until later that year. At the time of this study, the Living Wage was set at £8.80 for London and £7.65 for the rest of the UK.</ons-box>\n\n\nFor more information, please contact: [earnings@ons.gov.uk][6]\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/previousReleases\n  [2]: https://static.ons.gov.uk/visual/2015/10/data2-1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/10/Cluster.csv\n  [4]: https://static.ons.gov.uk/visual/2015/10/data3.csv\n  [5]: https://static.ons.gov.uk/visual/2015/10/Cluster1.csv\n  [6]: mailto:earnings@ons.gov.uk"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Estimates of employee jobs paid less than the living wage in London and other parts of the UK",
+      "uri": "http://www.ons.gov.uk/ons/rel/regional-trends/london-analysis/estimates-of-employee-jobs-paid-less-than-the-living-wage-in-london-and-other-parts-of-the-uk/art-london-analysis.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howmanyjobsarepaidlessthanthelivingwageinyourarea/2015-10-12",
+  "description": {
+    "title": "How many jobs are paid less than the living wage in your area?",
+    "keywords": [
+      "Economy",
+      "Employment and labour market",
+      "Earnings",
+      "Labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-10-12T08:30:35.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}
