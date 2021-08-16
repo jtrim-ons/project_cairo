@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The UK leaves the EU in 100 days after more than 40 years of membership. \n\nThe UK Prime Minister Theresa May triggered Article 50 of the Lisbon Treaty (the official mechanism for starting Brexit) in March 2017, nine months after the referendum result. The UK will leave the EU on 29 March 2019, following two years of talks. \n\nMany predictions were made before the Brexit vote about what would happen to the economy and society as a whole if the UK chose to leave the EU.  \n \nBut what’s the reality? What’s changed since the vote?\n\nDraw your estimates on the following charts, then click the button to see how you did:\n\n###The rate of quarterly economic growth, as measured by gross domestic product (GDP)...\n<ons-interactive url=\"/visualisations/dvc573/bgdp/index.html\" full-width=\"false\" title=\"GDP\"/>\n\n[Download the data.][1]\n\n###The rate of inflation...\n<ons-interactive url=\"/visualisations/dvc573/acpih/index.html\" full-width=\"false\" title=\"CPIH\"/>\n\n[Download the data.][2]\n\n*Inflation is measured here by CPIH, which includes a measure of owner occupiers’ housing costs.*\n###The value of the pound relative to the euro…\n<ons-interactive url=\"/visualisations/dvc573/cpound/index.html\" full-width=\"false\" title=\"Pound v Euro\"/>[Download the data.][3]\n\nSource: [Bank of England][4]\n###The number of visits by overseas residents to the UK...\n<ons-interactive url=\"/visualisations/dvc573/dtourism/index.html\" full-width=\"false\" title=\"Tourism\"/>\n\n[Download the data.][5]\n\n###The unemployment rate…\n<ons-interactive url=\"/visualisations/dvc573/funemployment/index.html\" full-width=\"false\" title=\"Employment\"/>\n\n[Download the data.][6]\n\n###The number of job vacancies...\n<ons-interactive url=\"/visualisations/dvc573/gvacancies/index.html\" full-width=\"false\" title=\"Vacancies\"/>\n\n[Download the data.][7]\n\n###The number of EU citizens who immigrated to the UK…\n<ons-interactive url=\"/visualisations/dvc573/emigration/index.html\" full-width=\"false\" title=\"Migration\"/>\n\n[Download the data.][8]\n\n<ons-box align=\"full\">Note: given the limited time period since June 2016, even the most frequently published ONS statistics only have a relatively small number of data points available. \n\nThe charts will indicate the highest (maximum) and lowest (minimum) data points since 2008 for each statistic in order to put recent figures into context. All data is correct on 19 December 2018.</ons-box>\n\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc573/gdp.csv\n  [2]: https://www.ons.gov.uk/visualisations/dvc573/cpih.csv\n  [3]: https://www.ons.gov.uk/visualisations/dvc573/pound.csv\n  [4]: http://www.bankofengland.co.uk/boeapps/iadb/index.asp?Travel=NIxIRx&levels=1&XNotes=Y&XNotes2=Y&Nodes=X3790X3791X3873X33940&SectionRequired=I&HideNums=-1&ExtraInfo=true&A3801XBMX3790X3791.x=5&A3801XBMX3790X3791.y=6\n  [5]: https://www.ons.gov.uk/visualisations/dvc573/visits.csv\n  [6]: https://www.ons.gov.uk/visualisations/dvc573/unemployment.csv\n  [7]: https://www.ons.gov.uk/visualisations/dvc573/vacancies.csv\n  [8]: https://www.ons.gov.uk/visualisations/dvc573/migration.csv\n \n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Dashboard: Understanding the UK economy",
+      "uri": "https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22"
+    },
+    {
+      "title": "Migration since the Brexit vote: what’s changed in six charts",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationsincethebrexitvotewhatschangedinsixcharts/2017-11-30"
+    },
+    {
+      "title": "The UK contribution to the EU budget",
+      "uri": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/whatschangedsincethebrexitvote/2017-06-23",
+  "description": {
+    "title": "What's changed since the Brexit vote?",
+    "keywords": [
+      "Brexit",
+      "Economy",
+      "UK",
+      "EU"
+    ],
+    "metaDescription": "Find out what's changed in the UK economy since the Brexit vote. Draw your estimates for indicators such as GDP, inflation, unemployment and EU immigration on our interactive charts, then click the button to see how you did.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-12-19T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Use our interactive charts to find out what's changed in the UK economy since the Brexit vote in June 2016. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,97 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/8add0b72.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Billions of pounds of financial investments flow into and out of the UK each year, whether it be a foreign company acquiring a UK company, a fund manager investing in foreign stock markets, or someone setting up a savings account with an overseas bank.\n\nThese investments can be made with the aim of spreading risk, achieving higher returns, or simply expanding the reach of an existing business by investing in other markets.\n\nIn all, the stock of UK investments abroad was worth around £11 trillion in 2017^1^, with foreign investment in the UK worth a similar amount, according to our [latest Pink Book published in July][1].\n\nTo put these numbers into context, UK gross domestic product (GDP) was roughly £2 trillion in 2017, around one-fifth of the values of UK investments overseas and foreign investments held in the UK.\n\nFor further context, UK investments abroad were worth nearly twice those of France (£5.9 trillion in 2017), despite both economies being of similar size (GDP around £2 trillion). \n\nThe value of foreign investment in the UK has fallen slightly from its peak in 2008, although it increased by £796 billion in 2016 (the year of the EU referendum). However, just one-fifth of that rise was due to new investment in the UK (£155 billion).\n\nThe rise was instead driven by currency and price changes^2^. The British pound depreciated to its lowest value since the financial crisis following the Brexit vote, which increased the value of deposits held in UK banks (mostly denominated in foreign currency) when converted back into sterling.\n\n\n  [1]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2018"
+    },
+    {
+      "title": "Where do we invest, and who invests in us?",
+      "markdown": "The country that attracts by far the most investment from the UK – almost one-third of total investment (31%) – is the US. \n\nThis is more than three times the amount the UK invests in France, which is the next highest at 9%, followed by Germany (7%), the Netherlands (6%), Japan (5%) and Luxembourg (3%).\n\nSimilarly, the US invests the most in the UK, ahead of France, Germany, the Netherlands, Ireland and Luxembourg.\n\nUK investment in emerging markets remains small relative to developed countries. [Prime Minister Theresa May has announced plans to increase investment in Africa after Brexit][1] during a recent visit.\n\nWhile UK investment in Africa has risen by 61% since 2008, investment in Europe has dropped by 20% in the same period. Yet UK investment in Europe was worth approximately 38 times as much as investment in Africa in 2017.\n\n####Explore UK investment abroad and foreign investment in the UK since 1999 with our interactive map^3^.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc515/index.html\" full-width=\"true\" title=\"Explore UK investment abroad and foreign investment in the UK since 1999 with our interactive map^3^.\"/>\n\n[Download the data.][2]\n\n\n  [1]: https://www.bbc.co.uk/news/uk-politics-45325701\n  [2]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/10geographicalbreakdownoftheukinternationalinvestmentpositionthepinkbook2016"
+    },
+    {
+      "title": "Emerging markets are seen as a long-term investment",
+      "markdown": "Although UK investment in emerging markets is relatively low, many of those who have invested are in it for the long haul.\n\nMore than half (54%) of the UK’s investment in Africa is either direct (when an investor buys at least 10% of a company) or portfolio (when an investor buys less than 10% of a company), compared with just 39% in Europe.\n\nBoth direct and portfolio investments are generally made for the long-term, largely because they’re not always easy to sell quickly and convert into cash.  \n\nMeanwhile, “other” investments – mainly deposit accounts and loans with overseas banks – are short-term, because they’re easier to withdraw. Around 42% of UK investment in Europe is “other”, compared with 33% in Africa.\n\n<ons-chart path=\"22922627\" />"
+    },
+    {
+      "title": "Some investment into the UK flows through Europe, but originates elsewhere",
+      "markdown": "The Netherlands and Luxembourg are the fourth- and sixth-largest investors in the UK respectively, despite ranking well outside the world’s largest economies according to GDP.\n\nThis partly reflects how direct investment statistics are presented.\n\nInward foreign direct investment (FDI) statistics are classified by the immediate investor rather than the ultimate investor, who is the decision maker behind an investment. Sometimes, the ultimate investor resides in a different country to the immediate investor. \n\n[Our previous analysis][1], which estimated direct investments according to the ultimate investor, showed that some investments were being channelled through subsidiaries in EU countries like the Netherlands and Luxembourg. \n\nAfter taking the location of the ultimate investor into account, direct investment in the UK from EU countries was 17% lower in 2016. In contrast, investment from North America was 33% higher.\n\n<ons-chart path=\"19516158\" />\n\n  [1]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/articles/ukforeigndirectinvestmenttrendsandanalysis/july2018#foreign-direct-investment-by-the-country-of-the-ultimate-controlling-parent"
+    },
+    {
+      "title": "What makes someone invest abroad?",
+      "markdown": "Potential investors are likely to consider the rate of return^4^  before deciding to invest abroad, which is the percentage gain or loss on an investment over a specified period.\n\nHowever, our data show that investment levels do not necessarily follow rates of return.\n\nInvestors may value the perceived security of an economy and its currency above rate of return. If an economy is stable and seen as a safe place to invest, it may be more attractive to investors than somewhere perceived as riskier, albeit with higher expected returns. \n\nFor example, the typically stable economies of the US, France and Germany, which make up 44% of UK investment overseas, provide some of the lowest rates of return.\n\nOther factors affecting investment decisions include price levels, interest rates and tax laws. For example, Ireland – the sixth-largest destination for UK investment – has one of the lowest rates of Corporation Tax in Europe (12.5%).\n\n####There is little correlation between investment levels and rate of return\n**Values of and rates of return on UK investment overseas, top 10 investment partners, 2017**\n\n<ons-interactive url=\"/visualisations/dvc558/investment/index.html\" full-width=\"false\" title=\"There is little correlation between investment levels and rate of return **Values of and rates of return on UK investment overseas, top 10 investment partners, 2017**\"/>\n\n[Download the data.][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc558/investment/downloadthedata.csv"
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. Stocks refer to the value of investment at a certain point in time, as opposed to flows which refer to when an investor buys or sells an investment.\n\n2. Changes to the price of stocks and bonds have an impact on the value of investments, and this is recorded as price changes.\n\n3. UK investments abroad are classed as UK assets, while foreign investments in the UK are liabilities. The international investment position (IIP) simply refers to the stocks of these investments.\n\n4. The rate of return analysis used in this article refers only to direct, portfolio and other investment."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/datasets/10geographicalbreakdownoftheukinternationalinvestmentpositionthepinkbook2016"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/articles/ukforeigndirectinvestmenttrendsandanalysis/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "UK investment is most likely to be long-term in Africa",
+      "filename": "22922627",
+      "uri": "/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/22922627"
+    },
+    {
+      "title": "Some companies invest in the UK through subsidiaries",
+      "filename": "19516158",
+      "uri": "/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01/19516158"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Who does the UK trade with?",
+      "uri": "https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/whodoestheuktradewith/2017-02-21"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/nationalaccounts/balanceofpayments/articles/exploringforeigninvestmentwheredoestheukinvestandwhoinvestsintheuk/2018-11-01",
+  "description": {
+    "title": "Exploring foreign investment: where does the UK invest, and who invests in the UK?",
+    "keywords": [
+      "Foreign investment",
+      "Map",
+      "World",
+      "Investment"
+    ],
+    "metaDescription": "Use our interactive map to understand the UK's investment relationships with countries around the world since 1999.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "bop@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-11-01T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Understand the UK's investment relationships with countries around the world since 1999.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

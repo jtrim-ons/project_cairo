@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Each year the UK government makes a contribution to the EU budget. This is mainly based on the size of the UK’s economy relative to the economies of the other EU Member States.\n##How are EU budget contributions calculated?\n####Proportion of EU budget paid for by each Member State, 2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc265/chart1/index.html\" full-width=\"false\" title=\"Proportion of EU budget paid for by each Member State, 2013\"/>\nThe cost of the EU is almost wholly funded by contributions from Member States. The remainder comes from external contributions to the EU and fines on businesses. The overall budget is fixed in advance, and the cost of it is then shared between member states based on the relative size of their economies.\n####Total UK contribution to the EU budget\n\n<svg height=\"85\" width=\"100%\">\n<text x=\"0\" y=\"60\" font-size=\"60\" font-family=\"Open Sans\" font-weight=\"bold\">€17 billion</text>\n<text x=\"0\" y=\"85\" font-size=\"12\" font-family=\"Open Sans\">2013</text>\n</svg>\n\n##Where does the money for the budget come from?\n####Breakdown of UK contribution to the EU budget by resource, 2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc265/chart2/index.html\" full-width=\"false\" title=\"Breakdown of UK contribution to the EU budget by resource, 2013\"/>\nMember states make contributions based on 3 types of economic activity: traditional resources, VAT-based resources, and GNI based resources.\n\n####1. Traditional resources\nMember states give 75% of customs, agriculture, sugar and isoglucose levies to the EU. The remaining 25% are then kept to cover the costs of administration.\n\n####2. VAT-based resources\nMember States contribute a standardised 0.3% of their total VAT income. However, there are exceptions to the rate for Austria (0.225%), Germany (0.15%), Sweden and the Netherlands (both 0.10%).\n\n####3. GNI-based resources\nMember States also a standard percentage of their Gross National Income (GNI). It basically counts all income earned by UK residents regardless of where it was earned. Member States’ GNI-based contributions cover the remainder of the EU budget, up to a cap of 1.24%.\n##Why are EU budget contributions sometimes revised?\nEurostat carries out annual audits and can place EU-wide or country-specific revisions on measurements they’d like to see improved. Member states are then given a timeframe to make these changes, which then determines whether they’ve under or over paid.\n\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "EU expenditure and revenue",
+      "uri": "http://ec.europa.eu/budget/figures/interactive/index_en.cfm"
+    },
+    {
+      "title": "Revision of Member States’ GNI contributions",
+      "uri": "http://europa.eu/rapid/press-release_MEMO-14-601_en.htm"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/governmentpublicsectorandtaxes/publicspending/articles/howdoestheukcontributetotheeubudget/2015-06-26",
+  "description": {
+    "title": "How does the UK contribute to the EU budget?",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "Europe",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-06-26T08:18:34.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

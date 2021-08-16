@@ -1,0 +1,69 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/morethanonefifthofusualhouseholdspendinghasbeenlargelypreventedduringlockdown/2020-06-11/3682190d.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\n####Correction:\n10.30am, 1 April 2021. As announced on 4 March 2021, an error occurred in the Living Cost and Food (LCF) Survey which was found to impact the Family Spending in the UK: April 2018 to March 2019 release and datasets that were the basis of this piece of analysis. \n\nThe biggest impact is on expenditure on transport (6% increase), specifically on loans or hire purchase of vehicles. To a lesser degree income (decrease of 2%) has also been affected. This has meant that although the interpretation of the statistics remains the same, the proportion of spending in each classification has been affected. We have corrected the affected values in this article. \n\nWe apologise for any inconvenience. Please contact Carla Kidd at wealth.and.assets.survey@ons.gov.uk for more information.\n\n</ons-box>\n\n<p id=\"backtotop\">More than one-fifth of usual household spending has not been possible during the lockdown, Office for National Statistics (ONS) analysis reveals.</p>\n\nIn the financial year ending March 2019, UK households spent an average of £187 per week on activities that have since been largely prevented by government guidelines (such as travel, holidays and meals out). \n\nThis is equivalent to 22% of a usual weekly budget of £843, money that households could be saving, spending in other areas or using to cover any loss of income.\n\nTo estimate the potential impact of the coronavirus (COVID-19) on spending, and the extent to which people might be able to cut back, we have categorised household spending from before the pandemic (based on lockdown measures introduced on 23 March 2020). There is more detail on our categories in the <a href=\"#classifications\">Spending classifications section</a>.\n\nAcross all households, more than half (53%) of usual spending covers “non-discretionary” items such as food and housing costs. We refer to this as spending on “essentials”.\n\nYounger households, those who are renting and those living in London spend a lot proportionally on essentials and relatively little on goods and services that have been unavailable under lockdown. This could limit their ability to cut back on spending if their income were to fall.\n\nTo help households under increased financial pressure, some companies – including mortgage providers and gas, electricity and water suppliers – have offered payment holidays on regular bills. \n\nWe estimate that 40% of household spending on essentials could be subject to a payment holiday, equivalent to £177 per week. \n\n####More than one-fifth of usual household spending has been prevented by the lockdown\n#####Weekly household expenditure by category, UK, financial year ending March 2019\n\n<ons-interactive url=\"/visualisations/dvc824a/treemap/treemap/index.html\" full-width=\"true\" title=\"Family spending treemap - dvc565\"/>\n\n#####Notes:\n\n1. Any payment holidays are temporary and money saved would need to be paid back.\n2. We do not know how many households have been offered payment holidays, or how many have taken them up. "
+    },
+    {
+      "title": "Renters spend a higher proportion of their budget on essential items that cannot be cut back",
+      "markdown": "Renting households spend 60% of their usual weekly budget on essentials, compared with 51% for households who own their home outright or with a mortgage.\n\nThis is largely driven by housing costs, which account for 29% of budgets for renting households and 21% for homeowners.\n\nAccording to a [survey by the Resolution Foundation][1], renters are more likely than homeowners to have fallen behind with their housing payments during the lockdown. They have been less likely to receive a payment holiday on their rent, as opposed to those with a mortgage. \n\nOur data also show that spending on activities including holidays and eating out is proportionally lower among renters, potentially limiting their ability to manage housing costs alongside a loss of income.\n\n####Private renters spend more than 60% of their weekly budget on household essentials\n#####Weekly household expenditure by housing tenure, UK, financial year ending March 2019\n\n<ons-interactive url=\"/visualisations/dvc824a/tenure/index.html\" full-width=\"false\" title=\"Private renters spend more than 60% of their weekly budget on household essentials\"/>\n\n[Download the data][2]\n\nMeanwhile, in households where the [reference person][3] is under 30 years old, 57% of the weekly budget goes on essentials and 20% on goods and services that have been unavailable during lockdown. \n\nOn the other hand, older households where the reference person is aged between 65 and 74 years spend far less of their budget on essentials (43%) and considerably more (29%) on activities that have been prevented.\n\nWhile [evidence suggests that both the youngest and oldest workers have been hit by furloughing and job losses][4], younger households are [less likely to have enough savings to cover a loss of income][5] and less likely to be able to cut back on spending.\n\n####Older households are more able to cut back on spending during the lockdown\n#####Weekly household expenditure by age of household reference person, UK, financial year ending March 2019\n\n<ons-interactive url=\"/visualisations/dvc824a/age/index.html\" full-width=\"false\" title=\"Older households are more able to cut back on spending during the lockdown\"/>\n\n#####Notes:\n\n1. This is illustrative of the general trend across age groups. There will be some older people in a vulnerable position financially, including some of those [living alone][7]. Unfortunately, we are unable to examine spending by multiple characteristics, such as older people living alone, because the sample sizes are too small.\n\n[Download the data][6]\n\nBy region, London households appear least equipped to cut back on spending.\n\nIn London, where property prices and rental rates are most expensive, a typical household spends 58% of its weekly budget on essentials such as food and housing costs (the highest of any region or country of the UK).\n\nAt the same time, Londoners spend proportionally the least on activities such as holidays and meals out that have been prohibited (20%), potentially leaving them with limited wiggle room if their incomes were to fall.\n\n####Households in London spend the most on essentials and the least on goods and services that have been unavailable during lockdown\n#####Weekly household expenditure by region, UK, financial year ending March 2017 to financial year ending March 2019\n\n<ons-interactive url=\"/visualisations/dvc824a/region/index.html\" full-width=\"false\" title=\"Households in London spend the most on essentials and the least on goods and services that have been unavailable during lockdown\"/>\n\n[Download the data][8]\n\n#####Notes:\n\n1. The regional data are based on an average of spending in the past three financial years (up to the financial year ending March 2019). The rest of the data refer to the single financial year up to March 2019.\n\n<hr style=\"border: 0;height: 0;border-top: 4px solid #808080;\">\n\n\n  [1]: https://www.resolutionfoundation.org/publications/coping-with-housing-costs-during-the-coronavirus-crisis/\n  [2]: https://www.ons.gov.uk/visualisations/dvc824a/datadownload/tenure.xls\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/articles/familiesandhouseholdsstatisticsexplained/2019-08-07\n  [4]: https://www.resolutionfoundation.org/publications/young-workers-in-the-coronavirus-crisis/\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/financialresilienceofhouseholdstheextenttowhichfinancialassetscancoveranincomeshock/2020-04-02\n  [6]: http://www.ons.gov.uk/visualisations/dvc824a/datadownload/hhrp_age.xls\n  [7]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/articles/thecostoflivingalone/2019-04-04\n  [8]: http://www.ons.gov.uk/visualisations/dvc824a/datadownload/region.xls"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"classifications\">Spending classifications</h2>\n\nFor the purposes of this analysis, we have categorised our household spending data into three groups.\n\n####Spending that has been prevented during lockdown\nThis covers goods and services that could not be purchased under measures introduced on 23 March 2020 (the start of lockdown), such as alcohol in a pub. It also includes spending on items where purchasing has been more difficult (such as clothing) or strongly discouraged (such as public transport). As restrictions ease, households will be able to resume spending on these items and activities. \n\n####Non-discretionary spending\nThis is spending on essential goods and services, where the consumer has little choice but to continue to buy regardless of price and income pressures. They are staple items such as food and energy payments. \n\nA separate classification has been used to define essential spending where there is evidence that payment holidays have been offered. This includes rent, mortgage payments and interest, insurance, water bills and debt repayment. We do not know how many households have been offered payment holidays, or how many have taken them up. \n\n####Discretionary spending\nThis is spending on goods and services where the consumer exercises some degree of choice over whether or not to buy and how much they spend (the price and amount purchased). Most goods and services that have been unavailable under lockdown would normally fall in this category.\n\nA full [list of goods and services assigned to each category][1] is available.\n\nPlease note that the data behind this analysis include all goods and services recorded in the Living Costs and Food Survey (LCF), including those outside the Classification of Individual Consumption According to Purpose (COICOP). This results in a higher weekly spend (£843) than the “standard” total expenditure (£592) in our [Family Spending in the UK][2] publication. Our household spending data refer to the UK as a whole. Lockdown restrictions may vary across [England][3], [Scotland][4], [Wales][5] and [Northern Ireland][6]. \n\nThe Institute for Fiscal Studies has previously used ONS data to produce similar [analysis of spending by different income groups][7].\n\nMeanwhile, the ONS has used similar principles (removing unavailable items) to create [experimental series measuring price changes during the lockdown][8].\n\n<a href=\"#backtotop\">Back to the top</a>\n\n\n  [1]: http://www.ons.gov.uk/visualisations/dvc824a/datadownload/household_spending.xls\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2018tomarch2019\n  [3]: https://www.gov.uk/coronavirus\n  [4]: https://www.gov.scot/coronavirus-covid-19/\n  [5]: https://gov.wales/coronavirus\n  [6]: https://www.nidirect.gov.uk/campaigns/coronavirus-covid-19\n  [7]: https://www.ifs.org.uk/publications/14795\n  [8]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/priceseconomicanalysisquarterly/may2020"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/morethanonefifthofusualhouseholdspendinghasbeenlargelypreventedduringlockdown/2020-06-11",
+  "description": {
+    "title": "More than one-fifth of usual household spending has been largely prevented during lockdown",
+    "keywords": [
+      "coronavirus",
+      "COVID-19",
+      "lockdown",
+      "spending",
+      "essential"
+    ],
+    "metaDescription": "Young people and those renting may find it difficult to cut back on spending because they spend a lower proportion of their budget on goods and services that are not essential.  ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-06-10T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Young people and those renting may find it difficult to cut back on spending because they spend a lower proportion of their budget on goods and services that are not essential.  ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

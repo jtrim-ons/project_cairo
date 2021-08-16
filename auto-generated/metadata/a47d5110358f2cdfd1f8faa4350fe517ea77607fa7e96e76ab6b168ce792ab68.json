@@ -1,0 +1,83 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14/7cfc604c.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"right\">\n<p><h5 id=\"toc\">Explore access to green space in your neighbourhood</h5> \n<ul> \n<li><a href=\"#gardens\">Gardens</a></li> \n<li><a href=\"#parks\">Parks and playing fields</a></li> \n</ul> \n</p>\n</ons-box>\n\nOne in eight households (12%) in Great Britain has no access to a private or shared garden during the coronavirus (COVID-19) lockdown, according to our analysis of Ordnance Survey (OS) map data.\n\nThis rises to more than one in five households in London (21%), easily the highest percentage of any region or country of Great Britain. The next highest is Scotland, at 13%.\n\nIn England, Black people are nearly four times as likely as White people to have no access to outdoor space at home, whether it be a private or shared garden, a patio or a balcony (37% compared with 10%). This is according to survey data from Natural England.\n\n[We have published further analysis of disparity between ethnic groups][1]. Even when we compare people of similar age, social grade and living situation (similar area, with or without children), those of Black ethnicity are 2.4 times less likely than those of White ethnicity to have a private garden. \n\nAccess to public parks is more evenly distributed, with people from minority ethnic groups almost as likely as White people to say their local greenspaces are “within easy walking distance” (86% compared with 88%). \n\n####People from minority ethnic groups are less likely to have access to a private garden\n#####Percentage of people with access to a private garden, by ethnic group, England, 2014 to 2019\n\n<ons-interactive url=\"/visualisations/dvc817/greenspace/index.html\" full-width=\"false\"/>\n\nPeople in semi-skilled and unskilled manual occupations, casual workers and those who are unemployed are almost three times as likely as those in managerial, administrative, professional occupations to be without a garden (20% compared with 7%).\n\nMeanwhile, older people – [at greater risk of severe illness from COVID-19 and advised to stay at home as much as possible][2] – are among those most likely to have access to a garden. Just 8% of people aged 65 years and over are without access to any kind of private outdoor space. \n\n<ons-box align=\"full\">\n\n###About the data\n\nWith most people staying at home to limit the spread of COVID-19, we have used a combination of data sources to look into how many people have access to a garden and how far they are from their nearest park.\n\nOrdnance Survey (OS) has provided us with data on access by geographic areas of Great Britain, as part of its [mapping for emergencies service][3].\n\nWe use [Natural England’s Monitor for Engagement in the Natural Environment (MENE) survey][4] to examine differences by personal characteristics (such as ethnicity, age and socio-economic group). The MENE survey covers England only.\n\n</ons-box>\n\n  [1]: http://www.ons.gov.uk/economy/environmentalaccounts/methodologies/accesstogardenspacesengland\n  [2]: https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing#clinically-vulnerable-people\n  [3]: https://www.ordnancesurvey.co.uk/about/covid-19/new-to-os\n  [4]: https://www.gov.uk/government/collections/monitor-of-engagement-with-the-natural-environment-survey-purpose-and-results"
+    },
+    {
+      "title": "Private gardens are smallest in London, largest in Scotland",
+      "markdown": "Gardens in London are 26% smaller than the national average and the smallest of any region or country in Great Britain. \n\nThe median garden size for a house in London is 140 square metres, just over half the size of a tennis court. This compares with 188 square metres across Great Britain and 226 square metres in Scotland (the largest).\n\nThere is wide variation by local authority, with gardens in Na h-Eileanan Siar in Scotland more than 45 times as big (on average) as in the City of London (a median of 727 square metres compared with 16 square metres).\n\n<h4 id=\"gardens\">Explore access to gardens (and their typical size) in your neighbourhood</h4>\n\n<ons-interactive url=\"/visualisations/dvc817/map/index.html\" full-width=\"true\" title=\"Map\"/>\n\n**Notes:**\n\n1. The data used to create this map do not allow individual people or households to be identified. Building groups are shaded to give a sense of the population density in an area.\n\n<a href=\"#toc\">Back to the top</a>\n"
+    },
+    {
+      "title": "Areas least likely to have a private garden are most likely to live close to a public park",
+      "markdown": "As well as gardens, our analysis looks at how far people have to travel to their nearest park or playing field.\n\nUsing Ordnance Survey (OS) data, we estimate that more than a quarter of people (28%) in Great Britain live within a five-minute walk (300m as the crow flies) of a public park, while 72% live fewer than 15 minutes away (900m).\n\nThis rises to 52% and 95% respectively when we include playing fields, although our data cannot distinguish public and private playing fields so some of these areas may not be publicly accessible.\n\nDespite being least likely to have access to a private garden, people living in London are most likely to have a park nearby. OS data show that 44% of Londoners live within a five-minute walk of a park, rising to 58% including playing fields. Both are the highest of any region or country in Great Britain.\n\n<ons-chart path=\"7ffa8e48\" />\n\nParks are most accessible in the poorest areas, with people in the most deprived neighbourhoods of England around twice as likely as those in the least deprived to be within five minutes’ walk of a public park (34% compared with 18%). Including playing fields, this rises to 57% compared with 42%.\n\nWe see similar trends in Wales and Scotland, with greater access among those living in more deprived areas.\n\nParks and playing fields could be seen as especially valuable to those without access to a private garden, but some have closed temporarily during the COVID-19 pandemic with people failing to maintain social distance from one another. \n\nThe average park in Great Britain serves just under 2,000 people, although some parks in densely populated areas cater for many more. Around 46,000 people have Clapham Common as their nearest park, more than 20 times the average.\n\nThe government has published [guidance for owners and operators of public spaces in England][1]. Up-to-date guidance on social distancing is available separately for people living in [England][2], [Scotland][3] and [Wales][4].\n\n<a id=parks></a>\n\n<ons-interactive url=\"/visualisations/dvc817/parks/index.html\" full-width=\"false\" title=\"Access to parks\"/>\n\n<a href=\"#toc\">Back to the top</a>\n\n\n  [1]: https://www.gov.uk/government/publications/coronavirus-covid-19-safer-public-places-urban-centres-and-green-spaces\n  [2]: https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing\n  [3]: https://www.gov.scot/publications/coronavirus-covid-19-staying-at-home-and-away-from-others/pages/overview/\n  [4]: https://gov.wales/staying-home-and-away-others-guidance"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "London has the highest percentage of its population within easy reach of a public park ",
+      "filename": "7ffa8e48",
+      "uri": "/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14/7ffa8e48"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "Access to garden spaces: England",
+      "uri": "https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/accesstogardenspacesengland"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14",
+  "description": {
+    "title": "One in eight British households has no garden",
+    "keywords": [
+      "gardens",
+      "parks",
+      "coronavirus",
+      "COVID-19",
+      "lockdown"
+    ],
+    "metaDescription": "The percentage of homes without a garden is higher among ethnic minorities, with Black people in England nearly four times as likely as White people to have no outdoor space at home.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "natural.capital.team@ons.gov.uk",
+      "name": "",
+      "telephone": "+44 (0)1633580051"
+    },
+    "releaseDate": "2020-05-13T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "The percentage of homes without a garden is higher among ethnic minorities, with Black people in England nearly four times as likely as White people to have no outdoor space at home.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": [
+    {
+      "uri": "/economy/environmentalaccounts"
+    }
+  ]
+}

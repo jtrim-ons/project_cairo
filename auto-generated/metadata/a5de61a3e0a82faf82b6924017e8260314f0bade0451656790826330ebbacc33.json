@@ -1,0 +1,81 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This article presents the evolution of key labour market measures in the UK from 1980 until 2014. It shows the changes in overall employment, unemployment and economic inactivity rates while also examining some of the reasons behind these changes.\n\nThis article is part of a [series of UK Perspectives][1] providing an overview of key aspects of the nation over the last three decades.\n##1. Employment rate at a record high^1^\n<ons-box align=\"full\">The employment rate is the proportion of people aged 16 to 64 in work. Anyone doing 1 hour or more a week of paid work is counted in the employment figures.</ons-box>\n\n####Employment rate for people aged 16 to 64, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart1/Labour_Chart1.html\" full-width=\"false\" title=\"Employment rate for people aged 16 to 64, UK, 1980 to 2014\"/>\n\n[Download the data.][2]\n\n73.2% of people aged 16 to 64 were estimated to be employed in October to December 2014. This is as high as it has been since comparable records began in 1971, although it previously reached the same level in December 2004 to February 2005. The latest rate is higher than it was prior to the 2008/2009 economic downturn.\n\nThe employment rate decreased during the three economic downturns of the early 1980s, early 1990s and late 2000s. This decrease was more pronounced in the early 1980s, when the employment rate fell to a low of 65.6% in March to May 1983. The lowest value recorded since the start of the 2008/2009 economic downturn was 70.1% from July to September 2011 to September to November 2011.\n##2. Employment rates have risen for people aged 25 and over \n####Employment rates for people aged 25 and over ^2^, UK, 1992 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart2/Labour_Chart2.html\" full-width=\"false\" title=\"Employment rates for people aged 25 and over ^2^, UK, 1992 to 2014\"/>\n\n[Download the data.][3]\n\nLooking at employment rates for all age groups 25 and over, the data show higher employment rates in 2014 compared with 1992. In particular, there has been a large increase in employment rates for both the 25 to 34 and the 50 to 64 age groups over the past two decades, while employment rates have also increased for those aged 65 and over.\n\nThe recent increase in employment rates for the 50 to 64 age group is partly due to the increase in the state pension age for women (from 60 to 65) being introduced gradually since 2010. However, the employment rate for this age group also rose between 1992 and 2010, prior to these changes.\n##... but not for those aged 16 to 24\nIn contrast to the older age groups, for young people aged 16 to 24 employment rates were lower in 2014 than in 1992. However, this is partly due to fewer young people seeking work due to increasing participation in full-time education. For example, the share of those aged 16 to 17 in full-time education rose from 62.6% in 1992 to 87.6% in 2014 ^3^ .\n\n####Employment rates for people aged 16 to 24 not in full-time education, UK, 1992 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart3/Labour_Chart3.html\" full-width=\"false\" title=\"Employment rates for people aged 16 to 24 not in full-time education, UK, 1992 to 2014\"/>\n\n[Download the data.][5]\n\nTherefore, in the chart above, employment rates for these age groups are shown only for those young people not in full-time education. The data show that for the 18 to 24 age group, employment rates are at similar level to the early 1990s while for the 16 to 17 age group, the employment rate has fallen.\n##3. The gap in the employment rate of men and women has narrowed\n####Employment rates for men and women aged 16 to 64, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart4/Labour_Chart4.html\" full-width=\"false\" title=\"Employment rates for men and women aged 16 to 64, UK, 1980 to 2014\"/>\n\n[Download the data.][6]\n\nHistorically the employment rate for men has been higher than the employment rate for women but this gap has narrowed considerably since 1980.\n\nThe employment rate for women has been rising steadily over time. The current rate and level of female employment are the highest since comparable records began in 1971. In October to December 2014, the employment rate for women was 68.5%, up from 56.9% in December to February 1980. In contrast, male employment rates remain below their 1980 level.\n##4. The unemployment rate stands at 5.7%\n<ons-box align=\"full\">The unemployment rate is the proportion of the economically active population who are unemployed. The economically active population is defined as all people aged 16 and over who are either in employment or unemployed. The unemployed are defined as people without a job who have been actively seeking work within the last four weeks and are available to start work within the next two weeks, and people waiting to start a new job.</ons-box>\n\n####Unemployment rate for people aged 16 and over, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart5/Labour_Chart5.html\" full-width=\"false\" title=\"Unemployment rate for people aged 16 and over, UK, 1980 to 2014\"/>\n\n[Download the data.][7]\n\nIn October to December 2014, the unemployment rate for people aged 16 and over was 5.7%, continuing its downward trend since October to December 2011. However, the current rate is still higher than its pre-2008 downturn rate of 5.2% for late 2007/early 2008.\n\nThe highest unemployment peaks observed in the UK correspond to the economic recessions in the early 1980s (11.9% in March to May 1984) and early 1990s (10.7% in December 1992 to February 1993).\n##5. Changes in the share of  unemployed classed as long-term unemployed\n####The long-term unemployed^4^, as a share of all the unemployed aged 16 and over, UK, 1992 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart6/Labour_Chart6.html\" full-width=\"false\" title=\"The long-term unemployed^4^,Â� as a share of all the unemployed aged 16 and over, UK, 1992 to 2014\"/>\n\n[Download the data.][8]\n\nIn October to December 2014, 34.3% of the total unemployed were classed as “long-term unemployed” (meaning they had been out of work but looking for work for over 12 months). This share peaked in the early 1990s, when, in February to April 1994, 44.7% of the total unemployed were classed as long-term unemployed. The lowest share recorded was 19.4% in June to August 2004 but it has subsequently increased, mainly because of the late 2000s downturn.\n\nThe flatness of the curve in the past couple of years is the result of long term-unemployment falling at around the same pace as overall unemployment.\n##6. The economic inactivity rate of women has fallen\n<ons-box align=\"full\">The economic inactivity is measured as the proportion of people aged 16 to 64 not in work who have not been seeking work within the last four weeks and/or are not available to start work within the next two weeks.</ons-box>\n\n####Economic inactivity rate for people aged 16 to 64, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart7/Labour_Chart7.html\" full-width=\"false\" title=\"Economic inactivity rate for people aged 16 to 64, UK, 1980 to 2014\"/>\n\n[Download the data.][9]\n\nThe economic inactivity rate tells us about the share of the population aged 16 to 64 who are not in work and not seeking/available to work. There are many reasons for economic inactivity such as study, looking after the family or home, sickness/disability or not needing to work.\n\nThe overall economic inactivity rate for October to December 2014 was 22.3%, close to the lowest on record (which was 21.7% during periods of 1989 and 1990).\n\nThe economic inactivity rate increased during the three economic downturns between 1980 and 2014. However, the latest increase in the late 2000s was very small; furthermore, there was no rise if we exclude full-time students.\n\nThe reasons for being economically inactive have evolved over the past decade. Factors that have influenced both male and female inactivity rates include an increase in inactivity due to full-time study and a decline in inactivity due to long-term sickness.\n\nOther factors have been more gender specific and these have led to the sharp narrowing of the gap between male and female inactivity rates. Since 2010, the decline in female inactivity rates has been influenced by increases in the state pension age. However, the main reason for the decline in female inactivity rates over the longer period has been a decline in the share of women staying out of work to look after the family or home.\n\n####Shares of men and women aged 16 to 64 who are economically inactive due to looking after the family or home, UK, 1993 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Labour_Chart8/Labour_Chart8.html\" full-width=\"false\" title=\"Shares of men and women aged 16 to 64 who are economically inactive due to looking after the family or home, UK, 1993 to 2014\"/>\n\n[Download the data.][10]\n\nThe share of women who are economically inactive due to looking after the family or home has gone down from 15.9% in March to May 1993 to 10.1% in October to December 2014. This change has not been compensated by an equivalent increase in the share of men looking after the family or home.\n##Conclusion\nThe most recent economic downturn had less of an effect on overall employment and unemployment rates when compared with the downturns of the early 1980s and 1990s. Meanwhile, a key feature of the labour market since 1980 has been the continued increase in the employment rate and economic activity rate of women.\n\n\n\n\n\n\n  [1]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/\n  [2]: https://static.ons.gov.uk/visual/2015/02/Fig-1-employment-rate.csv\n  [3]: https://static.ons.gov.uk/visual/2015/02/Fig-2-employment-rates-for-people-aged-25-and-over.csv\n  [4]: http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-350752\n  [5]: https://static.ons.gov.uk/visual/2015/02/Fig-3-employment-rates-for-people-aged-16-to-24-not-in-full-time-education.csv\n  [6]: https://static.ons.gov.uk/visual/2015/02/Fig-4-employment-rates-for-men-and-women.csv\n  [7]: https://static.ons.gov.uk/visual/2015/02/Fig-5-unemployment-rate.csv\n  [8]: https://static.ons.gov.uk/visual/2015/02/Fig-6-long-term-unemployed.csv\n  [9]: https://static.ons.gov.uk/visual/2015/02/Fig-7-economic-inactivity-rate.csv\n  [10]: https://static.ons.gov.uk/visual/2015/02/Fig-8-economic-inactivity-due-to-looking-after-family-or-home.csv\n  [11]: mailto:better.info@ons.gov.uk\n\n\n###Footnotes:\n1. The term 'record' refers to the full period for which data exist, 1971 until now.\n2. The employment rates by age group are the proportion of people in a particular age group that are in work; for example, the employment rate of people aged 25 to 34 is calculated dividing the total number of people aged 25 to 34 that are in work by the total number of people aged 25 to 34.\n3. These figures are taken from the [Labour Market Bulletin, February 2015, Table 14][4].\n4. Defined as those unemployed for over 12 months as a share of all the unemployed aged 16 and over."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Labour Market Statistics, February 2015",
+      "uri": "http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/february-2015/index.html"
+    },
+    {
+      "title": "A guide to labour market statuses",
+      "uri": "http://www.ons.gov.uk/ons/rel/lms/labour-market-guidance/interpreting-labour-market-statistics/interpreting-lm-statistics.html#tab-Labour-Market-Statuses"
+    },
+    {
+      "title": "A guide to labour market statistics",
+      "uri": "http://www.ons.gov.uk/ons/rel/lms/labour-market-guidance/guide-to-labour-market-statistics/guide-to-lm-statistics.html"
+    },
+    {
+      "title": "Women in the labour market, 2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/lmac/women-in-the-labour-market/2013/rpt---women-in-the-labour-market.html#tab-Women-in-the-labour-market"
+    },
+    {
+      "title": "Older workers in the labour market, 2012",
+      "uri": "http://www.ons.gov.uk/ons/rel/lmac/older-workers-in-the-labour-market/2012/older-workers-in-the-labour-market.html#tab-Number-working-beyond-State-Pension-Age-doubles-over-past-two-decades"
+    },
+    {
+      "title": "Graduates in the labour market, 2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/lmac/graduates-in-the-labour-market/2013/rpt---graduates-in-the-uk-labour-market-2013.html#tab-Graduates-in-the-UK-labour-market-2013"
+    },
+    {
+      "title": "Personal and Household Finances",
+      "uri": "https://visual.ons.gov.uk/uk-perspectives-personal-and-household-finances-in-the-uk/"
+    },
+    {
+      "title": "Self-employed workers, 2014",
+      "uri": "http://www.ons.gov.uk/ons/rel/lmac/self-employed-workers-in-the-uk/2014/sty-self-employed.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/articles/anoverviewoftheuklabourmarket/2015-02-27",
+  "description": {
+    "title": "An overview of the UK labour market",
+    "keywords": [
+      "Employment and labour market",
+      "Labour market",
+      "UK perspectives"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-02-27T09:29:45.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}
