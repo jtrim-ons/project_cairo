@@ -3,7 +3,7 @@ name: Scrape metadata
 on: push
 
 jobs:
-  scheduled:
+  scrape-metadata:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
