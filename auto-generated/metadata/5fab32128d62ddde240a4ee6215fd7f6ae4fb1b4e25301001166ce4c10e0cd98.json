@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "[<img src=\"https://static.ons.gov.uk/visual/2016/01/oil.jpg\"/>][1]\n###The price we are paying for fuel is falling\nThe price of diesel has dropped below £1 a litre at supermarket forecourts – [reportedly][2] for the first time since 2009.\n\nThe cut at Asda, Tesco, Sainsbury's and Morrisons forecourts mirrors a similar decline in the cost of petrol in December. Motoring organisation the [RAC][3] predicts that it may fall to as little as 90 pence per litre.\n\nThere is [speculation][4] that oil might drop to as low as $10 a barrel; the last time it sold at this price was in 1998.\n\nBut what’s behind the drop and is the price of fuel likely to go any lower?\n###The price of oil\nThe extent to which retailers can discount the price of fuel is dictated by a number of factors. The supply of new sources of oil and world events can have an effect, but market forces play a dominant role in how much customers pay.\n\nThe cost of Brent Crude, a classification of oil extracted from the North Sea,  is a benchmark that serves as a reference price for buyers and sellers of all types of crude oil.\n\nThe cost of a barrel of crude oil has dropped from $65 in December 2015 to $28 a barrel last Monday (January 18), the lowest price since April 2004.\n\nIn December 2014, the average price of a litre of petrol was £1.20, but by December 2015 it had dropped to £1.04 per litre, according to the[ Consumer Price Index (CPI).][5]\n\nThe cost of diesel has gone from £1.25 per litre to £1.08 in the same period.\n\nWhile this price fluctuation can result in fuel prices being slashed on the forecourts, the recent price drop can be partially attributed to a glut of crude oil on the world market.\n\nSince January 2015, crude oil prices, as measured by the [Producer Price Index][6], have been falling at a much higher rate than those of petrol and diesel. Although prices of petrol and diesel have been dropping since the end of 2013, there has been a much faster decline since last January.\n\n####The annual percentage change in the price of crude oil and fuel\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc309/chart1/index.html\" full-width=\"false\" title=\"The annual percentage change in the price of crude oil and fuel\"/>[Download the data][7]\n###Supply\nOPEC (Organisation of the Petroleum Exporting Countries) [announced in December 2015][8] that it would maintain current oil production levels, despite the fall in the cost of a barrel of Brent Crude.\n\nThe protection of its market share in the face of competition from US shale oil and a slowdown in demand was [reportedly][9] behind the decision.\n\nThe low price of oil is thought to be having an impact on the US shale oil industry, which has seen the recent closure of a number of drilling wells.\n\nThe US Energy Information Administration predicted that total domestic shale-oil production will fall by 116,000 barrels a day to 4.9 million a day in January 2016.\n\nFigures from oil-field service firm Baker Hughes,which counts the number of drilling rigs actively exploring or developing oil or natural gas in the US, show that there were 1,872 land rigs in November 2014.\n\n[By January 2016, there were 650.][10]\n\nThere have also been [reports][11] in the media speculating on what the impact the end of Western sanctions against Iran will have on the global market.\n###The cost of a litre of fuel – where the money goes\nThe price of fuel can be divided into three sections the cost of the fuel itself (which is made up of the wholesale price, the cost of distributing the fuel and fuel companies’ profit margins); fuel duty (which is charged at a fixed rate of 57.95 pence per litre); and VAT. VAT is charged at 20% of the wholesale price plus the duty, which equates to 16.7% of the final price.\n\nUnder normal market conditions, only a fraction of the cost of a litre of petrol ends up in the coffers of fuel retailers. For petrol, at its current average price of £1.04 per litre, just over 72% of the price will go to the exchequer in fuel duty and in Value Added Tax (VAT), leaving only around 28% of ‘wriggle room’ for cutting the price to consumers when the price of crude oil falls.\n\n####Petrol prices explained\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc309/chart2/index.html\" full-width=\"false\" title=\"Petrol prices explained\"/>[Download the data][12]\n\nSince fuel duty is charged at a fixed price per litre, the lower the cost of fuel per litre, the smaller percentage of profit for the retailer and supplier. So, if petrol cost 80 pence per litre, duty and VAT would represent 89% of the cost with less than 9 pence (11%) going to the retailer.\n\nEven if fuel were given away for free, someone would still have to foot the cost at the pumps of 70 pence per litre; liable in fuel duty and VAT.\n\nPerhaps unsurprisingly, the plunging cost price of oil and the corresponding cut in the price in the pump has impacted our purchasing behaviour: in 2015 the amount of fuel we bought at the pump increased by 7.6% on the previous year, according to the  [Office for National Statistics', Monthly Business Survey (Retail Sales Inquiry)][13].\n\nFor more information, please contact: [ppi@ons.gov.uk][14]\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/01/oil.jpg\n  [2]: http://www.theguardian.com/business/2016/jan/22/asda-cuts-diesel-price-97-7-litre\n  [3]: https://www.rac.co.uk/\n  [4]: http://www.telegraph.co.uk/finance/economics/12098469/Oil-price-crash-means-petrol-could-become-cheaper-than-bottled-water.html\n  [5]: http://www.ons.gov.uk/ons/rel/cpi/consumer-price-indices/december-2015/index.html\n  [6]: http://www.ons.gov.uk/ons/rel/ppi2/producer-price-index/december-2015/index.html\n  [7]: https://static.ons.gov.uk/visual/2016/01/PPI_Crude_Oil-CPI_Fuels_and_lubricants.csv\n  [8]: http://www.ft.com/cms/s/0/2ecbbace-70c5-11e5-9b9e-690fdae72044.html#axzz3wSgZ1IIW\n  [9]: http://www.ft.com/cms/s/0/716c6f0c-5ad3-11e5-a28b-50226830d644.html#axzz3wSgZ1IIW\n  [10]: http://phx.corporate-ir.net/phoenix.zhtml?c=79687&p=irol-rigcountsoverview\n  [11]: http://www.telegraph.co.uk/finance/newsbysector/energy/oilandgas/11502772/Iran-nuclear-deal-to-see-20-oil-if-Tehran-floods-crude-market.html\n  [12]: https://static.ons.gov.uk/visual/2016/01/Petrol-prices-explained.csv\n  [13]: http://www.ons.gov.uk/ons/rel/rsi/retail-sales/december-2015/index.html\n  [14]: mailto:ppi@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Petrol Prices – Are consumers getting a fair deal?",
+      "uri": "http://www.ons.gov.uk/ons/rel/ppi2/producer-price-index/july-2015/sty-ppi-petrol-prices.html"
+    },
+    {
+      "title": "Producer Price Index - All editions",
+      "uri": "http://www.ons.gov.uk/ons/rel/ppi2/producer-price-index/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/inflationandpriceindices/articles/fuelpricesexplainedabreakdownofthecostofpetrolanddiesel/2016-01-22",
+  "description": {
+    "title": "Fuel prices explained: A breakdown of the cost of petrol and diesel",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-01-22T12:54:11.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,90 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationsincethebrexitvotewhatschangedinsixcharts/2017-11-30/1044ac19.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "We now have migration statistics for the first full year since the UK voted to leave the EU. These figures refer to people arriving or leaving the UK for 12 months or more.\n\nHere’s what we know so far.\n\n###There’s been a fall in net migration, after a recent peak\n\nIn the year to June 2017, there were 230,000 more people coming to live in the UK than leaving the UK to live abroad – this is “net migration”. When net migration is above zero, as it has been continually since 1994, migration is adding to the UK population.\n\nNet migration is 106,000 lower than it was the year before: this is the largest fall in any 12-month period since records began in 1964 and represents a reduction of around a third. But it’s important to note that this fall was from a very high net migration figure of 336,000 in the year to June 2016.\n\nNet migration had been increasing since 2012; the recent fall sees net migration returning to the level we saw in 2014. This level of net migration is not unusual as we have seen net migration vary between 140,000 and 336,000 over the last 20 years.\n\n####UK net migration, years ending December 2007 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/netm/index.html\" full-width=\"false\" title=\"UK net migration, years ending December 2007 to June 2017\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/netmigration.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Most of the fall in net migration is because of EU citizens\nOver three-quarters of the fall in net migration was due to EU citizens. But more EU citizens are still coming to the UK than leaving, showing EU net migration is adding to the UK population.\n\nThe largest falls were from citizens of western EU countries (the EU15 group, for example France, Germany and Spain) and central and eastern Europe countries (the EU8 group, for example Poland).\n\nSome of this change might be because of economic changes across the EU, for example improved job opportunities and the fall in the value of the pound.\n\nMeanwhile, there’s been a small decrease in net migration of non-EU citizens and net migration of British citizens hasn’t changed – more British people still leave the UK than come or return to live here from abroad.\n\n####UK net migration by citizenship, years ending December 2007 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/netmigration_cob/index.html\" full-width=\"false\" title=\"UK net migration by citizenship, years ending December 2007 to June 2017\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/netmigration_by_cob.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Fewer people are coming to live in the UK…\n572,000 people came to live in the UK in the year to June 2017: that’s 80,000 fewer people than in the previous year.\n\nThis reduction is high, but it’s from a starting point of 652,000 in the year to June 2016, which was the highest figure on record.\n\nIt was driven by falls both in the numbers of EU citizens (down 19% on the previous year) as well as non-EU citizens (down 10%) coming to the UK.\n\n####Immigration to the UK by citizenship, years ending December 2007 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/immigration/index.html\" full-width=\"false\" title=\"Immigration to the UK by citizenship, years ending December 2007 to June 2017\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/immigration.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###…and more EU citizens are leaving\nThe largest change in the number of people leaving the UK was from EU citizens, increasing by 29% to 123,000.\n\nOf these EU citizens leaving the UK, 43,000 said that their main reason for leaving the UK was to return home, rather than because of work or for other reasons. This is an increase of 54% from the previous year. Recently the number of EU citizens leaving the UK has almost reached the higher level seen during the 2008 recession.\n\nThe number of British and non-EU citizens leaving the UK has remained stable over the past year.\n\n####Emigration from the UK by citizenship, year ending December 2007 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/emmigraton_cob/index.html\" full-width=\"false\" title=\"Emigration from the UK by citizenship, year ending December 2007 to June 2017\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/emmigration_by_cob.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Fewer EU citizens are coming to the UK to look for work\n\nOf the EU citizens coming to the UK for work reasons, a greater percentage were likely to have a definite job than those arriving in previous years.\n\nThe number coming to look for work has more than halved in the year to June 2017, while the number of EU citizens arriving for a definite job has remained similar.\n\nThe majority of the decrease in EU citizens looking for work was due to western EU citizens (the EU15 group) and central and eastern Europe citizens (the EU8).\n\n####EU citizens coming to the UK for work reasons, years ending December 2007 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/reasons/index.html\" full-width=\"false\" title=\"EU citizens coming to the UK for work reasons, years ending December 2007 to June 2017\"/>\n\n[Download the data][1]\n\nOverseas nationals require a National Insurance number to work or claim benefits in the UK. The number of EU nationals registering for a National Insurance number over the last year has decreased by 13%, showing a similar recent pattern to the migration statistics.\n\nDespite these decreases, EU net migration is still positive (as it has been since the 1990s), so you may expect the number of EU nationals employed in the UK to continue to rise. In July to September 2017, there were 2.38 million EU nationals employed in the UK, up 112,000 on the same period the previous year.\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/immigration_reason.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###More EU citizens are applying to become British citizens\nIn the year to June 2017, nearly 28,500 EU nationals applied to become British citizens, up 80% compared with the previous year. EU nationals need to be living in the UK for a minimum period before they can be granted UK citizenship, so are likely to have been longer-term residents rather than recent arrivals.\n\nApplications from non-EU nationals to become British citizens have fallen by 44% since 2010, probably because of the recent reduction in non-EU nationals settling in the UK as well as changes to eligibility.\n\n####Applications for British citizenship by nationality, years ending June 2008 to June 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc466/applications/index.html\" full-width=\"false\" title=\"Applications for British citizenship by nationality, years ending June 2008 to June 2017\"/>\n\n[Download the data][1]\n\nIn the year to June 2017, the Home Office issued a record number (145,400) of permanent residence documents and cards to people from the European Economic Area (EEA) and their families1. This was more than five times the figure for the previous year (27,200).\n\nThis is likely to be because of more people wanting to obtain confirmation of their rights following the referendum result; there were also some rule changes in the second half of 2015.\n\nFor the bigger picture on international migration, our [interactive timeline][2] provides further historical trends from 1964 for long-term international migration to and from the UK.\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/11/CitizenshipApplications.csv\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/november2017#further-characteristics-of-long-term-international-migrants\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/november2017"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "London had the smallest gender pay gap 20 years ago, but now it has the largest",
+      "uri": "https://visual.ons.gov.uk/gender-pay-gap-changes-twenty-years/"
+    },
+    {
+      "title": "The UK contribution to the EU budget",
+      "uri": "https://visual.ons.gov.uk/the-uk-contribution-to-the-eu-budget/"
+    },
+    {
+      "title": "You draw the charts: 60 years of change",
+      "uri": "https://visual.ons.gov.uk/60-years-of-change-bbc-today/"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationsincethebrexitvotewhatschangedinsixcharts/2017-11-30",
+  "description": {
+    "title": "Migration since the Brexit vote: what's changed in six charts",
+    "keywords": [
+      "Migration",
+      "Brexit",
+      "Immigration"
+    ],
+    "metaDescription": "ONS migration statistics for the first full year since the UK voted to leave the EU. These figures refer to people arriving or leaving the UK for 12 months or more. What's changed in six charts?",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-11-30T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "With a full year of migration statistics since the UK voted to leave the EU, what do we know so far?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

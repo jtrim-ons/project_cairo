@@ -1,0 +1,48 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "We’ve used ONS data on [property prices per square metre in England and Wales][1] to help you find out what extra floor space could be worth in your area.\n\n\nThe value of an extension will depend on many things that we haven’t allowed for here, like the quality of construction, what type of room it is, and the exact location of the property within your local authority. This calculator uses average values for houses across local authority areas.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc434/calculator/index.html\" full-width=\"false\"/>\n\n[Download the data][2]\n\n\n\n\n\nOther Visual.ONS articles:\n\n[How do the jobs men and women do affect the gender pay gap?][3]\n\n[Migration levels: What do you know about your area?][4]\n\n[How likely are you to become a victim of crime?][5]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][6] to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n\n\n  [1]: https://www.ons.gov.uk/releases/housepricepersquaremeterandhousepriceperroomenglandandwales2004to2016\n  [2]: http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationlevelswhatdoyouknowaboutyourarea/2017-08-24\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/peoplegreatlyoverestimatetheirlikelihoodofbeingrobbed/2017-09-07\n  [6]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/willanextensionincreasethevalueofmyhouse/2017-10-11",
+  "description": {
+    "title": "Will an extension increase the value of my house?",
+    "keywords": [
+      "Economy",
+      "Housing",
+      "Housing Market"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-10-11T08:30:03.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

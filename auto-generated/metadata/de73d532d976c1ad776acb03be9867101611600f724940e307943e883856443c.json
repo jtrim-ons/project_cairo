@@ -1,0 +1,63 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This infographic illustrates data on religion from the [2011 Census][1] to provide a picture of the various faiths across England and Wales.\n\n<img src=\"https://static.ons.gov.uk/visual/2015/01/Religion-Infographic-768px-V2.png\"/>\n\n\n[Download the data for this infographic.][2]\n\n\n\n  [1]: www.ons.gov.uk/ons/guide-method/census/2011/index.html\n  [2]: https://static.ons.gov.uk/visual/2015/01/relig_infog_data.csv\n  [3]: mailto:equalitiesandwellbeing@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [
+    {
+      "title": "image1",
+      "filename": "da743ae8",
+      "uri": "/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/whatisyourreligion/2015-01-15/da743ae8"
+    }
+  ],
+  "equations": [],
+  "links": [
+    {
+      "title": "2011 Census data on religion by age, ethnicity and country of birth",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census/detailed-characteristics-for-local-authorities-in-england-and-wales/rpt---religion.html"
+    },
+    {
+      "title": "Religion in England and Wales 2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rpt-religion.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/whatisyourreligion/2015-01-15",
+  "description": {
+    "title": "What is your religion?",
+    "keywords": [
+      "People,population and community",
+      "2011 Census",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-01-15T08:14:43.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

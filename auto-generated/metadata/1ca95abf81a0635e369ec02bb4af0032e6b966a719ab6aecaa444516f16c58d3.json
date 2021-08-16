@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The 20 somethings of today - the generation that grew up through the 90s and 00s - have faced a different adult world to the generations that came before them.\n\nBut how does the household income of today’s 20 something breadwinners, compare with the past?\n\n####Average annual household disposable income, by age of breadwinner, UK, 1986 to 2014/15 (adjusted for inflation)^1^\n\n<ons-interactive url=\"/visualisations/dvc370a/chart1/index.html\" full-width=\"false\" title=\"Average annual household disposable income, by age of breadwinner, UK, 1986 to 2014/15 (adjusted for inflation)^1^\"/>\n\n[Download the data.][1]\n\nWhile incomes have risen for households with breadwinners from all age groups since 1986, the growth for the households with breadwinners in their 20s has been slower, and they were more badly hit by the economic downturn.\n\nFurthermore, incomes for households with a breadwinner in their 20s were also slower to recover from the economic downturn, resulting in a widening gap between the incomes of households with a 20 something breadwinner and those with one in their 30s.\n\nThe chart also shows that in 1986, households with breadwinners in their 20s had higher household incomes than those with a breadwinner aged 60 or over. But this has now changed – households with a breadwinner aged 60 or over are actually the ones with the highest income these days.\n\nHowever, households with breadwinners in their 20s are technically better off (materially speaking) now than back in the mid-80s. If we apply 2015 prices to 1986, a household with a 20 something breadwinner back then was living on £17,029 whereas these days they live on £25,378.\n\nBut when we consider how today's young breadwinners are doing, we must also consider the following:\n\n###1. Housing costs: \n\nThe figures here, while accounting for inflation, do not include [housing costs][2]. This is important as these have risen greatly over this period - often much above the rate of inflation.\n\n###2. More young people are living at home:\n\nA household with a 20 something breadwinner is a rarer thing these days than in the past as there has been an increase in the number of people aged 20 to 34 living with their parents.\n\n####Number of young adults aged 20 to 34 living with their parents, UK, 1996 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc315/chart1/line_chart/index.html\" full-width=\"false\" title=\"Number of young adults aged 20 to 34 living with their parents, UK, 1996 to 2015\"/>\n\n[Download the data][3].\n\n\n\nOther Visual.ONS articles:\n\n[How has the student population changed?][4]\n\n[What's the best time for a wedding?][5]\n\n[Five facts about...housing][6]\n\n\n\nFor more information, please contact: <hie@ons.gov.uk>\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/10/incomes-new.csv\n  [2]: https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-july-2016\n  [3]: http://neighbourhood.statistics.gov.uk/HTMLDocs/dvc315/chart1/line_chart/data.csv\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howhasthestudentpopulationchanged/2016-09-20\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/articles/whatsthebesttimeforawedding/2016-08-26\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/fivefactsabouthousing/2016-08-17\n\n\n\n####Footnotes:\n1. The average used in this analysis is the median. Disposable income is after direct taxes (such as Income Tax) and National Insurance, but before housing costs. Disposable income is equivalised to account for households of different size. The household breadwinner is the Chief Economic Supporter of the household who contributes most to household income. Only non-retired households are included here - these are households where the combined income of non-retired members amounts to more than half the total gross income of the household. 2014/15 means financial year ending March 2015 and the data is adjusted for inflation based on March 2015 National Accounts data."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Data behind this article",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/adhocs/006210medianequivaliseddisposableincomenonretiredhouseholdsbyageofchiefeconomicsupporter1986tofinancialyearending2015"
+    },
+    {
+      "title": "The Economic Circumstances of Different Generations: The Latest Picture",
+      "uri": "https://www.ifs.org.uk/uploads/publications/bns/bn187.pdf"
+    },
+    {
+      "title": "Britain's Wealth Gap: Channel 4 Dispatches",
+      "uri": "http://www.channel4.com/programmes/dispatches/"
+    },
+    {
+      "title": "The effects of taxes and benefits on household income: financial year ending 2015",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/financialyearending2015"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/breadwinnersintheir20showaretheydoingcomparedwithpreviousgenerations/2016-10-11",
+  "description": {
+    "title": "Breadwinners in their 20s - how are they doing compared with previous generations?",
+    "keywords": [
+      "People, population and community",
+      "Household income",
+      "Young people",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-10-11T08:15:33.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

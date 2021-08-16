@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/4e28d959.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "A generation of people born in the 1960s and 1970s, known as Generation X, are dying from suicide or drug poisoning in greater numbers.\n\nONS data for England and Wales has shown that in the late 1980s to early 1990s, the age at which most people died by taking their own lives or drug poisoning was concentrated around this generation, when they were in their 20s. \n\nSince that time, deaths from these two causes have continued to affect the same generation, who are currently in their 40s and 50s to a higher degree than any other.  \n\nThis effect has also been seen in the [USA][1] and [Canada][2].\n\n<h4>The age at which most people died from drug poisonings has increased over time</h4>\n\n<h5>Number of drug poisonings by single year of age, England and Wales, deaths registered between 1993 and 2017</h5>\n\n<ons-interactive url=\"/visualisations/dvc661/drugs/index.html\" full-width=\"false\" title=\"The age at which most people died from drug poisonings has increased over time\"/>\n\n<h6>Notes:</h6>\n<ol>\n<li>Figures are based on the National Statistics definition of drug-related deaths with the cause of death being defined by the International Classification of Diseases, Ninth Revision (ICD-9) for the years 1993 to 2000 and Tenth Revision (ICD-10) from 2001 onwards. More details can be found in the <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/deathsrelatedtodrugpoisoninginenglandandwalesqmi\">Quality and Methodology Information report</a></li>\n<li>Figures are for deaths registered, rather than for deaths occurring in each calendar year.</li>\n<li>Figures for England and Wales include deaths of non-residents.</li>\n<li>Findings are similar when looking at age-specific rates, which account for the size of the population.</li>\n</ol>\n\n[download the data][3]\n\nMost recently, it was largely those in their 40s who were dying from drug poisonings. One possible explanation could be that this generation has a higher proportion of long-term heroin users with failing health and are therefore at greater risk of poisoning, according to [Public Health England][4].\n\nThere was an [upturn in the use of hard drugs such as heroin][5] (opioids) by a generation of young people in the 1980s and 1990s. As users age, the long-term consequences of prolonged drug-taking tend to be more pronounced as the body loses resilience and users start dying. Opioids contributed to [53% of drug poisoning deaths][6] in England and Wales, in 2017. \n\nIn its [blog, Public Health England][7] said: “40-49 year olds have the highest rate of drug misuse deaths but rates have fallen in all age groups except the very oldest (50-69 and 70+), perhaps further supporting the idea of an ageing cohort at greatest risk of overdose [poisoning] death.”\n\nA similar age pattern can be seen for deaths caused by suicide. In 2017, 49 was the age at which most people died by suicide, whereas back in 1993 this age was 22. \n\n####The age at which most people are dying by suicide has increased over time \n#####Number of suicides by single year of age, England and Wales, deaths registered between 1981 and 2017\n\n<ons-interactive url=\"/visualisations/dvc661/suicides/index.html\" full-width=\"false\" title=\"The age at which most people are dying by suicide has increased over time\"/>\n\n\n1. Figures are based on the National Statistics definition of suicide with the cause of death being defined by the International Classification of Diseases, Ninth Revision (ICD-9) for the year 1981 to 2000 and Tenth Revision (ICD-10) from 2001 onwards. More details can be found in the <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/suicideratesintheukqmi\">Quality and Methodology Information report.</a></li>\n2. Drug-related deaths that are classified as self-poisoning (either intentional and undetermined intent) are also included in these figures.\n3. Figures are for deaths registered, rather than for deaths occurring in each calendar year.\n4. Figures for England and Wales include deaths of non-residents.\n5. Findings are similar when looking at age-specific rates, which account for the size of the population.\n\n[download the data][8]\n\nThis apparent generational shift in suicides can be seen to begin in the late 1980s.\n\nIn the early 1980s, people in their 50s and 60s died by suicide in higher numbers than those in other age groups. By the late 1980s and early 1990s, most suicides occurred among people in their 20s, and in recent years, among those in their 40s and 50s. \n\n###Deprivation\n\nPrevious research has shown that financial instability and poverty can increase suicide risk. Changes in male suicide rates in Europe from 1981 to 2011 have previously been linked to [unemployment and indebtedness][9], with some studies showing  [suicide rates to be almost four times higher among the long-term unemployed.][10] Similar risk factors have also been [identified for drug poisoning deaths.][11]\n\n<ons-chart path=\"b8ff78af\" />\n\nFor some age groups in England, suicide rates were as much as double or more in the most deprived neighbourhoods, compared to the most affluent.\n\nThe difference in the rates at which the most and least deprived people died by suicide was most evident in the 40s and 50s age groups, but with drug deaths this difference was much larger.\n\nWith drug deaths, we see relatively few people affected in the least deprived areas, whereas the most deprived saw many times these numbers of deaths, especially in the middle-age groups. \n\n\n<ons-chart path=\"b409bf05\" />\n\n\n###Where to go for help\nIf you are struggling to cope, please call Samaritans free on 116 123 (UK and Ireland), email [jo@samaritans.org][12], or visit the [Samaritans website][13] to find details of the nearest branch. Samaritans is available round the clock, every single day of the year, providing a safe place for anyone struggling to cope, whoever they are, however they feel, whatever life has done to them.\n\n###Quote published in relation to this article\n\nA quote from Ben Humberstone, Deputy Director for Health Analysis and Life Events at ONS has been published relating to this article. [You can read the quote here.][14]\n\n\n  [1]: https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305002\n  [2]: https://www.cbc.ca/passionateeye/features/statistically-one-of-the-biggest-things-killing-men-is-men-themselves\n  [3]: https://www.ons.gov.uk/visualisations/dvc661/drugs/datadownload.csv\n  [4]: https://www.gov.uk/government/publications/health-matters-preventing-drug-misuse-deaths/health-matters-preventing-drug-misuse-deaths#factors-causing-the-rise-in-drug-misuse-deaths\n  [5]: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/332952/horr79.pdf\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsrelatedtodrugpoisoningbyselectedsubstances\n  [7]: https://publichealthmatters.blog.gov.uk/2018/08/08/drug-misuse-deaths-fall-but-still-remain-too-high/\n  [8]: https://www.ons.gov.uk/visualisations/dvc661/suicides/datadownload.csv\n  [9]: https://academic.oup.com/eurpub/article/25/3/404/2398960\n  [10]: https://jech.bmj.com/content/66/4/302.long\n  [11]: https://www.gov.uk/government/publications/health-matters-preventing-drug-misuse-deaths/health-matters-preventing-drug-misuse-deaths#factors-causing-the-rise-in-drug-misuse-deaths\n  [12]: http://mailto:jo@samaritans.org\n  [13]: https://www.samaritans.org/branches/\n  [14]: https://www.ons.gov.uk/news/statementsandletters/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "There were more drug deaths among the most deprived communities in most age groups",
+      "filename": "b409bf05",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b409bf05"
+    },
+    {
+      "title": "There were more suicides among the most deprived communities in most age groups",
+      "filename": "b8ff78af",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13/b8ff78af"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Suicides in the UK Statistical bulletins",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/suicidesintheunitedkingdom/previousReleases"
+    },
+    {
+      "title": "Deaths related to drug poisoning in England and Wales Statistical bulletins",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/previousReleases"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/middleagedgenerationmostlikelytodiebysuicideanddrugpoisoning/2019-08-13",
+  "description": {
+    "title": "Middle-aged generation most likely to die by suicide and drug poisoning",
+    "keywords": [],
+    "metaDescription": "Now in their 40s and 50s, the so-called Generation X are dying in greater numbers by suicide or drug poisoning than any other age group. ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "mortality@ons.gov.uk",
+      "name": "",
+      "telephone": "+44 (0) 1633 456501"
+    },
+    "releaseDate": "2019-08-12T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Now in their 40s and 50s, the so-called Generation X are dying in greater numbers by suicide or drug poisoning than any other age group. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

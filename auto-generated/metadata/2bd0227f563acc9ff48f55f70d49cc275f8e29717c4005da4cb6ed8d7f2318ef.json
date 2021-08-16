@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "As rail staff at Eurostar suspend [two strikes this month for talks][1] in a dispute over their work-life balance, and [discussions between unions and management at Southern ][2]continue, we look at recent and historic statistics on industrial action in the UK.\n\n\n###1. The number of working days lost due to strikes in 2015 was 170,000 compared with 788,000 in 2014\nThe 2015 figure was the second-lowest annual total since records began in 1891.\n\n####Working days lost (WDL), UK, 1891 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/chart1/index.html\" full-width=\"false\" title=\"Working days lost (WDL), UK, 1891 to 2015\"/>\n[Download the data][3]\n###2. The number of stoppages has fallen broadly over the last eight years\nHowever, the number of working days lost has remained broadly flat. This means large-scale stoppages have become more common.\n\n####Stoppages, UK, 1996 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/chart2/index.html\" full-width=\"false\" title=\"Stoppages, UK, 1996 to 2015\"/>\n[Download the data][4]\n###3. From 2006 to 2015, public sector strikes accounted for 85% of all strikes on average\n####Working days lost (WDL) by public and private split, UK, 2006 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/chart3/index.html\" full-width=\"false\" title=\"Working days lost (WDL) by public and private split, UK, 2006 to 2015\"/>\n[Download the data][5]\n###4. 81,000 people were involved in strikes in 2015, the fewest people since records began in 1893\nFour years earlier more than 1.5 million people went on strike – the highest number since the mid-1980s.\n\n####Labour disputes annual estimates, UK, 1891 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/chart4/index.html\" full-width=\"false\" title=\"Labour disputes annual estimates, UK, 1891 to 2015\"/>\n[Download the data][6]\n###5. The Public Administration sector, Education sector and the Transport, Storage, Information and Communication sector have seen the most working days lost to strikes per 1,000 employees since 2006\nThis is mainly because disputes in this group tend to be large. Education has also seen a large strike rate. This industry group has a large number of labour disputes, but the disputes are usually small. A full list of sectors and the numbers of working days lost to strikes in 2015 can be seen [here.][7]\n\n####Working days lost per 1,000 employees by industry (United Kingdom, not seasonally adjusted)\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/chart5/project/index.html\" full-width=\"false\" title=\"Working days lost per 1,000 employees by industry (United Kingdom, not seasonally adjusted)\"/>\n[Download the data][8]\n\n\n\nFor more information, please contact <Labour.Disputes@ons.gov.uk>\n\n\n  [1]: http://www.bbc.co.uk/news/uk-37031386\n  [2]: http://www.bbc.co.uk/news/uk-england-37034764\n  [3]: https://static.ons.gov.uk/visual/2016/08/1Working-days-lost-WDL-UK-1891-to-2015.csv\n  [4]: https://static.ons.gov.uk/visual/2016/08/2Stoppages-UK-1996-to-2015.csv\n  [5]: https://static.ons.gov.uk/visual/2016/08/3Working-days-lost-WDL-by-public-and-private-split-UK-2006-to-2015.csv\n  [6]: https://static.ons.gov.uk/visual/2016/08/4Labour-disputes-annual-estimates-UK-1891-to-2015.xls\n  [7]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacedisputesandworkingconditions/articles/labourdisputes/2015#industrial-analyses\n  [8]: https://static.ons.gov.uk/visual/2016/08/5Working-days-lost-per-1000-employees-by-industry-United-Kingdom-not-seasonally-adjusted.xls\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Labour Disputes in the UK, 2015",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacedisputesandworkingconditions/articles/labourdisputes/2015/"
+    },
+    {
+      "title": "The history of strikes in the UK",
+      "uri": "https://visual.ons.gov.uk/the-history-of-strikes-in-britain/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/workplacedisputesandworkingconditions/articles/fivefactsaboutstrikes/2016-08-12",
+  "description": {
+    "title": "Five facts about... strikes",
+    "keywords": [
+      "Business, industry and trade",
+      "Employment and labour market",
+      "Five facts about",
+      "Strikes"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-08-12T11:45:58.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

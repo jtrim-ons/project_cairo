@@ -1,0 +1,48 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In England and Wales, average house prices were 8.8 times annual earnings in 2014, up from 6.4 in 2002. Housing affordability was typically lowest in areas where average earnings were highest. \n\nThis was particularly the case in London. Relatively high economic activity and job opportunities in these areas create demand for housing, which in turn contributes to house price inflation.\n\n###Westminster the least affordable place to buy a house in 2014\n####Ratio of average house price to average salary for the most and least affordable areas, 2002 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_1/index.html\" full-width=\"false\" title=\"Ratio of average house price to average salary for the most and least affordable areas, 2002 to 2014\"/>\n\n[Download the data][1]\n\nIn 2014, Westminster was the least affordable place in which to buy a house. The average house price was 24 times greater than average annual salary. This increased from 2002 when the average house price was 12.4 times the average salary.\n\nThe most affordable area in which to buy a house in 2014 was Blaenau Gwent, where the average house price was four times greater than the average salary. The ratio of average house price to salary increased from 2.8 in 2002 and peaked at 5.3 in 2007, prior to the economic downturn.\n###Housing affordability divides the country\n####Ratio of average house price to average salary for the 30 most and least affordable areas in England and Wales, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_2/index.html\" full-width=\"false\" title=\"Ratio of average house price to average salary for the 30 most and least affordable areas in England and Wales, 2014\"/>Source: [Annual Survey of Hours and Earnings][2] and [Valuation Office Agency][3]\n\n[Download the data][4]\n\nThere was a geographical divide between areas where housing was most expensive and areas where it was most affordable relative to income. Out of the 30 least affordable areas to buy a house in England and Wales, 23 were in London or the South East.\n\nThe most affordable areas to buy a house in 2014, relative to income, were mainly in the north of England and in Wales. All of the 30 most affordable areas to buy a house were outside of the south of England and London.\n###Rent in Kensington and Chelsea and Westminster was over £2000 per month\n####Average monthly private rent and average house price by local authority, England, 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc274/affordable_3/index.html\" full-width=\"false\" title=\"Average monthly private rent and average house price by local authority, England, 2014\"/>\n\n[Download the data][5]\n\nIn English local authorities, the cost of renting strongly related to average house prices overall. Areas that had the highest average house prices also had the highest average monthly private rents. Again, this was particularly the case for areas in and around London which tended to have both the highest average house prices and the highest average private rents.\n\nThe London boroughs of Westminster (£2,383) and Kensington and Chelsea (£2,275) were the only two local authorities in England which had average monthly private rents of more than £2,000 in 2014.\n\nFor more information please contact <better.info@ons.gov.uk>.\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/08/affordability_Figure1_data.csv\n  [2]: http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html\n  [3]: https://www.gov.uk/government/statistics/private-rental-market-statistics-england-only\n  [4]: https://static.ons.gov.uk/visual/2015/08/data.csv\n  [5]: https://static.ons.gov.uk/visual/2015/08/affordability_Figure3_data.csv\n "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/houseprices24timesaveragesalaryinwestminster/2015-08-05",
+  "description": {
+    "title": "House prices 24 times average salary in Westminster",
+    "keywords": [
+      "People, population and community",
+      "Housing",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-08-05T08:33:55.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

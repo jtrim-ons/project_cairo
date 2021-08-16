@@ -1,0 +1,80 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeopleexpecthighpayandleisuretimefromselfemployment/2019-11-18/689790b3.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\n###Correction\n2 April 2020\n\nA small error occurred in the chart and data download for figure 2 due to a coding error for the 2006 to 2007 median gross annual earnings for employees and self-employed people aged 22 to 30. We have corrected this error. We apologise for any inconvenience.\n\n3 March 2020\n\nA correction has been made to the proportion of young people expecting to be in self-employment at somepoint in the future. This was due to a small error, due to estimates being based on unweighted rather than weighted values.\n\nA small error occurred in the data download for figure 1 due to a copy paste error. We have corrected this error. We apologise for any inconvenience. \n</ons-box>\n\nStudents and school-leavers see self-employment as a route to a high income and family time, our analysis has shown.\n\nOne in five (21%) 16- to 21-year-olds say it is likely they will be self-employed at some point in the future.\n\nThose in their late teens and early 20s rate an interesting job and job security as most important for their future career. However, family time and a high income emerge as motivating factors for those who wish to be self-employed, compared with those who do not. \n\nOur data show that one in ten (9%) 22- to 30-year-olds are self-employed after leaving education. They earn less than employees on average, sometimes having worked longer hours.\n\n####Time for family and a high income are important to those who plan to work for themselves\n\n#####Percentage of 16- to 21-year-olds who consider each factor as “very important” in a future job, UK, 2015 to 2016\n\n<ons-interactive url=\"/visualisations/dvc719/chart1/chart/index.html\" full-width=\"false\" title=\"Young people see self-employment as a route to an interesting job, family time and high income\"/>\n\nNote:\n\n1. Differences between those who expect to be self-employed and those who do not are statistically significant for a high income, time for family and contributing to society. Differences for other factors are not statistically significant.\n\n[Download the data][1]\n\n<div class=\"tile-neutral width-md--40 margin-bottom--2\">\n<h2 style=\"padding-top:0px;\">What do we mean by self-employment?</h2>\n<p>Our analysis is based on people who report themselves as self-employed in their main job.</p>\n<p><a href=\"https://www.gov.uk/employment-status/selfemployed-contractor\">Self-employment</a> is not just entrepreneurs – it includes freelancers and contractors too. Self-employed workers are not paid through PAYE, and they do not have the same employment rights and responsibilities of employees.</p>\n<p>Zero-hour contract workers do not count as self-employed, as they are employees without a guaranteed number of hours.</p>\n</div>\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc719/chart1/chart/datadownload.csv"
+    },
+    {
+      "title": "",
+      "markdown": "There were more than 500,000 self-employed 22- to 30-year-olds across the UK in 2018, a third more than there were in 2008. The young self-employed are also increasingly likely to be part-time (19% compared with 14% in 2008).\n\nIncome from self-employment has fluctuated since the recession. After adjusting for price changes, it remains below pre-downturn levels at an estimated £16,700 per year.\n\n####Young people who work for themselves earn less than employees on average\n\n#####Median gross annual earnings of 22- to 30-year-olds, UK, 2006 to 2007 to 2017 to 2018 (2017 to 2018 prices)\n\n<ons-interactive url=\"/visualisations/dvc719/chart2/chart/index.html\" full-width=\"false\" title=\"Young people who work for themselves earn less than employees on average\"/>\n\n[Download the data][1]\n\nWhile many 16- to 21-year-olds associate self-employment with a high income, the reality is that self-employed workers earn around £3,800 less per year, on average, than employees. This is despite many of them working longer hours.\n\n####The self-employed often work longer hours than employees\n\n#####Hours worked by 22- to 30-year-olds in self-employment, UK, 2018\n\n<ons-interactive url=\"/visualisations/dvc719/chart3/chart/index.html\" full-width=\"false\" title=\"Self-employment can mean longer hours\"/>\n\n[Download the data][2]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc719/chart2/chart/datadownload.csv\n  [2]: https://www.ons.gov.uk/visualisations/dvc719/chart3/chart/datadownload.csv"
+    },
+    {
+      "title": "Divide in young self-employed",
+      "markdown": "Regardless of age, men are more likely than women to be self-employed, but the disparity is greatest among young people.\n\nMen aged 22 to 30 are twice as likely as women to work for themselves (12% compared with 6%). \n\nThis is largely explained by the male-dominated industries in which self-employment is most common, such as construction. Many builders, carpenters and other tradespeople have their own businesses.\n\n####The number of young men working for themselves in construction alone is almost equal to the total number of young women in self-employment\n\n#####Number of 22- to 30-year-olds in self-employment, UK, 2018\n\n<ons-interactive url=\"/visualisations/dvc719/chart4/chart/index.html\" full-width=\"false\" title=\"There are almost as many self-employed men in construction as self-employed women in total\"/>\n\n[Download the data][1]\n\nHowever, the gap between men and women in self-employment is closing, with the number of self-employed women increasing at more than twice the rate of men since 2008. \n\nThis is partly because of growth in part-time self-employment. Young women working for themselves are now four times as likely as men to be part-time (40% compared with 10%). The gap in part-time working between male and female employees is smaller, with women three times as likely to work reduced hours (24% compared with 8%).\n\nWomen place a greater premium on flexible working than men, and they are more likely to become self-employed on that basis. According to our [recent analysis of families in the labour market][2], more than half of mothers (56%) said they had made a change to their employment for childcare reasons in 2018, compared with 22% of fathers. \n\n####Women are twice as likely as men to go into self-employment because of flexible working hours\n\n#####Main reason for becoming self-employed by sex, age 22 and over, UK, 2018\n\n<ons-interactive url=\"/visualisations/dvc719/chart5/chart/index.html\" full-width=\"false\" title=\"Women are twice as likely as men to choose self-employment because of flexible working hours\"/>\n\n[Download the data][3]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc719/chart4/chart/datadownload.csv\n  [2]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/familiesandthelabourmarketengland/2019\n  [3]: https://www.ons.gov.uk/visualisations/dvc719/chart5/chart/datadownload.csv"
+    },
+    {
+      "title": "Who you know, not what you know?",
+      "markdown": "A [recent report by The Entrepreneurs Network, based on a survey of 14- to 25-year-olds in Great Britain][1], found that “not knowing where to start” is the greatest barrier to young people starting a business, closely followed by “fear of failure” and “not knowing the right people”.\n\nOur data suggest that young people are more likely to be self-employed if they have someone close to them as a reference point. \n\nPeople aged 22 to 30 are twice as likely to work for themselves if the main wage-earner in their childhood household – generally their mother or father – was also self-employed. The effect is larger for men than women.\n\n####Young people are more likely to be self-employed if they follow in the footsteps of someone in their household\n\n#####Percentage of 22- to 30-year-olds who are self-employed, by employment type of main wage-earner (MWE) in their childhood household, UK, 2018\n\n<ons-interactive url=\"/visualisations/dvc719/chart7/chart/index.html\" full-width=\"false\" title=\"Young people are more likely to be self-employed if they follow in the footsteps of someone in their household\"/>\n\n[Download the data][2]\n\nMost self-employed young people have not come straight from school.\n\nDegree or higher education is the most common qualification level for young people working for themselves, closely followed by A level. Self-employed women are nearly twice as likely as their male counterparts to have a degree. \n\nHaving stayed in education for longer, young women are generally newer to self-employment than men – 43% have been self-employed for less than two years, compared with 35% of men.\n\n####Young women in self-employment are more qualified than their male counterparts\n\n#####Highest qualification of self-employed 22- to 30-year-olds by sex, UK, 2018 \n\n<ons-interactive url=\"/visualisations/dvc719/chart6/chart/index.html\" full-width=\"false\" title=\"Young women in self-employed are more qualified than their male counterparts\"/>\n\n[Download the data][3]\n\n\n  [1]: https://static1.squarespace.com/static/58ed40453a04116f46e8d99b/t/5d4d94c24db33b00014adeac/1565365491159/Future+Founders.pdf\n  [2]: https://www.ons.gov.uk/visualisations/dvc719/chart7/chart/datadownload.csv\n  [3]: https://www.ons.gov.uk/visualisations/dvc719/chart6/chart/datadownload.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/youngpeopleinselfemploymentreferencetables"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Young people's career aspirations versus reality",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27"
+    },
+    {
+      "title": "Trends in self-employment in the UK",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/trendsinselfemploymentintheuk/2018-02-07"
+    },
+    {
+      "title": "Being 18 in 2018",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeopleexpecthighpayandleisuretimefromselfemployment/2019-11-18",
+  "description": {
+    "title": "Young people expect high pay and leisure time from self-employment",
+    "keywords": [
+      "self-employed",
+      "young people",
+      "entrepreneur",
+      "freelance"
+    ],
+    "metaDescription": "As the number of young people working for themselves continues to rise, analysis reveals a gap between expectations and reality.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "policy.evidence.analysis@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-11-18T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "As the number of young people working for themselves continues to rise, analysis reveals a gap between expectations and reality.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

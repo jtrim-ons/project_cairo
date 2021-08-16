@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The future of UK manufacturing will be in focus when post-Brexit trade negotiations begin. The Prime Minister is due to trigger Article 50 tomorrow, starting the formal process of our exit from the EU.\n\nThe UK economy may be dominated by services nowadays, but manufacturing remains a key part of the policy debate around Brexit and trade.\n\nDespite making up a much smaller proportion of gross domestic product (GDP), goods trade continues to outweigh that in services. Goods accounted for 55% of UK exports and 75% of imports in 2016.\n\nWhat’s more, UK goods producers generally enjoy close trading relationships with EU economies. More than half of UK trade in goods (exports plus imports) was with the EU in 2016. Goods trade with the EU is significant for both UK manufacturers’ sales and supply chains.\n###Does UK manufacturing benefit from EU trade?\nIn short, yes; 47% of UK goods exports went to the EU in 2015. In contrast, just 7% of goods exports from the rest of the EU came to the UK[^1^](#footnote1).\n\nThis imbalance is inevitable given that the UK is just one country trading with a group of 27 other nations. Nonetheless, post-Brexit trade rules will apply to the EU as a collective, not each country individually.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc402/chart1/index.html\" full-width=\"false\" title=\"Destination of UK goods exports\"/>\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc402/chart1i/index.html\" full-width=\"false\" title=\"Destination of EU goods exports\"/>\n\nAs well as being the UK’s largest export market, the EU is also the source of vital components in the production process. Around two-thirds of UK imports of semi-manufactured goods come from EU countries. For example, [UK carmakers][1] are highly reliant on components made elsewhere in the EU.\n\nThis highlights the importance of a post-Brexit trade deal with the EU. If the UK and EU are unable to reach an agreement, their goods trade could be subject to tariffs and quotas under [World Trade Organisation (WTO) rules][2].\n###Does EU industry want to trade with the UK?\nYes, the UK remains an important partner for individual EU economies. 26 out of the 27 other EU countries exported a greater proportion of their goods to the UK than the UK exported to them in 2015.\n\nAlthough trade between the UK and individual EU nations will be governed by the relationship with the EU as a whole, countries which are dependent on the UK to buy their goods may want to argue the case for a positive trade deal. However, any deal will have to be approved by all 27 members.\n\n####Explore to what extent other countries trade in goods with the UK.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc402/chart2/index.html\" full-width=\"false\" title=\"Explore to what extent other countries trade in goods with the UK.\"/>\n\n[Download the data.][3]\n\n###Where does the UK rank as a goods exporter?\nThe UK exported £288 billion of goods in 2015. This was equivalent to less than 3% of global goods exports, according to UN Total Trade figures. However, the UK was the tenth-largest exporter of goods.\n\nChina was the largest, followed by the US. Their goods exports accounted for 14% and 9% of the world total respectively.\n\nFour EU economies exported more goods than the UK in 2015, namely Germany, France, the Netherlands and Italy.  Overall, the EU excluding the UK was responsible for nearly 30% of global goods exports.\n\n####World goods exports, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc402/chart3/index.html\" full-width=\"false\" title=\"World goods exports, 2015\"/>[Download the data.][4]\n\n\n\nFor more information, please contact: <trade@ons.gov.uk>\n\n\n\nOther Visual.ONS articles:\n\n[Commonwealth trade in focus][6]\n\n[Who does the UK trade with?][7]\n\n[Understanding the UK economy][8]\n\n\n  [1]: https://www.theguardian.com/business/2016/nov/29/new-cars-imported-from-eu-may-cost-10-more-if-uk-leaves-single-market\n  [2]: https://www.publications.parliament.uk/pa/ld201617/ldselect/ldeucom/129/12902.htm\n  [3]: https://static.ons.gov.uk/visual/2017/03/data.csv\n  [4]: https://static.ons.gov.uk/visual/2017/03/unexportsdata.xlsx\n  [5]: mailto:trade@ons.gov.uk\n  [6]: https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/commonwealthtradeinfocusasukpreparesforbrexit/2017-03-09\n  [7]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/\n  [8]: https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22\n\n\n###Footnotes:\n<h6 id=\"#footnote1\">1.</h6> Export figures to the UK are based on merchandise statistics from UN Comtrade."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Commonwealth trade in focus",
+      "uri": "https://visual.ons.gov.uk/commonwealth-trade-in-focus-as-uk-prepares-for-brexit/"
+    },
+    {
+      "title": "Who does the UK trade with?",
+      "uri": "https://visual.ons.gov.uk/uk-trade-partners/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/internationaltrade/articles/tradingplacesukgoodstradewitheupartners/2017-03-28",
+  "description": {
+    "title": "Trading places: UK goods trade with EU partners",
+    "keywords": [
+      "Business, industry and trade",
+      "Brexit",
+      "Trade",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-03-28T02:09:07.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,69 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Do you have a pension? Have you recently been enrolled into one? You may have noticed an increase in the number of people you work with that have pensions.\n\nThis is likely because of an initiative called automatic enrolment. The latest data shows workplace pension membership increased from 50% to 59% over the past year. This was particularly noticeable among the young and people earning £200-300 per week.\n\n<ons-box align=\"full\">People have workplace pensions to give them more retirement income. Workplace pensions include any pensions that are provided or facilitated by an employer for their employees. In October 2012, the Government introduced automatic enrolment to increase the number of people with workplace pensions. Under automatic enrolment, employers have a duty to enrol all eligible employees into a pension scheme and to make contributions.</ons-box>\n\n####1. Workplace pension membership increased since introduction of automatic enrolment\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-1.png\"/>\n\n[Download the data.][1]\n\nIn 2012, 47% of employees belonged to a workplace pension scheme. However, 18 months after the introduction of automatic enrolment this rose to 59%.\n\n####2. Young people’s membership of workplace pensions has increased\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-2.png\"/>\n\n[Download the data.][2]\n\nYounger people are typically less likely to have a pension. Since 2013, the number of 22-29 year olds with a pension has increased from 37% to 53%. This was the largest increase of all age bands. Although only people aged 22 or over are eligible for automatic enrolment, increases were seen across all age groups.\n\n####3. Large increase in workplace pension membership amongst those earning £200-300 per week\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-3.png\"/>\n\n[Download the data.][3]\n\nThe largest increase in pension membership was among employees earning £200-300, from 24% in 2013 to 43% in 2014. Although only people earning £182 per week or above in 2013/14 were eligible for automatic enrolment, there was an increase across all earning bands.\n\n####4. Workplace pension membership has increased for those who work for large employers\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-4.png\"/>\n\n[Download the data.][4]\n\nAutomatic Enrolment started with the largest employers, with gradual roll out to all employers by 2018. Unsurprisingly, the largest increase in pension membership was among employees of larger employers. For workplaces with 500-999 employees, pension membership increased from 51% to 76%.\n\n####5. Large increase in workplace pension membership for process, plant and machine operatives\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-5.png\"/>\n\n[Download the data.][5]\n\nOf all job types, Process, plant and machine operatives had the largest increase in pension membership from 34% in 2013 to 52% in 2014. The next largest increase in pension membership was for Sales and customer service occupations, from 28% in 2013 to 42% in 2014. This is possibly because employees in these occupation types tend to be younger and lower earners, and so were less likely to have had a pension before automatic enrolment.\n\n####6. London saw the largest increase in workplace pension membership\n\n<img src=\"https://static.ons.gov.uk/visual/2015/03/pensions-6.png\"/>\n\n[Download the data.][6]\n\nPension membership was not influenced significantly by region in 2014. Membership was highest in Scotland (64%) and lowest in the East (56%), with London seeing the largest increase, from 52% in 2013 to 63% in 2014.\n\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/03/Fact-1-data.csv\n  [2]: https://static.ons.gov.uk/visual/2015/03/Fact-2-data.csv\n  [3]: https://static.ons.gov.uk/visual/2015/03/Fact-3-data.csv\n  [4]: https://static.ons.gov.uk/visual/2015/03/Fact-4-data.csv\n  [5]: https://static.ons.gov.uk/visual/2015/03/Fact-5-data.csv\n  [6]: https://static.ons.gov.uk/visual/2015/03/Fact-6-data.csv\n  [7]: mailto:pensionsanalysis@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Hours and Earnings pension tables",
+      "uri": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings-pension-tables/index.html"
+    },
+    {
+      "title": "Pension Trends",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/method-quality/guide-to-pension-statistics/pension-trends-publications/index.html"
+    },
+    {
+      "title": "Guide to pension statistics",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/method-quality/guide-to-pension-statistics/index.html"
+    },
+    {
+      "title": "Pensions glossary",
+      "uri": "http://www.ons.gov.uk/ons/rel/pensions/pension-trends/no--1--2005-edition/pension-trends--glossary.pdf"
+    },
+    {
+      "title": "People without a private pension",
+      "uri": "http://www.ons.gov.uk/ons/rel/pensions/pensions-short-stories/characteristics-of-people-and-households-without-a-private-pension/info-pension.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/pensionssavingsandinvestments/articles/6factsaboutpensionmembership/2015-03-05",
+  "description": {
+    "title": "6 facts about pension membership",
+    "keywords": [
+      "Economy",
+      "People,population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-03-05T09:20:19.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

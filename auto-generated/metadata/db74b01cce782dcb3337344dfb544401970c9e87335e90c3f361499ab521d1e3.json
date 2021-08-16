@@ -1,0 +1,76 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/howwellareyoudoingcomparedwithotheryoungpeople/2018-10-04/57f9ab07.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "It can be difficult for young people to achieve financial stability in their 20s, new analysis has shown. \n\nThose aged 22 to 29 years have become less likely to own a home, with the proportion of homeowners having fallen by 10 percentage points between 2008 and 2017 – from 37% to 27%^1^. \n\nThey’re also less likely to have money set aside. More than half (53%) of 22- to 29-year-olds had no money saved in a savings account or an Individual Savings Account (ISA) in 2014 to 2016, compared with 41% in 2008 to 2010. However, those who did had an average of £1,600 put away, up from £900.\n\nMeanwhile, young people are now less likely to be in financial debt. Around 37% had financial debt (excluding student loans from the Student Loans Company), down from 49% in 2008 to 2010. That said, those in debt owed fractionally more (£1,900), on average, than in 2008 to 2010 (£1,800).\n\nClearly, not all young people face the same financial pressures. \n\nMuch depends on where people sit on the earnings scale. The highest earning 10% of 22- to 29-year-olds were paid at least 4.3 times as much per week as the lowest earners in 2017^2^. \n\nThe gap is wider still for those with savings in savings accounts or ISAs (47%). The top 10% of savers had at least £15,000 put away in 2014 to 2016, while the bottom 10% had saved less than £100. \n\nLikewise, there are differences in levels of financial debt. Among 22 to 29 year olds with debt (37%), the 10% most indebted owed at least £14,200 in 2014 to 2016, while the 10% least indebted owed £100 or less.\n\nHow does your financial situation compare? Use our calculator to find out how your earnings, savings and debt stack up relative to your peers.\n"
+    },
+    {
+      "title": "How well are you doing compared with other young people?",
+      "markdown": "<ons-interactive url=\"/visualisations/dvc548/index.html\" full-width=\"false\" title=\"How well are you doing compared with other young people?\"/>\n\n[Download the data][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc548/downloadthedata.csv"
+    },
+    {
+      "title": "Finding help",
+      "markdown": "If you’re struggling with debt, or know someone who is, there are tools available to help you take control of your finances. Try this [budget planner][1] by the Money Advice Service.\n\nAlternatively, if you need to speak to someone about debt, charities like [Citizens Advice][2], [Stepchange][3] and [National Debtline][4] offer free help and advice.\n\n\n  [1]: http://www.moneyadviceservice.org.uk/en/tools/budget-planner\n  [2]: https://www.citizensadvice.org.uk/\n  [3]: http://www.stepchange.org/\n  [4]: http://www.nationaldebtline.org/"
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. The proportion of 22- to 29-year-olds owning a home refers to those who are employed. The weighted population of employed 22- to 29-year-olds was 5.6 million.\n2. Earnings figures refer to all employees."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/howwellareyoudoingcomparedwithotheryoungpeople/2018-10-04",
+  "description": {
+    "title": "How well are you doing compared with other young people?",
+    "keywords": [
+      "Earnings",
+      "Savings",
+      "Debt",
+      "Young people",
+      "Living situation"
+    ],
+    "metaDescription": "Use our interactive calculator to compare the financial situations – earnings, home ownership, savings and debt – of 18- to 29-year-olds in the UK.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "policy.evidence.analysis@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-10-03T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Use our interactive calculator to compare the financial situations of 18- to 29-year-olds in the UK.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

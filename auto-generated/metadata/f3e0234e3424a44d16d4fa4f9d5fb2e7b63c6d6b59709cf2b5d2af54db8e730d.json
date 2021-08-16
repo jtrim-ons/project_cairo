@@ -1,0 +1,59 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The population of the UK is projected to grow by 9.7 million over the next quarter of a century, to reach 74.3 million in 2039.\n\nThis projection - called the principal projection - is based on what we think are the most realistic assumptions on how long people will live, how many children each woman will have, and how much migration into and out of the country there will be.\n###How could the UK population look in the future?\n####2014-based UK Population Projections - Principal and Variants, 2014 to 2039\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc292/index.html\" full-width=\"true\" title=\"2014-based UK Population Projections - Principal and Variants, 2014 to 2039\"/>\n[Download the data][1]\n###Why are there different projections?\nThe assumptions of births, life expectancy and migration might be wrong, and it's important that people making decisions based on the projections can take account of this uncertainty.\n\nTo help them do this ONS also produces variant projections, which use different, but realistic, assumptions, such as people living longer than projected.\n\nThe interactive tool above lets you compare the principal projection with any one of nine variant projections.\n\nSix of these variant projections start with the principal projection but then assume higher or lower life expectancy (how long people live), fertility (how many children women have) or migration.\n\nTwo more variants - the High Population and Low Population variants - take the higher, or lower, assumption for each factor simultaneously.\n\nThe final variant - the zero net-migration (natural change) variant - takes the same levels of fertility and life expectancy as the principal projection, but then assumes that there will be zero net-migration. That is, that the number of people immigrating to the country is exactly equal to the number of people emigrating at each age.\n###How could the age structure of the population vary?\nThe different assumptions affect the age structure of the population and can be seen using interactive population pyramids.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc219/pyramids/pyramids.html\" full-width=\"true\" title=\"How could the age structure of the population vary?\"/>\n\nIt is important to remember that these population projections are not forecasts - they don't take into account possible future changes in government policy - and that the High Population and Low Population variants do not set the upper and lower limits on how the population could possibly change in the future.\n\nYou can find more information on variant projections in the [background and methodology report][2], along with full [results of the projections and an explanation of the main findings][3].\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/10/data-download.csv\n  [2]: http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2014-based-projections/rpt-1-background-and-methodology.html\n  [3]: http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2014-based-projections/index.html\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "National Population Projections, 2014-based projections",
+      "uri": "http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2014-based-projections/index.html"
+    },
+    {
+      "title": "A decade of population change in England and Wales",
+      "uri": "https://visual.ons.gov.uk/a-decade-of-population-change-in-england-and-wales/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/howbigwilltheukpopulationbein25yearstime/2015-10-29",
+  "description": {
+    "title": "How big will the UK population be in 25 years' time?",
+    "keywords": [
+      "People, population and community",
+      "Life expectancy",
+      "Migration",
+      "Population",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-10-29T11:53:36.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

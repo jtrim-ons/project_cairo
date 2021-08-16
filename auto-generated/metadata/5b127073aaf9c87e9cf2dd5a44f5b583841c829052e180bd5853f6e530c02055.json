@@ -1,0 +1,79 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/environmentalaccounts/articles/aburningissuebiomassisthebiggestsourceofrenewableenergyconsumedintheuk/2019-08-30/97763b2e.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Drive through the British countryside and it is hard not to notice the increasing scale of renewable energy: wind turbines and solar farms are increasingly prominent by the roadside.\n\nRenewable energy consumption has been increasing steadily over the last decade and for the first time reached more than 10% of the UK’s total energy consumption in 2017.^1^\n  \nThis trend looks likely to continue given the UK’s current commitments to a [target of net zero GHG emissions by 2050][1]. Renewable energy consumption is also monitored as part of the United Nations Sustainable Development Goals (SDGs), specifically under [indicator 7.2.1][2]. ^2^, ^3^     \n\n####Renewable energy made up more than 10% of the UK’s total energy consumption in 2017 \n#####Proportion of total energy consumption, by source, UK, 2010 to 2017\n<ons-interactive url=\"/visualisations/dvc677/chart1/index.html\" full-width=\"false\" title=\"Renewable energy made up more than 10% of the UKâ€™s total energy consumption in 2017\"/>\n\nThe largest source of renewable energy we consume in the UK is not from the sun or wind – it’s from Biomass, that is, organic material from plants or animals.\n\n<ons-box>\n\n<ons-box align=\"full\">\n#####What is biomass?\nBiomass is a broad term covering all organic material including that from plants, trees (for example straw, crops or wood) and animals (for example poultry litter).\n\nIt is considered a renewable form of energy production as biomass growth removes carbon dioxide from the atmosphere and stores it in the soil, plants or trees.\n\n</ons-box>\n<ons-box>\n<ons-box align=\"full\">\n#####What are the sources of renewable energy in the UK?  \nThe UK has a varied mix of renewable technologies and fuels including biomass which is a key fuel source for the decarbonisation of electricity generation and heat provision. Offshore and onshore wind, solar panels, hydroelectric and shoreline wave or tidal all contribute to UK renewable energy generation.\n\n</ons-box>\n####Almost 40% of energy consumption from renewable and waste sources is from Biomass \n#####Energy consumption from renewable and waste sources, by source, UK, 2017\n<ons-interactive url=\"/visualisations/dvc677/chart2/index.html\" full-width=\"false\" title=\"Almost 40% of energy consumption from renewable and waste sources is from Biomass\"/>\n\n###Biomass used for electricity generation increased rapidly from the start of the decade\nThe majority of biomass energy consumption is not from people burning logs in their wood-burning stoves, instead around 60% is related to electricity generation. \n\nIn the last decade, as the UK has implemented policies aimed at reducing its greenhouse gas emissions and reducing its usage of coal, some previously coal burning power stations have converted to burning biomass to produce electricity. \n\nThe major source of biomass burnt in UK power stations are wood pellets. In the financial year ending (FYE) 2010 an estimated 0.2 million tonnes were burnt in power stations compared to an estimated 7.2 million tonnes in 2018.\n\nSince the start of the decade there has been a steady increase in the amount of wood pellets imported to the UK. In 2010, 0.6 million tonnes of wood pellets were imported, compared to 7.8 million tonnes in 2018.\n\nIn 2018, around 82% of wood pellets imported were from the United States and Canada.\n\n####7.8 million tonnes of wood pellets were imported to the UK in 2018   \n#####Imports of wood pellets, UK, 2010 to 2018\n<ons-interactive url=\"/visualisations/dvc677/chart3/index.html\" full-width=\"false\" title=\"7.8 million tonnes of wood pellets were imported to the UK in 2018\"/>\n\n###The impact of burning biomass for electricity generation on UK greenhouse gas emissions \n\nTotal UK greenhouse gas emissions have [fallen in the last decade][3] and the sources of greenhouse gas emissions relating to electricity production have changed as the use of renewable sources of electricity like biomass has increased. \n\nUnlike other renewable sources of electricity, the combustion of biomass is not greenhouse gas emission free. [UK government research][4] has shown that greenhouse gas emissions per unit of electricity generated from biomass can be lower or higher than those from fossil fuels like coal or gas depending on factors such as the type of biomass burnt and where it comes from. [Further UK government commissioned research][5] has examined how likely it is that emissions from burning biomass will be higher or lower than, for example, those from burning fossil fuels. \n\nIn 2017, greenhouse gas emissions from the burning of biomass for electricity production in UK power stations were around 15 million tonnes of carbon dioxide equivalent compared to 4 million tonnes in 2010^4^. GHG emissions from the burning of coal have fallen over this same period to around 20 million tonnes in 2017. Total GHG emissions relating to electricity production have fallen from 168 million tonnes in 2010 to 93 million tonnes in 2017.  \n\nBiomass can be considered a renewable form of energy and electricity generation as its growth (e.g. of plants or trees) removes greenhouse gases like carbon dioxide from the atmosphere and stores it in soil, trees and other vegetation. As such, it is argued that when managed and harvested in a sustainable way, biomass can be used to help reduce carbon emissions. \n\nCritics of the growing use of biomass for electricity generation in the UK have argued that the sourcing of large quantities of biomass in the form of wood pellets from the USA and Canada does not constitute a sustainable use of biomass given for example, the emissions associated with its transport or potential impacts on land use in these countries. \n\nBiomass, together with new technologies being developed to capture the emissions generated when it is combusted ([Carbon Capture Usage and Storage)][6], looks likely to continue to have a role in helping meet the UK’s long-term (2050) emissions targets, and helping the UK move towards net-zero emissions. \n\nEnsuring the sustainability of its use will be increasingly important as the greenhouse gas emissions and wider environmental impacts associated with it are considered on a global basis.\n\n####Greenhouse gas emissions from the burning of biomass in power stations has increased by almost 11 million tonnes of carbon dioxide equivalent from 2010 to 2017\n#####Greenhouse gas emissions from the burning of biomass, gas, coal and oil in power stations, UK, 2010 to 2017\n<ons-interactive url=\"/visualisations/dvc677/chart4/index.html\" full-width=\"false\" title=\"Greenhouse gas emissions from the burning of biomass in power stations has increased by almost 11 million tonnes of carbon dioxide equivalent from 2010 to 2017\"/>\n\n####NOTES\n\n1. Energy statistics on an alternative territory basis are available to 2018 in the [Digest of UK Energy Statistics][7] (DUKES) published by the Department for Business, Energy and Industrial Strategy (BEIS). The [energy bridging table][8] published within the Office for National Statistics (ONS) Environmental Accounts shows the differences between DUKES and ONS Environmental Accounts estimates. Further information can also be found within the following [methodology article][9].\n  \n2. Sustainable Development Goals were introduced in 2015 and are a universal set of 17 Goals designed to end poverty, protect the planet and ensure that all people enjoy peace and prosperity by 2030. [More information about SDGs][10] can be found on the UN website. The [UK data for SDGs][11] are available on the online reporting platform.\n  \n3. The UK government encourages renewable energy production through policies such as the [Renewables Obligation][12] (RO), [Contracts for Difference][13] (CfD), [Feed in tariffs][14] (FIT), [Renewable Heat Incentive][15] and the [Renewable Transport Fuel Obligation][16] (RTFO). The RO requires electricity suppliers to source a certain proportion of the electricity from renewable sources. CfD offer electricity generators long term contracts for low carbon energy, enabling a generator to invest in new schemes while limiting their risk. The FITs support those who produce renewable electricity.  The RHI supports those who use renewable heat. The RTFO requires transport fuel providers to supply a proportion of road transport fuels from renewable sources.\n\n4. In accordance with international guidelines that the Climate Change Act net zero target follows, emissions from biomass combustion are reported against this as a change in carbon stocks in the Land-Use, Land-Use Change and Forestry (LULUCF) sector of the country where biomass is harvested. They are also reported as a memorandum item in the country and sector where the biomass fuel is used, but unless domestically grown are not counted in that country’s total emissions to avoid potential double counting.\n\n\n  [1]: https://www.gov.uk/government/news/uk-becomes-first-major-economy-to-pass-net-zero-emissions-law\n  [2]: https://sustainabledevelopment-uk.github.io/7-2-1/\n  [3]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/netzeroandthedifferentofficialmeasuresoftheuksgreenhousegasemissions/2019-07-24\n  [4]: https://www.gov.uk/government/publications/life-cycle-impacts-of-biomass-electricity-in-2020\n  [5]: https://www.gov.uk/government/publications/use-of-high-carbon-north-american-woody-biomass-in-uk-electricity-generation\n  [6]: https://www.gov.uk/government/publications/the-uk-carbon-capture-usage-and-storage-ccus-deployment-pathway-an-action-plan\n  [7]: https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes#2019\n  [8]: https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsenergybridging\n  [9]: https://webarchive.nationalarchives.gov.uk/20160106062519/http:/www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/environmental-accounts/physical-flows/energy-consumption.pdf\n  [10]: https://sustainabledevelopment.un.org/?menu=1300\n  [11]: https://sustainabledevelopment-uk.github.io/\n  [12]: https://www.ofgem.gov.uk/environmental-programmes/ro/about-ro\n  [13]: https://www.gov.uk/government/publications/contracts-for-difference/contract-for-difference\n  [14]: https://www.gov.uk/feed-in-tariffs\n  [15]: https://www.gov.uk/non-domestic-renewable-heat-incentive\n  [16]: https://www.gov.uk/guidance/renewable-transport-fuels-obligation"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/environmentalaccounts/bulletins/ukenvironmentalaccounts/latest"
+    },
+    {
+      "uri": "/economy/environmentalaccounts/articles/netzeroandthedifferentofficialmeasuresoftheuksgreenhousegasemissions/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Committee on Climate Change: Net Zero Technical report",
+      "uri": "https://www.theccc.org.uk/wp-content/uploads/2019/05/Net-Zero-Technical-report-CCC.pdf"
+    },
+    {
+      "title": "Committee on Climate Change: Reducing UK emissions – 2019 Progress Report to Parliament",
+      "uri": "https://www.theccc.org.uk/publication/reducing-uk-emissions-2019-progress-report-to-parliament/"
+    },
+    {
+      "title": "Committee on Climate Change: Biomass in a low carbon economy",
+      "uri": "https://www.theccc.org.uk/publication/biomass-in-a-low-carbon-economy/"
+    },
+    {
+      "title": "Intergovernmental Panel of Climate Change: Climate change and land",
+      "uri": "https://www.ipcc.ch/report/srccl/"
+    },
+    {
+      "title": "Office of Gas and Electricity Markets: Renewables Obligation: Annual report",
+      "uri": "https://www.ofgem.gov.uk/publications-and-updates/renewables-obligation-ro-annual-report-2017-18"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/aburningissuebiomassisthebiggestsourceofrenewableenergyconsumedintheuk/2019-08-30",
+  "description": {
+    "title": "A burning issue: biomass is the biggest source of renewable energy consumed in the UK",
+    "keywords": [
+      "biomass",
+      "Renewable energy",
+      "Wood pellet",
+      "greenhouse gas"
+    ],
+    "metaDescription": "Energy from renewable sources exceeded 10% of the UK’s overall energy consumption for the first time In 2017. More than a quarter of this renewable energy came from burning wood, the largest single source of renewable energy in the UK.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "environment.accounts@ons.gov.uk",
+      "name": "Brendan Rice and David Ainslie",
+      "telephone": "01633 455847"
+    },
+    "releaseDate": "2019-08-29T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Analysis reveals the contribution of burning organic material from plants, trees and animals – including millions of tonnes of imported wood pellets from the USA and Canada – to the UK's energy mix. What is its environmental impact?\n",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

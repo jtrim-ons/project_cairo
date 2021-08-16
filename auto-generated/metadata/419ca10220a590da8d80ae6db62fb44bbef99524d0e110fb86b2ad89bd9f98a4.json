@@ -1,0 +1,95 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/whatisthecoronaviruscovid19doingtothepublicpurse/2021-02-02/8462f9e1.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The coronavirus (COVID-19) pandemic means provisional data for the current financial year are more uncertain than normal, and it is still too early to see the overall effect on public sector finances.  \n\nHowever, certain taxes have been immediately affected by restrictions to curb the spread of the coronavirus, reducing the income that helps pay for public services. \n\nHere, in the first of a series on UK public sector finances, we look at what the provisional data tell us about the effects of the coronavirus so far and how income has varied over previous years. All the data presented here count tax receipts in the month or quarter that the taxed activity happens, not when the tax is actually paid to government. This is one of the reasons our latest data are provisional.\n\nWe begin by looking at sources of public sector receipts, using data consistent with [Public Sector Finances, UK: December 2020][1], published 22 January 2020. \n\n\n  [1]: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/december2020"
+    },
+    {
+      "title": "1. Where the public sector gets its income",
+      "markdown": "Click or tap a category to see how much was received from each source:\n<ons-interactive url=\"/visualisations/dvc1141/treemap/treemap/index.html\" full-width=\"true\" title=\"Treemap showing different sources of public sector income\"/>\n\n[Data download][1]\n\nThe public sector received around £828 billion in the financial year ending 31 March 2020, the last financial year for which we have complete data. Only a few days of this were impacted by the lockdown, which started on 23 March 2020. \n\nAround two-thirds (67.3%) of income came from central government taxation, which includes taxes on production such as Value Added Tax (VAT) and taxes on income and wealth. Another 17.5% is from social contributions, such as National Insurance while 4.4% is raised from local government, largely through Council Tax. The remaining 10.8% is from other sources, such as interest and dividends. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/public_sector_finance_breakdown.xls"
+    },
+    {
+      "title": "2. Total public sector income was fairly stable before COVID-19 ",
+      "markdown": "#####Public sector total current receipts as a percentage of nominal GDP, UK, financial year ending March 1956 to financial year ending March 2020 \n<ons-interactive url=\"/visualisations/dvc1141/public_sector_total_current_receipts/index.html\" full-width=\"false\" title=\"Chart showing public sector total current receipts\"/>\n\n[Data download][1]\n\nTotal public sector receipts as a share of gross domestic product (GDP) have varied very little since 2005, although there was a dip as a result of the 2008 downturn. The largest sustained movement in the receipts to GDP ratio since World War Two came between the mid-1980s and the mid-1990s.\n\nBetween the financial year ending (FYE) 1982 and FYE 1994, receipts declined from 41.0% of GDP to 31.4%. This shift reflects policy changes of the governments during this period and the prevailing economic circumstances.  \n\nWe will not have the data until after the end of the financial year in March 2021, so cannot yet show the effect of the coronavirus pandemic on overall public sector receipts, but provisional data on individual taxes can help to form the picture. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/public_sector_total_current_receipts.xls"
+    },
+    {
+      "title": "3. Since the global financial crisis, total taxes had not changed much relative to the size of the economy",
+      "markdown": "#####Annual total public sector taxes and compulsory social contributions receipts as a percentage of nominal GDP, UK, financial year ending March 1988 to financial year ending March 2020\n\n<ons-interactive url=\"/visualisations/dvc1141/social_contributions/index.html\" full-width=\"false\" title=\"Chart showing annual total public sector taxes and compulsory social contributions\"/>\n\n[Data download][1]\n\nIt is still too early to say what effect the coronavirus will have had on total taxes and compulsory social contributions, which include National Insurance contributions paid by employed and self-employed workers. Some further information will become available, after the end of the financial year on 31 March 2021, while some long-lagged components will not be available until 2022. \n\nTotal taxes include those levied on production, income and wealth. For comparison, these equate to just under one-third (31.7%) of gross domestic product (GDP) – the monetary value of goods and services that is used to measure the economy – in the financial year ending March 2020. \n\nOverall taxes and compulsory social contributions have been broadly steady for many years but the last time there was a large fall was in the 2008 financial crisis, when they declined by 1.6 percentage points between the years ending March 2008 and March 2010. This reflects changes in policy around the time of the economic downturn – when Value Added Tax (VAT) rates were lowered for instance, and the prevailing economic conditions.  \n\nIn April 2020, the annual [earnings threshold to start paying National Insurance increased][2] for employees (from £8,632 to £9,500) and for the self-employed. This was a planned change that was not related to the coronavirus (COVID-19), but may also reduce the amount of National Insurance that will be received in the financial year ending March 2021. \n\nWhile we do not yet have the full data on the impact of COVID-19 on total public sector income, provisional data allow early estimates of the effect of the pandemic on some taxes.  \n\nWe will cover a few taxes, belonging to some of the sub-groups shown in Figure 1, for which provisional data allow early estimates of the impact of COVID-19, starting with some of the taxes on production and income and wealth.  \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/social_contributions.xls\n  [2]: https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2020-to-2021"
+    },
+    {
+      "title": "4. VAT receipts fell during the first lockdown but grew faster than after the 2008 financial crisis ",
+      "markdown": "#####Monthly receivable VAT, UK, April 1997 to December 2020 \n\n<ons-interactive url=\"/visualisations/dvc1141/taxes_on_production/index.html\" full-width=\"false\" title=\"Chart showing VAT receivable over time\"/>\n\n[Data download][1]\n\nProvisional data suggest receipts from Value Added Tax (VAT), the biggest tax on production, fell from £11.7 billion in February 2020 to £10.1 billion in May 2020. It then grew again to around £12.0 billion in December 2020, but this was still below its peak of £13.5 billion in October 2019. There is a deferral scheme for UK businesses to delay payment of VAT due between 20 March and 30 June 2020. The deferred tax is already included using estimates, which means the data for 2020 are subject to revision.  \n\nThe last time VAT receipts dropped as significantly as the provisional data indicate was in the 2008 recession. It took until the start of 2011 for VAT receipts to recover to their April 2008 level of £8.7 billion. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/taxes_on_production.xls"
+    },
+    {
+      "title": "5. Fewer air passengers meant the loss of more than £2.9 billion in tax ",
+      "markdown": "#####Income from Air Passenger Duty, UK, Quarter 1 (Jan – Mar) 2016 to Quarter 4 (Oct - Dec) 2020 \n<ons-interactive url=\"/visualisations/dvc1141/air_passenger_duty/index.html\" full-width=\"false\" title=\"Chart showing how air passenger duty receipts declined during the coronavirus pandemic in 2020\"/>\n\n[Data download][1]\n\nAir Passenger Duty receipts in 2020 were £0.9 billion, down by 76.3% on the £3.8 billion received in 2019. \n\nThe biggest change was from Quarter 1 (Jan to Mar) 2020 to Quarter 2 (Apr to June) 2020, as the number of people flying reduced and air passenger duty income fell by 93.6%. \n\nThe decline was down to a combination of the lockdown, government advice against non-essential international travel, a reluctance to travel overseas and international restrictions brought in to try to curb the spread of the coronavirus.  \n\nThere was a rise in Quarter 3 (July to Sept) 2020, as international travel corridors allowed people to go on summer holidays overseas, but the £128 million received in Quarter 3 2020 was down 88.0% on the £1 billion of the same three months of 2019. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/air_passenger_duty.xls"
+    },
+    {
+      "title": "6. Fuel Duty income fell but recovered after the first lockdown ",
+      "markdown": "#####Monthly Fuel Duty receipts, UK, February 2020 to December 2020 \n<ons-interactive url=\"/visualisations/dvc1141/fuel_duty/index.html\" full-width=\"false\" title=\"Chart showing the change in fuel duty receipts before and during the coronavirus pandemic\"/>\n\n[Data download][1]\n\nThe [quieter roads were one of the most immediate changes][2] people saw from the first national lockdown in the spring of 2020. With people following the instruction to stay at home, traffic volumes fell. That meant Fuel Duty income decreased by 49.4% between March and May 2020, before recovering almost to pre-lockdown levels by August 2020.  \n\nThere was another, less significant, decline in Fuel Duty income in November and December, as England had a second lockdown followed by Tier 3 and Tier 4 restrictions across large parts of the country. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/fuel_duty.xls\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid192020incharts/2020-12-18"
+    },
+    {
+      "title": "7. Income Tax receipts fell substantially in July 2020 compared with July 2019 ",
+      "markdown": "#####Income Tax receipts, UK, financial year to December 2020, compared with financial years ending March 2016 to March 2020 \n<ons-interactive url=\"/visualisations/dvc1141/income_tax_line/index.html\" full-width=\"false\" title=\"Chart showing monthly income tax and the percentage change with the same month the year before\"/>\n\n[Data download][1]\n\nIncome Tax receipts – the money workers contribute through Pay As You Earn (PAYE) or self-assessment (SA) – increased each financial year between 2015 and 2019. These stronger receipts arrived despite fairly static marginal tax rates and movements in the personal allowance – the amount someone can earn before paying each band of Income Tax – which had been increasing annually.  \n\nProvisional data for April to December 2020 suggest Income Tax receipts were down on the same period in 2019, however this is not a complete picture of the effect of the pandemic.  \n\nThe biggest fall was in July 2020, when Income Tax receipts totalled £18.6 billion, which was £3.8 billion (17.0%) less than in the same month in 2019. This included £4.8 billion received through self-assessment in July 2020, down 49.0% from £9.4 billion in the same month of 2019. This reduction is highly likely to be down to the government allowing self-assessment payments to be deferred to January 2021. This means we will need to wait for the end of the financial year to be able to make a meaningful comparison. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1141/income_tax.xls"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) in charts: What we learned over the past month",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29"
+    },
+    {
+      "title": "The impact of the coronavirus so far: the industries that struggled or recovered",
+      "uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/whatisthecoronaviruscovid19doingtothepublicpurse/2021-02-02",
+  "description": {
+    "title": "What is the coronavirus (COVID-19) doing to the public purse?  ",
+    "keywords": [
+      "coronavirus",
+      "covid-19",
+      "public sector receipts",
+      "income tax",
+      "VAT",
+      "air passenger duty",
+      "fuel duty"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "public.sector.inquiries@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-02-02T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "From falls in VAT and Income Tax receipts to lockdown restrictions reducing income from Air Passenger and Fuel Duty, UK public sector income is being squeezed during the coronavirus (COVID-19) pandemic. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

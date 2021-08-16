@@ -1,0 +1,65 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This article contains data from the Annual Survey of Earnings and Hours, 2016. But you can also [explore the gender pay gap and test your knowledge][1] using the latest data from the 2017 Annual Survey of Earnings and Hours. \n\nOne of the ongoing talking points in the workplace and government is the difference in pay between men and women. In her first [statement as Prime Minister][2], Theresa May highlighted that:<br>\n\n<blockquote style=\"border-left: none; padding: 25px 25px 25px 65px; margin: 25px 0;  position: relative; background: #F2F2F2 url('https://visual.ons.gov.uk/wp-content/themes/ons-datastories/assets/img/quote.png') no-repeat 20px 25px;\"><p style=\"    margin-bottom: 0;\"><strong>\"If you’re a woman, you will earn less than a man.\"</strong></p></blockquote>\n\nAddressing this inequality in pay is one of the government’s aims. Last year's consultation marked the start of [Closing the Gender Pay Gap][3] ensuring that \"women achieve their full potential and the productivity of the nation is improved\".\n\nThe pay gap impacts on some of the most recognisable faces in society. While Theresa May is likely earning the same as her predecessor David Cameron, the same cannot be said of people in other occupations.\n\nIn the last year, actress [Jennifer Lawrence expressed anger][4] at the large variation in earnings in her industry, while in the tennis world, [Serena Williams][5] highlighted the difference in her pay compared to male equivalents.\n###But just how large is the difference?\nOne of the widest gender pay gaps is in financial occupations. Our Annual Survey of Earnings and Hours (ASHE) full-time hourly pay data shows, for example, that male financial managers and directors earn 32.4% more than women in the same occupation.\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/12/GPG-formula.png\"/>][6]\nThe Gender Pay Gap (GPG) is the primary measure used when comparing differences in pay between men and women. It is calculated using hourly pay (excluding overtime) for full-time employees.<br>\n\nOf course this is an average figure and there is quite a bit of variation within this occupation in terms of pay.\n\nThe average gap in pay between men and women in the UK is 9.4%. It is most pronounced for legal secretaries where women earn 23.0% more than men, and assemblers of vehicles and metal goods where men earn 33.6% more than women in the same role.\n###Test your knowledge on the difference between earnings of men and women in seven different occupations\nASHE full-time earnings^1^ gender pay gap^2^, 2016, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc384/original/quiz/quiz/index.html\" full-width=\"false\" title=\"Test your knowledge on the difference between earnings of men and women in seven different occupations\"/>\n \n\nPay between genders is complicated as it does vary over a lifetime. It can differ depending on whether you are looking at full-time or part-time working (or both), what age you are, what ethnicity you are and your seniority within an occupation. For example there may be a wider (or narrower) GPG in those earning a higher salary as an actor than in those earning a lower salary.\n\nIt’s also important to consider the ratio of men to women in each occupation and whether any difference is due to one gender being disadvantaged in this field or whether they are just naturally more or less inclined go into that type of work.\n\nThe reasons for the gender pay gap are complex and overlapping:\n\n- girls do well at school but often choose occupations or sectors that offer narrower scope for financial reward - many of the highest paying sectors are disproportionately made up of male employees.\n\n- a proportion of the gap may be due to the negative effect on wages of having worked part-time or having taken time out of the labour market to look after family.\n\n- women may not progress in work at the same rate as men due to cultural attitudes, lack of flexible working and stereotyping.\n\n- some older women may need to learn new skills to take advantage of employment opportunities in growing sectors; others may have increased caring responsibilities for partners, grandchildren or ageing parents.\n\n\nMore information on ASHE is available [here][9]. \n\n[<img src=\"https://static.ons.gov.uk/visual/2016/11/218px-Government_Equalities_Office_Logo.png\"/>][8]\n\n####Other Visual.ONS articles\n[Find out the gender pay gap for your job][11]<br>\n[Women shoulder the responsibility of ‘unpaid work’][12]<br>\n[The gender pay gap – what is it and what affects it?][13]<br>\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][14]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://visual.ons.gov.uk/explore-the-gender-pay-gap-and-test-your-knowledge/\n  [2]: https://www.gov.uk/government/speeches/statement-from-the-new-prime-minister-theresa-may\n  [3]: https://www.gov.uk/government/consultations/closing-the-gender-pay-gap\n  [4]: http://us11.campaign-archive1.com/?u=a5b04a26aae05a24bc4efb63e&id=64e6f35176&e=1ba99d671e#wage\n  [5]: http://www.ibtimes.co.uk/serena-williams-reignites-gender-pay-gap-debate-says-female-tennis-players-deserve-equal-pay-1569568\n  [6]: https://static.ons.gov.uk/visual/2016/12/GPG-formula.png\n  [7]: http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults/relateddata\n  [8]: https://static.ons.gov.uk/visual/2016/11/218px-Government_Equalities_Office_Logo.png\n  [9]: http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults\n  [11]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/find-out-the-gender-pay-gap-for-your-job\n  [12]: https://visual.ons.gov.uk/the-value-of-your-unpaid-work/\n  [13]: https://visual.ons.gov.uk/the-gender-pay-gap-what-is-it-and-what-affects-it/\n  [14]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n\n###Footnotes:\n1. The quality of earning estimates vary by occupation - there are [quality measures available][7]\n2. The pay gap is calculated using median hourly pay rates (excluding overtime)"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Hours and Earnings, 2016 Provisional Results",
+      "uri": "http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults"
+    },
+    {
+      "title": "Annual Survey of Hours and Earnings - all bulletins",
+      "uri": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html"
+    },
+    {
+      "title": "The Gender Pay Gap across different occupations - find out the gender pay gap for your job",
+      "uri": "https://visual.ons.gov.uk/find-out-the-gender-pay-gap-for-your-job"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/testyourknowledgeonthegenderpaygap/2016-12-09",
+  "description": {
+    "title": "Test your knowledge on the gender pay gap",
+    "keywords": [
+      "Employment and labour market",
+      "People, population and community",
+      "Earnings",
+      "Gender",
+      "Gender pay gap",
+      "Labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-12-09T12:01:46.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

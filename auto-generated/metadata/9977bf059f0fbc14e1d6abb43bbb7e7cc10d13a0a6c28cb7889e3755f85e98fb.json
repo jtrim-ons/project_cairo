@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/grossdomesticproductgdp/articles/gdpandme/2017-03-20/4e820cc8.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Explore everyday situations to see what feeds into GDP and the effect variations can have.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc396landing/index.html\" full-width=\"false\" title=\"Explore everyday situations to see what feeds into GDP and the effect variations can have\"/>\n\n\n\nOther Visual.ONS articles: \n\n[Commonwealth trade in focus as the UK prepares for Brexit][1]\n\n[Trends in births and deaths over the last century][2]\n\n[Test your knowledge on the gender pay gap][3]\n\n\n\nFor more information on GDP data, please contact: <gdp@ons.gov.uk>\n\n\n  [1]: https://www.ons.gov.uk/businessindustryandtrade/internationaltrade/articles/commonwealthtradeinfocusasukpreparesforbrexit/2017-03-09\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/testyourknowledgeonthegenderpaygap/2016-12-09\n  [4]: mailto:gdp@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "GDP and special events in history",
+      "uri": "https://visual.ons.gov.uk/gdp-and-special-events-in-history/"
+    },
+    {
+      "title": "Gross Domestic Product",
+      "uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp"
+    },
+    {
+      "title": "GDP in a borderless world",
+      "uri": "https://visual.ons.gov.uk/the-challenges-of-measuring-gdp-in-the-digital-borderless-world/"
+    },
+    {
+      "title": "What is GDP",
+      "uri": "https://visual.ons.gov.uk/what-is-gdp/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/gdpandme/2017-03-20",
+  "description": {
+    "title": "GDP and me",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "GDP",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-03-20T11:22:23.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "What's GDP go to do with you and me?  Find out how your spending and work can affect GDP.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,63 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Over the next few weeks students will be travelling to university for the start of the academic year. Understanding student populations and the impact they have on an area is complicated by many factors, but what can ONS data tell you about students in the UK?\n###Student numbers have almost doubled since 1992\n####Young people aged 18 to 24 in full-time education, seasonally adjusted, UK, March to May 1992 to May to July 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc366/chart1/index.html\" full-width=\"false\" title=\"Young people aged 18 to 24 in full-time education, seasonally adjusted, UK, March to May 1992 to May to July 2016\"/>[Download the data][1]\n\nIn the period March to May 1992, there were 984,000 people aged 18 to 24 in full-time education. In May to July 2016, there were 1.87 million, approximately 1 in every 3 people, aged 18 to 24 in full-time education.\n\nLooking at the employment rate amongst this group you can clearly see students gaining employment during the holidays. Students in 2016 are less likely to be in employment than 20 years ago, with on average 35.4% having a job in June to August 2015 to May to July 2016 compared with 40.3% in the same period 20 years previously. However, those that do have a job are more likely to keep it throughout the entire academic year, this is reflected by the fact that the peaks and troughs in the data are less pronounced in 2016 than they were 2 decades ago.\n\n####Percentage of 18 to 24 year olds in full-time education who are in employment, non-seasonally adjusted, UK, March to May 1992 to May to July 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc366/chart2/index.html\" full-width=\"false\" title=\"Percentage of 18 to 24 year olds in full-time education who are in employment, non-seasonally adjusted, UK, March to May 1992 to May to July 2016\"/>\n\n[Download the data][2]\n\n###Inward and outward migration is likely to be greater around larger universities\nMany of the local authorities that contain leading [Russell Group][3] universities, have a peak of people moving into the area at age 19 – when students tend to start their studies. Typically there is also a smaller but similar peak of people moving out of the area at age 22 when students typically finish university.\n\nLooking at the percentage of in and out migration by local authority you can see common patterns in those that have a major university compared with those without.\n\n####Average annual projected migration in and outflows (internal, cross-border and international moves), England, 2014 to 2024\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc366/chart3and4/russell.html\" full-width=\"false\" title=\"Average annual projected migration in and outflows (internal, cross-border and international moves), England, 2014 to 2024\"/>\n\n[Download the data][4]\n\nInternal migration of students and graduates is likely to influence the economic structure of an area; young people in rural areas may move away from their local authority to gain a university education elsewhere. However, once their student life comes to an end they may choose not to return, perhaps due to a lack of career prospects or forming a relationship with someone who lives elsewhere. This may cause a reduced skills base in some local authorities without universities. In London there are many universities and there is perceived to be a much larger and more varied graduate labour market, this may contribute to inward migration at ages 18 to 22.\n\nAs well as the changes in overall population, a large student population within a local authority may influence the overall birth rate in that area, as students in higher education tend to have a below average birth rate.\n\n####Average annual projected migration in and outflows (internal, cross-border and international moves, England, 2014 to 2024\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc366/chart3and4/non-russell.html\" full-width=\"false\" title=\"Average annual projected migration in and outflows (internal, cross-border and international moves, England, 2014 to 2024\"/>\n\n[Download the data][5]\n\nLocal authorities that neighbour those with Russell Group universities are likely to show similar but opposite peaks in migration. People aged 19 move out of the area whilst people move into the area aged 22. This is likely to be due to students moving away to university and returning 3 years later.\n\nIt’s important to highlight that these projected migration figures are also influenced by international, cross-border and non-student internal migration. London areas in particular are affected in these ways. Use the interactive chart to select a local authority and look at how population turnover varies throughout England.\n\nThree different areas – urban, rural and student, are looked at in more detail in this article on [understanding projected population change in an area][6].\n###The aged 18 to 24 population in Oxford and Cambridge increases by over 80% during university term-time\n####Age profile of the usually resident and out of term population: Oxford, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc366/chart5/index.html\" full-width=\"false\" title=\"Age profile of the usually resident and out of term population: Oxford, 2011\"/>\n\n[Download the data][7]\n\nThe population of an area can vary at different times throughout the year, placing different requirements on the provision of services locally. In Oxford in 2011, there was a 12% increase in the overall population and an 83% increase in the 18 to 24 year old population during term-time compared with out of term-time.\n###The male to female ratio can change in areas with universities during term-time\n####Sex ratio in and out of term time, Runnymede, 2011\n[<img src=\"https://static.ons.gov.uk/visual/2016/09/fct5_genderatio_no_heading.png\"/>][8]\n\nIn 2011, during university term-time in Runnymede there were 87 men aged 16 to 24 for every 100 women in the same age group. Out of term-time, the number of men in this age group increases to 99 per 100 women. This may be because Royal Holloway College (part of London University) is in Runnymede. It has a strong reputation for Arts and Humanities subjects which have traditionally attracted more female students.\n\nStafford, and Charnwood in Leicestershire, also experience fluctuations in sex ratios aged 16 to 24, with 18 and 13 less men per 100 women respectively out-of-term time than in term-time. The presence of Staffordshire and Loughborough Universities nearby could be a factor as both have a reputation for courses that may attract a greater number of male students.\n###International student numbers have fallen and are at their lowest since 2007\nOver a quarter of immigrants come to the UK for formal study. In 1977, there were 29,000 international students, rising to a peak of over 8 times this amount in 2010. However, recent years have seen a decline in long-term immigrants arriving to study, with numbers falling to 164,000 in the year ending March 2016.\n####Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016\n<ons-interactive url=\"/visualisations/dvc366/chart6/index.html\" full-width=\"false\" title=\"Long-term international immigrants arriving for formal study, UK, 1977 to year ending March 2016\"/>\n\n[Download the data][9]\n\n\n\nOther Visual.ONS articles:\n[What are migration levels like in your area?][10]\n[UK energy: how much? What type and where from?][11]\n[Shopping in 'shops' that have no shops][12]\n\n\n\nFor more information, please contact: [digitalcontent@ons.gov.uk][13]\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][14]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/09/total-students.csv\n  [2]: https://static.ons.gov.uk/visual/2016/09/percentage-students-in-employment.csv\n  [3]: http://russellgroup.ac.uk/about/our-universities/\n  [4]: https://static.ons.gov.uk/visual/2016/09/data.csv\n  [5]: https://static.ons.gov.uk/visual/2016/09/data.csv\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/subnationalpopulationprojectionssupplementaryanalysis/2014basedprojections/understandingprojectedpopulationchangeatthelocalauthoritylevel\n  [7]: https://static.ons.gov.uk/visual/2016/09/oxford.csv\n  [8]: https://static.ons.gov.uk/visual/2016/09/fct5_genderatio_no_heading.png\n  [9]: https://static.ons.gov.uk/visual/2016/09/data-1.csv\n  [10]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/what-are-migration-levels-like-in-your-area-2/\n  [11]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/ukenergyhowmuchwhattypeandwherefrom/2016-08-15\n  [12]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/articles/shoppinginshopsthathavenoshops/2016-07-29\n  [13]: mailto:digitalcontent@ons.gov.uk\n  [14]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "2011 Census: Out of term population of England and Wales - An alternative 2011 Census population base",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/outoftermpopulationofenglandandwalesanalternative2011censuspopulationbase/2014-09-24"
+    },
+    {
+      "title": "Understanding projected population change at the local authority level",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/compendium/subnationalpopulationprojectionssupplementaryanalysis/2014basedprojections/understandingprojectedpopulationchangeatthelocalauthoritylevel"
+    },
+    {
+      "title": "Internal Migration: Geographical Perspectives and Processes",
+      "uri": "https://books.google.co.uk/books?id=oKS1CwAAQBAJ&pg=PA59&lpg=PA59&dq=brain+drain+internal+migration&source=bl&ots=WDYKCCxaIg&sig=H26mARq4WJOBuzzDQtr212lcs_U&hl=en&sa=X&ved=0ahUKEwiix6qkiZHPAhWHOBoKHSb7AtwQ6AEIVTAI#v=onepage&q=brain%20drain%20internal%20migration&f=false"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howhasthestudentpopulationchanged/2016-09-20",
+  "description": {
+    "title": "How has the student population changed?",
+    "keywords": [
+      "Employment and labour market",
+      "People, population and community",
+      "Labour market",
+      "Migration",
+      "Population"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-09-20T10:02:13.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

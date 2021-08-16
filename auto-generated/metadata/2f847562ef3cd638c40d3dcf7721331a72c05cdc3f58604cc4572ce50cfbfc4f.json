@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "A number of events in recent history can be associated with having had an impact on the UK economy, including the [London 2012 Olympics][1].\n\nThe event was not only a medal-winning success for the UK; there was an increase in visitor spending and output in industries such as food and beverages.\n\nWe can point to other recent events which coincide with a sharp change in [Gross Domestic Product][2] (GDP). Take a look at our GDP timeline to find out more:\n\n\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc383/index.html\" full-width=\"false\" title=\"GDP Timeline\"/>\n\n[Download data][3]\n\n\n\nFor more information on GDP, contact: [gdp@ons.gov.uk][4]\n\n\n\nOther Visual.ONS articles\n[What is GDP?][5]\n[The challenges of measuring GDP in the digital, borderless world][6]\n[Why has the value of the pound been falling?][7]\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][8]to our email alerts, selecting 'stories and infographics' under preferences.\n\n####Footnotes:\n\n1.1970s economic downturn section of the timeline:\n\n[i] Income is 'Compensation of Employees': this is wages and salaries + employees' social contributions.\n\n[ii] GDP is made up of the Income, Expenditure, and Output measures. These three measures equal when the data has been balanced. Post reference year, an average of the three is published. The 50% figure is derived from 2015 figures published in the Second Estimate 2016 Apr to June.\n\n\n  [1]: http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/national-accounts/articles/2011-present/impact-of-the-olympics/index.html\n  [2]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21\n  [3]: https://static.ons.gov.uk/visual/2016/11/GDP-1970-to-2016.csv\n  [4]: mailto:gdp@ons.gov.uk\n  [5]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21\n  [6]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/thechallengesofmeasuringgdpinthedigitalborderlessworld/2016-11-22\n  [7]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/whyhasthevalueofthepoundbeenfallingandwhatcouldthismeanforpeopleintheuk/2016-10-28\n  [8]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Gross Domestic Product, preliminary estimate: July to Sept 2016",
+      "uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/grossdomesticproductpreliminaryestimate/julytosept2016"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/gdpandspecialeventsinhistory/2016-11-25",
+  "description": {
+    "title": "GDP and special events in history",
+    "keywords": [
+      "Economy",
+      "GDP",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-11-25T09:46:43.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

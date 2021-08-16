@@ -1,0 +1,70 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\nThis calculator does not contain the latest data. The latest version can be found in [What is my life expectancy and how might it change?](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whatismylifeexpectancyandhowmightitchange/2017-12-01)\n</ons-box>\n\nOne in three of today’s babies will live to see their 100th birthday, according to latest estimates.\n\nBut what are your chances of becoming a member of that exclusive club of those aged 100 and over, the centenarians?\n\nYour age and sex are two major factors that determine your chances. Enter them into our calculator to see some life expectancy statistics relating to your future.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc221/longevity.html\" full-width=\"false\"/>\n###Why do age and sex affect your chances of living to 100?\n####Number of people living to 100 by year of birth and sex, UK, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc221/charts/chart1/index.html\" full-width=\"false\" title=\"Number of people living to 100 by year of birth and sex, UK, 2016\"/>[Download the data][1]\n\nThe younger you are today, the more likely you are to reach 100. This is because of improvements in healthcare and changes in lifestyle - such as the decline in the number of people who smoke.\n\nIt is also assumed that improvements will continue. This means babies born in 2016 are more likely to make it to 100 than people who were born in 1936 (aged 80 in 2016).\n\nThe chart shows that regardless of current age, women are more likely to reach 100 than men. There has been much speculation about why this is and possible reasons include men historically being more likely to take risks, smoke cigarettes and consume more alcohol than women.^1^ This [BBC article][4] also speculates that it could be linked to the negative effects of testosterone and the positive effects of oestrogen.\n###How many of today's babies will reach 100?\nIn 2016 there are estimated to be 783,000 babies under one year old and the latest projection suggests that 248,400 of these will live to see their 100th birthday, that's one in every three.\n\nHowever, if they plan to party with fellow centenarians in 2116 it’s not likely the celebration will have an equal split of men and women. That’s because baby girls are more likely to reach 100 than baby boys – 134,500 (35.2%) of today’s baby girls are expected to reach 100, compared with 113,900 (28.4%) of today’s baby boys.\n\n###Number of babies estimated to live to 100, UK, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc221/charts/chart2/index.html\" full-width=\"false\" title=\"Number of babies estimated to live to 100, UK, 2016\"/>[Download the data][5]\n###How likely are you to receive a telegram from the monarch?\nLooking back over the past few decades, we’re sure The Queen will have noticed an increase in the number of celebratory messages she's sent to people turning 100 – the estimated number of centenarians has more than quadrupled from 3,000 in 1983 to 14,500 in 2016.\n\nThe number of centenarians is also projected to continue rising – reaching 83,300 in 2039 - more than enough to keep any future monarch busy!\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/01/data1.csv\n  [2]: http://www.ons.gov.uk/ons/rel/ghs/opinions-and-lifestyle-survey/adult-drinking-habits-in-great-britain--2013/stb-drinking-2013.html#tab-Key-points-in-2013-\n  [3]: http://www.ons.gov.uk/ons/rel/ghs/opinions-and-lifestyle-survey/adult-smoking-habits-in-great-britain--2013/stb-opn-smoking-2013.html#tab-The-proportion-of-the-population-who-smoke-cigarettes-has-fallen-over-the-last-40-years\n  [4]: http://www.bbc.com/future/story/20151001-why-women-live-longer-than-men\n  [5]: https://static.ons.gov.uk/visual/2016/01/data2.csv\n\n\n####Footnotes:\n1.  See more ONS data on [adult drinking habits][2] and [adult smoking habits][3] relating to this section. "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "How has life expectancy changed over time?",
+      "uri": "https://visual.ons.gov.uk/how-has-life-expectancy-changed-over-time/"
+    },
+    {
+      "title": "Why do women live longer than men?",
+      "uri": "http://www.bbc.com/future/story/20151001-why-women-live-longer-than-men"
+    },
+    {
+      "title": "Most affluent man outlives the average woman for the first time",
+      "uri": "https://visual.ons.gov.uk/most-affluent-man-now-outlives-the-average-woman-for-the-first-time/"
+    },
+    {
+      "title": "How long will you live in good health?",
+      "uri": "https://visual.ons.gov.uk/how-long-will-you-live-in-good-health/"
+    },
+    {
+      "title": "National Population Projections, 2014-based projections",
+      "uri": "http://www.ons.gov.uk/ons/rel/npp/national-population-projections/2014-based-projections/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/whatareyourchancesoflivingto100/2016-01-14",
+  "description": {
+    "title": "What are your chances of living to 100?",
+    "keywords": [
+      "People, population and community",
+      "Gender",
+      "Life expectancy",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-01-14T12:11:58.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

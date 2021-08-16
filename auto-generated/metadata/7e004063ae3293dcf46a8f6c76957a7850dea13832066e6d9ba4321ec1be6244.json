@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Last year, Chancellor George Osborne set out his vision to create a 'Northern Powerhouse' as a means of addressing the north-south economic divide.\n\nFigures from the Business Register and Employment Survey (BRES) give a detailed insight into differences in employee growth between the north and south.\n\n###Employee growth in the north recovered later than the south\n####Change in employee levels for northern and southern England regions, 2009 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc286/bres1/index.html\" full-width=\"false\" title=\"Change in employee levels for northern and southern England regions, 2009 to 2014\"/>[Download the data][1]\n\nWhere the UK more generally is considered to have started coming out of recession in 2009, the number of employees in the north of England only began to rise again from 2012.\n\nEmployee numbers in the south of England have risen since 2009, with the rate notably increasing from 2011.\n\nEven excluding London, the south has performed better than the north over this period. The indication is that the north has shown the same pattern of growth as the south, but at a later stage and at a slower rate.\n\nThe northern England regions collectively have grown below the UK average in both the 2009-2014 period (growing at 2.2%) and the 2013-2014 period (growing at 2.7%).\n\nThis is in stark contrast to the southern regions, which collectively have grown by 7.5% during the 2009-2014 period and 3.5% during the 2013-2014 period.\n\nMuch of the growth in the southern regions has been in London (14.2%) during 2009-2014. Growth in the southern regions outside of London is still higher than that seen in the north over this period (4.2%).\n\nAt the local authority (LA) district level, the top five growing LA districts in the south all grew faster than the top five growing LA districts in the north.\n\n###Manufacturing remains a big industry in the north whereas professional services thrive down south\n\nHealth is the top employer both in the north and the south, with retail, education, business administration and support services also in the top five for both regions.\n\n####Rank of employers by industry in the north and south, UK, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc286/bres3/index.html\" full-width=\"false\" title=\"Rank of employers by industry in the north and south, UK, 2014\"/>[Download the data][2]\n\nHowever, in the north, the 2nd biggest industry was manufacturing (7th biggest in the south), while in the south, the 2nd biggest industry was professional, scientific & technical services (7th biggest in the north). The latter has increased by significantly more in the south than in the north between 2013 and 2014.\n\n###How employee growth in ‘Big 5’ city regions in the north compare with other UK cities\n\nThe ‘Big Five’ northern city regions of Manchester, Liverpool, Leeds, Sheffield and Newcastle, with a combined growth between 2009 and 2014 of 2.1%, is roughly in line with the growth of 2.2% for the combined northern regions as a whole, and only slightly behind the combined growth of 2.3% for all city regions used in this analysis, excluding London.\n\nIn contrast, the growth in the number of employees in London of 14.2%, far exceeds the combined growth of all the other city regions used in this analysis.\n\n####Percentage growth in the number of employees by selected city regions, UK, since 2009 and 2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc286/bres4/index.html\" full-width=\"false\" title=\"Percentage growth in the number of employees by selected city regions, UK, since 2009 and 2013\"/>[Download the data][3]\n\nAll city regions used in this analysis that are based in the north have seen an increase in the number of employees since 2009, with Manchester growing the most (2.7%) and Liverpool growing the least (1.4%).\n\n<ons-box align=\"full\">In this article, “the north” refers to the established definition of the North West, North East and Yorkshire & the Humber regions. Although “the south” does not have an established definition, in this article it refers to the South West, the South East, the East of England and London regions.</ons-box>\n\n<ons-box align=\"full\">While BRES is the official source of estimates of employees by detailed industry and geography, other sources such as the Labour Force Survey and Workforce Jobs can give more timely results with better coverage of the self-employed.</ons-box>\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/10/data.csv\n  [2]: https://static.ons.gov.uk/visual/2015/10/Book1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/10/data1.csv\n  [4]: mailto:better.info@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Business Register and Employment Survey (BRES), 2014 provisional",
+      "uri": "http://www.ons.gov.uk/ons/rel/bus-register/business-register-employment-survey/2014-provisional/index.html"
+    },
+    {
+      "title": "City regions definitions",
+      "uri": "https://visual.ons.gov.uk/wp-content/uploads/2015/10/City-region-definitions.xlsx"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/howemployeenumbershavechangedinthenorthsince2009/2015-10-09",
+  "description": {
+    "title": "How employee numbers have changed in the north since 2009",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "Employment and labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-10-09T07:30:44.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

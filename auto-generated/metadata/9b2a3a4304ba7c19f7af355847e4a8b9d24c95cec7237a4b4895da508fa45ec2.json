@@ -1,0 +1,84 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The UK housing market comprises 28.1 million residential properties in 2014[^1^](#footnote1). Linked to income, wealth and availability of lending, the housing market is sensitive to the overall economic climate.\n\n\n\nHousing policy in the UK is devolved and sub national trends are available in the related links. This article in the [UK Perspectives][2] series presents some UK national trends.\n###1. Current rising house prices\n<ons-box align=\"full\">The ONS mix-adjusted House Price Index (HPI) is a measure of house price inflation over time and is calculated as a weighted average of prices for a standard mix of tenure. This removes the effect of the changing composition of properties.</ons-box>\n\n####Mix-adjusted House Price Index (HPI), UK, 1980 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart1/House_Chart1.html\" full-width=\"false\" title=\"Mix-adjusted House Price Index (HPI), UK, 1980 to 2015\"/>\n\n[Download the data][3].\n\n- On average house prices have increased by 7% per year since 1980.\n- Since 1980, the greatest annual increase in house prices was 25.6% in 1988.\n- In 2015, the average price (mix adjusted) of a property in the UK stood at £279,000.\n\nThere were seven years between 1980 and 2013 where, on average, UK house prices fell - the majority of which occurred during the recession of the early 1990s. The biggest drop, however, was 7.6% in 2009.\n\nThe economic downturn in 2008 had a considerable impact on the UK housing market. The decline in house prices was accompanied by reduced mortgage availability and stricter lending criteria.\n\nThe number of property sales in the UK almost halved from a peak of 1.67 million in 2006 to 0.85 million in 2009[^2^](#footnote2). Since 2009, however, the number of sales has partially recovered – increasing to 1.23 million in 2015[^3^](#footnote3).\n###2. Declining number of first time buyers\n####Number of mortgage loans for first time buyers, UK, 1980 to 2015[^4^](#footnote4)\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart2/House_Chart2.html\" full-width=\"false\" title=\"Number of mortgage loans to first time buyers\"/>\n\nRising house prices could partially explain the decline in the number of first time buyers taking out a mortgage, although other economic factors will play a role. From the 1980s until the early 2000s there were typically between 400,000 and 600,000 loans to first time buyers each year. However, in 2003 there was a 31% decline and then in 2008 there was a further 47% decrease – the largest in the series – as the economic downturn affected the housing market.\n\nIn recent years the number of first time buyers has been recovering, although numbers fell in 2015 and the levels remain below those seen before 2003.\n###3. Decreasing numbers of younger homeowners\n####Percentage of each age group that are home owners[^5^](#footnote5), England, 1981 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart3/House_Chart3.html\" full-width=\"false\" title=\"Home owners by age group\"/>\n\n[Download the data][5].\n\nThe reduction in the numbers of first time buyers has subsequently had an impact on the age of homeowners. In 1991, 67% of the 25 to 34 age group were homeowners. By the financial year ending 2014, this had declined to 36%.[^6^](#footnote6)\n\nThere were also reductions in home ownership over the same period for the 16 to 24 age group (from 36% to 9%) and for the 35 to 44 age group (from 78% to 59%). By contrast, home ownership has increased among older age groups.\n###4. Deposits paid by first time buyers\n####Deposit as a percentage of purchase price by type of buyer, UK, 1988 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart4/House_Chart4.html\" full-width=\"false\" title=\"Deposit as a percentage of purchase price by type of buyer, UK, 1988 to 2014\"/>\n\n[Download the data][7].\n\nAnother changing aspect of the housing market is the percentage of purchase price being paid as a deposit. For first time buyers the average deposit as a percentage of purchase price more than doubled between 1988 and the peak of the economic downturn in 2009, reaching almost 28% of the price of the house. A likely factor was that buyers with smaller deposits became less likely to be approved for a mortgage, pushing up the average value of those deposits that were paid.\n\nSince then, deposits for first time buyers have fallen as a percentage of purchase price, although the 2015 figure of 21% is still much higher than it was through the late 1980s, the 1990s and early 2000s.\n\nFor existing owner occupiers the level of deposit being paid has been more stable, but also peaked during the economic downturn in 2009. Since then the level has fallen from 39% to 35%, which is similar to the level in the late 1980s. The difference in percentage deposit paid by first time buyers and existing owners has therefore narrowed over time.\n\n###5. Increase in private rental sector stock\nThe number of households in the UK, and therefore demand for housing, has increased, partly as a result of increasing population together with decreasing average household size. There were 27 million households in the UK in 2015. Of these, 29% consisted of only one person[^7^](#footnote7); in 1981, 20% of the 20.2 million households were single occupancy[^8^](#footnote8).\n\n####Dwelling stock by tenure, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart5/House_Chart5.html\" full-width=\"false\" title=\"Dwelling stock by tenure, UK, 1980 to 2014\"/>\n\n[Download the data][10].\n\nSupply has also risen, with an increase of 31% in the total dwelling stock between 1980 and 2014.\n\nUnder the 1988 Large Scale Voluntary Transfer (LSVT) policy, local authorities transferred much of their housing stock to housing associations and registered social landlords.\n\nMeanwhile, the growth of home ownership throughout the 1980s and 1990s can be partly attributed to the introduction of [Right to Buy][11], a policy in the UK which provides secure tenants of [councils][12] and some [housing associations][13] the [legal right][14] to purchase the home they are living in at a large discount. By 1991, more than one million council houses in England had been sold to their tenants as a result[^9^](#footnote9).\n\nThe rate of Right to Buy sales fell during the 1990s, and in recent years the number of owner occupancies has also slightly declined. Accompanying this decline is the continued growth of private sector renting – which more than doubled between 1980 and 2014.\n###6. Fewer new homes are being built\n####Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart6/House_Chart6.html\" full-width=\"false\" title=\"Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015\"/>\n\n[Download the data][16].\n\nThe overall level of house building in the UK has declined since 1980, with 152,440 houses built in the financial year ending 2015 – a fall of nearly 40% from the 251,820 built in the financial year ending 1980.\n\nFrom the financial year ending 2003, the number of build completions saw a short term increase, peaking in the financial year ending 2007. Afterwards, the number of houses built dropped at the time of the economic downturn, although since the financial year ending 2013 build completions have again increased.\n##Conclusion: Increasing demand and limited supply\nSince 1980, there has been considerable fluctuation in the UK housing market. Overall, there has been growing demand and relatively limited supply growth. House prices have been increasing, and first time buyers are finding it more difficult to get on the property ladder – while home ownership among younger age groups generally has declined. As the UK population continues to grow, housing is likely to remain an important topic in the future.\n\nFor more information, contact: [digitalcontent@ons.gov.uk][17]\n\n\n  [1]: https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants\n  [2]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016\n  [3]: https://static.ons.gov.uk/visual/2016/05/Housing_Chart1.csv\n  [4]: http://webarchive.nationalarchives.gov.uk/20160105160709/https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492847/uk_tables_jan_2016__cir_.pdf\n  [5]: https://static.ons.gov.uk/visual/2016/05/Housing_Chart3-v2.csv\n  [6]: https://www.gov.uk/government/statistics/english-housing-survey-2014-to-2015-headline-report\n  [7]: https://static.ons.gov.uk/visual/2016/05/Housing_Chart4-1.csv\n  [8]: http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2015-11-05\n  [9]: http://www.ons.gov.uk/ons/rel/social-trends-rd/social-trends/social-trends-41/social-trends-41---household-and-families.pdf\n  [10]: https://static.ons.gov.uk/visual/2016/05/Housing_Chart5-v2.csv\n  [11]: https://righttobuy.gov.uk/\n  [12]: http://en.wikipedia.org/wiki/Council_house\n  [13]: http://en.wikipedia.org/wiki/Housing_association\n  [14]: http://en.wikipedia.org/wiki/Legal_right\n  [15]: https://www.gov.uk/government/statistical-data-sets/live-tables-on-social-housing-sales#right-to-buy-sales\n  [16]: https://static.ons.gov.uk/visual/2016/05/Housing_Chart6.csv\n  [17]: mailto:better.info@ons.gov.uk\n\n\n###Footnotes:\n<h6 id=\"footnote1\">1.</h6> [Dwelling stock in the UK][1]\n<h6 id=\"footnote2\">2.</h6> See table 5 of the [data][4]. Figures include transactions of value £40,000 or above. \n<h6 id=\"footnote3\">3.</h6> See footnote 2.\n<h6 id=\"footnote4\">4.</h6> The data for this chart has been provided by the Council of Mortgage Lenders (CML) solely for this purpose. As such, the underlying data is not available.\n<h6 id=\"footnote5\">5.</h6> The concept of the household reference person (HRP) has been used here. The HRP is defined as a ‘householder’ (that is, a person in whose name the accommodation is owned or rented). For households with joint householders, it is the person with the highest income; if two or more householders have exactly the same income, the older is selected.\n<h6 id=\"footnote6\">6.</h6> Data for the financial year ending 2015 are now available, albeit not all age classes are the same. See [English Housing Survey][6] headline report 2014 to 2015, Section 1 household tables, AT1.4.\n<h6 id=\"footnote7\">7.</h6> [Families and households 2015][8]\n<h6 id=\"footnote8\">8.</h6> [Social Trends (pdf)][9] 41, Households and families\n<h6 id=\"footnote9\">9.</h6> [DCLG Right to buy sales, Table 671][15]"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK Perspectives 2016",
+      "uri": "https://visual.ons.gov.uk/introducing-uk-perspectives-2016/"
+    },
+    {
+      "title": "Trends in the housing market",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/hpi/house-price-index-guidance/trends-in-the-uk-housing-market-2014/housing-trends-article.html"
+    },
+    {
+      "title": "How are house prices changing?",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/feb2016"
+    },
+    {
+      "title": "How many of each property type are there? (1971 onwards)",
+      "uri": "https://www.gov.uk/government/collections/dwelling-stock-including-vacants"
+    },
+    {
+      "title": "New house builds across the UK (1969 onwards)",
+      "uri": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-house-building"
+    },
+    {
+      "title": "Overcrowding and under occupation in England and Wales",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/overcrowding-and-under-occupation-in-england-and-wales/index.html"
+    },
+    {
+      "title": "Household projections",
+      "uri": "https://www.gov.uk/government/statistical-data-sets/live-tables-on-household-projections"
+    },
+    {
+      "title": "Why are more young people living with their parents?",
+      "uri": "https://visual.ons.gov.uk/living-with-parents/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/ukperspectives2016housingandhomeownershipintheuk/2016-05-25",
+  "description": {
+    "title": "UK Perspectives 2016: Housing and home ownership in the UK",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "Employment and labour market",
+      "People, population and community",
+      "UK perspectives 2016",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digicontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-05-25T08:30:24.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

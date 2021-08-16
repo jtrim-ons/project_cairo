@@ -1,0 +1,81 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/youdrawthecharts60yearsofchange/2017-10-24/3c150d27.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In October 1957 BBC Radio 4's [Today][1] programme went on the air for the first time. A lot has changed in the last 60 years: we are living much longer; attitudes to sex and marriage have become more relaxed; house prices have risen and the demographics of the country have changed. But do you know by how much?\n\n\nWe've teamed up with [BBC News][2] to use statistics to tell the story of the last 60 years.\n\nTest your knowledge by drawing in the missing information on the charts below. The charts give you the latest figure – all you have to do is tap and drag the orange dot on each graph and draw the rest of the chart back to 1957, then use the \"Show me the answer\" button to see how you did.\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/dyoexample.gif\"/>\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_house_prices.png\"/>\n###How low were house prices in 1957?^1^\nHouse prices have rocketed over the last few decades. But how modern is this phenomenon? Hold and drag the orange dot to trace the trend line back to 1957.\n####Average house prices, 1957 to 2017, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/ukhpi/index.html\" full-width=\"false\" title=\"Average house prices, 1957 to 2017, UK\"/>\nSource: [UK House Price Index, HM Land Registry][3] (from April 1968); [House Price Index: Annual Tables, ONS][4]\n(1957 to March 1968)\n\n[Download the data.][5]\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_life_expectancy_v2.png\"/>\n###How long could you expect to live in 1957?\nImprovements in medical care and fewer people smoking mean that we are now living longer than ever. A baby boy born in the UK in 2014 could expect, on average, to live to 79; for baby girls born that year it was 83. But what do you think the average life expectancy was for a boy born in 1957? Can you draw the trend line back 60 years?\n####Life expectancy at birth, males, 1957 to 2014, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/lifeexp/index.html\" full-width=\"false\" title=\"Life expectancy at birth, males, 1957 to 2014, UK\"/>\nSource: [Expectation of Life, Principal Projection, United Kingdom][6] (from 1981); [Life tables, principal projection, England and Wales][7] (1957 to 1980), ONS\n\n[Download the data.][8]\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_charts_divorce.png\"/>\n###Did many people divorce?\nMarriage has dropped in popularity since 1957. That year 52 out of every 1,000 unmarried women tied the knot. In 2014 it was just 21 women out of every 1,000 unmarried women.\n\nBut what about divorce? How has it changed and what was the divorce rate in 1957? We've given you the latest figure for the number of women divorcing for every 1,000 married women. Tap on the orange marker and draw the trend line back.\n####Divorce and marriage rates, females, 1957 to 2014, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/marriage/index.html\" full-width=\"false\" title=\"Divorce and marriage rates, females, 1957 to 2014, England and Wales\"/>\nSource: [Divorces in England and Wales][9]; [Marriages in England and Wales][10], ONS\n\n[Download the data.][11]\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_babies_outside_marriage.png\"/>\n###How many children were born outside of marriage?^2^\nToday there are nearly as many children born to unmarried parents as those whose parents are married. Not so in 1957. But do you know what the percentage was back then? The orange marker is the latest number. Hold and drag to draw the trend line back.\n####Children born to unmarried parents, 1957 to 2016, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/bornoutmarriage/index.html\" full-width=\"false\" title=\"Children born to unmarried parents, 1957 to 2016, England and Wales\"/>\nSource: [Birth Summary Tables][12], ONS\n\n[Download the data.][13]\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_babies2.png\"/>\n###What percentage of people living in the UK were born abroad?^3^\nThis measure does not always mean what people think it means: it's not a count of foreigners living in the UK. For example Foreign Secretary Boris Johnson and the actress Emma Watson were both born abroad but would not be seen as foreigners by most people. The figures also include people born in Germany who are often children of British service people based out there.\n\nCaveats aside though, this number has grown over the time Today has been on the air. The orange marker shows today's figure. But what was the trend and what was this number in the 1950s? Hold and drag to draw your line.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/bornabroad/index.html\" full-width=\"false\" title=\"Born abroad draw your own\"/>\nSource: Census data, 1951 to 2011, [ONS][14], [National Records of Scotland][15], [Northern Ireland Statistics and Research Agency][16]\n\n[Download the data.][17]\n\n<img src=\"https://static.ons.gov.uk/visual/2017/10/today_ons_mothers_age.png\"/>\n###What was the average age of a first-time mother in 1957?\nThe average age of a woman giving birth to her first child today is 29. This is higher than it was 60 years ago. Can you draw the line back to 1957? Hold and drag the orange marker to make your guess.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc445/firstborn/index.html\" full-width=\"false\" title=\"1st born draw your own\"/>\nSource: [Births by parents' characteristics][18], ONS\n\n[Download the data.][19]\n\n\nOther Visual.ONS articles:\n\n[House prices: how much does one square metre cost in your area?][20]\n\n[What affects an area’s healthy life expectancy?][21]\n\n[Trends in births and deaths over the last century][22]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][23] to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n\n  [1]: http://www.bbc.co.uk/programmes/b006qj9z\n  [2]: http://www.bbc.co.uk/news/uk-41685693\n  [3]: https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-august-2017\n  [4]: https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/housepriceindexannualtables2039/current\n  [5]: https://static.ons.gov.uk/visual/2017/10/ukhpi.csv\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/expectationoflifeprincipalprojectionunitedkingdom\n  [7]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/lifetablesprincipalprojectionenglandandwales\n  [8]: https://static.ons.gov.uk/visual/2017/10/lifeexp.csv\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/datasets/divorcesinenglandandwales\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/datasets/marriagesinenglandandwales2013\n  [11]: https://static.ons.gov.uk/visual/2017/10/marriage.csv\n  [12]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/birthsummarytables\n  [13]: https://static.ons.gov.uk/visual/2017/10/bornoutmarriage.csv\n  [14]: https://www.ons.gov.uk/census\n  [15]: http://www.scotlandscensus.gov.uk/\n  [16]: https://www.nisra.gov.uk/statistics/census\n  [17]: https://static.ons.gov.uk/visual/2017/10/bornabroad.csv\n  [18]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/birthsbyparentscharacteristics\n  [19]: https://static.ons.gov.uk/visual/2017/10/firstborn.csv\n  [20]: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/housepriceshowmuchdoesonesquaremetrecostinyourarea/2017-10-11\n  [21]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whataffectsanareashealthylifeexpectancy/2017-06-28\n  [22]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15\n  [23]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  [24]: mailto:digitalcontent@ons.gov.uk\n\n\n###Footnotes:\n1. The 2017 figure is an average of the monthly figures from January to August.\n2. Since 2009, data also include those born outside of civil partnerships.\n3. This chart is drawn from census data from 1951 to 2011. Census data are only collected every ten years, therefore estimates between these years are not official statistics."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "House Price Index, UK: August 2017",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/august2017"
+    },
+    {
+      "title": "Past and projected data from the period and cohort life tables: 2014-based, UK, 1981 to 2064",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/pastandprojecteddatafromtheperiodandcohortlifetables/2014baseduk1981to2064"
+    },
+    {
+      "title": "Divorces in England and Wales: 2016",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/divorce/bulletins/divorcesinenglandandwales/2016"
+    },
+    {
+      "title": "Marriages in England and Wales: 2014",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/bulletins/marriagesinenglandandwalesprovisional/2014"
+    },
+    {
+      "title": "Births in England and Wales: 2016",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2016"
+    },
+    {
+      "title": "2011 Census data catalogue",
+      "uri": "https://www.ons.gov.uk/census/2011census/2011censusdata/2011censusdatacatalogue"
+    },
+    {
+      "title": "Births by parents' characteristics in England and Wales: 2015",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsbyparentscharacteristicsinenglandandwales/2015"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/youdrawthecharts60yearsofchange/2017-10-24",
+  "description": {
+    "title": "You draw the charts: 60 years of change",
+    "keywords": [
+      "People, Population and Community",
+      "Health",
+      "Housing",
+      "House Prices",
+      "Births, Deaths and Marriages",
+      "Life Expectancy",
+      "Migration"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-10-24T11:00:32.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "In October 1957 BBC Radio 4's Today programme went on the air for the first time. What's changed in the last 60 years?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

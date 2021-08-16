@@ -1,0 +1,74 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/506d568b.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "###Correction\n2pm, 4 April 2018. A correction has been made to title and first paragraph of this article. This was due to a small error when calculating the total number of seaside locations. A second correction was made to the figure in paragraph 5 - from 1.7 to 1.9. This was due to using an incorrect time period for the data. We apologise for any inconvenience. "
+    },
+    {
+      "title": "",
+      "markdown": "####Six of the 10 local authority districts in England and Wales with the highest rates of heroin- and/or morphine-misuse deaths are coastal holiday resorts, figures have revealed.\n\nPlaces that may have been more synonymous with family holidays are among the 10 areas that saw the highest rates of drugs misuse fatalities where heroin and/or morphine were mentioned on the death certificate.\n\nSome of the 10 places also have high levels of deprivation, which could link to increased drug use.\n\n####Rate of heroin and morphine deaths by misuse, 2014 to 2016, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc478/hexmap/index.html\" full-width=\"false\" title=\"Rate of heroin and morphine deaths by misuse, 2014 to 2016, England and Wales\"/>\n[Download the data][1]\n\nThe Lancashire resort borough of Blackpool has been the location of the highest death rate since 2010 to 2012, with 14.0 heroin and/or morphine misuse deaths per 100,000 people in 2016.\n\nThis compares with the national average of 1.9 in England and 2.3 in Wales and is almost twice as high as the area with the next highest rate of heroin and/or morphine misuse deaths, Burnley (just over 30 miles inland from Blackpool), which has a rate of 7.6 per 100,000.\n\nBlackpool’s fortunes have been in decline since [traditional coastal holidays fell out of favour in the 1960s][2], with the advent of package holidays abroad. \n\nThe other seaside locations to feature in the 10 areas with the highest rate of heroin or morphine misuse deaths are Bournemouth, Portsmouth, Hastings, Thanet and Swansea. \n\nThe remaining areas are Burnley, Reading, Hyndburn and Neath Port Talbot, which although coastal, is not a holiday resort.\n\n###Drug misuse deaths likely to be tied to deprivation \nPublic Health England has suggested a link between areas of higher deprivation and drugs misuse. \n\nTheir report, [Preventing Drugs Misuse Deaths][3], said: “Social factors, including housing, employment and deprivation, are associated with substance misuse and these social factors moderate drug treatment outcomes.”\n\nThe Advisory Council on the Misuse of Drugs linked an increase in heroin misuse deaths to the “deepening socio-economic deprivation since the financial crisis of 2008” in its publication [Reducing Opioid-Related Deaths in the UK][4]. \n\n####Death rates by deprivation decile for drug misuse and non-misuse, 2016, England\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc478/IMD/IMD-Bar-Vertical/index.html\" full-width=\"false\" title=\"Death rates by deprivation decile for drug misuse and non-misuse, 2016, England\"/> \n[Download the data][5]\n\nBlackpool was ranked as the [fourth most deprived area out of 326 districts][6] and unitary authorities in England. ([Lancashire Council website][7])\n\n###How heroin and morphine deaths have varied over time\nThere were 3,744 drug poisoning deaths (involving both legal and illegal drugs) registered in 2016 in England and Wales. Of those deaths, 2,593 were from drug misuse, which represents 69% of total deaths. In 1993 the proportion was 38%. \n\n<ons-chart path=\"1ff8c300\" />\n\n<ons-chart path=\"71438784\" />\n\nHeroin and/or morphine is the drug used by the so-called  “[Trainspotting generation][8]”. Death rates from the misuse of opiates have [steadily climbed][9] between 1993  (when data were first collected) and 1996; since then they have plateaued at around 80% of all opiate deaths, through to 2016.  \n\nThis “Trainspotting generation”, which became addicted to heroin in the 1980s and 1990s, has been cited as one of the reasons for the increase. This may also explain why the highest rate of death from drugs misuse in 2016 was among the 40 to 49-year-olds, overtaking those aged 30 to 39 years.\n\n<ons-chart path=\"1a29c600\" />\n\nIn 2016, the number of drug-related deaths where heroin and/or morphine were mentioned on the death certificate has increased by almost eight times since 1993. There has been only a slight increase from 2015, where 1,201 deaths were registered, but there has been an increase of almost two-thirds since 2012, following the “[heroin drought][10]” of 2010 to 2011. \n\n####Notes:\n1. Drugs misuse deaths – Deaths coded to mental and behavioural disorders due to psychoactive substance use or death where a controlled substance is mentioned.\n\n2. Deaths from non-misuse of drugs – Not coded to mental and behavioural disorder due to psychoactive substance use and no mention of a controlled substance.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc478/hexmap/data/hmrates.csv\n  [2]: https://www.centreforsocialjustice.org.uk/core/wp-content/uploads/2016/08/Turning-the-Tide.pdf\n  [3]: https://www.gov.uk/government/publications/health-matters-preventing-drug-misuse-deaths/health-matters-preventing-drug-misuse-deaths\n  [4]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/576560/ACMD-Drug-Related-Deaths-Report-161212.pdf\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/008266numberofdeathsandagestandardisedmortalityratesfordeathsrelatedtodrugpoisoningbymisuseornonmisuseindexofmultipledeprivationdecilesinengland2016\n  [6]: https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015\n  [7]: http://www.lancashire.gov.uk/lancashire-insight/area-profiles/local-authority-profiles/blackpool/\n  [8]: https://www.theguardian.com/society/2017/aug/02/trainspotting-generation-most-likely-to-die-from-drug-misuse\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingheroinupbytwothirdsintwoyears/2015-09-03\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2015registrations#deaths-involving-heroin-andor-morphine-doubled-in-the-last-3-years-and-are-now-the-highest-on-record"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "[Title]Deaths from drug misuse out of all drug-related deaths, 1993 to 2016, England and Wales",
+      "filename": "1ff8c300",
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles//2018-04-04/1ff8c300"
+    },
+    {
+      "title": "Deaths from any opiate out of all deaths from drug misuse",
+      "filename": "71438784",
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles//2018-04-04/71438784"
+    },
+    {
+      "title": "Number of deaths from heroin and/or morphine, 1993 to 2016, England and Wales",
+      "filename": "1a29c600",
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles//2018-04-04/1a29c600"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04/previous/v1",
+      "updateDate": "2018-04-04T11:59:54.823Z",
+      "correctionNotice": "A correction has been made to title and first paragraph of this article. This was due to a small error when calculating the total number of seaside locations. You can see the original content in the superseded version. We apologise for any inconvenience. "
+    }
+  ],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/halfofheroinmorphinemisusedeathhotspotsinenglandandwalesareseasidelocations/2018-04-04",
+  "description": {
+    "title": "More than half of heroin/morphine misuse death hotspots in England and Wales are seaside locations",
+    "keywords": [
+      "heroin",
+      "morphine",
+      "drugs misuse deaths"
+    ],
+    "metaDescription": "Six of the 10 towns and cities in England and Wales with the highest rates of heroin/morphine-misuse1 deaths are coastal holiday resorts.",
+    "nationalStatistic": false,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-04-03T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Some of  England and Wales's favourite seaside resort areas are now among the towns with the highest rates of deaths from the misuse of heroin/morphine.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

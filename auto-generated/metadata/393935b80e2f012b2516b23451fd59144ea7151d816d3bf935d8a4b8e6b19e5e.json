@@ -1,0 +1,63 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06/3bed62a3.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Women earn less per hour, on average, than men in all nine major occupation groups^1^.\n\n\nThe number of women working part-time is among the reasons behind this gender pay gap, which is 18% in favour of men^2^. There are more than three times as many women working part-time than men, and part-time jobs tend to be lower paid.\n\nBut a pay gap of 9% remains for full-time workers^3^, with women earning less than men in every occupation group (even those where women outnumber men). \n\nWomen are much more likely than men to work in low-paid sectors like care and leisure, as well as in administrative and secretarial jobs. Four out of five full-time care and leisure roles are performed by women, but these women earn 9% less per hour, on average, than their male counterparts^4^.\n\nWomen hold nearly half (45%) of full-time \"professional occupations\" – including scientists, engineers and health professionals –  yet their hourly earnings are 11% lower, on average, than men.\n\nMeanwhile, men are more likely than women to work in highly paid occupations, like managers, directors and senior officials, where women earn 16% less per hour on average. Men also hugely outnumber women in skilled trades: jobs like farmers, mechanics, electricians and chefs. In this occupation group, there is a larger pay gap (25%) in favour of men.\n###Women working full-time earn less, on average, than men in all major occupation groups \n####Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc446/fulltime/index.html\" full-width=\"false\" title=\"Difference between proportions of men and women in full-time employment, and gender pay gap per hour, by occupation group\"/>\n\n[Download the data][1]\n\nWe see a similar trend when looking at specific jobs. Hover over the jobs below to see the gender pay gap alongside the split in employment.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc446/explorer/index.html\" full-width=\"false\" title=\"What is the gender pay gap for your job?\"/>\n\n[Download the data][2]\n\nIn jobs where men outnumber women, including solicitors, assemblers and medical practitioners, there is generally a large pay gap in favour of men.\n\nA pay gap in favour of men remains for full-time primary and nursery schoolteachers, despite the fact that five out of six are women. On the other hand, five out of six full-time receptionists are women, and women in these jobs earn slightly more than men.\n\nFind the gender pay gap for your job using our [interactive tool][3].^5\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/10/occupationgroups.csv\n  [2]: https://static.ons.gov.uk/visual/2017/10/specificjobs.csv\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/findoutthegenderpaygapforyourjob/2016-12-09\n  [4]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/testyourknowledgeonthegenderpaygap/2016-12-09\n  [5]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/findoutthegenderpaygapforyourjob/2016-12-09\n  [6]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [7]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  [8]: mailto:labour.market@ons.gov.uk\n\n\n###Footnotes:\n1. The nine major occupation groups are in accordance with Standard Occupational Classification 2010 (SOC 2010). When comparing pay within these groups, we're not necessarily comparing men and women in identical jobs.\n2. The gender pay gap is calculated as the difference between median hourly earnings (excluding overtime) of men and women as a proportion of median hourly earnings (excluding overtime) of men.\n3. For the Labour Force Survey (LFS), the split between full-time and part-time employment is based on respondents' self-classification. For the Annual Survey of Hours and Earnings (ASHE), full-time is defined as employees working more than 30 paid hours per week (or 25 or more for the teaching professions).\n4. The proportions of men and women employed in each occupation and the gender pay gap are calculated using the total number of employees. This excludes those in self-employment.\n5. The employment splits in the interactive differ from those in this article because they're sourced from ASHE, as opposed to LFS."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Employment by occupation",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp04"
+    },
+    {
+      "title": "Annual Survey of Hours and Earnings: 2016 provisional results",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults"
+    },
+    {
+      "title": "Find out the gender pay gap for your job",
+      "uri": "https://visual.ons.gov.uk/find-out-the-gender-pay-gap-for-your-job/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06",
+  "description": {
+    "title": "How do the jobs men and women do affect the gender pay gap?",
+    "keywords": [
+      "Economy",
+      "Earnings",
+      "Employment",
+      "Wages",
+      "Gender Pay Gap"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-10-06T05:00:12.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Women are more likely than men to work in low-paid sectors, but even in roles dominated by women they often earn less.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

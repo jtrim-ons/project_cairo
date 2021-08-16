@@ -1,0 +1,93 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thecommutinggapwomenaremorelikelythanmentoleavetheirjoboveralongcommute/2019-09-04/432a15fc.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Women are more likely than men to leave their job because of a longer commute, new analysis by the Office for National Statistics (ONS) has shown.\n\nThe [analysis][1] isolates the impact of commute time and pay on the likelihood of someone leaving his or her job, highlighting the different choices made by men and women in the workplace.\n\nAs the [main providers of childcare and unpaid work][2], women tend to favour the flexibility offered by a shorter commute. On the other hand, men are more likely to tolerate a longer journey to work in return for higher pay.\n\nThis combination contributes to men doing the majority of high-paid jobs, which in turn contributes to the overall gender pay gap.\n\n####Women place more emphasis on their commute when deciding whether to leave their job…\n#####Impact of commute time on probability of leaving current job, Great Britain, 2004 to 2018\n\n<ons-interactive url=\"/visualisations/dvc659/hazards/commute-time/index.html\" full-width=\"false\" title=\"Commute Time\"/>\n\n[Download the data][3]\n\n####…while men consider pay to be more important\n#####Impact of pay on probability of leaving current job, Great Britain, 2004 to 2018\n\n<ons-interactive url=\"/visualisations/dvc659/hazards/earnings/index.html\" full-width=\"false\" title=\"Earnings\"/>\n\n[Download the data][4]\n\nNotes:\n\n1. The analysis in these charts covers people who leave their job between survey years. This could mean they change jobs, are looking for a new job or have left the labour market entirely.\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderdifferencesincommutetimeandpay/2019-09-04\n  [2]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [3]: https://www.ons.gov.uk/visualisations/dvc659/hazards/commute-time/datadownload.csv\n  [4]: https://www.ons.gov.uk/visualisations/dvc659/hazards/earnings/datadownload.csv"
+    },
+    {
+      "title": "What is the link between commute time and pay?",
+      "markdown": "For both sexes, longer commutes are associated with higher pay and shorter commutes with lower pay. \n\nYet women still favour short commutes (15 minutes or fewer), while [men do the majority of longer journeys to work][1] (an hour or more). \n\nThis could be because women are less likely to own a car than men – [they owned around one-third of cars on UK roads in 2017][2] – potentially making them reliant on other means such as public transport (which tends to be slower). But many people who do not own a car still have access to one, and [our data show that car journeys to work are more or less equally split between men and women][3].\n\nMore likely, women prefer short commutes because they do more childcare and unpaid work.\n\nThis is reinforced by the gender commuting gap, which follows exactly the same age-pattern as the gender pay gap. Both open up as people reach their mid to late 20s, [implying a link with having children][4] (the average age of a first-time mother was 28.8 years in 2017). \n\nUpon reaching this age, women begin to sacrifice their longer commutes, bringing their average travel time down while average pay plateaus. In the meantime, men maintain their longer commutes while their pay continues to rise.\n\n####The commuting gap and the pay gap both widen when people start having children\n#####Median commute time and hourly earnings by sex and single year of age, Great Britain, 2010 to 2018\n\n<ons-interactive url=\"/visualisations/dvc659/small-multiples/index.html\" full-width=\"false\" title=\"Commute time and Earnings\"/>\n\n[Download the data][5]\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/thecommutinggapmenaccountfor65ofcommuteslastingmorethananhour/2018-11-07\n  [2]: https://www.smmt.co.uk/2018/04/female-car-owners-up-20-in-a-decade-reveals-uks-biggest-automotive-motorparc-analysis/\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/commutingtoworkbygenderukcountryandregion\n  [4]: https://www.ifs.org.uk/publications/13673\n  [5]: https://www.ons.gov.uk/visualisations/dvc659/small-multiples/datadownload.csv"
+    },
+    {
+      "title": "",
+      "markdown": "<hr style=\"border: 0;height: 0;border-top: 4px solid #808080;\">\n\n<h2 style=\"color:#1b5f97; padding-top:0px;\">Is your commute worth it?</h2>\n\n<p style=\"color:#1b5f97;\">What is more important to you: a short commute or a high salary? Maybe you enjoy the best of both worlds.</p>\n\n<p style=\"color:#1b5f97;\">Tell us a bit about you and your typical commute to see how you compare.</p>"
+    },
+    {
+      "title": "",
+      "markdown": "<ons-interactive url=\"/visualisations/dvc659/dot-histogram/index.html\" full-width=\"false\" title=\"Commuting Gap Calculator\"/>\n\n[Download the data][1]\n\n<p style=\"color:#1b5f97;\">Notes</p>\n<ol>\n<li style=\"color:#1b5f97;\">Annual earnings are calculated by multiplying hourly earnings by a scale factor. The scale factor assumes 37 working hours per week and 28 days of statutory paid leave.</li>\n</ol>\n\n<hr style=\"border: 0;height: 0;border-top: 1px solid #808080;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc659/dot-histogram/datadownload.xlsx"
+    },
+    {
+      "title": "What about regional differences?",
+      "markdown": "The age-pattern of commutes is largely the same regardless of where people live. Men travel for longer than women to get to work, particularly after reaching their late 20s.\n \nAmong people aged under 30, men commute for longer than women in all but one of the 20 most populated travel-to-work areas in Great Britain. But the differences are small, no more than two or three minutes.\n\nWhen we look at over 30s, the difference between men and women widens in all 20 areas, matching the trend seen across the country as a whole. \n\nThis trend is most pronounced in Guildford and Aldershot, an area within commuting distance of London. Under 30s living here travel to work for around 20 minutes on average, regardless of sex. While the average commute remains unchanged for women aged over 30, it increases by more than 50% for men. \n\nThis divergence could be partly driven by families moving out of London to Guildford and Aldershot, with men more likely than women to continue working in the capital.\n\n####The commuting gap does not discriminate by area\n#####Average commute times in the 20 most populated travel-to-work areas, by sex, 2010 to 2018 \n\n<ons-interactive url=\"/visualisations/dvc659/region/index.html\" full-width=\"false\" title=\"The commuting gap does not discriminate by area\"/>\n\n[Download the data][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc659/region/datadownload.csv"
+    },
+    {
+      "title": "",
+      "markdown": "<div class=\"tile-neutral width-md--40 margin-bottom--2\">\n<h2 style=\"padding-top:0px;\">How we calculated commute time</h2>\n\n<p>The analysis used in this article is based on data from our Annual Survey of Hours and Earnings (ASHE). ASHE does not provide information about people’s commuting habits, but it does include postcodes of residence and work for an employee.</p>\n\n<p>We have used these postcodes to estimate commuting time by car and public transport using a trip planner app. We allocate mode of transport based on whichever is fastest, unless the employee lives or works in Central London (in which case we assume they use public transport).</p>\n\n<p>The ONS also publishes self-reported estimates of commuting time in the Labour Force Survey (LFS). These take precedence as our best estimate of commuting time – the calculations used here are for the purposes of this analysis only.</p>\n</div>"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/genderdifferencesincommutetimeandpay"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderdifferencesincommutetimeandpay/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "The commuting gap: men account for 65% of commutes lasting more than an hour",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/thecommutinggapmenaccountfor65ofcommuteslastingmorethananhour/2018-11-07"
+    },
+    {
+      "title": "Gender pay gap in the UK: 2018",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2018"
+    },
+    {
+      "title": "Gender pay gap explorer",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/genderpaygapexplorer/2019-06-07"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thecommutinggapwomenaremorelikelythanmentoleavetheirjoboveralongcommute/2019-09-04",
+  "description": {
+    "title": "The commuting gap: women are more likely than men to leave their job over a long commute",
+    "keywords": [
+      "commuting",
+      "pay",
+      "gender pay gap",
+      "men",
+      "women"
+    ],
+    "metaDescription": "When deciding whether to leave their job, women are more likely than men to accept lower pay in favour of a shorter commute, contributing to the overall gender pay gap.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "earnings@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-09-03T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "When deciding whether to leave their job, women are more likely than men to accept lower pay in favour of a shorter commute, contributing to the overall gender pay gap.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

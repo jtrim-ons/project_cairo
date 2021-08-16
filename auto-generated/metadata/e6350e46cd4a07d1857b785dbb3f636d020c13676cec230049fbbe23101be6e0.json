@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "As Jane Austen (almost) said: it is a truth universally acknowledged that men (generally) get paid more than women.\n\nBut do they get paid more than women for doing the same work? That is harder to answer.\n\nThe data published today in the Annual Survey of Hours and Earnings (ASHE) will give us the most up-to-date information on the pay gap between men and women.\n###The gender pay gap has fallen but remains steady in recent years\nThe gender pay gap for full-time employees in 2016 was 9.4%\n\nThis means average pay for full-time female employees was 9.4% lower than for full-time male employees. This gap is down from 17.4% in 1997.\n\nThe gap for all employees (full-time and part-time) has reduced from 19.3% in 2015 to 18.1% in 2016. This gap is down from 27.5% in 1997.\n\n####Gender pay gap over time, by full-time and part-time work, UK, 1997 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc374/GPG_chart1/index.html\" full-width=\"false\" title=\"Gender pay gap over time, by full-time and part-time work, UK, 1997 to 2016\"/>\n\n[Download the data][1]\n###Reasons for the gap\nThe main factors explaining why women tend to earn less than men are:\n\n- part-time work\n- type of occupation\n- having and caring for children\n\n###Part-time work\n####Percentage of men and women who work part-time, UK, April to June 2016\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/10/Gender-Pay-Gap.png\"/>][2]\n\nSource:[ Labour Force Survey][3]\n\nPart-time workers – both men and women – earn less, on average, per hour than their full-time counterparts.\n\nA much higher proportion of women work part-time – 41%, compared with only 12% of men. This is why the gap for all employees – full-time and part-time together – is higher than for full-time employees\n\nInterestingly, the gender pay gap for part-time employees alone was minus 6.0% in 2016. This means female part-time employees earned 6.0% more than male part-time employees.\n###Occupation\nAnother factor that affects the gender pay gap is that women tend to work in occupations which offer lower salaries. The size of the gender pay gap also varies between occupations.\n\nThe chart below shows a higher proportion of women than men working in sectors such as administration and caring, which tend to be lower paid.\n\n####Percentage of male and female employees in different occupational groups, UK, April to June 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc374/GPG_chart2/index.html\" full-width=\"false\" title=\"PercentageÂ� of male and female employees in different occupational groups, UK, April to June 2016\"/>\n\n[Download the data.][4]\n###Having and caring for children\nWhen looking at the differences in pay by age group for full-time employees, the gap is relatively small up to and including those aged 30 to 39.\n\nFrom 40 upwards, the gap is much wider. This is likely to be connected to women taking time out of the labour market to have children.\n\nTaking full-time and part-time employees together, for all age groups from 22 to 29 upwards, the gap is wider than for full-time employees alone. This indicates that, in these age groups, more women are working part-time in jobs that tend to be lower paid.\n\n####Gender pay gap by age group, UK, April 2016^1^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc374/GPG_chart3/index.html\" full-width=\"false\" title=\"Gender pay gap by age group, UK, April 2016^1^\"/>\n\n[Download the data.][5]\n\nHaving children may also change [what women want from a job][6]. The American economist [Claudia Goldin][7] sees women pursuing “temporal flexibility” as “perhaps the most powerful explanation for the gender pay gap”. What this means is women are more likely to want the ability to work flexible hours, or to work at home, or to complete a project outside a tight schedule.\n\n\n\nFor more information, please contact: <earnings@ons.gov.uk>\n\nOther Visual.ONS articles:\n\n[Breadwinners in their 20s – how are they doing compared with previous generations?][9]\n\n[Does our sex affect what we die from?][10]\n\n[How do the richest countries perform in the Paralympic Games?][11]\n\n\n\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][12]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/10/chart1.csv\n  [2]: https://static.ons.gov.uk/visual/2016/10/Gender-Pay-Gap.png\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2016\n  [4]: https://static.ons.gov.uk/visual/2016/10/chart2.csv\n  [5]: https://static.ons.gov.uk/visual/2016/10/chart3.csv\n  [6]: http://freakonomics.com/podcast/the-true-story-of-the-gender-pay-gap-a-new-freakonomics-radio-podcast/\n  [7]: http://scholar.harvard.edu/goldin/home\n  [8]: mailto:earnings@ons.gov.uk\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/breadwinnersintheir20showaretheydoingcomparedwithpreviousgenerations/2016-10-11\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/doesoursexaffectwhatwediefrom/2016-07-13\n  [11]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/how-do-the-richest-countries-perform-in-the-paralympic-games/\n  [12]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n\n####Footnotes:\n\n1. Based on median gross hourly earnings (excluding overtime)"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Hours and Earnings",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/previousReleases"
+    },
+    {
+      "title": "Labour Force Survey",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/previousReleases"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thegenderpaygapwhatisitandwhataffectsit/2016-10-26",
+  "description": {
+    "title": "The gender pay gap - what is it and what affects it?",
+    "keywords": [
+      "Employment and labour market",
+      "Gender",
+      "Labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-10-26T08:34:23.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

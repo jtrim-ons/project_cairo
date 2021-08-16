@@ -1,0 +1,91 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/businessindustryandtrade/business/activitysizeandlocation/articles/economiesofalesmallpubscloseaschainsfocusonbigbars/2018-11-26/a252440e.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "More than 11,000 pubs have closed in the UK in the last decade – a fall of almost a quarter (23%). Office for National Statistics (ONS) analysis shows that it’s small pubs that are disappearing, as the big pub chains consolidate their businesses around bigger bars.\n\nThe closure of British pubs is a well-known story. Organisations like the [Campaign for Real Ale][1] (CAMRA) and the [British Beer and Pub Association][2] have charted the disappearance of pubs for many years.\n\nONS data confirm the large fall in the number of pubs, from around 50,000 pubs in 2008 to around 39,000 pubs in 2018.\n\n###Almost one in four pubs have closed since 2008\n####Number of pubs and bars, UK, 2001 to 2018\n<ons-interactive url=\"/visualisations/dvc566/chart1/Line/index.html\" full-width=\"false\" title=\"Number of pubs and bars, UK, 2001 to 2018\"/>\n[Download the data][3]\n\nBut these figures don’t tell the full story of how the UK pub trade is doing. Although lots of pubs have closed, the total turnover of pubs and bars has held up, remaining flat since 2008, once inflation is taken into account. The remaining pubs and bars appear to have soaked up the custom from those pubs that have closed down.\n\n###Turnover stable since recession\n####Turnover of pubs and bars, UK, 2001 to 2016\n<ons-interactive url=\"/visualisations/dvc566/chart2/Line/index.html\" full-width=\"false\" title=\"Turnover of pubs and bars, UK, 2001 to 2016\"/>\n[Download the data][4]\n\nEmployment figures back this up: while the number of jobs in pubs dipped during the economic downturn, there are now 6% more jobs in pubs and bars than there were in 2008. The largest increases have been in bigger pubs (those with 10 or more employees). This may be because pubs are increasingly focussed on serving food as well as drink, which requires more waiting and kitchen staff.\n\n###More jobs in pubs, especially big ones\n####Employment in pubs and bars, by numbers of employees per pub, UK, 2001 to 2018\n<ons-interactive url=\"/visualisations/dvc566/chart3/Stacked-Bar-Vertical/\" full-width=\"false\" title=\"Employment in pubs and bars, by numbers of employees per pub, UK, 2001 to 2018\"/>\n[Download the data][5]\n\nIn 2008, pubs in the UK had a median number of five employees. By 2018, partly due to the closure of many smaller pubs, this had increased to eight employees.\n\nThe rise in employment has been more pronounced in rural pubs, where in 2018 total employment in England and Wales is up 17% compared with 2008. In contrast, total employment in urban pubs rose by only 4% over the same period.\n\nMost jobs in the sector are low paid: around 70% of workers in pubs and bars are paid less than the Living Wage Foundation’s Living Wage. This rate, currently £10.55 per hour in London and £9 per hour elsewhere, is sometimes called the “real” living wage, and is based upon full-time workers being able to afford a basic set of goods and services.\n\n###What's happened to your local?\n<ons-interactive url=\"/visualisations/dvc566/interactive/index.html\" full-width=\"false\" title=\"What's happened to your local?\"/>\n[Download the data][6]\n\n###Outer-city areas see pub numbers plummet\nMany areas on the edges of big cities, and in the commuter belt, have seen the biggest declines in the number of pubs. Barking and Dagenham, Newham and Luton – all in and around London – now have fewer than half the pubs they did in 2001.\n\nLikewise, there are far fewer pubs in some areas around Manchester, including Burnley, Bolton and Rochdale, as well as on the outskirts of Birmingham, in areas including Sandwell, Dudley and Walsall.\n\nIn Wales, Torfaen (near Newport) was the area to have lost the most pubs. In Scotland, East Renfewshire and East Ayrshire (both south of Glasgow) saw pub numbers decline the most. All areas of Northern Ireland have seen pubs close their doors, with numbers down by more than a third between 2001 and 2018.\n\n###Tourism – propping up the bars?\nThe areas where pub numbers have held up – or even increased – include several popular tourist areas, such as Highland Scotland, Ceredigion in West Wales, and South Lakeland, as well as many seaside towns like Scarborough, Blackpool and Brighton.\n\nPub numbers also remained stable in some cities, including Newcastle, Milton Keynes, York, and in the London borough of Hackney.\n\n###Explore what’s happened to pubs across the UK\n####% change in number of pubs by local authority, UK, 2001 to 2018\n<ons-interactive url=\"/visualisations/dvc566/map/index.html\" full-width=\"false\" title=\"% change in number of pubs by local authority, UK, 2001 to 2018\"/>\n[Download the data][7]\n\n###Last orders for small pubs?\nMost pubs in the UK are small, independently owned businesses – and it is mainly these kinds of pub that have closed over the last decade. But the number of independently-owned larger pubs is steadily rising.\n\n####Independent pubs by employee numbers, UK, 2001 to 2018\n<ons-interactive url=\"/visualisations/dvc566/chart4/independant/index.html\" full-width=\"false\" title=\"Independent pubs by employee numbers, UK, 2001 to 2018\"/>\n[Download the data][8]\n\nMeanwhile, small pub chains, which are often regional, family-owned businesses, have also switched their focus away from small pubs towards medium and large bars.\n\nAnd at the same time, the large “pubcos” (nationwide companies with 250 or more outlets) have almost completely abandoned small pubs, disposing of lots of them in the early 2000s, concentrating instead on their bigger bars.\n\n####Pubs owned by enterprises with 250 or more units, by employee numbers, UK, 2001 to 2018\n<ons-interactive url=\"/visualisations/dvc566/chart5/smallandlargechain/index.html\" full-width=\"false\" title=\"Pubs owned by enterprises with 250 or more units, by employee numbers, UK, 2001 to 2018\"/>\n[Download the data][9]\n\n\n  [1]: http://www.camra.org.uk/news/-/asset_publisher/1dUgQCmQMoVC/content/pub-closures-are-making-us-all-poorer-says-camra\n  [2]: https://beerandpub.com/statistics/pub-numbers/\n  [3]: https://www.ons.gov.uk/visualisations/dvc566/chart1_download.csv\n  [4]: https://www.ons.gov.uk/visualisations/dvc566/chart2_download.csv\n  [5]: https://www.ons.gov.uk/visualisations/dvc566/chart3_download.csv\n  [6]: https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority\n  [7]: http://www.ons.gov.uk/visualisations/dvc566/map_download.csv\n  [8]: https://www.ons.gov.uk/visualisations/dvc566/chart4_download.csv\n  [9]: https://www.ons.gov.uk/visualisations/dvc566/chart5_download.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/livingwageemployeejobsinpublichousesandbarsbysexfulltimeandparttime"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbycityregion"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbylocalauthority"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsbyparentsize"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsruralurbanenglandandwales"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/publichousesandbarsuknationandregion"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/ukhouseholdspendingonalcoholandmealseatenout"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/datasets/ukturnoverofpublichousesandbars"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/bulletins/ukbusinessactivitysizeandlocation/latest"
+    },
+    {
+      "uri": "/businessindustryandtrade/business/activitysizeandlocation/bulletins/businessdemography/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "How green is your street?",
+      "uri": "https://www.ons.gov.uk//economy/environmentalaccounts/articles/howgreenisyourstreet/2018-11-19"
+    },
+    {
+      "title": "Being 18 in 2018",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/2018-09-13"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/business/activitysizeandlocation/articles/economiesofalesmallpubscloseaschainsfocusonbigbars/2018-11-26",
+  "description": {
+    "title": "Economies of ale",
+    "keywords": [
+      "Business",
+      "Pubs",
+      "Alcohol",
+      "Drinking",
+      "Industry"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "contact": {
+      "email": "cities@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-11-26T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "small pubs close as chains focus on big bars",
+    "_abstract": "Since 2008, nearly a quarter of pubs in the UK have closed – but the turnover of the pub industry is holding up and employment is on the rise. What’s happening? And what about pubs in your area?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

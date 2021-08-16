@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Members of the hipster sub-culture may arch an eyebrow in recognition at some of the additions to ONS's latest [Basket of Goods and Services.][1] \n\nSome items associated with hipsters have been added to the inflation basket, in reflection of their rising popularity. \n\n####Click on the image below to find out more:\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc399/index.html\" full-width=\"false\" title=\"Click on the image below to find out more:\"/>\n\nTo find out what else is in and out of the Basket of Goods and Services 2017, visit the [ONS website][2].\n\n\n\nOther Visual.ONS articles: \n\n[What's in the Basket of Goods? 70 years of shopping history][3]\n\n[What's the best time for a wedding?][4]\n\n[Why are more young people living with their parents?][5]\n\n\n\n\n  [1]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/ukconsumerpriceinflationbasketofgoodsandservices/2017\n  [2]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/ukconsumerpriceinflationbasketofgoodsandservices/2017\n  [3]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/whatsinthebasketofgoods70yearsofshoppinghistory/2016-07-21\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/articles/whatsthebesttimeforawedding/2016-08-26\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/articles/whyaremoreyoungpeoplelivingwiththeirparents/2016-02-22\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK Consumer Price Inflation, Basket of Goods and Services 2017",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/ukconsumerpriceinflationbasketofgoodsandservices/2017"
+    },
+    {
+      "title": "What's in the Basket of Goods? 70 years of shopping history",
+      "uri": "https://visual.ons.gov.uk/whats-in-the-basket-of-goods-80-years-of-shopping-history/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/inflationandpriceindices/articles/hipstersginandthebasketofgoods/2017-03-14",
+  "description": {
+    "title": "Hipsters, gin and the Basket of Goods",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-03-14T09:30:48.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

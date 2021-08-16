@@ -1,0 +1,88 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/excessdeathsinyourneighbourhoodduringthecoronaviruscovid19pandemic/2021-08-03/bf9ee5e5.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "So far in England and Wales, there have been two periods during the coronavirus (COVID-19) pandemic when weekly and monthly registrations of deaths from all causes were consistently higher than the five-year average – also known as “excess deaths”. \n\nUsing weekly data, the first period was from the week ending 20 March to the week ending 12 June 2020 and the second was from the week ending 11 September 2020 to the week ending 5 March 2021. Using monthly data, the periods above average were from March to July 2020 and then from September 2020 to March 2021. \n\nExcess deaths are the clearest way to compare the likely impact of the pandemic over time, because a substantial number of non-COVID-19 excess deaths were recorded early in the pandemic, in March and April 2020. One reason for excess deaths [could be that COVID-19 was undiagnosed][1]. \n\n####Weekly deaths from all causes have been consistently above average twice during the coronavirus pandemic \n#####Number of deaths registered by week, England and Wales, 28 December 2019 to 02 July 2021 \n\n<ons-interactive url=\"/visualisations/dvc1501/national-bar/index.html\" full-width=\"false\" title=\"Number of deaths registered by week, England and Wales, 28 December 2019 to 02 July 2021\"/>\n\n[Number of deaths registered by week, 28 December 2019 to 02 July 2021 (XLSX, 13KB)][2]\n\n#####Notes: \n\n1. Figures include deaths of non-residents. \n2. Based on date a death was registered rather than occurred. \n3. All figures for 2020 and 2021 are provisional. \n4. The International Classification of Diseases, 10th Edition (ICD-10) [definitions are available in our weekly deaths bulletin][3]. \n5. The number of deaths registered in a week are affected when bank holidays occur. \n6. The average for 2015 to 2019 provides a comparison of the number of deaths expected per week in a usual (non-pandemic) year. \n\nFor the first time, we are also presenting analysis of monthly excess deaths at a middle layer super output area (MSOA) or neighbourhood level. \n\nSome areas experienced considerably more excess deaths, which are deaths from any cause above the average for the same time of year between 2015 and 2019, at different points in the pandemic than others. \n\nDeaths registered at an [MSOA level were published monthly until April 2021][4].  \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/analysisofdeathregistrationsnotinvolvingcoronaviruscovid19englandandwales28december2019to1may2020/28december2019to10july2020\n  [2]: https://www.ons.gov.uk/visualisations/dvc1501/national-bar/datadownload.xlsx\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsduetocovid19bylocalareaanddeprivation"
+    },
+    {
+      "title": "How excess deaths have changed each month where you live ",
+      "markdown": "There are 7,201 neighbourhoods (officially known as middle layer super output areas or MSOAs) in England and Wales with an average population of around 8,000. \n\nThis interactive chart will display the number of excess deaths in individual neighbourhoods in England and Wales.  \n\n####Use your postcode to see the number of excess deaths each month where you live \n#####Deaths registered by MSOA each month, March 2020 to April 2021, compared with the average for the same month between 2015 and 2019, England and Wales \n\n<ons-interactive url=\"/visualisations/dvc1501/msoa-interactive/index.html\" full-width=\"false\" title=\"Deaths registered by MSOA each month, March 2020 to April 2021, compared with the average for the same month between 2015 and 2019, England and Wales\"/>\n\n[Deaths registered by MSOA, March 2020 to April 2021, compared with the average for 2015 to 2019 (XLSX, 3.8MB)][1]\n\n#####Notes: \n\n1. Deaths \"due to COVID-19\" only include deaths where coronavirus (COVID-19) was the underlying (main) cause. \n2. Figures for MSOAs in England and Wales exclude deaths of non-residents and geographical boundaries are based on the most up-to-date information available at the time of publication. \n3. Figures are based on the date of death registration, rather than death occurrence. \n4. Locally adopted MSOA names are provided by House of Commons Library (version 1.1.0). While these names are not officially supported for National Statistics they are provided here to help local users. \n5. Data include average (mean) deaths registered in years 2015 to 2019, by month of death registration. Figures have been rounded to whole numbers. \n6. Some MSOAs may register a small number of deaths in an individual month, which can lead to larger percentage differences from the average.\n\nOverall, the North West, London and North East [had the highest COVID-19 mortality rates in 2020][2].  \n\nAt an individual neighbourhood level between March and July 2020, some of the hardest hit places for overall excess deaths were spread across the north of England, Midlands and south of England.  \n\nThere were around 200 neighbourhoods where the number of deaths was at least double what would normally have been expected during those five months.  \n\nThese included Crabtree and Fir Vale in Sheffield, which had the largest excess, with 123 deaths between March and July 2020, 77 more than the average of 46, an excess of 167%. \n\nWhen infections and deaths due to COVID-19 increased again in the autumn of 2020, total deaths registered in England and Wales remained above average for seven months. \n\nBetween September 2020 and March 2021, the West St Leonards area of Hastings recorded 184 deaths, which was 65 (55%) more than average. Of these, 45 were registered in January 2021. This was the highest monthly excess of any neighbourhood at this time. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1501/msoa-interactive/data/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsregisteredduetocovid19/2020"
+    },
+    {
+      "title": "Some neighbourhoods registered no coronavirus deaths ",
+      "markdown": "Out of 7,201 neighbourhoods, there are just 13 in England and one in Wales that recorded no deaths due to COVID-19 – where coronavirus was the main cause of death - up to April 2021. Most of these were in the South West of England, including parts of Cornwall and Devon. Some are also in built-up areas and include Bristol City Centre and Leeds City Centre. One area of Manchester, Castlegate and Deansfield, also recorded no deaths due to COVID-19.  \n\nThe only MSOA in Wales to have recorded no deaths due to COVID-19 by April 2021 was LLandudno Junction South and Llansanffraid Glan, Conwy. \n\n<ons-box align=\"full\">\n\n####Areas registering no deaths with COVID-19 as the main cause between March 2020 and April 2021 \nHouse of Commons MSOA name and ONS geography MSOA name \n<ul>\n<li>Bristol City Centre, Bristol 032</li> \n<li>Hartcliffe, Bristol 053</li> \n<li>Llandudno Junction South and Llasanffraid Glan Conwy, Conwy 011</li> \n<li>Mid Saltash, Cornwall 025</li> \n<li>Torpoint, Cornwall 029</li> \n<li>Dunkesewell, Upottery and Stockland, East Devon 001</li> \n<li>Isles of Scilly, Isles of Scilly 001</li> \n<li>Leeds City Centre, Leeds 111</li> \n<li>Castlefield and Deansgate, Manchester 060</li> \n<li>Barnstaple Sticklepath, North Devon 009</li> \n<li>Weston Winterstoke, North Somerset 027</li> \n<li>Tamerton Foliot, Plymouth 003</li> \n<li>Eynsham & Stanton Harcourt, West Oxfordshire 011</li> \n<li>Dunster, Dulverton and Exmoor, West Somerset 005</li> \n</ul>\n</ons-box>"
+    },
+    {
+      "title": "Urban areas suffered the most during the spring of 2020, but mortality rates stayed high for longer later in the pandemic ",
+      "markdown": "Different local authorities have different sized populations and proportions of people of different ages. To make a fair comparison between these larger areas, this section uses [age-standardised mortality rates][1] (ASMRs).  \n\n \n####Select your local area and see how mortality rates changed month by month \n#####Age-standardised mortality rate, deaths from all causes per 100,000 population and adjusted for age, per month by local authority district, March 2020 to April 2021, England and Wales \n\n<ons-interactive url=\"/visualisations/dvc1501/lamortality-time/index.html\" full-width=\"false\" title=\"Age-standardised mortality rate, deaths from all causes per 100,000 population and adjusted for age, per month by local authority district, March 2020 to April 2021, England and Wales\"/>\n\n[Age-standardised mortality rate per month by local authority district, March 2020 to April 2021 (XLSX, 271KB)][2]\n\n#####Notes: \n\n1. Monthly rates in this map have been adjusted to allow for comparisons with annual rates. \n2. Figures are based on the date of death registration, rather than death occurrence. \n\nThe first peak in coronavirus deaths was in April 2020, while the country was in the middle of the first national lockdown. At this time, urban centres in London, Birmingham, the north of England and South Wales had the highest rates of deaths due to any cause. \n\nThere were many reasons why certain communities experienced high death rates, with more deaths due to COVID-19 in the [most deprived areas of England and Wales than in the least deprived areas][3]. \n\nThere were also higher death rates [among some ethnic minority groups][4] as well as in [males][5] and [those with pre-existing conditions][6]. There have also been higher death rates among people with [jobs with regular exposure to COVID-19][7]. \n\nAlthough overall deaths in England and Wales reduced during the summer of 2020, in some areas of northern England, such as Tameside and Blackburn with Darwen, mortality rates were higher than normal. \n\nThe autumn and winter of 2020 saw mortality rates peak in different local areas in different months. In November 2020, mortality rates were highest in Rochdale and Blaenau Gwent and in December 2020 parts of Lincolnshire such as Lincoln and Boston recorded their highest mortality rates of the pandemic. \n\nAs 2021 began with a third national lockdown, there were many areas in both England and Wales with high mortality rates; with the area from Essex to East London to East Sussex suffering due to the spread of the Alpha COVID-19 variant, first identified in Kent.  \n\nIn January 2021, the mortality rate in England was highest in Barking and Dagenham. In Wales, the highest was in Bridgend.  \n\nOn average, overall mortality rates in England and Wales declined in February 2021, although in some areas they were only reaching their peak. These areas included Copeland, Great Yarmouth, Bolsover and Norwich. In March 2021, Blackpool had the highest ASMR in England and Wales, but this was below its April 2020 peak. \n\nSince March 2021, deaths in England and Wales returned to average or near to average for the time of year, although deaths due to COVID-19 increased again in July. \n\n \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsduetocovid19bylocalareaanddeprivation\n  [2]: https://www.ons.gov.uk/visualisations/dvc1501/lamortality-time/data/datadownload.xlsx\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsduetocovid19bylocalareaanddeprivation\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/updatingethniccontrastsindeathsinvolvingthecoronaviruscovid19englandandwales/24january2020to31march2021\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19andthedifferenteffectsonmenandwomenintheukmarch2020tofebruary2021/2021-03-10\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/april2021#pre-existing-conditions-of-people-whose-death-was-due-to-covid-19-deaths-registered-in-january-to-march-quarter-1-2021\n  [7]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand28december2020"
+    },
+    {
+      "title": "Glossary",
+      "markdown": "####Age-standardised mortality rates (ASMRs)  \n\nThese are used for comparisons over time and between areas rather than numbers of deaths, as ASMRs account for differences in the population size and age structure. \n\n####Excess deaths \n\nExcess deaths in this analysis are the difference between the number of deaths registered in each period (week or month) and the same period in the five-year average (2015 to 2019). Using the average gives us a comparison of how many deaths we would expect in a \"normal\" year, before the COVID-19 pandemic. "
+    },
+    {
+      "title": "Data",
+      "markdown": "- [Average number of deaths by Middle-Layer Super Output Area (MSOA) and month of death registration, England and Wales, deaths registered in 2015 to 2019][1]\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/adhocs/13540averagenumberofdeathsbymiddlelayersuperoutputareamsoaandmonthofdeathregistrationenglandandwalesdeathsregisteredin2015to2019"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsduetocovid19interactivemap/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Deaths at home increased by a third in 2020, while deaths in hospitals fell except for COVID-19",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07"
+    },
+    {
+      "title": "Coronavirus (COVID-19) latest insights",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/excessdeathsinyourneighbourhoodduringthecoronaviruscovid19pandemic/2021-08-03",
+  "description": {
+    "title": "Excess deaths in your neighbourhood during the coronavirus (COVID-19) pandemic",
+    "keywords": [
+      "death",
+      "COVID-19",
+      "excess",
+      "mortality",
+      "MSOA"
+    ],
+    "metaDescription": "Our interactive chart lets you view data on deaths in your neighbourhood compared with the average for 2015 to 2019. ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-08-02T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Some neighbourhoods saw more than twice as many residents die than would have been expected for the time of year during the spring and summer of 2020, while excess deaths were spread out over a longer period in the following autumn and winter. Our interactive chart and map let you see what happened where you live. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

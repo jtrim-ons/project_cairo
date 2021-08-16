@@ -1,0 +1,98 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "There are many different factors that affect our standard of living but a key aspect is our financial situation, in particular levels of personal and household income, wealth and spending.\n\nThis article is part of a series of [UK Perspectives][1] providing an overview of the social and economic changes of the nation over the last three decades. It presents some key statistics relating to personal and household finances.\n###1. The trend of rising household income has levelled off since 2007\n<ons-box align=\"full\">Real Household Disposable Income (RHDI) is the total amount of money that households have available after direct taxes (such as income tax and council tax) have been paid, with an adjustment for inflation to allow for comparisons over time.</ons-box>\n####Real Gross Household (only) Disposable Income (RHDI) per head, UK, 1997 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart1/Finance_Chart1.html\" full-width=\"false\" title=\"Real Gross Household (only) Disposable Income (RHDI) per head, UK, 1997 to 2015\"/>\n\n[Download the data][2].\n\nThis chart uses RHDI per head for households only (excluding non-profit institutions serving households[^1^](#footnote1), now considered a better indicator of the economic well-being of households. It shows that RHDI per person (households only) steadily increased between 1997 and 2007, but has changed little since then. In 2015 RHDI per head (households only) was £17,456.\n###2. Differences in household incomes have grown since 1980\n<ons-box align=\"full\">The median equivalised household disposable income is the income of the middle household if all households in the UK were listed from poorest to richest. This means it provides a good indication of the standard of living of a 'typical' household. Households are ranked by their equivalised disposable income which is the process of accounting for the fact that households with many members are likely to need a higher income to achieve the same standard of living as households with fewer members.</ons-box>\n####Median equivalised household disposable income[^2^](#footnote2), UK, 1977 to financial year ending 2015[^3^](#footnote3)\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart2/Finance_Chart2.html\" full-width=\"false\" title=\"Real equivalised household disposable income of UK households, 1980-2012/13\"/>\n[Download the data.][3]\n\nSince 1977 income levels for all households have generally been rising (after accounting for inflation) but this has been accompanied by an increase in income inequality. In terms of disposable income, the richest fifth of households have seen the greatest percentage increase in their incomes, while incomes for the poorest fifth have increased at a slower rate.\n\nSince 2008 there has been comparatively little change in the figures. In the financial year 2014/15 median household income was £25,660, very similar to the peak of £25,683 in 2007/08. Average income of the poorest fifth of households in 2014/15 was £12,870, comparable with the peak of £12,895 in 2009/10. Average income of the richest fifth of households was £54,233 in 2014/15; this was 3% lower than the peak of £56,026 in 2007/08.\n\n###3. The percentage of people living in relative low income has been falling over time\n<ons-box align=\"full\">Households with income below 60% of the median UK household income in the year the data is collected are considered to be living in relative low income in that year.</ons-box>\n####Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2014 \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart3/Finance_Chart3.html\" full-width=\"false\" title=\"Percentage of people living in relative low income, UK, financial year ending 1999 to financial year ending 2014Â�\"/>\n[Download the data.][4]\n\n_Note: The preferred measure of relative low income for pensioners is on an “after housing costs” basis. In this chart, however, “before housing costs” has been used to allow comparison with other age groups. All data are equivalised._\n\n17% of children (2.3 million) in the UK were living in relative low income in the financial year 2013/14. This is a fall from 26% (or 3.4 million children) in 1998/99.\n\nUsing the same 'before housing costs' measure, 16% of pensioners (1.9 million) in the UK were living in relative low income in 2013/14, a fall from 27% in 1998/99. However, using the preferred 'after housing costs' measure, 14% of pensioners (1.6 million) were living in relatively low income in 2013/14, compared with 29% in 1998/99. The figure is lower using this measure because pensioners tend to have lower housing costs than other groups.\n\nFinally, 14% of all working-age adults (5.4 million) in the UK were living in relative low income in 2013/14. This has changed little since 1998/99.\n\nHowever, it is important to remember that falls in the number and percentage of people living in relative low income up to 2013/14 in part reflects falls in median income since 2009/10. This means the relative low income threshold, which is based on 60% of median income, also fell. Therefore these reductions do not entirely reflect an increase in the standard of living.\n\n###4. The cost of living: how does the growth in pay compare to inflation?\nHere we compare the growth in regular pay[^4^](#footnote4) with the growth in the price level (the rate of inflation).\n\nWe use the growth in the Consumer Prices Index (CPI) to represent the rate of inflation as this is the headline measure of inflation in the UK[^5^](#footnote5)\n\n####Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart4/Finance_Chart4.html\" full-width=\"false\" title=\"Annual growth rates in average weekly regular pay in Great Britain and the UK Consumer Prices Index (CPI), 2001 to 2016\"/>\n[Download the data.][5]\n\nHistorically the annual growth in average weekly regular pay has tended to be higher than the inflation rate. However from late 2009 to mid-2014 the inflation rate was above the annual change in average weekly regular pay in Great Britain.\n\nMore recent data has shown the annual change in average weekly regular pay exceeding the inflation rate leading to a 'real' increase in wages. This has been partly because of a higher annual growth rate of the average weekly regular pay and partly because of falls in the inflation rate.\n\n###5. Household spending decreased between 2006 and 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart5/index.html\" full-width=\"false\" title=\"Interactive chart - UK in a European context\"/>\n\n[Download the data.][6]\n\nUK households spent £531.30 on average per week in 2014. However, when taking inflation into account, average spending has actually decreased since 2006 – when households spent £547.00. The largest single area of spending in 2014 was on transport at £74.80 a week.\n\n###6. Household energy spending and fuel poverty\nIn 2014, the poorest fifth of UK households spent 11% (£88 a month) of their disposable income on household energy. This compares with the richest fifth for whom the figure was 2% (£144 a month). For both groups this was a reduced proportion compared with 2013 but in general their proportion of disposable income spent on household energy has increased over the past decade.\n\nSince 2004, domestic energy prices in the UK have generally risen in price by more than the rate of inflation (as measured by the CPI). In 2015, however, there was a fall in energy prices, mainly caused by a fall in the price of gas.[^6^](#footnote6)\n\n####Percentage of household disposable income[^7^](#footnote7), spent on energy[^8^](#footnote8), UK, financial year ending 2002 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc338/Finance_Chart6/Finance_Chart6.html\" full-width=\"false\" title=\"Disposable income spent on energy increases over time\"/>\n\n[Download the data.][7]\n\n<ons-box align=\"full\">A household is said to be fuel poor, and therefore experiencing fuel poverty if it needs to spend more than 10% of its income on fuel to maintain an adequate level of warmth (usually defined as 21 degrees for the main living area, and 18 degrees for other occupied rooms). This is referred to as the '10% definition'.</ons-box>\n\nThe number of fuel poor households in the UK in 2013 was estimated at around 4.5 million, representing around 17% of all UK households[^9^](#footnote9). Fuel poverty varies over time dependent on incomes, fuel prices and energy use. Between 2003 and 2013 the number of households in fuel poverty increased at a time of energy price rises. Prior to this, between 1996 and 2003, fuel poverty had decreased as energy prices fell.[^10^](#footnote10)\n\nOverall there has been a fall in the consumption of both gas and electricity since 2005. This is in part due to rising prices and the impact of energy efficiency policies.[^11^](#footnote11)\n\n###7. Total household net wealth has increased overall but there is an unequal distribution across Great Britain[^12^](#footnote12)\n\n<ons-box align=\"full\">Total net household wealth is defined as the sum of net property wealth (the difference between the value of owned property and the amount owed on it), physical wealth (assets such as cars, art, antiques etc), net financial wealth (the value of savings and investments minus any debts), and private pension wealth.</ons-box>\n\nTotal net household wealth aggregated across all households in Great Britain in the period July 2012 to June 2014 was £11.1 trillion.\n\n- The largest elements of this were private pension wealth (40%) and net property wealth (35%).\n- 45% of the £11.1 trillion was owned by the wealthiest 10% of households, while 9% of the £11.1 trillion was owned by the least wealthy 50% of households.\n- This figure has increased from £9.5 trillion in the period July 2010 to June 2012 and £9 trillion in the period July 2008 to June 2010 (not adjusting for inflation).\n- Half of all households in the period July 2012 to June 2014 had total net household wealth of £225,100 or more.\n\n###Conclusion\nOverall, levels of income have risen since 1980, but the gap between the richest and poorest fifth of households has widened.\n\nIn recent years the percentage of the household population living in relative low income has fallen. In addition there has been a decrease in household spending after inflation is taken into account. This may be related to the growth in pay being below the inflation rate since the economic downturn, until more recently when an unusually low inflation rate has reversed this situation.\n\n####For more information, contact: [better.info@ons.gov.uk](mailto:betterinfo@ons.gov.uk)\n\n###Footnotes:\n<h6 id=\"footnote1\">1.</h6>Historically, estimates of RHDI from the UK economic accounts comprised two sectors: the household sector and the non-profit institutions serving households sector (NPISH). NPISH mainly comprises charities and universities, but also includes entities like trade unions and political parties. More recently, to enable a better understanding of the well-being of households alone, NPISH components have been separated from RHDI. This provides a household only estimate which is presented here. \n<h6 id=\"footnote2\">2.</h6>All income figures are deflated using the household final consumption expenditure implied deflator. The poorest fifth of households are those in the bottom quintile of the income distribution and the richest fifth of households are those in the top quintile. The income data for these groups is given as mean income. The data for the average households is the median level of income across all households.\n<h6 id=\"footnote3\">3.</h6>Years are calendar years until 1993 and financial years from then on.\n<h6 id=\"footnote4\">4.</h6>Estimates of regular pay are for Great Britain and exclude bonuses and arrears of pay. The growth rates here are based on three month average figures and are seasonally adjusted. Please note that pay is different from income as income includes any pay together with any income from other sources such as interest on savings. However, household income for many households is driven by the pay of household members.\n<h6 id=\"footnote5\">5.</h6>The CPI is the weighted average of prices of a basket of consumer goods and services, such as transport, food and energy. However, housing costs for owner occupiers are intentionally excluded.\n<h6 id=\"footnote6\">6.</h6>[Domestic energy bills][8]\n<h6 id=\"footnote7\">7.</h6>Disposable income is the amount of money that households have available for spending and saving after direct taxes (such as income tax and council tax) have been accounted for.\n<h6 id=\"footnote8\">8.</h6>Energy spending here includes spending on electricity, gas and other household fuels such as coal, oil for central heating, paraffin and wood. Transport fuels (eg petrol and diesel) are not included.\n<h6 id=\"footnote9\">9.</h6>DECC (2015) [Annual Fuel Poverty Statistics Report, 2015][9]\n<h6 id=\"footnote10\">10.</h6>DECC (2013) [Fuel poverty report: updated August 2013][10]\n<h6 id=\"footnote11\">11.</h6>[Domestic Energy Bills in 2015: The impact of variable consumption][8]\n<h6 id=\"footnote12\">12.</h6>ONS (2015) [Chapter 2: Total wealth, Wealth in Great Britain, 2012 to 2014][11]\n\n\n  [1]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016\n  [2]: https://static.ons.gov.uk/visual/2016/05/Fig-1-RHDI-per-head-household-only.csv\n  [3]: https://static.ons.gov.uk/visual/2016/05/Fig-2-median-equivalised-disposable-income.csv\n  [4]: https://static.ons.gov.uk/visual/2016/05/Fig-3-Relative-low-income-v2.csv\n  [5]: https://static.ons.gov.uk/visual/2016/05/Fig-4-Cost-of-living-v2.csv\n  [6]: https://static.ons.gov.uk/visual/2016/05/New-Data-for-figure-5.xlsx\n  [7]: https://static.ons.gov.uk/visual/2016/05/Fig-6-Disposable-income-spent-on-household-energy.csv\n  [8]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/512069/Domestic_energy_bills.pdf\n  [9]: https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2015\n  [10]: https://www.gov.uk/government/statistics/fuel-poverty-report-annual-report-on-statistics-2013\n  [11]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014/chapter2totalwealthwealthingreatbritain2012to2014"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK Perspectives 2016",
+      "uri": "https://visual.ons.gov.uk/introducing-uk-perspectives-2016/"
+    },
+    {
+      "title": "Real household disposable income",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/measuringrealhouseholddisposableincome/2015-03-06"
+    },
+    {
+      "title": "A guide to sources of data on earnings and income",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/aguidetosourcesofdataonearningsandincome"
+    },
+    {
+      "title": "Effects of taxes and benefits on household income",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/2015-06-29"
+    },
+    {
+      "title": "Households below average income",
+      "uri": "https://www.gov.uk/government/statistics/households-below-average-income-19941995-to-20132014"
+    },
+    {
+      "title": "Average weekly earnings",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/averageweeklyearningsbonuspaymentsingreatbritain/2015-08-26"
+    },
+    {
+      "title": "Consumer Price Index",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/apr2016"
+    },
+    {
+      "title": "Fuel poverty statistics",
+      "uri": "https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2015"
+    },
+    {
+      "title": "Quarterly energy prices",
+      "uri": "https://www.gov.uk/government/statistics/quarterly-energy-prices-march-2016"
+    },
+    {
+      "title": "Wealth and assets",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014"
+    },
+    {
+      "title": "Household spending",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/https://visual.ons.gov.uk/interactive-how-much-do-households-spend-per-week/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/ukperspectives2016personalandhouseholdfinancesintheuk/2016-05-25",
+  "description": {
+    "title": "UK Perspectives 2016: Personal and household finances in the UK",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      "UK perspectives 2016",
+      "Debt",
+      "Earning",
+      "Income",
+      "UK perspectives 2016",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digicontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-05-25T08:30:18.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

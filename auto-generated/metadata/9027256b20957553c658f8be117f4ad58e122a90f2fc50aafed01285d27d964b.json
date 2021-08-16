@@ -1,0 +1,61 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": false,
+  "imageUri": "/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationprofilesforlocalauthoritiesinengland/2020-12-14/21f748a5.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Following the easing of a national lockdown in England, our interactive chart allows you to compare population statistics between local authorities. \n\nSelect a local authority to see how it compares with other areas for each indicator. Indicators include:\n\n- population (age, density and schoolchildren)\n- age groups\n- ethnicity\n- employment\n- industry\n- those in key worker occupations \n- deprivation.\n\nHighlight local authorities in a region with the filter in order to see how the indicators vary within regions.\n\n<ons-interactive url=\"/visualisations/dvc1071/profiles/index.html\" full-width=\"false\" title=\"Population profiles\"/>\n\n[Download the data][1]\n\n####Notes\n\n1. Indicators relate to local authorities effective as at 1 April 2020 where available.\n2. Indicators contain statistics from the latest available or most appropriate data sources at the time of publication.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1071/profiles/datadownload.xlsx"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "The main ONS coronavirus analysis summarised in our roundup ",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "View all coronavirus data",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/populationprofilesforlocalauthoritiesinengland/2020-12-14",
+  "description": {
+    "title": "Population profiles for local authorities in England",
+    "keywords": [
+      "covid-19",
+      "coronavirus",
+      "population",
+      "local authority",
+      "covid19"
+    ],
+    "metaDescription": "Population characteristics for local authorities in England, including age, ethnicity and industry.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "pop.info@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-12-14T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Population characteristics for local authorities in England, including age, ethnicity and industry.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

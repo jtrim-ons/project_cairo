@@ -1,0 +1,108 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/233b6b6d.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The economic downturn resulting from coronavirus (COVID-19) restrictions has been concentrated among certain types of business.\n\nOverall, the UK economy, measured by gross domestic product (GDP), shrank by a record 19.8% in the second quarter (April to June) of 2020, following the start of the first lockdown on 23 March. By September 2020, GDP was still down 8.2% compared with February.\n\nServices such as hospitality – including pubs, restaurants and hotels – recorded almost no output in April and May, but industries such as information and communication, where staff could largely work from home, saw little change compared with February.\n\nConsumer-facing services have since bounced back to some extent, but they remain significantly smaller than they were in February. At this stage, it is difficult to separate temporary losses of output, brought about by coronavirus restrictions, from longer term behavioural changes that could affect industries for years to come.\n \n####While some industries shrank by up to 90% in April and May, others recorded marginal growth<br>\n#####Percentage change in monthly output compared with the same month in the previous year, UK\n\n<ons-interactive url=\"/visualisations/dvc1080/fig1/index.html\" full-width=\"false\" title=\"While some industries shrank by up to 90% in April and May, others recorded marginal growth\"/>\n\n#####Notes:\n1. Industries in this chart are the top sections from the [UK Standard Industrial Classification (SIC) 2007][1].  \n\n[Data download][2]\n\nEven within industries, different types of business have so far either struggled, recovered or – in some cases – saw trade grow in the pandemic based on what they sold and how they were able to get it to their customers.\n\nHere are some of the ways different types of business within the same industries fared:\n\n\n  [1]: https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007\n  [2]: https://www.ons.gov.uk/visualisations/dvc1080/fig1/datadownload.xlsx"
+    },
+    {
+      "title": "Online shopping grew far more than its pre-pandemic trend",
+      "markdown": "The enforced closure of shops selling non-essential items during the first wave of the pandemic led to a boost for online retailers.\n\nThe Office for National Statistics (ONS) October 2020 [retail sales publication][1] reported “online sales reaching higher than usual levels over the course of the pandemic”. Online purchases represented 28.5% of total sales in October compared with 20.1% in February.\n\nThe internet’s share of retail sales dipped after shops reopened in June but the proportion was increasing again in October. The extent of a structural shift in the behaviour of consumers remains to be seen. \n\nWhile some parts of the retail industry recovered once restrictions were eased, in others, the temporary closures had effects that lasted beyond the first UK lockdown.\n\n<ons-chart path=\"04c0c2b9\" />\n\n\n  [1]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/October2020"
+    },
+    {
+      "title": "Chemists traded constantly above pre-pandemic levels, while furniture store customers came back after lockdown",
+      "markdown": "Dispensing chemists sold consistently more since the pandemic began than they did before. As one of the essential types of shop allowed to remain open during the first lockdown, their sales rose strongly in March 2020, but they carried on growing in June even after restrictions were eased and other non-essential stores were allowed to reopen. Non-specialised food stores, which include supermarkets, also traded consistently above their pre-pandemic levels.\n\nRetailers that relied on customers being able to visit their stores – rather than selling online – recorded a big drop after they were ordered to close their doors. However, for furniture retailers, customers returned in the summer with trade returning to pre-pandemic levels and growing further, boosted by people still spending more time at home than they used to.\n\n####Non-specialised food stores and dispensing chemists experienced growth in sales volumes in March, with sales remaining above February levels ever since\n#####Great Britain, February to October 2020\n#####Volume sales: Index Feb 2020 = 100\n\n<ons-interactive url=\"/visualisations/dvc1080/fig3/index.html\" full-width=\"false\" title=\"Non-specialised food stores and dispensing chemists experienced growth in sales volumes in March, with sales remaining above February levels ever since\"/>\n\n[Data download][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1080/fig3/datadownload.xlsx"
+    },
+    {
+      "title": "Camping saw an increase in turnover on last year while other parts of the accommodation industry saw a fall",
+      "markdown": "Even when restrictions in the UK were eased and people were allowed to go on their summer holidays, turnover in the accommodation industry was still down compared with a year ago.\n\nThat was not the case across the entire sector, with camping proving popular and even surpassing its performance last year. Some of this may be down to people deciding to holiday in the UK because of international travel restrictions and the possibility of having to quarantine on their return to the UK. Other types of accommodation, such as hotels, remained depressed suggesting that people may have believed it would be easier to socially distance on a campsite than in buildings.\n\n####Turnover in the camping sub-industry surpassed levels seen a year ago, likely reflecting a boost from domestic holidays\n#####Indexed seasonally adjusted total turnover, Great Britain, January 2019 to September 2020\n\n<ons-interactive url=\"/visualisations/dvc1080/fig4/index.html\" full-width=\"false\" title=\"Turnover in the camping sub-industry surpassed levels seen a year ago, likely reflecting a boost from domestic holidays\"/>\n\n[Data download][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1080/fig4/datadownload.xlsx"
+    },
+    {
+      "title": "Clothing and footwear sales were still down as people socialised less",
+      "markdown": "Retail sales of clothing and footwear and leather goods fell in March and April 2020, as non-essential shops closed. Restrictions on social interactions meant people also had less of a reason to buy new clothes.\n\nAs students prepared to return to school in September and needed new shoes, sales of footwear and leather goods picked up significantly. As with other types of clothing, however, sales in September and October 2020 were still below their February levels.\n\n####Clothing and footwear sales have still not recovered to pre-pandemic levels\n#####Indexed volume sales seasonally adjusted, Great Britain, February to October 2020\n\n<ons-interactive url=\"/visualisations/dvc1080/fig5/index.html\" full-width=\"false\" title=\"Clothing and footwear sales have still not recovered to pre-pandemic levels\"/>\n\n[Data download][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1080/fig5/datadownload.xlsx"
+    },
+    {
+      "title": "Size didn’t matter as much as the type of business",
+      "markdown": "Smaller firms were more likely than bigger ones to have had to temporarily close or pause trading during the pandemic, but that was not necessarily the same across all industries.\n\nThe [Business Impact of Coronavirus (COVID-19) Survey (Wave 17)][1] found 17.2% of micro businesses (fewer than 10 workers) were pausing trade or temporarily closed as of late October 2020 compared with 6.1% of firms with 250 or more workers.\n\nOne area where this was noticeable was the services industry. Larger services businesses outperformed small and medium enterprises (SMEs) in terms of turnover since March 2020. According to [analysis by the Bank of England][2], the pandemic reduced cash flows for many companies, with smaller companies \"more likely than larger companies to operate in sectors that have been most affected by the shock, such as accommodation and food, arts and recreation, and construction”.\n\n<ons-chart path=\"2ded25c5\" />\n\nIn manufacturing, however, there did not appear to be a notable difference between SMEs and larger firms. Turnover levels for both smaller and larger firms have moved in line with each other since February 2020. \n\n<ons-chart path=\"9641f34c\" />\n\n\n  [1]: https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/coronavirusandtheeconomicimpactsontheuk/19november2020\n  [2]: https://www.bankofengland.co.uk/bank-overground/2020/how-has-covid-19-affected-small-uk-companies"
+    },
+    {
+      "title": "Music publishing was trading at pre-pandemic levels but cinemas were not",
+      "markdown": "For cinemas and theatres, the enforced closure saw trade down to just 10% of pre-pandemic levels, with many closing altogether.\n\nBy September 2020, with cinemas allowed to reopen with social distancing, turnover was still down 58% on the same month last year.\n\nThat downturn was not shared by music publishing, which saw an increase in turnover relative to February. This may reflect the increasing use of home entertainment.\n\n####Cinema turnover remains depressed, reflecting closures as part of measures to reduce virus transmission\n#####Film and TV sub-industries, indexed seasonally adjusted total turnover, Great Britain, January 2019 to September 2020\n#####Volume sales: Index 2018 = 100\n\n<ons-interactive url=\"/visualisations/dvc1080/fig8/index.html\" full-width=\"false\" title=\"Cinema turnover remains depressed, reflecting closures as part of measures to reduce virus transmission\"/>\n\n[Data download][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1080/fig8/datadownload.xlsx"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/businessindustryandtrade/retailindustry/bulletins/retailsales/latest"
+    },
+    {
+      "uri": "/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Online sales are growing again following a dip after shops reopened in June",
+      "filename": "04c0c2b9",
+      "uri": "/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/04c0c2b9"
+    },
+    {
+      "title": "Since March 2020, larger services businesses outperformed SMEs in terms of turnover",
+      "filename": "2ded25c5",
+      "uri": "/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/2ded25c5"
+    },
+    {
+      "title": "There does not appear to be a notable difference in turnover performance of SMEs and larger manufacturing firms since the start of the pandemic",
+      "filename": "9641f34c",
+      "uri": "/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09/9641f34c"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) in 10 charts",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24"
+    },
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/economicoutputandproductivity/output/articles/theimpactofthecoronavirussofartheindustriesthatstruggledorrecovered/2020-12-09",
+  "description": {
+    "title": "The impact of the coronavirus so far: the industries that struggled or recovered",
+    "keywords": [
+      "coronavirus",
+      "COVID-19",
+      "retail",
+      "industry",
+      "spending"
+    ],
+    "metaDescription": "Temporary closures, a shift to online shopping and reduced travel meant the first wave of \nthe coronavirus (COVID-19) had an enormous impact on business – but some industries fared far worse than others.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "economic.advice@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-12-09T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Temporary closures, a shift to online shopping and reduced travel meant the first wave of the coronavirus (COVID-19) had an enormous impact on business – but some industries fared far worse than others.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

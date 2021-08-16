@@ -1,0 +1,70 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Lockdown in the UK has presented challenges for families whose day-to-day lives were transformed virtually overnight.\n\nAt the start of the lockdown (23 March 2020), many people had to rapidly adjust to a ‘new normal’, with school closures, parents furloughed or working from home, and support from outside the home no longer available.\n\nFor millions of parents (or those in a parenting role), this included having to care for their children, including homeschooling them, while continuing to work.\n\nA separate bulletin on [homeschooling][1] in Great Britain, offers insight into the challenges faced by those school closures.\n\n###Parents fitted in work commitments around childcare \n\nAnalysis of time use data has shown that many parents in Great Britain who were able to work, changed their routines to accommodate their new childcare commitments, prompted by the coronavirus (COVID-19) lockdown.\n\nFor working parents with school-aged children that said their work had been affected by the coronavirus, 20% said this disruption was at least in part because of having to work around childcare responsibilities. \n\nDuring the lockdown, [parents were nearly twice as likely to be furloughed (13.6%) as those without children (7.2%).][2] This is one example of the added complications for families of the restrictions.\n\nThose parents who worked outside of the home contributed childcare outside the usual ‘nine to five’ hours, which suggests that they were more likely to be working unsociable hours.\n\n####Parents have changed their weekday working patterns because of childcare commitments \n\n#####Percentage of group who were working by time of the day (weekdays only), Great Britain, 2020  \n\n<ons-interactive url=\"/visualisations/dvc913/working/index.html\" full-width=\"false\" title=\"Line chart\"/>\n\nParents appear to have been fitting their work around their childcare obligations, as the data shows they were more likely to work in the morning and at night.\n\nMore specifically, a larger proportion of those working delivered developmental childcare such as helping with homework in the afternoon, roughly between 3pm and 6pm.\n\n####Parents working from home delivered most childcare in the afternoon\n\n#####Percentage of group doing developmental childcare by time of day (weekdays only), Great Britain, 2020 \n\n<ons-interactive url=\"/visualisations/dvc913/dev-childcare/index.html\" full-width=\"false\"/>\n\n###The type of childcare that was provided changed during lockdown\n\n####During lockdown, parents spent more time on developmental childcare\n\n#####Average minutes per day spent on activity (when spread out over all days for the group), for those with a child under 18 years in the household, from 2014 to 2015 Time Use Survey compared with 2020 Time Use Survey\n\n<ons-interactive url=\"/visualisations/dvc913/changeovertime/index.html\" full-width=\"false\" title=\"Tie-fighter over time\"/>\n\n#####Notes:\n1. Only main activities have been included in change over time analysis.\n\nThere has been a marked change in the type of unpaid childcare provided overall, between 2015 and 2020. \n\nIn this analysis, childcare^1^ has been defined as developmental (such as helping with school work) and non-developmental (such as dressing children). \n\nThere was a 32% drop in the average time spent per day on providing non-developmental childcare, which also includes getting ready for school and going out for recreation. Between 2015 and 2020 this declined from 56 to 38 minutes a day. \n\nThis change is likely to be because daily life under lockdown was different from the norm; people were being advised to stay at home and public spaces and recreational facilities were closed.\n\nMeanwhile the amount of time devoted to developmental childcare, such as helping with homework and homeschooling, increased by 169%, from 24 to 64 minutes a day. \n\n###Women have carried out more childcare duties overall\n\nDuring the first weeks of lockdown (28 March to 26 April 2020), in households with children aged under 18 years, women were carrying out on average two-thirds more of the childcare duties per day than men.\n \nWomen were delivering an average of 3 hours and 18 minutes of childcare, which includes time spent supervising children, while men contributed 2 hours.\n\n####Women spent more time on childcare than men, with much of this focused on non-developmental childcare and supervising children\n\n#####Average minutes per day spent on activity (average time per day), Great Britain, 2020\n\n<ons-interactive url=\"/visualisations/dvc913/childcare/index.html\" full-width=\"false\" title=\"Clustered bar chart\"/>\n\n#####Notes\n1. All childcare includes developmental, non-developmental and supervisory childcare.\n\nThis gender difference in total provision of childcare^1^ was mostly driven by the extra time women spent in carrying out non-developmental childcare such as washing, feeding and dressing children and supervision of children. \n\nFor those with a child aged under 18 years in the household, the time women spent on non-developmental childcare eclipsed that of men by 77%. \n\nWomen carried out 53 minutes of non-developmental childcare per day whereas men contributed 30 minutes.\n\nThe time men and women spent with their children on developmental childcare^1^ (such as reading to children) was more balanced. \n\nHowever further analysis revealed that parents found developmental care more enjoyable than non-developmental care. This may provide further insight into parents’ involvement in these tasks.\n\n###Younger children received more childcare from women\n\nThe amount of childcare provided, and the extent to which women or men provided it, depended greatly on the age of the child. Generally, women supplied a larger part of the childcare time in households with younger children. \n\n####Women spent much more time on childcare than men when the child was aged under five\n\n#####Average minutes per day spent on activity spread across all days, Great Britain, 2020\n\n<ons-interactive url=\"/visualisations/dvc913/ageofchild/index.html\" full-width=\"false\" title=\"Tie fighter age of child\"/>\n\nIn households with a child aged under 5 years, women did on average 78% more childcare than men. \n\nPrevious analysis of time use data showed that women did more than double the proportion of cooking, childcare and housework than men. It also showed that mothers on maternity leave carried out 37 hours of active engagements with their children per week. \n\nThis may be because younger children are likely to require more ‘nurturing’ (non-developmental) childcare, such as washing, feeding and cuddling. \n\nThis gender gap narrowed to just 20% with children aged 5 to 10-years.\n\n####Parents found developmental childcare more enjoyable\n\n#####Enjoyment of time by type of activity, Great Britain, 2020\n\n<ons-interactive url=\"/visualisations/dvc913/enjoyment/index.html\" full-width=\"false\" title=\"Parents found developmental childcare more enjoyable\"/>\n\nOn top of extra childcare, previous time use analysis has shown that women continue to provide more unpaid work in total, including housework, which was also rated least enjoyable overall. \n\n####Women spent more time on unpaid work and less time on paid work than men\n#####Work and unpaid work by sex, average minutes per day spent on activity (when spread out over all days for the group), Great Britain, 2020\n\n<ons-interactive url=\"/visualisations/dvc913/unpaidwork/index.html\" full-width=\"false\" title=\"Unpaid work\"/>\n\n#####Notes\n1. Includes main activities only. \n\nBut when it came to paid work, men contributed an average of more than 45 minutes more per day than women, amounting to 2 hours and 56 minutes, compared with 2 hours and 9 minutes.\n\n###Footnotes:\n\n1. Developmental childcare: includes activities where caregivers are undertaking activities with the aim to develop a child’s cognitive development. This may include activities such as reading to children, playing with children or helping children with their school work.\n\n\tNon-developmental childcare: includes all the other tasks. These other tasks also have a welfare focus but are more concerned with physical care tasks such as feeding, washing or dressing children.\n\t\n\tAll childcare: is either developmental or non-developmental childcare, plus additional time where respondents reported being responsible for children in a supervisory capacity.\n\n2. The learning referred to in the bulletin [Coronavirus and homeschooling in Great Britain, April to June 2020][3] concerns how many hours of learning a child has done using online lessons, worksheets or other materials provided by their teachers, whetherwith their parents or not, and how both parents have felt about the experience.\n\t\n\tThe learning referred to in this release captures supervised learning, such as help with homework.\n\nWhile they address similar themes, the publications use different sources, time periods and definitions, Parenting in lockdown: this release uses the online time use survey, while [Coronavirus and homeschooling in Great Britain, April to June 2020][4] uses the Opinions and Lifestyle Survey (OPN).\n\n\n  [1]: https://www.ons.gov.uk/releases/coronavirusandhomeschoolingingreatbritainapriltojune2020\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/personalandeconomicwellbeingintheuk/june2020\n  [3]: https://www.ons.gov.uk/releases/coronavirusandhomeschoolingingreatbritainapriltojune2020\n  [4]: https://www.ons.gov.uk/releases/coronavirusandhomeschoolingingreatbritainapriltojune2020"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus and homeschooling in Great Britain: April to June 2020",
+      "uri": "https://www.ons.gov.uk/releases/coronavirusandhomeschoolingingreatbritainapriltojune2020"
+    },
+    {
+      "title": "Personal and economic well-being in Great Britain: June 2020",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/personalandeconomicwellbeingintheuk/june2020"
+    },
+    {
+      "title": "Coronavirus and how people spent their time under lockdown: 28 March to 26 April 2020",
+      "uri": "https://www.ons.gov.uk/releases/lifeundercoronavirusrestrictionshowpeoplespenttheirtimebetween28marchand26april2020"
+    },
+    {
+      "title": "Women shoulder the responsibility of 'unpaid work'",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/parentinginlockdowncoronavirusandtheeffectsonworklifebalance/2020-07-22",
+  "description": {
+    "title": "Parenting in lockdown: Coronavirus and the effects on work-life balance",
+    "keywords": [
+      "Coronavirus",
+      "COVID-19",
+      "Parenting",
+      "Developmental childcare",
+      "Non-developmental childcare",
+      "Lockdown",
+      "Children"
+    ],
+    "metaDescription": "Parents in the UK have been fitting in work commitments around childcare during the first weeks of the pandemic",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "chris.s.payne@ons.gov.uk",
+      "name": "Chris S Payne",
+      "telephone": "01633 651660"
+    },
+    "releaseDate": "2020-07-21T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Parents in Great Britain who have been able to work through the coronavirus lockdown have adapted their working patterns around caring for their children. There were some clear trends in how that childcare was delivered.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

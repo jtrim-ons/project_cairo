@@ -1,0 +1,69 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The population of England and Wales is ageing due to increases in life expectancy and historically low birth rates. This shift will inevitably impact on the labour market, pension provision, and health and social care demand.\n\n\n\n####1 in 6 people are aged 65 or over in England and Wales\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-01.png\"/>][1]\n[Download the data.][2]\n\nThis highlights increased survival to older ages. There was also a notable increase in those aged 65 to 70, representing the first of the baby-boomer generation to reach this age.\n\n####Almost 1 in 10 over 65s were divorced\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-03.png\"/>][3]\n[Download the data.][4]\n\nRelationships are particularly important for older people as they’re more likely to have lost people close to them and need daily assistance. Marriage remained the most common marital status (57% of those aged 65+), however there has been a near doubling of cohabitation amongst the over 65s (1.6% in 2001 to 2.8% in 2011).\n\n####Older care home population remained stable between 2001 and 2011\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist1-04.png\"/>][5]\n[Download the data.][6]\n\nDespite the ageing population, the proportion of older people in care homes has actually remained stable since 2001, an increase of just 0.3% compared to an overall increase of 11% in the population at this age. This is likely due to improvements to health and life expectancy and also increasing levels of unpaid care which are expected to double over the next 30 years. Unpaid care is associated with poorer health of the carer, so this may impact our health system too.\n\n####1 in 10 people in England and Wales provide unpaid care\n[<img src=\"https://static.ons.gov.uk/visual/2015/06/older-people-and-carelist2-04.png\"/>][7]\n[Download the data.][8]\n\nIn 2011, 5.8 million (10.3%) people provided unpaid care in England and Wales, an increase of 600,000 since 2001. Gypsy or Irish Travellers were the most likely to provide 50 hours or more unpaid care per week, corresponding with the relatively poor health status of this ethnic group.\n\n####Women and people aged 50+ are more likely to be carers \n[<img src=\"https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-06.png\"/>][9]\n[Download the data.][10]\n\nThere were also a considerable number of unpaid carers aged between 5 and 17 years (around 178,000 people). Unpaid care by young people may have long-term consequences, particularly on the carer’s health.\n\nVisit the [2011 Census Analysis website][11] for more information on what the 2011 Census told us about England and Wales, or contact [census.customerservices@ons.gov.uk.][12]\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-01.png\n  [2]: https://static.ons.gov.uk/visual/2015/05/Population-aged-65-1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-03.png\n  [4]: https://static.ons.gov.uk/visual/2015/05/Aged-65-and-divorced.csv\n  [5]: https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist1-04.png\n  [6]: https://static.ons.gov.uk/visual/2015/05/Aged-65-England-and-Wales.csv\n  [7]: https://static.ons.gov.uk/visual/2015/06/older-people-and-carelist2-04.png\n  [8]: https://static.ons.gov.uk/visual/2015/05/Number-of-unpaid-carers-England-and-Wales.csv\n  [9]: https://static.ons.gov.uk/visual/2015/05/older_people_and_carelist2-06.png\n  [10]: https://static.ons.gov.uk/visual/2015/05/Unpaid-carers-profile-England-and-Wales.csv\n  [11]: http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html\n  [12]: mailto:census.customerservices@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Census 2011 analysis website",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html"
+    },
+    {
+      "title": "Older people in 2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/what-does-the-2011-census-tell-us-about-older-people-/index.html"
+    },
+    {
+      "title": "Care home residents in 2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/changes-in-the-older-resident-care-home-population-between-2001-and-2011/index.html"
+    },
+    {
+      "title": "Unpaid care in 2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/provision-of-unpaid-care-in-england-and-wales--2011/index.html"
+    },
+    {
+      "title": "Unpaid care expectancies",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/unpaid-care-expectancies-by-nhs-clinical-commissioning-groups--england-2010-12/rpt---unpaid-care-expectancies.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/articles/carehomepopulationstabilisesasunpaidcarerpopulationincreases/2015-06-08",
+  "description": {
+    "title": "Care home population stabilises as unpaid carer population increases",
+    "keywords": [
+      "People, population and community",
+      "2011 census",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-06-08T06:24:53.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

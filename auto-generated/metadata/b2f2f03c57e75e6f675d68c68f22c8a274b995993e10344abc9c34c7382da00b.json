@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Migration is a topic which often features in newspaper column inches and on our television screens. Yesterday it was revealed that over the last year net migration (the balance between immigration and emigration) reached its highest ever level of 330,000. Also, it was reported that across the UK 1 in 8 people were born outside the UK.\n\nBut the picture of migration is more complex; migration affects some local areas more than others. What do you think the levels are like in your local area?\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc278/quiz/index.html\" full-width=\"false\" title=\"How well do you know migration?\"/>\n####How much does the non-UK born population vary across the UK?\nThe map shows that the largest non-UK born populations are in the London area. In 2014 there were 5 local authorities where 50% (or more) of the population were born outside of the UK. Those 5 local authorities were all in London: Brent (56% non-UK born), Kensington and Chelsea (55%), Newham (51%), Harrow (51%), and Westminster (50%). All these LA’s are within London, which is the region with the largest proportion of non-UK born residents (36%).\n\nThe map shows that the percentage of the non-UK born population is generally lower outside of London, and the lowest levels tend to be found in rural areas.\n\n####Non-UK born population, Great Britain, 2014\nAnnual Population Survey\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc278/map/index.html\" full-width=\"true\" title=\"Non-UK born population, Great Britain, 2014 Annual Population Survey\"/>Source: [Population by Country of Birth and Nationality][1], ONS\n\n[Download the data][2]\n\nOverall for the UK as a whole, the proportion of the population born outside of the UK was 13% (8.3 million of 63.7 million). Of this, 3 million were born within the EU, and 5.3 million were born outside of the EU.\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/migration1/population-by-country-of-birth-and-nationality/2014/rpt-population-of-the-uk.html\n  [2]: https://static.ons.gov.uk/visual/2015/08/data4.csv\n  [3]: http://www.ons.gov.uk/ons/taxonomy/index.html?nscl=Local+Area+Migration+Indicators#tab-data-tables\n  [4]: mailto:migstatsunit@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Migration Indicators Suite",
+      "uri": "http://www.ons.gov.uk/ons/taxonomy/index.html?nscl=Local+Area+Migration+Indicators#tab-data-tables"
+    },
+    {
+      "title": "Population by county of birth and nationality",
+      "uri": "http://www.ons.gov.uk/ons/rel/migration1/population-by-country-of-birth-and-nationality/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/whataremigrationlevelslikeinyourarea/2015-08-28",
+  "description": {
+    "title": "What are migration levels like in your area?",
+    "keywords": [
+      "People, population and community",
+      "Migration",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-08-28T08:16:57.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

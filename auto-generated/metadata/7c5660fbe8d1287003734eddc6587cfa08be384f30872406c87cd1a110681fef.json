@@ -1,0 +1,67 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14/ceb0e06f.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Homes close to parks, gardens, playing fields and other publicly accessible green spaces in urban areas of England and Wales are more expensive than they would be if they were further away, Office for National Statistics (ONS) analysis reveals.\n\nHouses and flats within 100 metres of public green spaces are an average of £2,500 more expensive than they would be if they were more than 500 metres away – an average premium of 1.1% in 2016.\n\nWe looked at the details of more than one million property sales in England and Wales between 2009 and 2016 from property website Zoopla (with permission) to [estimate how much homebuyers value nearby green space][1].\n\nOur analysis uses Ordnance Survey's [Open Greenspace][2] data, gathered using maps and aerial imagery. Public parks or gardens, play spaces, playing fields, sports facilities, golf courses, allotments or community growing spaces, and religious grounds and cemeteries are included – but woodlands, heaths and other open spaces that people might use for recreation are not.\n\nWe found that properties very near public green spaces attracted a premium, and the more green space nearby, the higher that premium is.\n\n####The closer the green space, and the more there is, the higher the premium\nProperty price premium by distance from nearest publicly accessible green space and total amount of public green space accessible within 500 metres\n\n<ons-interactive url=\"/visualisations/dvc691/line/index.html\" full-width=\"false\" title=\"The closer the green space, and the more there is, the higher the premium Property price premium by distance from nearest publicly accessible green space and total amount of public green space accessible within 500 metres\"/>\n\n[Download the data][3]\n\nTo make sure our estimates compared like with like, the analysis took account of characteristics including:\n\n- type of property (for example detached, bungalow, flat)\n\n- number of bedrooms\n\n- area of home and garden\n\n- property period (for example, Victorian)\n\n- recent renovation and presence of original features\n\nWe also allowed for the effects of:\n\n- distance to transport facilities like railway stations and bus stops\n\n- distance to retail areas and workplaces\n\n- distance to nearby schools, and the inspection ratings of schools\n\n- air and noise pollution levels\n\n- socio-economic classification of area\n\nTo find out more about how we did our analysis, read [our methodology article][4].\n\n###Greatest premium paid for detached houses\n\nPublic green space boosts the prices of detached houses the most. These homes attract a 1.9% premium if they are within 100 metres of a public green space, but flats near green spaces are only 0.6% more expensive than those further away.\n\n<ons-chart path=\"324996b6\" />\n\n###Having a view of green space or water boosts prices even more\n\nHomebuyers value being near to green spaces – probably because they can use them for leisure activities like dog walking, sport and exercise. But having a view of green space or water raises house prices even more.\n\nUsing the property descriptions, and connecting words like “outlook”, “views” and “surrounded”, we identified urban houses and flats with views of green spaces – like parks and playing fields – or water, such as rivers, canals, lakes or the sea.\n\nIn 2016, having a view over a green space or water boosted house prices by an extra 1.8% – an average of £4,600.\n\n###Urban green spaces and house prices near you\n\nUse our interactive tool to find out the difference that public green spaces make to house prices near you. This tool works for urban areas in England and Wales.\n\n<ons-interactive url=\"/visualisations/dvc691/index.html\" full-width=\"false\" title=\"Access to green spaces and urban house prices\"/>\n\n\n  [1]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/ahedonicpriceapproachusingmachinelearningtechniques\n  [2]: https://www.ordnancesurvey.co.uk/business-government/products/open-map-greenspace\n  [3]: https://www.ons.gov.uk/visualisations/dvc691/line/datadownload.csv\n  [4]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/ahedonicpriceapproachusingmachinelearningtechniques"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/environmentalaccounts/articles/valuinggreenspacesinurbanareas/latest"
+    },
+    {
+      "uri": "/economy/environmentalaccounts/bulletins/uknaturalcapital/latest"
+    },
+    {
+      "uri": "/economy/inflationandpriceindices/bulletins/housepriceindex/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Detached houses attract the biggest premium, flats the smallest",
+      "filename": "324996b6",
+      "uri": "/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14/324996b6"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/urbangreenspacesraisenearbyhousepricesbyanaverageof2500/2019-10-14",
+  "description": {
+    "title": "Urban green spaces raise nearby house prices by an average of £2,500",
+    "keywords": [
+      "House prices",
+      "Green space",
+      "Environment",
+      "Recreation"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "natural.capital.team@ons.gov.uk",
+      "name": "Natural Capital team",
+      "telephone": ""
+    },
+    "releaseDate": "2019-10-13T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Urban properties close to public parks, gardens and playing fields are more expensive, analysis reveals.  Explore your area to see how much green space adds to the value of your property.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

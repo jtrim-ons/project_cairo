@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Have you ever wondered who earns more: a pilot or a doctor?\n\nThis interactive allows you to explore the data within the [2014 Annual Survey of Hours and Earnings][1] release. It illustrates the occupations with the highest and lowest earnings, allows you to compare occupations with similar salaries and even tests your knowledge via a couple of quizzes.\n\n####Median gross full-time annual earnings by occupation, Great Britain, April 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc205/ashe.html#panel=y2&occ=0\" full-width=\"true\" title=\"Median gross full-time annual earnings by occupation, Great Britain, April 2014\"/>\n\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2014-provisional-results/stb-ashe-statistical-bulletin-2014.html\n  [2]: mailto:earnings@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Hours and Earnings, 2014 Provisional Results",
+      "uri": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2014-provisional-results/stb-ashe-statistical-bulletin-2014.html"
+    },
+    {
+      "title": "How do earnings vary across Great Britain?",
+      "uri": "https://visual.ons.gov.uk/interactive-how-do-earnings-vary-across-the-country/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howwelldoesmyjobpay/2015-01-15",
+  "description": {
+    "title": "How well does my job pay?",
+    "keywords": [
+      "Employment and labour market",
+      "People,population and community",
+      "Earnings",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-01-15T08:11:52.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

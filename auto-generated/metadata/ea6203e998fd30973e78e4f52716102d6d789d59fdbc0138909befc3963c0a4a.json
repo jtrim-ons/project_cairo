@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/grossdomesticproductgdp/articles/the2008recession10yearson/2018-04-30/d630bdbf.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "####This is what a recession looks like…\n\nSince 1992, the size of the UK economy, measured by adding up the value of all the goods and services produced in the country, had been getting bigger every quarter. But in April to June 2008, it began to fall.\n\nThe economy kept getting smaller for five successive quarters. Two or more consecutive quarters of falling gross domestic product (GDP) is commonly called a recession.\n\n####After 63 quarters of expansion, the UK economy got smaller for five quarters in a row\n#####UK gross domestic product (GDP) per quarter\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc496/Recession/chart1/index.html\" full-width=\"false\" title=\"After 63 quarters of expansion, the UK economy got smaller for five quarters in a row\"/>\n[Download the data][1]\n####GDP took five years to recover\n\nHaving shrunk by more than 6% between the first quarter of 2008 and the second quarter of 2009, the UK economy took five years to get back to the size it was before the recession. The latest data show that the UK economy is now 11% bigger than it was before the recession.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc496/Recession/chart2/index.html\" full-width=\"false\" title=\"GDP took five years to recover Having shrunk by more than 6% between the first quarter of 2008 and the second quarter of 2009, the UK economy took five years to get back to the size it was before the recession. The latest data show that the UK economy is now 11% bigger than it was before the recession.\"/>\n[Download the data][2]\n####Unemployment reached its highest rate since 1995\n\nAs the economy got smaller, lots of people lost their jobs and employers stopped hiring. By the end of 2011, almost 2.7 million people were looking for work. The quarterly unemployment rate reached 8.4%, the highest rate since 1995.\n\nUnemployment had returned to its pre-downturn rate at the end of 2015, and since then it has continued to fall – reaching a record low of 4.3% in the third quarter of 2017 before rising slightly at the end of the year.\n\n####Unemployment rate (aged 16 and over, seasonally adjusted), UK, Quarter 1 (Jan to Mar) 2008 to Quarter 4 (Oct to Dec) 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc496/Recession/chart3/index.html\" full-width=\"false\" title=\"Unemployment rate (aged 16 and over, seasonally adjusted), UK, Quarter 1 (Jan to Mar) 2008 to Quarter 4 (Oct to Dec) 2017\"/>\n[Download the data][3]\n####Earnings haven't kept up with prices\n\nEarnings have lagged behind prices for most of the decade since the start of the recession.\n\nIn the public sector, a pay freeze (from 2011) and pay cap (from 2013) kept wage rises below inflation, while in the private sector wage growth was also slow.\n\nThere was a two-year period beginning around July 2014 when wages rose in real terms – this was due largely to the fall in the price of oil causing prices to come down too.\n\nHowever, between November 2015 and October 2016, the pound fell in value by 20%, including a record 6.5% fall between June and July 2016 following the EU referendum. This meant it was more expensive to import goods and services, so prices rose and earnings are again failing to keep up with prices.\n\n####Despite low unemployment, real earnings have barely risen\n#####Percentage changes in real earnings, year-on-year (three-month average), UK, January 2008 to December 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc496/Recession/chart4/index.html\" full-width=\"false\" title=\"Despite low unemployment, real earnings have barely risen\"/>\n[Download the data][4]\n####The productivity puzzle\n\nOne way to measure the strength of the economy is looking at how much money each worker adds to the economy – their labour productivity, measured in output per hour.\n\nProductivity had been rising steadily before the recession, but it slumped in 2008 and has barely recovered since. Had the pre-2008 trend continued, productivity would have been 20% higher than it actually was at the end of 2017.\n\nLots of reasons have been suggested for this, including banks not being willing to lend to new businesses, low levels of business investment and companies being able to keep staff on instead of making them redundant, because wages have not been rising.\n\nBut the phenomenon of low productivity growth, common to many economies across Europe, is not fully understood and has been called the “productivity puzzle”.\n\n####Labour productivity: output per hour, seasonally adjusted, Quarter 1 (Jan to Mar) 1994 to Quarter 4 2017, UK\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc496/Recession/chart5/index.html\" full-width=\"false\" title=\"Labour productivity: output per hour, seasonally adjusted, Quarter 1 (Jan to Mar) 1994 to Quarter 4 2017, UK\"/>\n[Download the data][5]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc496/Recession/downloadthedata/chart1.csv\n  [2]: https://www.ons.gov.uk/visualisations/dvc496/Recession/downloadthedata/chart2.csv\n  [3]: https://www.ons.gov.uk/visualisations/dvc496/Recession/downloadthedata/chart3.csv\n  [4]: https://www.ons.gov.uk/visualisations/dvc496/Recession/downloadthedata/chart4.csv\n  [5]: https://www.ons.gov.uk/visualisations/dvc496/Recession/downloadthedata/chart5.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/grossdomesticproductgdp/bulletins/grossdomesticproductpreliminaryestimate/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/labourproductivity/bulletins/labourproductivity/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/the2008recession10yearson/2018-04-30",
+  "description": {
+    "title": "The 2008 recession 10 years on",
+    "keywords": [
+      "GDP",
+      "Recession",
+      "Economy",
+      "Unemployment",
+      "Earnings",
+      "Productivity"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "gdp@ons.gov.uk",
+      "name": "Velma Loh / James Scruton",
+      "telephone": ""
+    },
+    "releaseDate": "2018-04-29T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "A decade after the beginning of the recession, how has the UK economy recovered?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

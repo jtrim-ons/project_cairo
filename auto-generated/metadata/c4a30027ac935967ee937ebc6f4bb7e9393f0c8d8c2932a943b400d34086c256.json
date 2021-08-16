@@ -1,0 +1,67 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The number of GB businesses exporting goods and/or services dropped by 3.3% between 2013 and 2014 - a decline of 7,600 according to the latest figures from the Annual Business Survey^1^ (ABS).\n\nThe survey, which represents around two thirds of the Great Britain economy, provides the most readily available statistics on exporting businesses.\n\nThe ABS figures also show that the number of GB businesses exporting goods and/or services, rose between 2011 and 2013.\n\nThere was an increase of 27,000, from 201,900 to 228,900. But in 2014, there was a drop by 7,600 to 221,300.\n\n####Number of businesses exporting goods and/or services, Great Britain, 2011 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc301/line_chart/index.html\" full-width=\"false\" title=\"Number of businesses exporting goods and/or services, Great Britain, 2011 to 2014\"/>[Download the data][3]\n###Businesses encouraged to increase their exports to help build a ‘secure economic future’\nBusinesses in the UK are being encouraged to “export more, build more, invest more and manufacture more”, in order to meet a target of getting 100,000 more UK companies exporting between 2010 and 2020.\n\nThe 2015 Conservative manifesto^2^ set out the target to “secure the economic future” of the UK.\n\nChancellor, George Osborne warned in his 2014 Budget speech^3^ that Britain would not have a “secure economic future” if it doesn’t earn its way in the world. He said our businesses needed to “export more, build more, invest more and manufacture more.”\n###Target would like to see the value of exports double\nThe government also has a target, set out in the March 2012 budget, to double the value of UK exports to £1 trillion a year by 2020. While the ABS data cannot tell us directly about the value of exports it can tell us a bit more about the characteristics of exporting businesses.\n\nIn 2014 around one third (32%) of the exporting businesses were one person enterprises and 71% of them reported a turnover of less than £1 million. These figures indicate many of these businesses were operating on a fairly small scale. The proportion of businesses turning over less than £1 million is also unchanged since 2011 indicating little change in the structure of exporting businesses since the 2010 election.\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/abs/annual-business-survey/uk-non-financial-business-economy--2014-provisional-results/index.html\n  [2]: http://www.ons.gov.uk/ons/guide-method/method-quality/specific/business-and-energy/annual-business-survey/quality-and-methods/an-estimate-for-the-number-of-buinesses-exporting-in-great-britain-in-2010.pdf\n  [3]: https://static.ons.gov.uk/visual/2015/11/data.csv\n  [4]: https://www.conservatives.com/manifesto\n  [5]: https://www.gov.uk/government/speeches/chancellor-george-osbornes-budget-2014-speech\n\n\n\n####Footnotes:\n1. The [Annual Business Survey][1] (ABS) is an annual survey of businesses covering the production, construction, distribution and service industries. The ABS export and import figures are for Great Britain and exclude Northern Ireland. The ABS data is only available on a consistent basis back to 2011. There was a user requirement for an estimate of the number of businesses that exported in 2010 but as this cannot be produced directly from the ABS we have developed new methodology for producing a 2010 estimate which can be seen in \"[An estimate for the number of businesses exporting in Great Britain in 2010][2]\". These estimates should be treated with caution when comparing against 2011 to 2014 estimates as they are based on different methodology.\n2. See page 19 of the [2015 Conservative manifesto][4]. This target includes the UK as a whole. \n3. [2014 Budget Speech][5]"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Business Survey, 2014",
+      "uri": "http://www.ons.gov.uk/ons/rel/abs/annual-business-survey/uk-non-financial-business-economy--2014-provisional-results/index.html"
+    },
+    {
+      "title": "Exporters and Importers in Great Britain, 2014",
+      "uri": "http://www.ons.gov.uk/ons/rel/abs/annual-business-survey/exporters-and-importers-in-great-britain--2014/index.html"
+    },
+    {
+      "title": "How important is China to the UK economy?",
+      "uri": "https://visual.ons.gov.uk/how-important-is-china-to-the-economy/"
+    },
+    {
+      "title": "Exporting is GREAT",
+      "uri": "https://www.gov.uk/government/news/exporting-is-great-major-opportunities-programme-launches"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/business/businessservices/articles/fewergbcompaniesexportingabroad/2015-11-12",
+  "description": {
+    "title": "Fewer GB companies exporting abroad",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "Exports",
+      "Trade",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-11-12T09:47:46.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,61 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31/515673da.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The financial relationship between the UK and the European Union (EU) continues to be a talking point.\n\nIn 2018 the government spent £864.9 billion on all aspects of public spending, but how much does the UK pay to the EU as a current member? \n\nWhat about the adjustment (officially known as the ‘Fontainbleau abatement’, colloquially known as the UK rebate) deducted from the overall theoretical liability, and the net impact of money the UK receives from the EU, for example, through the Agricultural Guarantee Fund?\n\nFollowing our previous explainer on this topic, we take another look using latest numbers on the UK’s official transactions with European Union (EU) institutions using data consistent with Table 9.9 of Pink Book 2019 (available in Table 1), as well as data from the European Commission. The rest of the [Pink Book][1] will be published as scheduled on 31 October 2019.\n\nIn 2018 the UK’s gross contribution to the EU amounted to £20.0 billion; however, this amount of money was never actually transferred to the EU. It is best thought of as a theoretical liability.    \n\n<ons-interactive url=\"/visualisations/dvc685/1/index.html\" full-width=\"false\" title=\"In 2018 the UK’s gross contribution to the EU amounted to £20.0 billion\"/>\n\nThis is because before the UK government transfers any money to the EU, the adjustment (or abatement) is applied.\n\nIn 2018 the UK abatement was £4.5 billion. This means £15.5 billion was transferred from the UK government to the EU in official payments.   \n\n<ons-interactive url=\"/visualisations/dvc685/2/index.html\" full-width=\"false\" title=\"In 2018 the UK abatement was £4.5 billion\"/>\n\nBut this only accounts for the money that the UK pays to the EU – some of this £15.5 billion is credited back to the UK public sector, of which a proportion is then paid to the private sector.\n\nThe EU pays money to the UK public sector to administer what are known as “shared management” programmes. Under these, the EU makes payments to the UK authorities, which are then distributed in accordance with EU rules, for example, to farmers.\n\nThe Office for National Statistics (ONS) reports that £4.5 billion came back to the UK public sector in credits in 2018. This included £2.2 billion that came through the [Agricultural Guarantee Fund][2] and £0.7 billion that came back through the [European Regional Development Fund][3]. \n\nGiven these figures, the ONS reports that the UK government's net contribution to the EU – that is, the difference between the money it paid to the EU and the money it received – was £11.0 billion in 2018 compared with the £20.0 billion theoretical liability.   \n\n<ons-interactive url=\"/visualisations/dvc685/3/index.html\" full-width=\"false\" title=\"The ONS reports that the UK government's net contribution to the EU was £11.0 billion in 2018\"/>\n\nBut is there anything else we might consider?\n\nSome have argued that there are other payments that should be considered. The private sector is able to access funding directly from the EU, but these are not considered “official transactions”. The net figure (usually published as part of the Pink Book, available in Table 1) only considers payments the UK government receives from the EU, not payments that the EU makes directly to the UK private sector such as grants to universities. \n\nWhile the Pink Book table is not designed to capture those payments, the European Commission (EC) provides net figures including payments to the UK public and private sector.\n\nData from the [European Commission][4] (EC) does account for some credits to the private sector. Let's now take a look at how it calculates the UK's contribution using its own figures.   \n\n####European Commission figures, five-year average, 2014 to 2018, £billion \n\n<ons-interactive url=\"/visualisations/dvc685/4/index.html\" full-width=\"false\" title=\"European Commission figures, five-year average, 2014 to 2018, Â£billion\"/>\n\n[Download the data][5]\n\n####Notes:\n1. Averages have been calculated using unrounded values.\n\n\nUsing the latest available figures [published by the EC][6], a wider estimate of flows between the UK and the EU can be calculated. This calculation considers the abatement, the money the EU sends to the UK government, and the money the EU sends directly to the UK private sector.\n\nThis is arguably a more complete picture of the money that flows between the UK and the EU and in 2018 the net flow was £8.6 billion.\n\nHowever, in the last few years the EC figures have been volatile and so a five-year average has been taken to better represent a “typical” contribution.\n\nThe UK’s annual five-year average (2014 to 2018) net contribution on this wider basis was £7.8 billion; lower than the £9.8 billion ONS estimate of the annual five-year average which only captures official transactions between the EU and the UK government.\n\n###Making meaning of large amounts\nOften, very large numbers can lose meaning – to help you make sense of them we have created a calculator tool that will break the numbers down for you.\n\n####Context Calculator\n\nThis handy calculator is here to help you make meaning of the many large numbers used in the EU debate, particularly the figures on the UK's net contribution to the EU.\n\nClick on either of the two buttons - or just type in a figure - and it will break it down for you.\n\n<ons-interactive url=\"/visualisations/dvc685/calculator/index.html\" full-width=\"false\" title=\"This handy calculator is here to help you make meaning of the many large numbers used in the EU debate particularly the figures on the UK's net contribution to the EU. Click on either of the two buttons - or just type in a figure - and it will break it down for you.\"/>\n\n\n###The UK contribution over time\nThe UK’s contribution to the EU budget changes each year as it is dependent on various factors, such as UK gross national income (GNI), the GNI of other EU member states and the size of the Value Added Tax (VAT) base. \n\nHere, using ONS figures we take a look at how the UK contribution (after deducting the abatement) has changed since the start of the decade.  \n\n####UK contributions to the EU budget (after deducting the abatement), £ billions, 2010 to 2018\n<ons-interactive url=\"/visualisations/dvc685/stacked-bar-vertical/index.html\" full-width=\"false\" title=\"UK contributions to the EU budget (after deducting the abatement), Â£ billions, 2010 to 2018\"/>\n\n[Download the data][7]\n\n\n###Notes\n\nIn the calendar year 2018, total general [government expenditure][8] was £864.9 billion. Here we have used a wide definition, which includes spending on healthcare, education, defence, and spending on social security benefits. Central government spending and local government spending are both included. The amount covers the whole of the UK.\n\nHM Treasury also [publishes figures][9] on the payments between the EU and the UK government and estimated the net contribution in 2018 to be £8.9 billion. Its figures differ to those reported by the ONS as they are estimates, compared with the final figures used in the ONS publication. Treasury figures are also presented on a cash basis, whereas ONS data are presented on an accruals basis.\n\nEuropean Commission figures are from the data download in their [financial report][10] and have been converted into sterling using the annual average exchange rate for each year from the Bank of England website. They account for all payments it receives from the UK government and payments it makes to the UK public and private sector bodies. \n\nA small proportion of spending – just over 2% – cannot be allocated to a specific country and so are not included in the EC’s figures. There are also some payments to the EC that are not allocated to a particular country and are therefore also not included in their figures. An example of this is fines, which is again a small proportion of total spending, typically between 2% and 3% of total expenditure.\n\n[Some commentators][11] highlight the complexity in capturing the UK’s financial relationship with the EU. Another important point to consider is that the UK may still be committed to certain types of spending even after leaving the EU, so there may be current contributions that may not be saved. This may include, for example, spending towards overseas aid. In 2018 the [Department for International Development][12] paid £452 million in overseas aid via EU institutions while, in total, the UK government paid £951 million; all of which counted towards our overseas aid spending target.\n\n<ons-table-v2 path=\"/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31/23b269c2\" />\n \n\n\n  [1]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/previousReleases\n  [2]: https://ec.europa.eu/agriculture/cap-funding_en\n  [3]: https://ec.europa.eu/regional_policy/en/funding/erdf/\n  [4]: https://ec.europa.eu/budget/graphs/revenue_expediture.html\n  [5]: https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contribution.csv\n  [6]: http://ec.europa.eu/budget/figures/interactive/index_en.cfm\n  [7]: https://www.ons.gov.uk/visualisations/dvc685/datadownloads/contributions-over-time.csv\n  [8]: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicspending/bulletins/ukgovernmentdebtanddeficitforeurostatmaast/march2019\n  [9]: https://www.gov.uk/government/statistics/european-union-finances-2018\n  [10]: https://ec.europa.eu/budget/graphs/revenue_expediture.html\n  [11]: https://fullfact.org/europe/brexit-extension-1-billion/\n  [12]: https://www.gov.uk/government/statistics/statistics-on-international-development-final-uk-aid-spend-2018"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [
+    {
+      "title": "Table 1: UK official transactions with institutions of the EU, £ million, 2010 to 2018",
+      "filename": "23b269c2",
+      "version": "2",
+      "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31/23b269c2"
+    }
+  ],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "ONS Pink Book, 2018",
+      "uri": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/2018"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/theukcontributiontotheeubudget/2017-10-31",
+  "description": {
+    "title": "The UK contribution to the EU budget",
+    "keywords": [
+      "Brexit",
+      "EU",
+      "Business, Industry and Trade",
+      "Economy"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-09-29T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "How much does the UK contribute to the EU budget as a member? And what about payments from the EU?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

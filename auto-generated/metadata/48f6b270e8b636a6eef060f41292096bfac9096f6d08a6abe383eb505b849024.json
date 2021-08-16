@@ -1,0 +1,56 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/moremotherswithyoungchildrenworkingfulltime/2017-09-26/f9a380f7.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Mothers with young children are more likely to go back to or begin full-time work now than 20 years ago, new ONS analysis suggests.\n\nThe proportion of mothers with children aged between three and four who are in employment increased by almost 10 percentage points over the past two decades. In England there are now around 133,000 more mothers, whose youngest child is a toddler, in employment in 2017 (65.1%), compared with 1997 (55.8%). This was largely driven by an increase in full-time employment.\n\nThis analysis comes as the government expanded the provision of free childcare from 15 to 30 hours a week in England. The policy is designed to help boost employment for parents, particularly mothers, looking to return to work or increase their working hours.\n\n####Percentage of mothers with a youngest child aged three or four years old who are in employment, England, 1997 to 2017\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc439/chart1/index.html\" full-width=\"false\" title=\"Percentage of mothers with a youngest child aged three or four years old who are in employment, England, 1997 to 2017\"/>\n\n[Download the data.][1]\n###More mothers with young children working full-time\nThe rise in overall employment for mothers has been driven mainly by an increasing number working in full-time employment. The proportion of mothers working part-time when they have young children has remained relatively static over the period, although it remains much higher than those working full-time.\n\n####Percentage of mothers with a youngest child aged three or four years old, who are in full-time and part-time employment, England, 1997 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc439/chart2/index.html\" full-width=\"false\" title=\"Percentage of mothers with a youngest child aged three or four years old, who are in full-time and part-time employment, England, 1997 to 2017\"/>\n\n[Download the data.][2]\n\nHowever, mothers with young children have the lowest employment levels of all parents with dependent children at 65.1%. In comparison, the employment rate of fathers with children aged three or four is 93.2%.\n###More fathers with young children working part-time\nThe introduction of flexible working practices and shared parental leave have also made it easier for fathers to share childcare responsibilities. ONS data reflects this social change to an extent. There is a marked increase in the number of fathers who have young children working part-time - it has almost doubled from 3.9% in 1997 to 6.9% in 2017.\n\n####Percentage of fathers with a youngest child aged three or four years old, who work full-time and part-time, England, 1997 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc439/chart3/index.html\" full-width=\"false\" title=\"Percentage of fathers with a youngest child aged three or four years old, who work full-time and part-time, England, 1997 to 2017\"/>\n\n[Download the data.][3]\n\nHowever, this is still well below the proportion of women with young children working part-time - 38.2% in 2017. Generally, the rate of men with young children working full-time has remained stable, and their overall employment is less affected by parenthood compared with women.\n###Policy changes may have affected parental employment\nThe doubling of free childcare from 15 hours a week to 30 hours in England is just one of a larger number of initiatives designed to improve education, make childcare more affordable, and to encourage parents back into work.\n\n####Percentage of mothers working full-time and part-time by age of youngest child, England, 1996 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc439/dist/distribution/index.html\" full-width=\"false\" title=\"Percentage of mothers working full-time and part-time by age of youngest child, England, 1996 to 2017\"/>\n\n[Download the data.][4]\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/09/chart1-1.csv\n  [2]: https://static.ons.gov.uk/visual/2017/09/chart2-1.csv\n  [3]: https://static.ons.gov.uk/visual/2017/09/chart3-1.csv\n  [4]: https://static.ons.gov.uk/visual/2017/12/distchart-3.csv\n  [5]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/articles/howareprivatepensionsaffectingtheincomeofretiredhouseholds/2017-08-08\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/marriagecohabitationandcivilpartnerships/articles/marriageanddivorceontheriseat65andover/2017-07-18\n  [7]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/unpaidcarersprovidesocialcareworth57billion/2017-07-10\n  [8]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Families and the Labour Market",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/familiesandthelabourmarketengland/2017"
+    },
+    {
+      "title": "30-hour free childcare entitlement",
+      "uri": "https://www.gov.uk/government/consultations/30-hour-free-childcare-entitlement"
+    },
+    {
+      "title": "Childcare in the UK",
+      "uri": "https://iea.org.uk/wp-content/uploads/2016/07/ecaf_feb13_childcare.pdf"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/moremotherswithyoungchildrenworkingfulltime/2017-09-26",
+  "description": {
+    "title": "More mothers with young children working full-time",
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-09-26T08:30:40.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "The proportion of mothers with children aged between three and four who are in employment is increasing, analysis suggests.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

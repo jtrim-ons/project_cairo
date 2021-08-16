@@ -1,0 +1,84 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": false,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/wheredoover70slive/2020-03-24/2bf4364e.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "People aged 70 years and over are among those most at risk of severe illness from the coronavirus (COVID-19).\n\nOn Sunday 22 March 2020, the UK Government introduced [shielding measures][1] to protect the extremely vulnerable from the outbreak, with an estimated 1.5 million people being asked to stay at home and avoid all face-to-face contact for at least 12 weeks. Some over-70s will be in this group, while others are only allowed to leave their home in [certain circumstances][2]. \n\nAs the UK population steps up national, local and community efforts to support its most vulnerable members, use our interactive map to identify which areas have the highest percentage of people aged 70 or 85 years and over. To select an area enter a postcode or hover over the map.\n\n\n<ons-interactive url=\"/visualisations/dvc778/map/index.html\" full-width=\"true\" title=\"Map\"/>[Download the data (zip 42.8Mb)][3]\n###### Notes:\n1. The data used to create this map do not allow individual people or households to be identified. Building groups are shaded to give a sense of the population density in an area.\n\n[Download local and regional estimates of those aged over 70years][4]\n\n\n  [1]: https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19\n  [2]: https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others/full-guidance-on-staying-at-home-and-away-from-others\n  [3]: https://www.ons.gov.uk/file?uri=%2Fpeoplepopulationandcommunity%2Fpopulationandmigration%2Fpopulationestimates%2Fdatasets%2Flowersuperoutputareamidyearpopulationestimates%2Fmid2018sape21dt1a/sape21dt1amid2018on2019lalsoasyoaestimatesformatted.zip\n  [4]: https://www.ons.gov.uk/visualisations/dvc778/map/data/all_persons_estimates.xlsx\n "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Population estimates by output areas, electoral, health and other geographies, England and Wales: mid-2018",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/mid2018"
+    },
+    {
+      "title": "Scotland: Small Area Population Estimates, mid-2018",
+      "uri": "https://www.nrscotland.gov.uk/news/2019/small-area-population-estimates-mid-2018"
+    },
+    {
+      "title": "Northern Ireland: 2018 Mid Year Population Estimates for Small Areas",
+      "uri": "https://www.nisra.gov.uk/publications/2018-mid-year-population-estimates-small-areas"
+    },
+    {
+      "title": "UK population pyramid interactive",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ukpopulationpyramidinteractive/2020-01-08"
+    },
+    {
+      "title": "Find the latest on coronavirus (COVID-19) in the UK",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    },
+    {
+      "title": "All ONS analysis, summarised in our coronavirus roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "View all coronavirus data",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datalist"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/wheredoover70slive/2020-03-24",
+  "description": {
+    "title": "Where do over-70s live?",
+    "keywords": [
+      "population",
+      "coronavirus",
+      "map",
+      "COVID-19"
+    ],
+    "metaDescription": "See the population of England and Wales aged 70 years and over mapped at a local level.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "pop.info@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-03-24T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "See the population of England and Wales aged 70 years and over mapped at a local level.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/housing/articles/housepriceshowmuchdoesonesquaremetrecostinyourarea/2017-10-11/8a60a938.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Homes in the most expensive area of England and Wales cost 25 times as much as in the cheapest area, according to Office for National Statistics (ONS) analysis of 2016 property prices.\n\nOne square metre of floor space – an area about the size of a red phone box – costs almost £19,439 in Kensington and Chelsea, while in Blaenau Gwent in the South Wales valleys, the same amount of space costs £777.\n\nONS also found that new flats in England and Wales have got 18% bigger in the last three years, while new houses have remained around the same size.\n\n###Price per square metre\nIn 2016 the average cost of property sold in England and Wales was £2,395 per square metre.\n\nUnsurprisingly, 19 of the top 20 most expensive local authority areas are in London, with Kensington and Chelsea, the City of London, Westminster and Camden topping the list.\n\nBarking and Dagenham was the least expensive London borough, where homes cost £3,994 per square metre.\n\nElmbridge in Surrey is the costliest area outside London, while York was the most expensive area in the North of England.\n\nSouth Wales and Lancashire are the cheapest places to buy property. In Blaenau Gwent, Merthyr Tydfil, Neath Port Talbot, Burnley and Hyndburn, homes cost less than £1,000 per square metre.\n####Explore property prices per square metre across England and Wales:\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc434/map/index.html\" full-width=\"true\" title=\"Explore property prices per square metre across England and Wales:\"/>\n\n[Download the data][3]\n\nWe've also used this data to help you find out [Will an extension increase the value of my house?][4]\n###How big are our homes?\nThe average house sold in England and Wales in 2016 had a floor area of 104 metres squared – that’s about two-fifths the size of a tennis court, or 70 times smaller than the football pitch at Wembley.\n\nFlats averaged 49 metres squared (excluding bathrooms, corridors, hallways and landings) – that’s just over four times bigger than a typical car-parking space.\n\nTaking flats and houses together, the average size of properties sold in England and Wales in 2016 was 90 metres squared – a little smaller than the EU average, and much smaller than new homes in the United States.\n\n####Average size of homes in selected EU countries and USA^1^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc434/floorplan/index.html\" full-width=\"false\" title=\"Average size of homes in selected EU countries and USA^1^\"/>\n\n[Download the data][5]\n###Are houses getting bigger?\nNew properties are a lot bigger than existing ones: in 2016, the average new house sold was 13% bigger than the average existing house, while the average new flat was 17% bigger than the average existing flat.\n\nIn the last three years, new flats in England and Wales have increased in size by 8.5 metres squared. This could be because there is a higher proportion of maisonettes (flats with more than one storey, which tend to be larger too) in the housing market.\n####Will an extension increase the value of my house?\nWe’ve used ONS data on property prices per square metre to help you find out what extra floor space could be worth in your area.\n\nThe value of an extension will depend on many things that we haven’t allowed for here, like the quality of construction, what type of room it is, and the exact location of the property within your local authority. This calculator uses average values for houses across local authority areas.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc434/calculator/index.html\" full-width=\"false\" title=\"Will an extension increase the value of my house? Weâ€™ve used ONS data on property prices per square metre to help you find out what extra floor space could be worth in your area. The value of an extension will depend on many things that we havenâ€™t allowed for here, like the quality of construction, what type of room it is, and the exact location of the property within your local authority. This calculator uses average values for houses across local authority areas.\"/>\n\n[Download the data][7]\n\n\n\n\nOther Visual.ONS articles:\n\n[How do the jobs men and women do affect the gender pay gap?][8]\n\n[Migration levels: What do you know about your area?][9]\n\n[How likely are you to become a victim of crime?][10]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][11] to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [3]: http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/map.csv\n  [4]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/will-an-extension-increase-the-value-of-my-house\n  [5]: http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/floorplan.csv\n  [7]: http://webarchive.nationalarchives.gov.uk/20170726163612///visual.ons.gov.uk/wp-content/uploads/2017/10/extension_calculator.csv\n  [8]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationlevelswhatdoyouknowaboutyourarea/2017-08-24\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/peoplegreatlyoverestimatetheirlikelihoodofbeingrobbed/2017-09-07\n  [11]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  [12]: mailto:digitalcontent@ons.gov.uk\n\n\n####Footnotes:\n\n1. Eurostat data is from 2012. USA data is for new houses only."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "House price per square metre and house price per room, England and Wales: 2004 to 2016",
+      "uri": "https://www.ons.gov.uk/releases/housepricepersquaremeterandhousepriceperroomenglandandwales2004to2016"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/housepriceshowmuchdoesonesquaremetrecostinyourarea/2017-10-11",
+  "description": {
+    "title": "House prices: how much does one square metre cost in your area?",
+    "keywords": [
+      "Economy",
+      "Housing",
+      "Housing Market"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-10-11T08:30:47.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore how housing prices vary across England and Wales and use our calculator to see if an extension could increase value.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

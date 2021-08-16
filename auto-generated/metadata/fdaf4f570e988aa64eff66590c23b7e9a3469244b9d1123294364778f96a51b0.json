@@ -1,0 +1,82 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/wellbeing/articles/menenjoyfivehoursmoreleisuretimeperweekthanwomen/2018-01-09/1ced8c02.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Men in the UK enjoy nearly five more hours of leisure time per week than women, ONS analysis reveals.\n\nIn 2015, men took, on average, 43 hours of leisure time per week, whereas women took around 38 hours of leisure time.\n\nWhen considering the amount of leisure men and women took 15 years earlier, it suggests that there is a growth in inequality between men and women when it comes to taking leisure time. Men are now taking quite a lot more time each week for leisure and women are taking less compared with 2000.\n\n####Leisure hours taken per week, by sex, 2000 and 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc4672/tiefight_by_gender/index.html\" full-width=\"false\" title=\"Leisure hours taken per week, by sex, 2000 and 2015\"/>\n\n[Download the data.][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2018/01/leisure_hours_by_sex_per_week-1.xlsx\n\nLeisure time for women could be less than for men because although women are more frequently engaged in part-time work than men, they spend more time completing unpaid work such as household chores and childcare. The hours spent on unpaid work are likely to replace those hours that could have been spent on leisure activities."
+    },
+    {
+      "title": "",
+      "markdown": "###People living with children take less leisure time than those living alone\n\nPeople living in households with a child under the age of 15 years report taking up to 14 hours per week less leisure time than those living on their own.\n\nPeople living in households with children reported spending less of their leisure time resting, particularly those from single parent households. Those from households without children, however, spent more time doing things like watching television and reading. Though people living with children also spent the majority of their leisure time consuming mass media, they did so for less time.\n\nMen consistently took more leisure time than women regardless of how old the child in their household was."
+    },
+    {
+      "title": "",
+      "markdown": "###Parents whose youngest child was aged five to ten took more leisure time in 2015 than in 2000\n\nFocusing specifically on parents who live with their children, those whose youngest child was aged between five and ten years old are now taking more leisure time than they did in 2000. Mothers took an hour and a half more time and fathers took two hours more.\n\nThe amount of leisure time a parent took increased with the age of a child in both 2000 and 2015. The only decrease seen was for those parents whose youngest child was under five.\n\n####Leisure time by age of youngest child, 2000 and 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc4672/tiefight_age_of_child/index.html\" full-width=\"false\" title=\"Leisure time by age of youngest child, 2000 and 2015\"/>\n\n[Download the data.][1]\n\n\nIn 2015, fathers whose youngest child was under five took around 30 hours of leisure time per week compared with 28.5 hours per week for mothers of similar age children.\n\nThe difference between mothers and fathers was particularly prevalent at weekends.\n\n####Leisure time on weekends by sex and age of youngest child, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc4672/tiefight_by_weekend/index.html\" full-width=\"false\" title=\"Leisure time on weekends by sex and age of youngest child, 2015\"/>\n\n[Download the data.][2]\n\nBased on the amount of time spent by individuals, mass media consumption, which can include reading, listening to music and watching tv, was the most popular form of leisure for parents of any of the age categories, accounting for around half of all leisure time.\n\n  [1]: https://static.ons.gov.uk/visual/2018/01/leisure_hours_by_age_of_child_in_household-2.xlsx\n  [2]: https://static.ons.gov.uk/visual/2018/01/leisure_hours_weekend_by_age_of_child_in_household.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "###The older people get, the more leisure time they take\n\nIn 2015, people aged 25 to 34 took the least amount of leisure time out of any age group.\n\n####Leisure hours taken per week by age and sex, 2015<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc4672/tiefight_age_and_leisure_time/index.html\" full-width=\"false\" title=\"Leisure hours taken per week by age and sex, 2015\"/>\n\n[Download the data.][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2018/01/Leisure_hours_taken_per_week_by_age_and_sex_2015.xlsx\nThis could be due to people in this age group having young children. Those parents whose youngest child was under the age of five took under 30 hours of leisure time per week.\n\nLeisure hours taken per week increase quickly as people get older, with those aged 65 and over taking the most leisure time. People of this age are usually retired and therefore are likely to be able to take more leisure time.\n\nPeople aged 16 to 24 took a high amount of leisure time per week. This might be due to this age group including students.\n\n\n\n####Notes\n1. Leisure time in this analysis includes a range of activities including: socialising, cultural activities, resting and taking time out, sports or outdoor pursuits, hobbies, computing and games, mass media, eating out and travel associated with these leisure activities. The survey recorded the main activity that a person was completing at the time. It excludes paid work, unpaid work such as chores or childcare, study, travel unrelated to leisure activities, and actions necessary for existing such as eating and sleeping.\n\n2. The survey includes those aged eight and over in the UK.\n"
+    },
+    {
+      "title": "",
+      "markdown": ""
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Young people spend a third of their leisure time on devices",
+      "uri": "https://visual.ons.gov.uk/young-people-spend-a-third-of-their-leisure-time-on-devices/"
+    },
+    {
+      "title": "London had the smallest gender pay gap 20 years ago, but now it has the largest",
+      "uri": "https://visual.ons.gov.uk/gender-pay-gap-changes-twenty-years/"
+    },
+    {
+      "title": "Paddington, Star Wars and the rise of the UK film industry",
+      "uri": "https://visual.ons.gov.uk/paddington-star-wars-and-the-rise-of-the-uk-film-industry/"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/wellbeing/articles/menenjoyfivehoursmoreleisuretimeperweekthanwomen/2018-01-09",
+  "description": {
+    "title": "Men enjoy five hours more leisure time per week than women",
+    "keywords": [
+      "leisure time",
+      "gender inequality",
+      "analysis"
+    ],
+    "metaDescription": "Men in the UK enjoy nearly five more hours of leisure time per week than women, ONS analysis reveals.\n",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "economic.wellbeing@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-01-09T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Men in the UK enjoy nearly five more hours of leisure time per week than women, ONS analysis reveals.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

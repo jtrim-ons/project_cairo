@@ -1,0 +1,123 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/3aa1b6bc.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "As restrictions to curb the spread of the coronavirus (COVID-19) continue to lift across the UK, data are important in helping us monitor the current state of the pandemic, as well as understand more about the wide-ranging impacts it has had over the past year.  \n\n<p id=\"toc\">Here are five things we learned about the pandemic from data published in May:</p>\n<ol>\n<li><a href=\"#vaccines\">A lower proportion of staff in care homes in London are vaccinated than in other areas.</a>\n<li><a href=\"#deaths\">Private homes were the only setting to record excess deaths in every month throughout the pandemic.</a>\n<li><a href=\"#depression\">In early 2021, rates of depressive symptoms for adults aged 16 to 39 years were more than double pre-pandemic levels.</a>   \n<li><a href=\"#wfh\">Working from home increased among all age groups in 2020 compared with 2019.</a> \n<li><a href=\"#retail\">Non-store retailers saw modest growth in April as non-essential stores reopened.</a>\n</ol>\n\nFor the very latest figures on deaths, cases, and other pandemic-related indicators, visit our [Coronavirus latest insights][1] explorer.  \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"vaccines\">1. A lower proportion of staff in care homes in London are vaccinated than in other areas</h2>\n\n####Cumulative proportion of older adult care home staff who have received a first dose by region, December 2020 to April 2021, England \n\n<ons-interactive url=\"/visualisations/dvc1384/carehome/index.html\" full-width=\"false\" title=\"A lower proportion of staff in care homes in London are vaccinated than in other areas \"/>\n\n####Notes \n1. Data are taken from monthly adult social care statistics published by the Department of Health and Social Care (DHSC). Data in this publication are collected up to 11.59pm on a Tuesday. Vaccination data for social care settings are also published weekly by NHS England and Improvement (NHSEI) as part of their broader statistical release on [COVID-19 vaccinations][1]. The NHSEI publications use the same methodology and data source as the DHSC publications but the data cover vaccinations reported up to 11:59pm of the previous Sunday each week. \n2. Older adult care homes are defined as care homes serving any older people (aged 65 years and over) as identified from the latest Care Quality Commission (CQC) data on care homes in the “older people service” user band. A small number of residents within care homes serving older people may be aged under 65 years. \n\n[Download the data][2] \n\nAs of 27 April 2021, 95% of residents in older adult care homes (aged 65 years and over) and 81% of older adult care home staff in England had received their first coronavirus (COVID-19) vaccine dose, according to [recent adult social care monthly statistics][3], published by the Department of Health and Social Care (DHSC).  \n\nOlder adult care homes and their staff were in the first [priority group][4] for receiving a COVID-19 vaccine according to the Joint Committee on Vaccination and Immunisation (JCVI) recommendation. \n\nWhile first-dose vaccination rates are similar across all regions of England for residents in older adult care homes, there is considerable variation across regions for staff. In London, as of 27 April 2021, 72% of staff had received their first dose compared with 87% in the North East.  \n\nThis reflects trends seen in the wider population, with [NHS vaccination data][5] showing that rates among all age groups are slightly lower in London than in other English regions.  \n\nAnalysis of responses to the ONS’s Opinions and Lifestyle Survey (OPN) in April suggested [vaccine hesitancy][6] was higher in London, with 12% of adults in London expressing some level of vaccine hesitancy compared with 7% of adults in England as a whole. In addition, the data suggested that across Great Britain, vaccine hesitancy was slightly higher for those employed in adult social care (9%) compared with frontline medical care staff (4%) and those employed in other occupations (7%).  A government consultation was recently held on [making vaccination a condition of deployment in older adult care homes][7], the outcome of which is yet to be published. \n\n[Separate data for Wales][8], suggest that 98% of older adult care home residents and 92% of older adult care home staff have received their first dose as of 26 May 2021. \n\n[Data for Scotland][9] suggest that 97% of older adult care home residents and 100% of staff in all care homes have received their first dose as of 26 May 2021.  \n\nData for adult social care staff and residents in England up to 16 May 2021 are available as part of [NHS England and Improvement’s (NHSEI) broader statistical release on COVID-19 vaccinations][10].  \n\nComparisons across the three nations should be made with caution because of differences in reporting period, and potential differences in methodology. Further methodological information on [England][11] and [Scotland][12] data is available. \n\n<a href=\"#toc\">Back to the top</a>\n\n\n  [1]: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-vaccinations/\n  [2]: https://www.ons.gov.uk/visualisations/dvc1384/carehome/datadownload.xlsx\n  [3]: https://www.gov.uk/government/statistics/adult-social-care-in-england-monthly-statistics-may-2021/adult-social-care-monthly-statistics-england-may-2021\n  [4]: https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi-30-december-2020/joint-committee-on-vaccination-and-immunisation-advice-on-priority-groups-for-covid-19-vaccination-30-december-2020\n  [5]: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-vaccinations/\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandvaccinehesitancygreatbritain\n  [7]: https://www.gov.uk/government/consultations/making-vaccination-a-condition-of-deployment-in-older-adult-care-homes/making-vaccination-a-condition-of-deployment-in-older-adult-care-homes\n  [8]: https://public.tableau.com/app/profile/public.health.wales.health.protection/viz/RapidCOVID-19virology-Public/Vaccination\n  [9]: https://public.tableau.com/app/profile/phs.covid.19/viz/COVID-19DailyDashboard_15960160643010/Overview\n  [10]: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-vaccinations/\n  [11]: https://www.gov.uk/government/publications/adult-social-care-in-england-statistics-england-methodology\n  [12]: https://www.gov.scot/publications/coronavirus-covid-19-vaccinations-data---technical-note/"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"deaths\">2. Private homes were the only setting to record excess deaths in every month throughout the pandemic</h2>\n\n####Deaths from all causes by place of death, UK, percentage difference between deaths registered in each month of 2020 and average for 2015 to 2019 \n\n<ons-interactive url=\"/visualisations/dvc1384/excess-deaths/index.html\" full-width=\"false\" title=\"Private homes were the only setting to record excess deaths in every month throughout the pandemic \"/>\n\n####Notes\n1. Data for England and Wales are final. Data for Scotland and Northern Ireland are provisional and subject to change. \n2. Based on date a death was registered rather than occurred. \n3. Please note figures for England and Wales are based on data [published by the Office for National Statistics (ONS)][1], figures for Northern Ireland were provided by the [Northern Ireland Statistics and Research Agency (NISRA)][2] and figures on Scotland were provided by [National Records of Scotland (NRS).][3] Therefore, there are some differences in how the data are defined and as such they should be compared with caution. Please see the data download for more information. \n\n[Download the data][4]\n\nIn April 2020, [excess deaths in care homes][5] across the UK peaked at more than double usual levels and were also above average in all other locations. As coronavirus (COVID-19) infections fell during the summer, deaths in care homes, hospitals and other locations fell below the five-year average.  However, deaths remained above average in private homes for the rest of the year. \n\nMany of the deaths in private homes were people who, in a non-pandemic year, may have typically died in a hospital. The majority of deaths due to COVID-19 (where the coronavirus was the underlying cause) occurred in hospitals and care homes, while many deaths from other causes, such as breast cancer and prostate cancer, happened in private homes. More detailed analysis of excess deaths by cause is available for [England and Wales][6], [Northern Ireland][7] and [Scotland.][8] \n\n[In England and Wales][9], the most deprived areas saw higher increases in excess deaths in hospitals and care homes in 2020 than the least deprived areas. However, this trend reversed when looking at excess deaths in private homes, where the least deprived areas of the country saw higher increases in 2020 than the most deprived areas.  \n\nIn the least deprived areas of England, deaths in private homes were 37.9% above the five-year average in 2020 compared with a 29.4% increase in the most deprived areas. In Wales, deaths in private homes in the least deprived areas were 46.9% above the five-year average compared with a 28.9% increase in the most deprived areas.  \n\n<a href=\"#toc\">Back to the top</a>\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07\n  [2]: https://www.nisra.gov.uk/publications/excess-mortality-covid-19-related-deaths\n  [3]: https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/deaths-involving-coronavirus-covid-19-in-scotland\n  [4]: https://www.ons.gov.uk/visualisations/dvc1384/excess-deaths/datadownload.xlsx\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07\n  [7]: https://www.nisra.gov.uk/sites/nisra.gov.uk/files/publications/Excess%20mortality%20%26%20Covid-19%20related%20deaths%20in%20Northern%20Ireland-Mar-Dec%202020.pdf\n  [8]: https://www.nrscotland.gov.uk/files/statistics/covid19/covid-deaths-21-report-week-19.pdf\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/excessdeathsinenglandandwales2020final"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"depression\">3. In early 2021, rates of depressive symptoms for adults aged 16 to 39 years were more than double pre-pandemic levels </h2>\n####Great Britain, July 2019 to March 2021  \n\n<ons-interactive url=\"/visualisations/dvc1384/depressed-change/index.html\" full-width=\"false\" title=\"In early 2021, rates of depressive symptoms for adults aged 16 to 39 years were more than double pre-pandemic levels \"/>\n\n####Notes\n1. Base population: All adults in Great Britain. \n2. Afford an unexpected expense: Adults were asked if their household could afford an unexpected, but necessary, expense of £850. This gives us an indication of adults who may be struggling financially. \n3. Child in household: Whether there is a child living in the household. A child is any person aged under 16 years. \n\n[Download the data][1]\n\nDuring the early 2021 lockdown (27 January to 7 March), the proportion of adults experiencing some form of depression was higher than November 2020, and more than double the rate seen before the pandemic, according to [Opinions and Lifestyle Survey data.][2] \n\nYounger adults and people living with a child aged under 16 years in Great Britain had the largest increases in rates of depressive symptoms in early 2021 compared with pre-pandemic levels. Around 3 in 10 adults aged 16 to 39 years (29%) experienced some form of depression (indicated by moderate to severe depressive symptoms), compared with 11% in July 2019 to March 2020.  \n\nRates of depression doubled among adults aged 70 years and over in the same period but were much lower overall than those seen in the younger age groups.  \n\nSeparate data from the [NISRA Coronavirus (COVID-19) Opinion Survey Phases 1 to 10][3] showed that in Northern Ireland, when restrictions were reintroduced, just over a quarter of people (28%) had a high [general health questionnaire (GHQ-12)][4] score, which could indicate a possible mental health problem. This was significantly higher than the most recent figure published by the Health Survey Northern Ireland for 2019 to 2020 (19%).  \n\nAlthough the data – which cover January to April 2021 – are not directly comparable with the rest of the UK, it seems there has been an increase in mental health problems during the coronavirus pandemic period.  \n\n<a href=\"#toc\">Back to the top</a>\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1384/depressed-change/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/coronavirusanddepressioninadultsgreatbritain/januarytomarch2021\n  [3]: https://www.nisra.gov.uk/publications/nisra-coronavirus-covid-19-opinion-survey\n  [4]: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nisra.gov.uk%2Fsystem%2Ffiles%2Fstatistics%2FNISRA%2520COVID-19%2520Survey%2520Key%2520Findings.pdf%23page%3D13&data=04%7C01%7CKatie.Edser%40ons.gov.uk%7C494b80a140254f0cc67808d91c4375a7%7C078807bfce824688bce00d811684dc46%7C0%7C0%7C637571898922652530%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=B9rCrNN%2B9%2Bg%2BZImSyFQRIC9QFBX0piRu%2F4wvT%2Fw3mPY%3D&reserved=0"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"wfh\">4. Working from home increased among all age groups in 2020 compared with 2019</h2>\n<ons-chart path=\"f8adc428\" />\n\nAdults from all age groups saw an increase in homeworking in 2020 compared with 2019 following government advice to work from home where possible during the pandemic. \n\nAccording to [Annual Population Survey data,][1] an estimated 8.4 million people (25.9%) reported working from home in the week prior to being interviewed for the survey. This compares with 12.4% of the workforce in 2019.  \n\nHowever, workers aged 25 years and under were less likely to work from home than older workers, with 3.6% of 16- to 19-year-olds and 14.8% of 20- to 24-year-olds reporting working from home at some point in the week prior to interview, compared with 34.9% of those aged 70 years and over.  \n\nYounger workers were also less likely to work from home before the pandemic but the trend has intensified over the last year. This is likely to reflect younger workers' tendency to work in the accommodation and food service activities, and the arts, entertainment and recreation industries. The impact of the pandemic also meant that workers in these industries were more likely to be furloughed, or unable to work from home during the pandemic. \n\nAdults aged 70 years and over were advised by the UK government to take particular care in minimising contact with others outside their household to protect themselves from catching COVID-19. \n\nWe have recently published a [blog comparing the different data sources measuring levels of homeworking][2] during the pandemic. \n\n<a href=\"#toc\">Back to the top</a>\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket\n  [2]: https://blog.ons.gov.uk/2021/05/17/working-from-home-comparing-the-data/"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"retail\">5. Non-store retailers saw modest growth in April as non-essential stores reopened</h2>\n\n<ons-chart path=\"4c71a6ad\" />\n\n[Retail sales][1] exceeded pre-pandemic levels in April 2021, with a 9.9% increase in the amount spent and a 10.6% increase in the quantity bought compared with February 2020.  \n\nOn 12 April 2021, non-essential stores were allowed to reopen in England and Wales, as coronavirus (COVID-19) lockdown restrictions began to relax. Similar restrictions were lifted in Scotland on April 26.  \n\nAll retailers apart from food stores reported monthly growth in sales in April, with clothing stores seeing a 69.4% increase in sales as physical stores were able to reopen.  \n\nIn comparison, non-store retailers (mostly online-only businesses with no physical shops) reported modest monthly growth of 1.0% in April, although their sales volumes remain 53.1% higher than their February 2020 pre-pandemic level. All retail sectors except non-store retailers reported a fall in their proportions of online sales as physical stores reopened during the month. The total proportion of sales online decreased to 30.0%, down from 34.7% in March 2021. \n\nDespite also seeing growth, the automotive fuel sector is yet to recover to pre-pandemic levels, with current sales down 9.9% when compared with February 2020. This suggests homeworking and reduced travel are continuing to have an impact on the sector. \n\n<a href=\"#toc\">Back to the top</a>\n\n  [1]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/april2021"
+    },
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\"> \n<b>Help us improve</b>\n\nAs part of our ongoing commitment to maximise the relevance and value of our outputs, we are reviewing the content and the frequency of this article. If you would like to provide any feedback on the monthly Coronavirus (COVID-19) in charts article, please email <a href =\"mailto:synthesis@ons.gov.uk\">synthesis@ons.gov.uk</a>. The next publication date of this release will be announced at a later date. \n</ons-box> "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/homeworkingintheuklabourmarket"
+    },
+    {
+      "uri": "/businessindustryandtrade/retailindustry/datasets/retailsalesindexreferencetables"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/excessdeathsinenglandandwales2020final"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/wellbeing/datasets/coronavirusanddepressioninadultsingreatbritain"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsathomeincreasedbyathirdin2020whiledeathsinhospitalsfellexceptforcovid19/2021-05-07"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/wellbeing/articles/coronavirusanddepressioninadultsgreatbritain/januarytomarch2021"
+    },
+    {
+      "uri": "/businessindustryandtrade/retailindustry/bulletins/retailsales/april2021"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Percentage of UK workforce that worked from home in the week prior to interview by age group, January to December 2019 and January to December 2020",
+      "filename": "f8adc428",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/f8adc428"
+    },
+    {
+      "title": "Volume sales, seasonally adjusted, Great Britain, April 2021 compared with March 2021 ",
+      "filename": "4c71a6ad",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27/4c71a6ad"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) in charts: What we learned over the past month March to April 2021",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmarchtoapril2021/2021-04-30"
+    },
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "Coronavirus (COVID-19) latest insights",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonthmay2021/2021-05-27",
+  "description": {
+    "title": "Coronavirus (COVID-19) in charts: What we learned over the past month (May 2021) ",
+    "keywords": [
+      "Coronavirus",
+      "COVID-19",
+      "Vaccination",
+      "Work",
+      "Mental health"
+    ],
+    "metaDescription": "What we learned about the pandemic from data published in May 2021",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "synthesis@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-05-26T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Data from across the UK government and devolved administrations highlight the effects of the pandemic on society and the economy. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

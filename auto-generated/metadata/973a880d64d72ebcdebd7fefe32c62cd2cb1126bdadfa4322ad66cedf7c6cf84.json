@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The most recent estimates gathered by the Office for National Statistics from more than 23,000 firms suggest that the output of the services sector – which accounts for three quarters of the economy – grew strongly in July 2016 - up 0.4% from June 2016.\n\n\n\nWhile ONS always warns against focusing too much on month-on-month growth rates, this fresh data on the service sector^1^ tends to support the view that there has been no sign of an immediate shock to the economy, following the vote to leave the European Union, although the full picture will continue to emerge.\n\nAlongside [today’s release][1], here are five key things you need to know about the UK service sector and its importance to the UK economy.\n\n(Please note that the GDP data used here is consistent with the second estimate of GDP published on 26th August)\n###1. 79% of UK Gross Domestic Product (GDP) came from the service sector in 2013\nThis has increased from 46% in 1948. Over the same period the share of GDP from production and agriculture has decreased, while the share of construction has remained broadly unchanged.\n\n####Percentage of GDP coming from the services, production, agriculture and construction sectors, UK, 1948 and 2013^2^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc370/servicesector_1/Stacked-Bar-Horizontal/index.html\" full-width=\"false\" title=\"Percentage of GDP coming from the services, production, agriculture and construction sectors, UK, 1948 and 2013^2^\"/>\n\n[Download the data.][2]\n###2. The percentage of workers in the service sector rose from 33% in 1841 to 80% in 2011\nTaking a look at census data for England and Wales, the nature of the labour market has changed considerably over the last 170 years. In 1841 most people worked in manufacturing, but by 1881 those working in services overtook manufacturing. By 2011, around 80% of workers were in the service industry and around 10% in manufacturing.\n\n####Percentage of the labour force working in each sector of the economy, England and Wales, 1841 to 2011 \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc370/servicesector_2/WaT_chart1/index.html\" full-width=\"false\" title=\"Percentage of the labour force working in each sector of the economy, England and Wales, 1841 to 2011Â�\"/>\n\nNote: The data used here is for every 10 years since 1841, excluding 1941 and 1971. There was no census recorded in 1941 and information for 1971 is not included due to inconsistent industrial classification.\n\n[Download the data.][3]\n###3. The service sector dominates London's economy\n91% of London’s economy is in the service sector, higher than all other areas of the UK.\n\n####Percentage of each area’s economy that is in the service sector, UK, 2014\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/09/figure-3.jpg\"/>][4]\n\nSource: [Regional Gross Value Added (income approach)][5], ONS\n\n[Download the data.][6]\n###4. The UK's economy is more reliant on the service sector than any other G7 country\nWhile our reliance is similar to that of France and the USA, we differ from Germany where a lower proportion (69%) of GDP came from the service sector in 2014.\n\n####Percentage of each country's GDP that comes from the service sector, G7 countries, 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc370/servicesector_4/stackedbar/index.html\" full-width=\"false\" title=\"Percentage of each country's GDP that comes from the service sector, G7 countries, 2014\"/>\n\n[Download the data.][7]\n###5. The service sector has driven the economic recovery since the downturn in 2008\nFour main sectors feed into UK GDP - agriculture, construction, production and services. Out of these, the service sector was the first to recover after the economic downturn in 2008.\n\n####Output from the service, construction and production sectors in index numbers (2008 = 100), January to March (quarter 1) 2008 to April to June (quarter 2), 2016^3^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc370/servicesector_5/line_chart/index.html\" full-width=\"false\" title=\"Output from the service, construction and production sectors in index numbers (2008 = 100), January to March (quarter 1) 2008 to April to June (quarter 2), 2016^3^\"/>\n\n[Download the data.][8]\n\nTo consider the growth of a sector over time, index numbers are used instead of volume or value figures. The index number for services was at 111.2 in April to June 2016, up from 100 in January to March 2008 – this means the service sector grew 11.2% over this period.\n\nIn comparison, the index numbers for the production and construction sectors in April to June 2016 were 92.6 and 97.9 respectively. As these are less than 100, it means the output for these sectors has not yet returned to their pre-downturn levels.\n\n\n\nFor more information, please contact: <ios.enquiries@ons.gov.uk>\n\n\n\nMore in the 'Five facts about ...' series:\n\n[Five facts about ...housing][10]\n\n[Five facts about...strikes][11]\n\n[Five facts about...cars][12]\n\n\n\n####Notes:\n\nWhenever we have referred to UK GDP in this article we have referred to the [output measure][13] of UK GDP. Components of this measure (services, production, construction and agriculture) are measured as Gross Value Added (GVA) which is used as proxy for GDP.\n\n\n  [1]: https://www.ons.gov.uk/releases/indexofservicesjul2016\n  [2]: https://static.ons.gov.uk/visual/2016/09/services-1.csv\n  [3]: https://static.ons.gov.uk/visual/2016/09/services-2-new.csv\n  [4]: https://static.ons.gov.uk/visual/2016/09/figure-3.jpg\n  [5]: https://www.ons.gov.uk/economy/grossvalueaddedgva/bulletins/regionalgrossvalueaddedincomeapproach/december2015\n  [6]: https://static.ons.gov.uk/visual/2016/09/services-3.csv\n  [7]: https://static.ons.gov.uk/visual/2016/09/services-4-new.csv\n  [8]: https://static.ons.gov.uk/visual/2016/09/services-5-new.csv\n  [9]: mailto:ios.enquiries@ons.gov.uk\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/fivefactsabouthousing/2016-08-17\n  [11]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacedisputesandworkingconditions/articles/fivefactsaboutstrikes/2016-08-12\n  [12]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/fivefactsaboutcars/2016-09-22\n  [13]: http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2012-edition/art---balancing-the-three-approaches-to-measuring-gdp.html\n\n\n####Footnotes:\n1. The service sector is made up of service activities in retail, hotels, restaurants, transport, storage, IT, finance, insurance, real estate, administration and support services, professional, scientific and technical services, education, health, social work, arts, entertainment, recreation, public administration, defence etc.\n2. GDP figures get revised as additional data becomes available - when looking at how much GDP came from a particular sector in more recent years we use GDP weights from 2013 as at this point the data is less prone to revisions from additional data.\n3. We have not included the index numbers for agriculture on this chart as agriculture makes up a very small part of the UK economy."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Shopping in shops that have no shops",
+      "uri": "https://visual.ons.gov.uk/shopping-in-shops-that-have-no-shops/"
+    },
+    {
+      "title": "Transition from a manufacturing to service led labour market over past 170 years",
+      "uri": "https://visual.ons.gov.uk/work-travel-census/"
+    },
+    {
+      "title": "Retail sales",
+      "uri": "https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/march2016"
+    },
+    {
+      "title": "Index of services",
+      "uri": "http://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/indexofservices/previousReleases"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/economicoutputandproductivity/output/articles/fivefactsabouttheukservicesector/2016-09-29",
+  "description": {
+    "title": "Five facts about... The UK service sector",
+    "keywords": [
+      "Economy",
+      "Five facts about",
+      "GDP",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-09-29T08:31:10.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

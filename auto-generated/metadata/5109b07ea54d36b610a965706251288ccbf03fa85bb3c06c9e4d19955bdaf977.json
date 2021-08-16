@@ -1,0 +1,61 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Over time, family sizes have decreased and women are having fewer children by the age of 30 compared to previous generations.\n\nThe average family size for women born in 1942 – for example – was 2.29 children per mother. In contrast, their daughters' generation – represented by women born in 1969 – had on average 1.91 children per mother. Meanwhile, women born in 1984 had fewer children on average (1.02) by their 30th birthday than women born in 1969 - who had 1.12 children by the same age.\n\nUse our calculator below to enter both your year of birth and your mother’s year of birth - or any other generation(s) you like. How do the different childbearing patterns compare?\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc211/compare.html\" full-width=\"true\" title=\"Changing Family Size. How do your generations compare?\"/>\n\n[Download the data.][1]\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/fertility-analysis/childbearing-for-women-born-in-different-years/2013/rft-cohort-fertility-2013.xls\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Childbearing for women born in different years, England and Wales, 2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/fertility-analysis/childbearing-for-women-born-in-different-years/2013/stb-cohort-fertility-2013.html"
+    },
+    {
+      "title": "Further parental characteristics including male fertility",
+      "uri": "http://www.ons.gov.uk/ons/rel/vsob1/further-parental-characteristics--england-and-wales/2013/index.html"
+    },
+    {
+      "title": "Births in England and Wales, 2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/vsob1/birth-summary-tables--england-and-wales/2013/info-births-2013.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/families/articles/howdoesyourfamilysizecompare/2015-03-13",
+  "description": {
+    "title": "How does your family size compare?",
+    "keywords": [
+      "People,population and community",
+      "Families",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-03-13T09:30:45.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

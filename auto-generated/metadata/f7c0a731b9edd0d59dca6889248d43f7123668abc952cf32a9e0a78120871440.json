@@ -1,0 +1,80 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": false,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsinvolvingcovid19interactivemap/2020-06-12/d3c59f6c.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\n<h4>This page is no longer being updated.</h4>  \n\nThe link for this page refers to deaths involving COVID-19. Since the map now shows deaths due to COVID-19 and not deaths involving COVID-19, it has been moved to a new page in order to avoid confusion.\n\nRead the [latest version of the interactive map of deaths due to COVID-19][4].\n</ons-box>\n\nThe coronavirus (COVID-19) has spread across the vast majority of neighbourhoods in England and Wales. Our interactive map allows you to see the number of deaths registered in the period March to December 2020, where COVID-19 was the underlying (main) cause on the death certificate. \n\nAs local data is only available up to December, the numbers of deaths in the map will not reflect the latest trends. In particular, patterns may not reflect those seen in the most recent case numbers, as a death from COVID-19 will be reported some time after a positive test. January data will be added to the map on 25 February 2021. \n\nFor the most up-to-date information on deaths at a national and regional level, read our [weekly bulletin][1]. For the latest information on people testing positive for COVID-19, read the [results from our infection survey][2].  \n\nEnter your postcode or interact with the map to see the number of deaths in an area. The size of the circle represents the number of deaths. \n\n<h4>Number of deaths due to COVID-19 in Middle Layer Super Output Areas, death registered between March to December 2020, England and Wales</h4>\n<ons-interactive url=\"/visualisations/dvc1134/covid-death-map/index.html\" full-width=\"true\" title=\"Interactive map of deaths due to COVID-19\"/>\n\n#####Notes: \n1. Middle Layer Super Output Areas (MSOAs) are a small area statistical geography covering England and Wales. Each area has a similarly sized population (around 8,000 people on average) that remains stable over time. \n2. MSOAs are not equivalent to entire towns or cities (they are much smaller). In total, there are 7,201 MSOAs across England and Wales. \n3. Locally adopted MSOA names are provided by House of Commons Library. While these names are not officially supported for National Statistics, they are provided here to help local users. \n4. Points on the map are placed at the centre of the local area they represent and do not show the actual location of deaths.  \n5. To protect confidentiality, a small number of deaths have been reallocated between neighbouring areas. Given the method used for this, figures for some areas may be different to previously published data. \n6. Figures are for deaths registered rather than deaths occurring in each month. \n7. Figures exclude death of non-residents and are based on August 2020 boundaries. \n8. Deaths \"due to COVID-19\" include only deaths where COVID-19 was the underlying cause of death. \n9. Figures are provisional. \n\n[Download the data][3]\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest\n  [3]: https://www.ons.gov.uk/visualisations/dvc1134/covid-death-map/data/datadownload.xlsx\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsduetocovid19interactivemap/2021-02-25"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsduetocovid19bylocalareaanddeprivation"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/monthlymortalityanalysisenglandandwales/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) Infection Survey, UK",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest"
+    },
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "Coronavirus (COVID-19) latest insights",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/articles/deathsinvolvingcovid19interactivemap/2020-06-12",
+  "description": {
+    "title": "Deaths due to COVID-19 – Interactive map",
+    "keywords": [
+      "interactivetool",
+      "coronavirus",
+      "COVID-19",
+      "map",
+      "deaths"
+    ],
+    "metaDescription": "Use our interactive map to explore the number of COVID-19 deaths in your area.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "Health.Data@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-06-11T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Use our interactive map to explore the number of COVID-19 deaths in your area.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Households are spending the lion’s share of their weekly budget on transport, according to figures released in the latest [Family Spending report][1].\n\nThe report revealed that average weekly spending on transport increased by 6% in 2014, from £70.60 in 2013 (adjusted to 2014 prices) to £74.80.\n\nThis comes from an overall average weekly spend of £531.30, a £24 increase on the total in 2012, when spending averaged £507.40 per week – the lowest since current recording methods began.\n\n####Total household expenditure, UK, 2001/02 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc140/index.html\" full-width=\"false\" title=\"Total household expenditure, UK, 2001/02 to 2014\"/>\n###The breakdown of spending on transport\nVehicle purchases (£24.80) made up one-third of the average spend on transport. On average more was spent on second hand cars and vans (£14.60) than new (£9.20). This is because more cars and vans are bought second hand than new.\n\nSpending on transport included £22.90 on motor fuels, broken down into £14.90 per week on petrol and £8.00 on diesel. Spending on air fares averaged £6.10 per week, rail fares £3.60, and bus fares £1.50.\n\nThe increase in spending can partly be attributed to an increase in purchases of new cars. It coincided with the increased rate of economic growth, when households had more disposable income, allowing them to spend more on discretionary items.\n\n###What else have families been spending their money on?\nUse our interactive treemap to delve through the details\n####Household expenditure UK 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc203/treemap_fin.html\" full-width=\"true\" title=\"Household expenditure UK 2014\"/>\n\nAn increase in leisure spending on and culture could be a sign of recovery\nOne type of spending that might be considered to be discretionary is recreation and culture, which saw a 6.8% rise in spending, from £64.40 in 2013 to £68.80 in 2014. There has been an upward trend in spending on recreation and culture, from £54.20 in the survey year ending March 2002 (adjusted to 2014 prices).\n\nRecreation and culture covers a wide variety of goods and services, and included the following average weekly spends in 2014:\n\n- sports admissions, subscriptions, leisure class fees and equipment hire (£6.90)\n\n- cinema, theatre and museums etc (£2.80)\n\n- TV subscriptions and licences (£6.70)\n\n- pets and pet food (£4.30)\n\n- games, toys and hobbies (£2.40)\n\n- personal computers, printer and calculators (£2.80)\n\n- plants, flowers, seeds, fertiliser and insecticides (£2.60)\n\n###Compare the spending\nAn at-a-glance look at spending in categories\n\n####Household expenditure, UK, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc295/project/index.html\" full-width=\"false\" title=\"Household expenditure, UK, 2014\"/>\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/family-spending/family-spending/2015-edition/index.html\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/householdsspendthemostontransport/2015-12-08",
+  "description": {
+    "title": "Households spend the most on transport",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-12-08T09:33:41.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

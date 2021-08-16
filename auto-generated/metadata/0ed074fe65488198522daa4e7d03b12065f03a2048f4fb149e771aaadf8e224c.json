@@ -1,0 +1,109 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/d18e24ce.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The coronavirus (COVID-19) continued to impact  people’s lives as 2021 began, with lockdowns across England, Wales, Northern Ireland and Scotland. \n\nStatistics from across the UK government and devolved administrations show how the pandemic has affected everything from schools and universities to prisons, as well as how attitudes towards vaccination are changing. \n\nHere are six charts showing some of what we learned in late December 2020 and January 2021. For the very latest figures on deaths, cases, and other pandemic-related indicators, visit our [Coronavirus Insights][1] explorer. \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    },
+    {
+      "title": "1. Most pupils returned to home learning as lockdown began again",
+      "markdown": "#####Percentage on-site attendance at state schools, UK, August 2020 to January 2021\n\n<ons-interactive url=\"/visualisations/dvc1135/schools/index.html\" full-width=\"false\" title=\"Chart showing attendance at schools in each nation of the UK in the autumn term of 2020 and January 2021\"/>\n\n#####Notes:\n1. All four UK nations are publishing regular data on attendance in school but it is not possible to make direct comparisons because of differences in data collection, definitions of vulnerable children and the timing of changes to lockdown rules. \n2. Northern Ireland data are published with weekly totals whereas other nations provide daily attendance figures.\n3. Gaps in England, Wales and Northern Ireland in October and November are for half term and in all four nations for the Christmas holidays. In Scotland the data are affected by public and school holidays. In the week beginning 12 October, 29 of the 32 local authority areas were on holiday so the figures are based only on East Lothian, Edinburgh and Midlothian.\n4. Attendance during autumn term was compulsory unless pupils had an authorised absence, were ill or self-isolating.\n5. In Wales, secondary schools moved to remote learning for the last week of the autumn term, from 14 December 2020 and many primary schools did the same. Data for Wales include schools and other educational establishments.\n6. In England primary schools were open on 4 January 2021, except for some in Tier 4 restrictions or those that were on planned inset days, before a new national lockdown began that evening. Secondary school pupils were already expecting a delayed return.\n7. Following the announcement of a new lockdown in England, schools were advised they did not need to complete the Department for Education’s attendance survey between 5 and 8 January 2021 while it was updated. They began submitting data again from 11 January 2021.\n\n[Data download][1]\n\nThe return to full lockdown across the UK on 4 January 2021 saw most pupils switch once more to remote learning – with attendance at school limited to [vulnerable children and children of critical workers only][2].\n\nDuring autumn term 2020, average on-site attendance in state-funded schools in England was 86%. Following the start of the new lockdown, [attendance dropped to 13.9% in state-funded schools on 13 January][3].\n\nHowever, the percentage attending was much higher than just after the start of the first national lockdown. Between 11 and 15 May 2020, average attendance on site at state schools in England was 2.4% – including vulnerable children and children of critical workers. The Office for National Statistics (ONS) estimates that 3.2 million UK [key workers][4] have children aged between 5 and 15 years.\n\nIn Wales, 7.1% of [pupils attended school][5] on 13 January 2021. On a typical day during May and June 2020 between [1% and 1.5% of children attended schools][6] and other educational establishments in Wales. \n\nIn Scotland, [7.0% of pupils attended on 13 January 2021][7], which reduced to 6.4% on 14 January 2021.\n\nData [for Northern Ireland][8] are collected weekly rather than daily. Attendance on site in the week of 11 to 15 January 2021 was 8.8%.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1135/schools/datadownload.xlsx\n  [2]: https://www.gov.uk/government/publications/coronavirus-covid-19-maintaining-educational-provision/guidance-for-schools-colleges-and-local-authorities-on-maintaining-educational-provision\n  [3]: https://explore-education-statistics.service.gov.uk/find-statistics/attendance-in-education-and-early-years-settings-during-the-coronavirus-covid-19-outbreak\n  [4]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/coronavirusandkeyworkersintheuk/2020-05-15\n  [5]: https://gov.wales/pupils-present-maintained-schools\n  [6]: https://gov.wales/attendance-local-authority-settings-during-coronavirus-covid-19-pandemic\n  [7]: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/\n  [8]: https://www.education-ni.gov.uk/publications/management-information-attendance-pupils-and-workforce-schools"
+    },
+    {
+      "title": "2. 62% of adults report staying at home except for essential reasons",
+      "markdown": "#####Percentage of adults who have either stayed at home or only left for work, exercise, essential shopping or medical needs in the previous seven days, Great Britain, May 2020 to January 2021\n\n<ons-interactive url=\"/visualisations/dvc1135/stay_at_home/index.html\" full-width=\"false\" title=\"Chart showing percentage of adults staying at home by week between May 2020 and January 2021\"/>\n\n#####Notes:\n1. Questions: “In the past seven days, have you left your home for any reason?” and “In the past seven days, for what reasons have you left your home?”.\n2. Base population for percentage: all adults.\n\n[Data download][1]\n\nAn estimated 62% of adults in Great Britain reported staying at home or only leaving for work, exercise, essential shopping or medical needs during the third lockdown (between 20 and 24 January 2021).\n\nThis compares with 43% who said they stayed at home between 11 and 15 November 2020, which was during England’s second national lockdown. However, this lockdown was not imposed across the whole of Great Britain. Wales, for example, had a “fire-break” lockdown between 23 October and 9 November 2020, whereas England’s second lockdown did not start until 5 November 2020 and lasted until 2 December 2020. Scotland had different [local protection levels][2].\n\nThe percentage reporting staying at home between 20 and 24 January 2021 is also below that of between 14 and 17 May 2020 – almost two months into the first lockdown – when 81% of adults said they had done so.\n\n[The Opinions and Lifestyle Survey][3] will continue to collect data on behaviour and attitude changes over time.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1135/stay_at_home/datadownload.xlsx\n  [2]: https://www.gov.scot/news/local-authority-levels-confirmed/\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest"
+    },
+    {
+      "title": "3. More people are saying they would accept a coronavirus vaccine ",
+      "markdown": "<ons-chart path=\"df0c7c95\" />\n\nSince the first coronavirus (COVID-19) vaccine was given in the UK on 8 December 2020, there has been a gradual increase in the percentage of adults reporting they would be either very likely or fairly likely to have one, if offered.\n\nBetween 10 and 13 December 2020 a total of 78% of people surveyed said this. By 20 to 24 January 2021, it was 89%, which includes those who reported having already received or accepted the offer of a vaccination. The percentage saying they would be very or fairly unlikely to have one fell from 10% to 4%. Further data on attitudes towards vaccination, including demographic characteristics, can be found in the [latest social impacts release][2]. \n\nAs of 27 January 2021, more than 7 million people across the UK had [received a first dose of an approved vaccine][3]. \n\nSeparate data from Public Health England also show more than 8.1 million patients aged 65 years and over in England [received an influenza vaccination][4] between 1 September and 30 November 2020. This represented an uptake of 77.4%, compared with 67.6% in the same period of 2019. \n\nPeople in vulnerable groups were encouraged to get the flu vaccination in order to [keep themselves well and out of hospital while cases of COVID-19 were rising][5] in the autumn and winter. \n\nAmong at-risk patients aged under 65, uptake of the flu vaccine increased from 35.5% to 44.3% while among pregnant women it went up from 37.5% to 39.6%. \n\n  \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest/relateddata\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest\n  [3]: https://coronavirus.data.gov.uk/details/vaccinations\n  [4]: https://www.gov.uk/government/statistics/seasonal-flu-vaccine-uptake-in-gp-patients-monthly-data-2020-to-2021\n  [5]: https://www.gov.uk/government/news/people-with-long-term-health-conditions-urged-to-get-flu-vaccine-before-christmas"
+    },
+    {
+      "title": "4. Infections at universities peaked after autumn term started, case studies suggest ",
+      "markdown": "#####The number of positive test cases for students attending the University of Exeter, by test date between 2 September 2020 and 16 November 2020\n<ons-interactive url=\"/visualisations/dvc1135/universities/index.html\" full-width=\"false\" title=\"Chart showing infection rates at the University of Exeter \"/>\n\n\n#####Notes: \n\n1. This includes data from students tested via the University of Exeter’s commercially-provided PCR testing and from students tested via NHS Test and Trace. \n2. Students attending the University of Exeter had wider access to COVID-19 tests than at universities without access to their own testing. This could affect the volume of cases seen on campus. \n3. A smaller number of students are typically housed in university halls, meaning the numbers of cases in this accommodation type likely represent a larger proportion of the residents.\n\n[Data download][1]\n\nThe move to a full lockdown meant [most university students did not return for face-to-face teaching][2] in January 2021. It had previously been announced in December that [universities would be asked to limit the numbers of students on campus][3]. \n\nCases of coronavirus (COVID-19) among the student population  increased at the start of autumn term 2020. In a research case study at the University of Exeter, the Office for National Statistics (ONS) found [the number of cases increased both in halls of residence and private rented student accommodation][4]. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1135/universities/datadownload.xlsx\n  [2]: https://www.gov.uk/guidance/national-lockdown-stay-at-home#universities\n  [3]: https://hansard.parliament.uk/commons/2020-12-30/debates/36E24157-5982-4F59-8458-FF156457C8BD/EducationReturnInJanuary\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howhascoronaviruscovid19spreadamongstudentsinengland/2020-12-21"
+    },
+    {
+      "title": "5. There was a rapid increase in prisoners testing positive for coronavirus in autumn 2020 ",
+      "markdown": "#####Number of prison and youth custody service users with positive tests for coronavirus, England and Wales, monthly from 1 March 2020 to 31 December 2020 \n<ons-interactive url=\"/visualisations/dvc1135/prisons/index.html\" full-width=\"false\" title=\"Chart showing monthly positive tests in prisons in England and Wales\"/>\n#####Notes: \n1. December data are provisional. \n2. Data are mostly for prisoners but include a total of 36 Youth Custody Service users. \n3. Initially, once a small sample of prisoners or children had tested positive, no further tests were carried out on symptomatic individuals to preserve testing kits and on the assumption all further tests would be positive. This policy was changed on 15 April 2020 due to the increased availability of testing supplies meaning all symptomatic prisoners or children are now tested. As such data trends should be considered with caution and do not represent true like-for-like comparisons.  \n\n[Data download][1]\n\nThe autumn increase in coronavirus cases was significant in the prison service in England and Wales. \n\nBy the end of 2020, a total of 6,007 [prisoners and young people in custody][2] across 116 sites had tested positive at some point since March. Of these almost 73%, 4,372, had been during November and December. \n\nPrior to mid-April, HM Prison and Probation Service (HMPPS) only tested a sample of symptomatic prisoners in order to preserve limited testing kits, therefore the actual numbers of positive cases in the spring may have been higher than estimated.\n\nOn 20 July 2020 testing of all consenting prisoners commenced, along with HMPPS employees and non-directly-employed staff across 28 prisons in England. \n\nAccording to data from HMPPS data 99 deaths related to COVID-19 had been recorded as of 31 December 2020, 71 of them among serving adult prisoners and 28 probation service users. No deaths had been recorded of young people in detention. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1135/prisons/datadownload.xlsx\n  [2]: https://www.gov.uk/government/statistics/hmpps-covid-19-statistics-december-2020"
+    },
+    {
+      "title": "6. Online and other non-store retail grew 32% in 2020, while clothing store sales fell ",
+      "markdown": " <ons-chart path=\"6941d0a0\" />\n\nOnline shopping had already been growing for many years and increased significantly during 2020. Lockdowns meant non-essential stores, such as clothing and department stores, closed altogether for much of the spring while in England’s second national lockdown in November and early December they were allowed to open only for click and collect. In areas that were subject to Tier 4 local restrictions, retailers were also allowed to offer click and collect.  \n\nDuring 2020 as a whole, non-store retail sales, which are mostly online, [reported a record growth][1] of 32.0% compared with 15.0% growth in 2019, while clothing stores recorded their largest annual fall, down 25.1% in 2020. That compares with growth of 2.1% in 2019. \n\nRetail restrictions during lockdowns meant customers were unable to try on clothes in physical stores while the closure of many pubs and restaurants meant people were socialising less, also impacting sales. \n\n\n  [1]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/december2020"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest"
+    },
+    {
+      "uri": "/businessindustryandtrade/retailindustry/bulletins/retailsales/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Volume sales, seasonally adjusted, Great Britain, 2020 compared with 2019 ",
+      "filename": "6941d0a0",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/6941d0a0"
+    },
+    {
+      "title": "Great Britain, December 2020 to January 2021",
+      "filename": "df0c7c95",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29/df0c7c95"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Diary of a nation: life in lockdown",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/diaryofanationlifeinlockdown/2020-09-23"
+    },
+    {
+      "title": "Coronavirus (COVID-19) latest insights tool",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-01-29",
+  "description": {
+    "title": "Coronavirus (COVID-19) in charts: What we learned over the past month",
+    "keywords": [
+      "coronavirus",
+      "COVID-19",
+      "Schools",
+      "Education",
+      "Retail sales",
+      "vaccination"
+    ],
+    "metaDescription": "Analysis and charts on the effects of the coronavirus (COVID-19) pandemic on various aspects of society and the economy.",
+    "nationalStatistic": false,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-01-29T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Data from across the UK government and devolved administrations highlight the effects of the pandemic on society and the economy. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

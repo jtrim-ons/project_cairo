@@ -1,0 +1,96 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14/97e67f84.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Big films like these are the most visible sign of growth in the UK film and television industry, which in 2016 contributed £7.7 billion to the UK economy, 80% more than five years earlier.\n\n####Gross Value Added (GVA) of film, video and television companies, 2008 to 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc468/agva/index.html\" title=\"Gross Value Added (GVA) of film, video and television companies, 2008 to 2016\"/>\n\n[Download the data][1]\n\nThe film and television industry also has spin-off benefits for other parts of the economy too, in areas like advertising, set design, catering and tourism.\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/12/agva.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Film and TV growth driven by production\n\nWhen we break down the film and television industry into its component parts, we can see that it’s production – the preparation and shooting of movies and TV programmes – that has grown the most in recent years. In 2016 it contributed more than £2.5 billion to the UK economy.\n\n####Breakdown of Gross Value Added (GVA) in film, video and television companies, 2008 to 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc468/breakdown/index.html\" full-width=\"false\" title=\"Breakdown of Gross Value Added (GVA) in film, video and television companies, 2008 to 2016\"/>\n\n[Download the data][1]\n\nDistribution, which includes licensing films and television programmes and managing rights, contributed more than £3.5 billion in 2016 – almost three times as much as it did in 2008. We’ve seen that the contribution to the economy from film distribution can vary a lot from month to month, suggesting that payments from licensing agreements from media companies around the world are paid according to a quarterly schedule.\n\nThe growth in post-production (editing, graphics, sound and visual effects) and projection (showing films in cinemas) is not as dramatic, but still significant.\n\n\n  [1]: https://staic.ons.gov.uk/visual/2017/12/data-1.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Employment is going up\nIn 2016 almost 60,000 people were working in the film industry; this figure has been rising since 2013, with some of the most notable increases in the production sector.\n\n####Employees of film companies, 2009 and 2016\nGreat Britain\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc468/employees2/index.html\" full-width=\"false\" title=\"Employees of film companies, 2009 and 2016 Great Britain\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/12/employees.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Tax relief for films\nThe Creative Industries Tax Reliefs, introduced initially for film in 2007 and later expanded to support high-end TV, video games, animation and children’s programmes, appear to have played a major part in attracting big-budget productions to the UK.\n\nFilm Tax Relief allows film production companies to claim a cash rebate of up to 25% of the money they spend making the film in the UK (up to a maximum of 80% of the film’s core expenditure).\n\nFor a film to qualify as “British” for tax purposes, it either has to pass a “cultural test” based on how much of the story, setting, production and crew are British (or from the European Economic Area), or be an official co-production from a country which has a reciprocal agreement with the UK or through the European Convention on Cinematographic Co-production.\n\nIn the last decade the British Film Institute (BFI) has certified almost 2,000 films in this way, including many blockbusters.\n\n<ons-table path=\"fad15c1e\" />\n\nSince 2007, HMRC have paid £2.3 billion of Film Tax Relief, representing almost £9 billion spent on making films in the UK. The full spend on film production in the UK since 2007 is £12.2 billion according to the BFI; this includes films which have not yet been given final certification as British.\n\n####Amount of Film Tax Relief paid (receipts basis), 2007-08 to 2016-17\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc468/tax/index.html\" full-width=\"false\" title=\"Amount of Film Tax Relief paid (receipts basis), 2007-08 to 2016-17\"/>\n\n[Download the data][1]\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/12/data-2.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/businessindustryandtrade/business/businessservices/bulletins/uknonfinancialbusinesseconomy/2016provisionalresults"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/businessregisterandemploymentsurveybresprovisionalresults/provisionalresults2016revisedresults2015"
+    }
+  ],
+  "charts": [],
+  "tables": [
+    {
+      "title": "Top UK-qualifying films at the box office, 2008 to 2017",
+      "filename": "e8941c0b",
+      "uri": "/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14/e8941c0b"
+    },
+    {
+      "title": "Top UK-qualifying films at the box office, 2008 to 2017",
+      "filename": "afe80e2c",
+      "uri": "/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14/afe80e2c"
+    },
+    {
+      "title": "Top UK-qualifying films at the box office, 2008 to 2017",
+      "filename": "fad15c1e",
+      "uri": "/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14/fad15c1e"
+    }
+  ],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "British Film Institute",
+      "uri": "http://www.bfi.org.uk/education-research/film-industry-statistics-research/official-statistics-release-calendar"
+    },
+    {
+      "title": "HM Revenue & Customs",
+      "uri": "https://www.gov.uk/government/statistics/creative-industries-statistics-july-2017"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14",
+  "description": {
+    "title": "Paddington, Star Wars and the rise of the UK film industry",
+    "keywords": [
+      "Film",
+      "Economy",
+      "GDP",
+      "Creative Industries",
+      "Culture",
+      "Tax"
+    ],
+    "metaDescription": "ONS analysis of the contribution of the contribution to the UK economy of the film and TV industry",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-12-14T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Paddington 2 is at the top of UK box office charts and Star Wars: The Last Jedi has just hit cinema screens. With two UK-made movies set to dominate the cinemas over Christmas, how much is the industry worth to the UK economy?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

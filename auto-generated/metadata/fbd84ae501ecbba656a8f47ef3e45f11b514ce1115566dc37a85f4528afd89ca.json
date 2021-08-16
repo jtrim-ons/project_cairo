@@ -1,0 +1,91 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/crimeandjustice/articles/howmuchdoyoureallyknowaboutcrime/2018-11-06/6aeb7abe.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Crime is something that most people will come across at some point in their lives – through a news headline about a murder, or a friend who has been mugged. Some may have first-hand experience of being the victim of or witness to a crime. But, although we encounter crime, whether through headlines, conversations or experience, it is easy for our perception of crime to be distorted.\n\nIt is quite common for people to believe that crime is more prevalent than it is, or occurs in different circumstances than it actually does. For instance, lots of people think their [risk of being a victim of crime is higher than it really is][1].\n\nKeep on reading to get a better understanding of what the data^1^ show is happening with crime in England and Wales.\n\nThis page was updated on 18 July 2019 to include estimates for the year ending March 2019 where possible. Some of the more detailed estimates are still only available for the year ending March 2018. \n\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_1.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px; max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/peoplegreatlyoverestimatetheirlikelihoodofbeingrobbed/2017-09-07"
+    },
+    {
+      "title": "How have crime levels changed over the last 10 years?",
+      "markdown": "In the year ending March 2019, 81% of people surveyed said they believed that crime in England and Wales has risen. But how true is this perception of crime?\n\nCan you guess how many incidents of crime there were in the year ending March 2019, given that there were 10.0 million in the year ending March 2008?\n\n\n#####Crime incidents, England and Wales \n\n<ons-interactive url=\"/visualisations/dvc652/q1crimelevels/index.html\" full-width=\"false\" title=\"Crime levels, England and Wales, year ending March 2019\"/>\n\n######Source: Office for National Statistics – Crime Survey for England and Wales, Home Office – Police recorded crime\n\n[Download the data][1]\n\nOur headline measure of crime, which covers a broad range of offences, can hide variation both within and across crime types. Read more about the trends for different crime types in the [latest crime bulletin][2].   \n\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_2.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px; max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc652/q1crimelevels/datadownload.csv\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/previousReleases"
+    },
+    {
+      "title": "Are murder and homicide the same thing?",
+      "markdown": "Murder is a subset of homicide, and the terms cannot be used interchangeably. Homicide includes murder, infanticide, manslaughter, and corporate manslaughter. In the year ending March 2019, there were 701 homicides, of which 85%, or 593, were murder.\n\nOverall, the rate of homicide in England and Wales remains low, at 12 homicides per one million people.\n\n#####Homicides by offence type, year ending March 2019, England and Wales \n\n<ons-interactive url=\"/visualisations/dvc652/q2homicidespie/index.html\" full-width=\"false\" title=\"Homicides by offence type, England and Wales, year ending March 2019\"/>\n\n######Source: Home Office – Police recorded crime\n\n[Download the data][1]\n\nDeaths from unlawful driving are not part of homicide, but are defined by law under a separate category. More information on how homicide is defined and measured can be found in [Homicide in England and Wales: year ending March 2018][2].\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_3.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px;max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc652/q2homicidespie/datadownload.csv\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/homicideinenglandandwales/yearendingmarch2018"
+    },
+    {
+      "title": "Who are the perpetrators of homicide?",
+      "markdown": "Men aged 16 years and over were most likely to be killed by a stranger in the year ending March 2018 (35% or 166 victims). This is different to the year ending March 2017 when they were more likely to be killed by a friend or acquaintance (24% or 114 victims). Women aged 16 years and over were most likely to be killed by their partner or ex-partner in the year ending March 2018 (33% or 63 homicides). For all adult victims, no suspect was identified in 27% (175) of homicides. In these cases, it is not possible to determine if the victim knew the perpetrator.\n\n\nA statistic often quoted is that two women a week are killed by their current or former partner. This number fluctuates. The average number of women killed per week using the latest data for the year ending March 2018 is 1.2. Rounding this number causes inaccuracies in the statistics. For example, rounding this number down to one would equate to 52 women over a year, 11 less than the actual total^2^ of 63. \n\n\n<ons-interactive url=\"/visualisations/dvc652/q3womenkilled/index.html\" full-width=\"false\" title=\"Women homicides, England and Wales, year ending March 2019\"/>\n\n######Source: Home Office – Homicide Index\n\n[Download the data][1]\n\nUsing the same method, the average number of men killed each week by their current or former partner is 0.13.\n\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_4.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px;max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc652/q3womenkilled/datadownload.csv"
+    },
+    {
+      "title": "Is knife crime only a problem in London?",
+      "markdown": "The police recorded 47,137 offences involving a knife or sharp instrument in England and Wales in the year ending March 2019.\n\n<ons-interactive url=\"/visualisations/dvc652/q5knifecrime/index.html\" full-width=\"false\" title=\"Knife crime, England and Wales, year ending March 2019\"/>\n\n######Source: Home Office – Police recorded crime\n\n[Download the data][1]\n\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/violence.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px;max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc652/q5knifecrime/datadownload.csv"
+    },
+    {
+      "title": "Does a violent crime always result in a physical injury?",
+      "markdown": "Most people know that violent crime includes things like wounding, physical assault, and murder. It also covers a range of other offences, many of which do not result in a physical injury to the victim, for example, minor assaults (like pushing and shoving), harassment, and psychological abuse.\n\nJust under half (47%) of all violent incidents recorded in the Crime Survey for England and Wales in the year ending March 2019 did not result in a physical injury to the victim. More information on the nature of violent crime can be found in [The nature of violent crime in England and Wales: year ending March 2018][1].\n\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/firearms.svg\" width=\"100%\" alt=\"Alt text here\" style=\"margin-bottom: -56px;max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/thenatureofviolentcrimeinenglandandwales/yearendingmarch2018"
+    },
+    {
+      "title": "Is gun crime at the highest level it has ever been?",
+      "markdown": "Gun crime has increased in recent years, but what does the trend look like over the last decade? How do you think the number of firearms offences recorded by the police has changed over the last 10 years?\n\n####Firearms offences, England and Wales, year ending March 2019\n\n<ons-interactive url=\"/visualisations/dvc652/q6guncrime/index.html\" full-width=\"false\" title=\"Firearms offences, England and Wales, year ending March 2019\"/>\n\n#####Source: Home Office – Police recorded crime\n\n[Download the data][1]\n\nFirearms offences recorded by the police increased by 3% (to 6,684) in the year ending March 2019. We have seen a generally upward trend since 2014, but the rate of increase has been slower over the last two years. Figures recorded in the year ending March 2019 remained 18.5% below those seen a decade earlier (year ending March 2009).\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_5.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px;max-width:100%;\">\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc652/q6guncrime/datadownload.csv"
+    },
+    {
+      "title": "When do most burglaries take place?",
+      "markdown": "Although many burglaries do happen when people aren’t home, more (58% of burglaries in the year ending March 2018) happen while someone is at home.\n\n<img src=\"https://www.ons.gov.uk/visualisations/dvc530/banners/svgs_section_6.svg\" width=\"100%\" alt=\"Banner image\" style=\"margin-bottom: -56px;max-width:100%;\">"
+    },
+    {
+      "title": "Which age group experiences the highest rate of burglary?",
+      "markdown": "Lots of older people are very nervous about becoming a victim of crime, but this is not reflected in the data. Younger people – those aged between 16 and 24 years – tend to experience the highest rate of burglary, while older people generally have the lowest^3^.\n\n<ons-chart path=\"922dba80\" />\n\nMore information about burglary can be found in the [Nature of crime: burglary][1] tables.\n\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/natureofcrimeburglary"
+    },
+    {
+      "title": "Are robbery and theft the same thing?",
+      "markdown": "Both of these offences involve a theft, however they are separate offence categories. An offence is recorded as a robbery if the offender has used or threatened to use force when carrying out a theft. In the year ending March 2019 there were 85,736 robbery offences and 2,015,998 theft offences recorded by the police.\n\n---"
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. The time period covered varies by statistic and is specified for each set of data where possible.\n\n2. 1.2 is the average weekly figure rounded to one decimal place. When calculating the total number per year from this figure, this does not exactly match the actual yearly total of 63 because of the rounding (52 multiplied by 1.2 equals 62).\n\n3. This reflects a general trend in the last few years rather than a specific period of time."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "Young people are more likely to be victims of burglary",
+      "filename": "922dba80",
+      "uri": "/peoplepopulationandcommunity/crimeandjustice/articles/howmuchdoyoureallyknowaboutcrime/2018-11-06/922dba80"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/crimeandjustice/articles/howmuchdoyoureallyknowaboutcrime/2018-11-06",
+  "description": {
+    "title": "How much do you really know about crime?",
+    "keywords": [],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "crimestatistics@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-07-17T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "It’s easy for our perception of crime to be distorted – see how much you know about crime in England and Wales.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

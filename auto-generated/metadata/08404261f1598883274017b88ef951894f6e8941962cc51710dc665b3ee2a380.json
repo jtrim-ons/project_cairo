@@ -1,0 +1,85 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/55208cc2.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\n####Correction\n10am, 2 October 2018. A correction has been made to Top 10 jobs in which 22 to 29-year-olds work, 2011 compared with 2017. This was due to a small error when the chart template produced the data. We apologise for any inconvenience. \n</ons-box>\n\nWhen you were younger, did you dream of making it as a reality TV star? Or perhaps you wanted to shoot for the stars as an astronaut? Or were your sights set on a more traditional role?\n\nWhatever those aspirations were, Office for National Statistics (ONS) analysis has revealed a sizeable difference between those earlier dreams and reality, by comparing the ambitions of those aged 16 to 21 with the realities facing 22 to 29-year-olds today.\n\n###Top five dream jobs\n\nWhile the variety of available jobs has grown with the advent of digital technology, it seems the jobs that young people aspire to has not changed.\n\nIn 2015 to 2016 the top five jobs that 16 to 21-year-olds wanted to do when they were older was unchanged from the top five jobs being sought by the same age group in 2010 to 2011.\n\nHowever, the actual proportions of 22 to 29-year-olds working in those roles in 2017 is much lower.\n\n####Top five jobs chosen by 16 to 21-year-olds, 2011 to 2012, and proportion of 22 to 29-year-olds doing those jobs in 2017\n<ons-interactive url=\"/visualisations/dvc543/chart1/tf/index.html\" full-width=\"false\" title=\"Top five jobs chosen by 16 to 21-year-olds, 2011 to 2012, and proportion of 22 to 29-year-olds doing those jobs in 2017\"/>\n[Data download][1]\n\n######NOTE: \n1. Of the people who were asked what job they wanted to do when they were older, the percentages shown in the chart chose a certain job.\n\n###So, did they end up in their dream jobs? No, not quite…\nTeaching was the only dream job ranked in the top five by 16 to 21-year-olds between 2011 and 2012 in which 22 to 29-year-olds found employment during 2017.\n\nThe job category that most ended up working in was as sales assistants and retail cashiers, which has been the case since 2011. We can see certain jobs falling in and out favour, with IT professionals jumping up the ranks by 2017, and construction taking the biggest fall in rank. \n\n####Top 10 jobs in which 22 to 29-year-olds work, 2011 compared with 2017  \n<ons-interactive url=\"/visualisations/dvc543/slope/scb/index.html\" full-width=\"false\" title=\"Top 10 jobs in which 22 to 29-year-olds work, 2011 compared with 2017\"/>\n[Data download][2]\n\n###Expected earnings versus reality\nONS research has found that in 2015 to 2016, 24% of young people (aged 16 to 21) felt a high income was very important to them in their occupation, whereas 86% felt it was very important and important. If the expectations of 16 to 17-year-olds is anything to go by, they are vastly different to reality.\n\nFor example, half of 16 to 17-year-olds expected to earn £35,000 by the age of 30 if they’d achieved a degree and £25,000 if they did not have a degree.\n\nData from the [Annual Survey of Hours and Earnings][3] (ASHE) gave an indication of that difference by showing that the average salary of a 30-year-old was £23,700.\n\n\n####Expected earnings of young people (aged 16 to 21) by age 30, 2015 to 2016, compared with 30-year-olds' earnings, 2017\n<ons-interactive url=\"/visualisations/dvc543/dist/index.html\" full-width=\"false\" title=\"Expected earnings of young people (aged 16 to 21) by age 30, 2015 to 2016, compared with 30-year-olds' earnings, 2017\"/>\n[Data download][4]\n\n###Degree \nAlmost half of 16 to 21-year-olds (48%) in 2015 to 2016 thought it was very likely that they would go into higher education. In reality, 38% of young people (aged 22 to 29) had degrees as their highest qualification in 2017. \n\nSome of those young people were much more ambitious in their expectations for their future earning potential, with 5% thinking they could earn £80,000 or more at the age of 30. In reality, 2% of 30-year-olds earned £80,000.  \n\n###Security and satisfaction \nJob satisfaction and security were much more important to young people than a high income, the analysis discovered. In 2015 to 2016, 71% of them thought that having an interesting job was very important, while 60% felt that job security was very important.\n\nThis figure has only increased by three percentage points since 2010 to 2011, despite the increase in zero-hour contracts and the so-called [gig economy.][5] \n\nIn fact, 85% of young people (aged 22 to 29) had permanent jobs. \n\n<ons-chart path=\"a741a516\" />\n\n  [1]: /visualisations/dvc543/datadownload/chart1.csv\n  [2]: /visualisations/dvc543/datadownload/chart2.csv\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2017provisionaland2016revisedresults\n  [4]: /visualisations/dvc543/datadownload/chart3.csv\n  [5]: https://www.bbc.co.uk/news/business-38930048"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/populationprojections/articles/being18in2018/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/oneineightyoungpeoplewithoutdegreesworkingraduatejobs/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/howwellareyoudoingcomparedwithotheryoungpeople/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Aspects of future occupation's importance to 16-21 year olds",
+      "filename": "a741a516",
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/a741a516"
+    },
+    {
+      "title": "Salary that 16 to 17 year olds expect to earn by age 30,  2015 to 2016 ",
+      "filename": "27594e17",
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/27594e17"
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "title": "ALTERNATIVE CHART BEING WORKED ON",
+      "filename": "ed4e61e2",
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27/ed4e61e2"
+    }
+  ],
+  "equations": [],
+  "links": [
+    {
+      "title": "Understanding Society",
+      "uri": "https://www.understandingsociety.ac.uk/"
+    },
+    {
+      "title": "Annual Population Survey",
+      "uri": "https://www.nomisweb.co.uk/articles/932.aspx"
+    },
+    {
+      "title": "Young people's perceptions of the labour market",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/008931youngpeoplesperceptionsofthelabourmarket"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/youngpeoplescareeraspirationsversusreality/2018-09-27",
+  "description": {
+    "title": "Young people's career aspirations versus reality",
+    "keywords": [],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "policy.evidence.analysis@ons.gov.uk",
+      "name": "Policy Evidence and Analysis Team",
+      "telephone": ""
+    },
+    "releaseDate": "2018-09-26T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "What did you want to be when you grew up?",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

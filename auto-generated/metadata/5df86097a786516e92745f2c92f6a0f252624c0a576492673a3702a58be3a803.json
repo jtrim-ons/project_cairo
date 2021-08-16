@@ -1,0 +1,84 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/howwouldyousupportourageingpopulation/2019-06-24/6b6aba77.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "It’s no secret that the UK population is ageing. The Office for National Statistics (ONS) projects that more than 24% of people living in the UK will be aged 65 or older by 2042, up from 18% in 2016.\n\n[Other countries, particularly developed economies, are experiencing similar changes.][1]\n\nA combination of factors – including people living to older ages, the transition of the post WWII baby boom generation into retirement and women having fewer children – means the number of pensioners is set to increase relative to the population of working age^1^.\n\nThis matters because people of working age pay the bulk of taxes which support public spending, including state pensions.\n\nThere were 305 people of pension age for every 1,000 of working age in the UK in 2016. \n\n####Use our tool to see how this ratio changes depending on different factors\n\n<ons-interactive url=\"/visualisations/dvc641/line/index.html\" full-width=\"true\" title=\"Use our tool to see how this ratio changes depending on different factors\"/>\n\nNotes:\n\n1.\tThe default values and projection are taken from [ONS’s 2016-based principal projection for the UK][2].\n\n2.\tThe increase or decrease in state pension spending is conditional on the assumption that pension per head stays consistent (in real terms) between now and 2042.\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/livinglongerhowourpopulationischangingandwhyitmatters/2018-08-13#how-do-changes-in-the-uk-population-compare-with-the-rest-of-the-world\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea11principalprojectionuksummary"
+    },
+    {
+      "title": "What about working pensioners?",
+      "markdown": "<ons-box align=\"right\">\nWith more older people working, is it right to compare pensioners with people of “working age”? [Find out more about a measure which takes into account the contribution of older workers][1].\n</ons-box>\n\nWhile the number of pensioners is rising, they are also more likely to be in work than ever before.\n\nThe percentage of people aged 65 or older who are in employment has doubled since 1998. \n\nMeanwhile, [young people are more likely to stay in education for longer][2], delaying their entry into the workforce.\n\n####The shape of the labour market has changed in the last 20 years, with more older people working\n\n#####Employment rate by age group, UK, 1998 and 2018\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc583/chart1/index.html\" full-width=\"false\" title=\"Employment by age group\"/>\n\n[Download the data][3]\n\nDespite more people working beyond State Pension age, the rise in the total number of over 65s is far greater than the increase in older workers in the last 20 years. There are 2.7 million more over 65s living in the UK than there were in 1998, while the number of workers aged 65 plus has only risen by 800,000.\n\nAs a result, State Pension spending has continued to rise in recent decades. It amounted to almost £92 billion in 2017 (equivalent to 5.1% of GDP), up from £26 billion in 1992 (3.6% of GDP).\n\nBased on current population projections, the Office for Budget Responsibility (OBR) predicts that state pension expenditure will rise to 6.1% of GDP by 2042^2^.\n\n####Pension spending is the biggest single component of the welfare budget\n\n#####Breakdown of welfare spending, UK, 2016 to 2017\n\n<ons-interactive url=\"/visualisations/dvc641/icon-array/index.html\" full-width=\"false\" title=\"Pension spending is the biggest single component of the welfare budget\"/>\n\n[Download the data][4]\n\nAs well as receiving their State Pension, pensioners are more likely to use public health and social care services than people of working age. With [improvements in life expectancy having outpaced improvements in healthy life expectancy in recent years][5], people are living an increasing number of their later years in poor health.\n\nAt the same time, pensioners are less likely to be in work than adults of working age, so they contribute less through taxes.\n\nOverall, an ageing population – marked by a greater number of pensioners per person of working age – will impact public services and welfare spending.\n\n####Taxpayers of working age provide the bulk of support for public spending\n\n#####Representative age profiles for tax, public services and welfare spending, UK, 2022 to 2023\n\n<ons-interactive url=\"/visualisations/dvc641/stacked-bar/index.html\" full-width=\"false\" title=\"Taxpayers of working age provide the bulk of support for public spending\"/>\n\n[Download the data][6]\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/livinglongerandoldagedependencywhatdoesthefuturehold/2019-06-24\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/milestonesjourneyingintoadulthood/2019-02-18#school\n  [3]: https://www.ons.gov.uk/visualisations/dvc583/chart1/data_download.csv\n  [4]: https://www.ons.gov.uk/visualisations/dvc641/icon-array/datadownload.csv\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/healthstatelifeexpectanciesuk/2015to2017#healthy-life-expectancy-fails-to-keep-pace-with-life-expectancy-for-males-and-females\n  [6]: https://www.ons.gov.uk/visualisations/dvc641/stacked-bar/datadownload.csv"
+    },
+    {
+      "title": "What changes could offset an ageing population?",
+      "markdown": "Changes to the State Pension age are most likely to reduce the number of pensioners relative to the working age population. \n\nAs it stands, the State Pension age is due to rise to 67 by 2028 and 68 by 2046. But, [the government has proposed bringing this timetable forward][1] and raising the State Pension age to 68 by 2039. In this case, there would be 344 pensioners for every 1,000 people of working age in 2042, 23 fewer than current projections. \n\nOther factors such as net migration, birth rates and life expectancy have a smaller impact. For example, even if net migration were to rise to 500,000 by 2042 ([almost twice current levels][2]), there would still be 346 pensioners for every 1,000 people of working age.\n\n<ons-interactive url=\"/visualisations/dvc641/tabbed-chart/index.html\" full-width=\"false\" title=\"Current projections indicate the number of pensioners to 1,000 people of working age will rise\"/>\n\n[Download the data][3]\n\n\n  [1]: https://www.gov.uk/government/news/proposed-new-timetable-for-state-pension-age-increases\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/may2019\n  [3]: https://www.ons.gov.uk/visualisations/dvc641/tabbed-chart/datadownload.csv"
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. When we refer to \"pensioners\" in this article, we are talking about people of State Pension age. When we refer to people of \"working age\", we mean those aged between 16 and State Pension age. [Find out more about past and future changes to State Pension age][1].\n2. This is the OBR’s 2018 baseline projection of State Pension spending, taken from their July 2018 Fiscal Sustainability Report. Find the data in [Chart 3.14 of their published tables][2].\n\n\n  [1]: https://www.gov.uk/government/publications/state-pension-age-timetable/state-pension-age-timetable\n  [2]: https://obr.uk/download/fiscal-sustainability-report-charts-and-tables-july-2018/"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/livinglongerandoldagedependencywhatdoesthefuturehold/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Living longer: how our population is changing and why it matters",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/livinglongerhowourpopulationischangingandwhyitmatters/2018-08-13"
+    },
+    {
+      "title": "Living longer: caring in later working life",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/livinglongerhowourpopulationischangingandwhyitmatters/2019-03-15"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/howwouldyousupportourageingpopulation/2019-06-24",
+  "description": {
+    "title": "How would you support our ageing population?",
+    "keywords": [
+      "ageing",
+      "migration",
+      "pension",
+      "population",
+      "old age dependency"
+    ],
+    "metaDescription": "There is a growing number of pensioners per person of working age living in the UK. Use our tool to change factors such as net migration and the State Pension age, and see how they affect this balance.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "pop.info@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-06-23T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "There is a growing number of pensioners per person of working age living in the UK. Use our tool to change factors such as net migration and the State Pension age, and see how they affect this balance.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing"
+    }
+  ]
+}

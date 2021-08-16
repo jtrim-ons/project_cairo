@@ -1,0 +1,65 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The UK is consuming less energy than it did in 1998 and more of the energy we are consuming is coming from renewable sources.\n\nHowever, at the same time, the decline in North Sea oil and gas production has meant the UK has become increasingly dependent on imports of energy.\n\nBut just how dependent are we? How do we compare to our European neighbours? And what are we importing and where is it coming from?\n###UK energy: consumption down and renewable energy up\nThere was a 17% fall in the amount of energy used by the UK between 1998 and 2015.\n\nThis may be explained by:\n\n- the increased use of energy-efficient technologies by households and firms\n- government policies designed to reduce energy consumption\n- a decline of UK manufacturing, especially in energy-intensive industries\n\n####Total energy consumed by the UK^1^, 1998 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig1/\" full-width=\"false\" title=\"Total energy consumed by the UK^1^, 1998 to 2015\"/>\n\n[Download the data.][1]\n\nAt the same time, the percentage of energy coming from renewable and waste sources (such as wind, hydro power and [biomass][2]) has risen from 1% of total UK energy consumption to 9%.\n\n####Percentage of total energy consumed by the UK that comes from renewable or waste sources, 1998 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig2/\" full-width=\"false\" title=\"Percentage of total energy consumed by the UK that comes from renewable or waste sources, 1998 to 2015\"/>\n\n[Download the data.][3]\n###Reliance on imported energy rises back up to 1970 levels\nDespite the overall fall in UK energy consumption and the increasing use of renewable and waste sources, the UK’s reliance on imported energy has returned to the levels last seen around the mid-to late-1970s.\n\nIn recent years our reliance on imported energy has been on an upward trend but it has now fallen from its recent peak in 2013.\n\n####UK energy import dependency: the percentage of UK energy supply made up of net imports^2^, 1970 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig3/\" full-width=\"false\" title=\"UK energy import dependency: the percentage of UK energy supply made up of net imports^2^, 1970 to 2015\"/>\n\n[Download the data.][4]\n###All EU countries now import more energy than they export\nAll EU countries imported more energy than they exported in 2014. In terms of rankings, of the 28 EU countries the UK was the [12th most dependent][5] on foreign sources of energy; less reliant than Germany and Italy but more reliant than Sweden and the Netherlands.\n\nFurthermore, in 2014 the UK’s import dependency was below the EU average and the UK was the least dependent on foreign sources of energy out of the five EU countries who consumed the largest amounts of energy overall (namely Germany, France, Italy, Spain and the UK).\n\nHowever, even though the UK's reliance on imported energy is still below its EU neighbours, the UK is now more in line with them than it has been in recent history.\n\nSince 1998 the UK has gone from being a net exporter to a net importer of energy while Germany, Spain, France and Italy have all consistently imported more energy than they exported.\n\n####Import dependency in the EU: percentage of energy supply made up of net imports for the EU’s five biggest energy consumers and the EU average, 1998 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig4/\" full-width=\"false\" title=\"Import dependency in the EU: percentage of energy supply made up of net imports for the EUâ€™s five biggest energy consumers and the EU average, 1998 to 2014\"/>\n\n[Download the data.][6]\n###From oil and natural gas from Norway to coal and diesel from Russia - just where do our energy imports come from?\nIn 2015 the UK’s main types of imported fuel were crude oil, natural gas and petroleum products (for example, petrol and diesel). We also imported electricity and coal and other types of solid fuel (like wood) in smaller amounts.\n\n####Energy imported into the UK by energy type, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig5/\" full-width=\"false\" title=\"Energy imported into the UK by energy type, 2015\"/>\n\n[Download the data.][7]\n\n#####Crude oil imports \n\nIn 2015 a third of the UK’s fuel imports were crude oil and half of these crude oil imports came from Norway.\n\n#####Countries the UK imported crude oil from, 2015 \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig6/\" full-width=\"false\" title=\"Countries the UK imported crude oil from, 2015\"/>\n\n[Download the data.][8]\n\nNorway is a key import partner for crude oil due to the pipeline network that runs between Norway and the UK.\n\nHowever, the proportion of imported crude oil coming from Norway has fallen in recent years. Instead more is coming from the Organisation of Petroleum Exporting Countries ([OPEC][9]) which is made up of Algeria, Angola, Ecuador, Indonesia, Iran, Iraq, Kuwait, Libya, Nigeria, Qatar, Saudi Arabia, United Arab Emirates and Venezuela. In 2015, 36% of crude oil imports came from these countries.\n\n####Natural gas imports\n\nNatural gas made up around 29% of the UK’s fuel imports in 2015 with Norway again being a key import partner for this type of fuel.\n\n####Countries the UK imported natural gas from, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig7/\" full-width=\"false\" title=\"Countries the UK imported natural gas from, 2015\"/>\n\n[Download the data.][10]\n\nMost of the gas we import comes through pipelines laid underneath the sea bed. We have established pipelines with Norway and the Netherlands which accounted for 61% and 7% of our 2015 gas imports respectively. We also have established pipelines with Belgium but gas imports from Belgium only accounted for 0.4% of our 2015 gas imports.\n\nThe remaining gas imports came to the UK as Liquefied Natural Gas (LNG) with LNG from Qatar making up 29% of the UK’s gas imports in 2015.\n\n####Imports of petroleum products (for example, petrol, diesel, jet fuel etc)\n\nPetroleum products made up 27% of our fuel imports in 2015 which came from many different countries around the world – the top three were Russia, Sweden and the Netherlands^3^.\n\n####Countries the UK imported petroleum products from, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig9/\" full-width=\"false\" title=\"Countries the UK imported petroleum products from, 2015\"/>\n\n[Download the data.][12]\n\nTraditionally the UK has exported more petroleum products than it has imported but the closure of the [Coryton][13] and one of the [Milford Haven][14] refineries has lead to a reduction of UK exports of petroleum products. Consequently in 2013 the UK imported more of these products than it exported for the first time since 1973.\n\nIn 2015 the UK imported 9.5 million tonnes more petroleum products than it exported – the highest since the miners’ strike in 1984 which caused the UK to import petroleum products for power generation.\n\n####Imports of coal and other solid fuels\n\nCoal and other solid fuels made up 10% of the UK’s energy imports in 2015 with Russia being our biggest import partner for these types of fuel.\n\n####Countries the UK imported coal and other solid fuels from, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc357/Fig8/\" full-width=\"false\" title=\"Countries the UK imported coal and other solid fuels from, 2015\"/>\n\n[Download the data.][15]\n\nMost of the coal the UK imports is used for electricity generation. The other main type of solid fuel the UK imports is wood.\n\n####Electricity imports\n\nIt might seem strange but the UK does actually import electricity that is created elsewhere. Imports of electricity made up 1% of our fuel imports in 2015.\n\nThis electricity is imported via [interconnectors][16] and it comes mainly from France and the Netherlands.\n\nFor more information, please contact: <environment.accounts@ons.gov.uk>\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-1.csv\n  [2]: http://www.biomassenergycentre.org.uk/portal/page?_pageid=76,15049&_dad=portal\n  [3]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-2.csv\n  [4]: https://static.ons.gov.uk/visual/2016/08/Uk-energy-Data-3.csv\n  [5]: http://ec.europa.eu/eurostat/tgm/table.do?tab=table&plugin=1&language=en&pcode=tsdcc310\n  [6]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-4.csv\n  [7]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-5.csv\n  [8]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-6.csv\n  [9]: http://www.opec.org/opec_web/en/\n  [10]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-7-1.csv\n  [11]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/462359/Oil_diversity_2014.pdf\n  [12]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-8-petrol.csv\n  [13]: http://www.bbc.co.uk/news/uk-england-essex-18239627\n  [14]: http://www.telegraph.co.uk/finance/newsbysector/energy/oilandgas/11209454/The-UK-is-losing-one-of-its-seven-oil-refineries-Milford-Haven.html\n  [15]: https://static.ons.gov.uk/visual/2016/08/UK-energy-Data-9-1.csv\n  [16]: http://www.nemo-link.com/the-project/what-is-an-interconnector/\n\n\n###Footnotes:\n1. Energy consumption is measured in million tonnes of oil equivalent (Mtoe) – this is a unit of energy defined as the amount of energy released by burning one million tonnes of crude oil.\n2. These import dependency figures show the proportion of a country’s total energy supply that is made up of net imports of energy, where net imports are the total amount of energy imported minus the total amount of energy exported. A negative percentage indicates a country exports more energy than it imports and a positive percentage indicates a country imports more energy than it exports – the higher the percentage the more reliant a country is on foreign energy sources.\n3. More information on the diverse trading relationship for petroleum products can be found in [this publication][11] from the Department for Business, Energy and Industrial Strategy."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Eurostat - countries ranked by import dependency",
+      "uri": "http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=tsdcc310&plugin=1"
+    },
+    {
+      "title": "Digest of UK Energy Statistics (DUKES)",
+      "uri": "https://www.gov.uk/government/collections/digest-of-uk-energy-statistics-dukes"
+    },
+    {
+      "title": "UK Environmental Accounts",
+      "uri": "http://www.ons.gov.uk/economy/environmentalaccounts/bulletins/ukenvironmentalaccounts/previousReleases"
+    },
+    {
+      "title": "UK Perspectives 2016: Energy and emissions in the UK",
+      "uri": "https://visual.ons.gov.uk/uk-perspectives-2016-energy-and-emissions-in-the-uk/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/ukenergyhowmuchwhattypeandwherefrom/2016-08-15",
+  "description": {
+    "title": "UK energy: how much, what type and where from?",
+    "keywords": [
+      "Environment",
+      "Energy",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-08-15T08:30:04.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The number of residential properties sold for £1 million or more in England and Wales has increased to over 70 times the level seen in 1995.^1^ Last year, 1.6% of all property sales were for £1 million or more.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc323/quiz/index.html\" full-width=\"false\" title=\"Â£1million Property Quiz\"/>\n###£1m property sales fell in 2015\nThe latest figures from the [House Price Statistics for Small Areas Bulletin][1] show sales of £1 million properties may have peaked at the end of 2014 (14,431). Since then, the number has fallen to 13,679 in year ending September 2015. This coincides with the introduction of new stamp duty rules where tax on properties is now at least 10% of the amount paid over £925,000, up from 5% previously.\n\nThe number of £1 million properties had previously peaked shortly before the recent economic downturn, which saw the largest falls in property prices at any time during the last two decades.\n\n####Residential property sales of £1 million or more, England and Wales, 1995 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc323/chart/chart/index.html\" full-width=\"false\" title=\"Residential property sales of Â£1 million or more, England and Wales, 1995 to 2015\"/>\n[Download the data][2]\n\n###Majority of £1 million property sales in Kensington and Chelsea\nIn Kensington and Chelsea, £1 million or more was paid for 57% of all properties sold in year ending September 2015. This is the only part of England and Wales in which the majority of properties have ever sold for £1 million or more. Westminster had the second highest proportion of sales of £1 million or more properties, at 42%.\n\nThe highest proportion of £1 million or more properties outside of London was in Elmbridge, Surrey. Here the price paid for properties exceeded £1 million for 16% of sales in year ending September 2015.\n\nExplore the prevalence and location of the most expensive properties in the last two decades by choosing an area on the interactive map.\n\n####Percentage of properties sold for £1 million or more by Local Authority, England and Wales, 1995, 2005 and 2015^2^\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc323/map/map/index.html\" full-width=\"false\" title=\"Percentage of properties sold for Â£1 million or more by Local Authority, England and Wales, 1995, 2005 and 2015^2^\"/>\n[Download the data][3]\n\n###New-builds drive rise in £1m properties\nA newly-built property was just as likely as an existing property to sell for £1 million or more in the year ending September 2015. This marks a large change from five years ago, when new properties were less than half as likely to sell for over £1 million as existing properties.\n\nFlats were the most likely type of new property to sell for £1 million or more and were predominantly in London. Overall, these accounted for 3.3% of all sales of new flats in year ending September 2015. This was the highest rate for all property types, both new and existing.\n\n\n\n\n  [1]: http://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/yearendingdec1995toyearendingsept2015\n  [2]: https://static.ons.gov.uk/visual/2016/03/data_download.csv\n  [3]: https://static.ons.gov.uk/visual/2016/03/data.csv\n\n\n####Footnotes:\n1. Sales for year ending September are used for all years except 1995 where sales are for year ending December\n2. Sales for year ending December are used for 1995 whereas sales for year ending September are used for 2005 and 2015"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "ONS House Price Statistics for Small Areas",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/yearendingdec1995toyearendingsept2015"
+    },
+    {
+      "title": "Property Sales of £1 Million or More in England and Wales",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/hpssaadditionaldataset1millionpropertysalesinenglandandwales"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/1millionpropertysalesincreasedover70foldsince1995/2016-03-24",
+  "description": {
+    "title": "£1 million property sales increased over 70 fold since 1995",
+    "keywords": [
+      "People, population and community",
+      "Housing",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-03-24T09:31:54.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

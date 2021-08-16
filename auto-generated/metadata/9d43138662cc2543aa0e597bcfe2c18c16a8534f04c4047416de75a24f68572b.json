@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In 2014 the Government spent [£798 billion ][1]but an area of spending that has been of particular interest is the money the UK pays to the European Union (EU).\n\n\nThis has been an ever present topic in the debate over whether or not the UK should remain a member of the EU, so here we take a closer look at the figures.\n\nHowever, before we do, please note that none of the figures on the money flowing between the UK and EU are fully reflective of the total costs and benefits of EU membership as these are complex and difficult to quantify.\n\nThis article is part of a series of [UK Perspectives][2], on topics such as the economy and housing, as well as two new articles; this one and another on UK trade within the EU and beyond.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc332/share%20of%20budget/stackedbar/index.html\" full-width=\"false\" title=\"UK Contributions to the EU\"/>\n\n\n###Making meaning of large amounts\n\nOften, very large numbers can lose meaning - to help you make sense of them we have created a calculator tool that will break the numbers down for you.\n\n\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc332/calculator/content.html\" full-width=\"false\" title=\"Context Calculator\"/>\n\n\n###The UK contribution over time \n\nThe UK’s contribution to the EU budget changes each year as it is dependent on various factors such as: UK Gross National Income (GNI), the GNI of other EU member states and the value of the UK rebate (which is not a fixed amount, rather it is based on payments and receipts for the previous year). Here, using ONS figures we take a look at how the UK contribution has changed over the past five years.\n\n####UK contributions to the EU budget, 2010 to 2014 \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc332/timeseries/index.html\" full-width=\"false\" title=\"UK contributions to the EU budget, 2010 to 2014\"/>\n\n[Download the data.][3]\n\n###2015 estimates\n\nThere are estimates available for the UK’s net contribution in 2015. These are initial estimates because our payments for each year are based on forecasts of our economic output and other factors, which are adjusted once actual data is collected. These calculations have not yet been completed for 2015 so the figures should be treated as approximate and likely to be subject to revision.\n\nA 2015 initial figure used by some commentators in the debate is the £8.5 billion estimate of the UK’s 2015 contribution (which is net of the rebate and the direct payments from the EU to the public sector). This initial estimate is from the Office for Budget Responsibility and published in [this document][4] from the Treasury.\n\nAnother estimate can be found in table H of this [ONS release][5] which includes some information on the UK’s official transactions with the EU in 2015. The figure published here is £10.6 billion; however, the information used to calculate this figure is approximate and does not give the same level of detail on UK transactions with the EU as Table 9.9 of ONS’s [Pink Book][6]. The next Pink Book will be published on 29 July 2016.\n\n###Other Pink Book figures\n\nSome commentators have previously [quoted figures][7] calculated from table 9.2 of the Pink Book. [In an official letter][8] written by the Deputy National Statistician for Economic Statistics, Jonathan Athow it is stated that “The information set down in table 9.2 of the Pink Book on the current account position does not give a full picture of the UK’s position with respect to  the EU . . . We would therefore discourage users from using the figures in table 9.2 as a reflection of the UK’s contribution to the EU.”\n\n####Notes:\n\nIn the calendar year 2014, total general government expenditure was £798 billion. Here we have used a wide definition, which includes spending on healthcare, education, defence etc and also includes spending on social security benefits. Central Government spending and Local Government spending are both included. The amount covers the whole of the UK.\n\nThe Treasury also [publishes figures][10] on the payments between the EU and the UK government. Their figures are very similar to those reported by the ONS as both use essentially the same data but due to some accounting differences there are some relatively small differences between the figures - for example the Treasury estimates the UK's net contribution to the EU in 2014 as £9.8 billion.\n\nEuropean Commission figures are from the data download in their [2014 financial report][11] and have been converted into sterling using exchange rate data from Bloomberg.\n\nSome commentators also draw attention to the fact that a certain amount of the UK’s contribution to the EU budget goes towards our target for overseas aid spending. [They argue][12] that if we were to leave the EU, the UK would still be committed to this spending, so this money would not be saved. In 2014 it was estimated that [£0.8 billion][13] of our EU contribution counted towards our overseas aid spending target.\n\nThe European Commission figures account for all payments it receives from the UK Government and payments it makes to the UK public and private sector bodies. A small proportion of spending - just over 2% - cannot be allocated to a specific country and so are not included in the Commission's figures. There are also some payments to the Commission that are not allocated to a particular country and therefore are also not included in their figures. An example of this is fines, which is again a small proportion of total spending, typically between 2 and 3 % of total expenditure.\n\n\n\nFor more information, contact: [digitalcontent@ons.gov.uk][14]\n\n\n  [1]: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicspending/datasets/esatable11annualexpenditureofgeneralgovernment\n  [2]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/introducing-uk-perspectives-2016/\n  [3]: https://static.ons.gov.uk/visual/2016/05/Data-Download-for-UK-contributions-over-time-with-years.csv\n  [4]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf\n  [5]: http://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/balanceofpayments/octtodecandannual2015\n  [6]: http://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/compendium/unitedkingdombalanceofpaymentsthepinkbook/2015-10-30\n  [7]: http://www.voteleavetakecontrol.org/campaign\n  [8]: https://www.statisticsauthority.gov.uk/correspondence/economic-statistics/\n  [9]: https://www.surveymonkey.co.uk/r/PNRHWBT\n  [10]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf\n  [11]: http://ec.europa.eu/budget/financialreport/2014/management/index_en.html\n  [12]: http://infacts.org/briefings/eu-budget/\n  [13]: https://www.gov.uk/government/statistics/statistics-on-international-development-2015\n  [14]: http://better.info@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK Perspectives 2016",
+      "uri": "https://visual.ons.gov.uk/introducing-uk-perspectives-2016"
+    },
+    {
+      "title": "United Kingdom Balance of Payments - The Pink Book: 2015",
+      "uri": "http://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/compendium/unitedkingdombalanceofpaymentsthepinkbook/2015-10-30"
+    },
+    {
+      "title": "European Commission Financial Report 2014",
+      "uri": "http://ec.europa.eu/budget/financialreport/2014/foreword/index_en.html"
+    },
+    {
+      "title": "HM Treasury European Union Finances 2015",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/ukperspectives2016theukcontributiontotheeubudget/2016-05-25",
+  "description": {
+    "title": "UK Perspectives 2016: The UK contribution to the eu budget",
+    "keywords": [
+      "Economy",
+      "UK perspectives 2016",
+      "Europe",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "ONS Digital",
+      "telephone": ""
+    },
+    "releaseDate": "2016-05-25T08:30:47.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

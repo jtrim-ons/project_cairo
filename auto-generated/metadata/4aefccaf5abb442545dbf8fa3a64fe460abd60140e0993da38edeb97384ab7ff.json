@@ -1,0 +1,49 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "For people on the lowest incomes, social housing rent has taken up and increasing amount of earnings over the last decade. The cost of social housing (by private registered providers ) varied greatly across the country, with the highest prices- typically in London- at nearly double that of the lowest prices. \n###Social rent equivalent to 73% of wages for lowest paid workers\n####Average weekly rent for PRP social housing as a percentage of earnings for those on lowest wages, England, 2002 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc274/social_1/index.html\" full-width=\"false\" title=\"Average weekly rent for PRP social housing as a percentage of earnings for those on lowest wages, England, 2002 to 2014\"/>\n\n[Download the data][1]\n\n<ons-box align=\"full\">Affordability in an area is the average cost of rent for social tenants as a percentage of that area’s lowest 10% of weekly pay. The weekly pay figures don’t include benefits received.</ons-box>\n\nThe affordability of social housing in England has decreased between 2002 and 2014. On average, rent was equivalent to a larger percentage of weekly wages in 2014 than in 2002.\n\nWithout taking into account benefits received, those on the lowest 10% of earnings spent the equivalent of nearly 56% of their weekly pay on social rent in 2002. By 2014, this had risen to 73% of weekly pay.\n\nIn 158 out of the 348 local authorities across England and Wales in 2014, the lowest 10% of earners could expect to spend at least 75% of their wages on social housing rent.\n###Social housing most expensive in London and cheapest in Pembrokeshire\n####Average weekly social housing rent: highest and lowest 30 areas, England and Wales, 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc274/social_2/index.html\" full-width=\"false\" title=\"Average weekly social housing rent: highest and lowest 30 areas, England and Wales, 2014\"/>\nSources: [Department for Communities and Local Government][2] and [Stats Wales][3]\n\n[Download the data][4]\n\nThe least affordable areas for social housing were in London and the South of England. Newham in London had the highest average social rent price at £128.89 per week. It was also the London borough with the lowest gross weekly salary at £111.10.\n\nThere was a general pattern of higher social rent costs in areas of London and the South East compared with other parts of England and Wales. There were 104 areas with average social rent over £100 per week in 2014. These include all 32 London boroughs.\n\nThe most affordable areas were in Wales and the Midlands. The lowest social housing rent was Pembrokeshire at £65.50 per week, nearly half of the highest price.\n\n\n\nFor more information please contact <better.info@ons.gov.uk>.\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/08/data1.csv\n  [2]: https://www.gov.uk/government/statistical-data-sets/live-tables-on-rents-lettings-and-tenancies\n  [3]: https://statswales.wales.gov.uk/Catalogue/Housing/Social-Housing-Stock-and-Rents/averageweeklyrentsinselfcontainedstockatsocialrent-by-providertype-year\n  [4]: https://static.ons.gov.uk/visual/2015/08/data2.csv\n "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/socialhousingbecamelessaffordableoverpastdecade/2015-08-05",
+  "description": {
+    "title": "Social housing became less affordable over past decade",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      "Housing",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-08-05T08:34:06.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

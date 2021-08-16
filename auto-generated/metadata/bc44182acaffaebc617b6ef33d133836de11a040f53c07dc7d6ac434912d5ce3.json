@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Income inequality in the UK is high compared with other similarly developed nations^1^, which is why our tax and benefit system is so important.\n\nHere we show you where your household sits on the UK income scale and how taxes and benefits affect households with incomes like yours.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc312/content.html\" full-width=\"false\" title=\"Household income and inequality: Where do you fit in?\"/>\n\nSource: [The Effects of Taxes and Benefits on Household Income, Financial Year Ending 2015][2], UK, ONS\n\nFor more information, please contact: [hie@ons.gov.uk][3]\n\n\n  [1]: http://www.oecd.org/els/soc/49499779.pdf\n  [2]: http://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/2015-06-29\n  [3]: mailto:hie@ons.gov.uk\n\n\n###Footnotes:\n1. Figure 9 in [this document][1] shows this."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "How well does my job pay?",
+      "uri": "https://visual.ons.gov.uk/interactive-how-well-does-my-job-pay/"
+    },
+    {
+      "title": "How is the welfare budget spent?",
+      "uri": "https://visual.ons.gov.uk/welfare-spending/"
+    },
+    {
+      "title": "Most affluent man now outlives the average woman for the first time",
+      "uri": "https://visual.ons.gov.uk/most-affluent-man-now-outlives-the-average-woman-for-the-first-time/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/householdincomeandinequalitywheredoyoufitin/2016-02-23",
+  "description": {
+    "title": "Household income and inequality: Where do you fit in?",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      "Income",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-02-23T09:32:56.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

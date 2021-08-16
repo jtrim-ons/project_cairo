@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In 2012, it was decided that computing should be introduced as a GCSE, in an attempt to revive the legacy of mathematician and wartime codebreaker Alan Turing. Computing would focus more on building programs and learning to code, rather than learning the basics of using computers, which is what the already-existing ICT GCSE was focused on.\n\nWhile the old ICT GCSE is now being phased out, with the last batch of pupils taking their exams next year, there are concerns that the new Computing GCSE is not popular enough.\n\nThe British Computing Society has [voiced its worry ][1]that a lack of interest in the topic at this level will lead to a shortage of skilled workers in this growing industry in future. The latest figures show that while the number of pupils taking Computing at GCSE is growing, insufficient numbers are signing up to meet future demand in the workforce.\n\n####The number of pupils taking ICT and Computing GCSE exams, 2014 to 2017\n\n[<img src=\"https://static.ons.gov.uk/visual/2017/06/computing-chart.png\"/>][2]\n\n[Source: Ofqual, Summer 2017 Exam Entries, England][3]\n\nAdditionally there appears to be a perception problem among young girls who are seemingly avoiding the new GCSE.\n\nIn 2016 [just 20%][4] of those taking a Computing exam at GCSE level were female, whereas they make up 41% of those taking an ICT GCSE.\n###Computing in the economy\nIT contributed nearly £55 billion to the UK economy in 2016, according to GVA figures. Its contribution has quadrupled since 1990.IT makes up 4% of the UK service economy, 3% of the whole economy.\n\nThe UK is a net exporter of [computer services][5].\n\nWe exported £2.8 billion more than we imported in 2015. Exports of computer services were 74% higher in 2015 than 2005.\n###Jobs\nThe jobs market for ICT and telecommunications professionals has been buoyant for some years and continues to be so.\n\nSince computing was introduced as a GCSE topic, in 2012, there has been a 19% increase in people [in employment][6] in the industry.\n\nThere were 950,000 professionals employed in ICT and telecommunications in the UK in 2016, 3% of the working population (31,661, 000), with an 82% and 18% male to female split.\n\nIn 2012, there were 795,000 people in employment in IT and telecomms, with an 85% and 15% male to female split.\n\n\n\nOther Visual.ONS publications:\n\n- [Five Facts About the UK Service Sector][7]\n\n- [An Overview of the UK Labour Market][8]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][9] to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n\n\n\n  [1]: http://www.bbc.co.uk/news/technology-40322796\n  [2]: https://static.ons.gov.uk/visual/2017/06/computing-chart.png\n  [3]: https://www.gov.uk/government/statistics/summer-2017-exam-entries-gcses-level-1-2-certificates-as-and-a-levels-in-england\n  [4]: http://www.jcq.org.uk/examination-results/gcses/2016\n  [5]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/3tradeinservicesthepinkbook2016\n  [6]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp04\n  [7]: https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/fivefactsabouttheukservicesector/2016-09-29\n  [8]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/ukperspectives2016anoverviewoftheuklabourmarket/2016-05-26\n  [9]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  [10]: mailto:digitalcontent@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Trade in services, The Pink Book: 2016",
+      "uri": "https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/3tradeinservicesthepinkbook2016"
+    },
+    {
+      "title": "Employment by occupation",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbyoccupationemp04"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/itandinternetindustry/articles/arewetrainingenoughpeopletobecomeprogrammers/2017-06-19",
+  "description": {
+    "title": "Are we training enough people to become programmers?",
+    "keywords": [
+      "Economy",
+      "Productivity",
+      "Employment"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digicontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-06-19T03:59:29.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

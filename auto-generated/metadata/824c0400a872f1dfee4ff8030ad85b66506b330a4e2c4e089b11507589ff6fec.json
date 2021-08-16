@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Financial capability basically means how good a person is at managing money. It is measured on a scale of 0 to 10.\n\n[<img src=\"https://static.ons.gov.uk/visual/2015/07/image.png\"/>][1]\n\nMeasuring financial capability is important as it tells us about the skills, knowledge and behaviours people need to make decisions about their finances.\n\nOverall people scored higher at making ends meet than they did at planning ahead with average scores of 7.0 and 2.3 respectively.\n\n##Men much better at staying informed about the economy than women\n\n####Average financial capability score by measure and sex, Great Britain, 2010/12\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap1/index.html\" full-width=\"false\" title=\"Average financial capability score by measure and sex, Great Britain, 2010/12\"/>\n[Download the data.][2]\n\nMen score 1.0 higher than women for staying informed about the economy. Men also score slightly better at making ends meet, planning ahead, and choosing products. However, women score a little higher at organised money management and controlled spending with a difference of 0.2 for both measures.\n\n##People make poorer decisions on the products they buy as they get older\n\nVariation in financial capability by age is more striking than gender differences. Making considered choices on products steadily declines with age with a difference of 0.5 between the 16 and 24 age group and those 65 and over.\n\n####Average financial capability score by measure and age, Great Britain, 2010/12\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap2/index.html\" full-width=\"false\" title=\"Average financial capability score by measure and age, Great Britain, 2010/12\"/>[Download the data.][3]\n\nHowever, capability in making ends meet and controlled spending increase greatly with age, with a difference of 2.0 and 1.6 respectively. Organised money management is the skill that remains steady across all age groups.\n\n##Those with degrees scored best at making ends meet\n\nStaying informed about the economy was the measure which had largest gap between qualification levels. People with no qualifications scored 1.7 for staying informed about the economy, compared to those with a degree level qualification or above who scored 4.4.\n\n####Average financial capability score by measure and qualification level, Great Britain, 2010/12\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap3/index.html\" full-width=\"false\" title=\"Average financial capability score by measure and qualification level, Great Britain, 2010/12\"/>[Download the data.][4]\n\nThose with degree level qualifications scored better on all measure than those with no qualifications. This may reflect the greater earning power of people with degrees and therefore the greater resources they have available.\n\n##People with more wealth and income better at managing money\nFinancial capability tended to be higher in households with higher income and wealth, particularly with: making ends meet, choosing products, staying informed and planning ahead. All of these measures had a difference of more than 1.0 between the lowest levels of income and the highest levels of income.\n\n####Average financial capability score by measure and income level, Great Britain, 2010/12\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc271/FinCap4/index.html\" full-width=\"false\" title=\"Average financial capability score by measure and income level, Great Britain, 2010/12\"/>[Download the data.][5]\n\nThe difference between lowest levels and highest levels of wealth for the 6 measures of financial capability is similar for those with financial, property and pension wealth. However those with higher financial wealth tended to be better at controlled spending and making ends meet than those with property and pension wealth.\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/07/image.png\n  [2]: https://static.ons.gov.uk/visual/2015/07/FinCap1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/FinCap2.csv\n  [4]: https://static.ons.gov.uk/visual/2015/07/FinCap3.csv\n  [5]: https://static.ons.gov.uk/visual/2015/07/FinCap4.csv\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Wealth and Assets, Financial capability in Great Britain",
+      "uri": "http://www.ons.gov.uk/ons/rel/was/wealth-and-assets--experimental-/financial-capability-in-the-uk--analysis-of-the-wealth-and-assets-survey-wave-3/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/whoisbestatmanagingmoney/2015-07-10",
+  "description": {
+    "title": "Who is best at managing money?",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-10T08:25:08.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

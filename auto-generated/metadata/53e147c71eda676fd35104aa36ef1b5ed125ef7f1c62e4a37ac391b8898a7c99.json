@@ -1,0 +1,72 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/wellbeing/articles/britsspend29oftheirleisuretimealone/2018-06-22/2fc96711.svg",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This weekend, people across the UK will be holding events in their communities as part of [The Great Get Together][1], inspired by the late Jo Cox MP. The Great Get Together aims to encourage people to spend time together to celebrate that “we are far more united and have far more in common than that which divides us”, as Ms Cox said in her [maiden speech][2] in the House of Commons.\n\n###How much time do we spend with other people and how much on our own? \nWhile people in the UK spend most of our leisure time with others, we spend 29% of it – an average of 100 minutes per day – on our own, according to Office for National Statistics (ONS) analysis.\n\nThose aged 65 and over spend the most leisure time on their own – 2 hours and 39 minutes a day – but they’re more than twice as likely to chat to their neighbours as those aged 16 to 24.\n\n[Leisure time][3] is the time when people are not working (including unpaid work like housework and caring for family members), studying, commuting or doing basic activities for existence like sleeping and eating at home.\n\n###Men have most leisure time alone\n\nMen have almost 40 minutes per day [more leisure time than women][4] on average – a total of 6 hours and 9 minutes per day – and they spend 1 hour and 50 minutes of it on their own. Both sexes spend a similar proportion of their leisure time by themselves (30% for men and 27% for women).\n\n####Leisure time spent alone and with others per day, by sex; UK, 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc505/chart1/index.html\" full-width=\"false\" title=\"Leisure time spent alone and with others per day, by sex; UK, 2015\"/>\n[Download the data][5]\n\n###Young adults and older people spend most leisure time alone\n\nThe amount of leisure time people spend alone changes with age; 16 to 24-year-olds and those aged 55 and over spend the highest amount of time on their own.\n\nPeople aged 25 to 54 (who have the least leisure time available) and children spend the least time by themselves. People aged 65 and over spend an average of 37% of their leisure time – 2 hours and 39 minutes per day – on their own.\n\n####Leisure time spent alone and with others per day, by age group; UK, 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc505/chart2/index.html\" full-width=\"false\" title=\"Leisure time spent alone and with others per day, by age group; UK, 2015\"/>\n[Download the data][6]\n\n###“I want to be alone”?\n\nWhat does this time by ourselves mean for our well-being? People who spend time alone are not necessarily lonely: loneliness [can be influenced by a range of personal circumstances][7].\n\nHowever, when considering the whole day (not just leisure time), people tend to enjoy the time they spend with others slightly more than time by themselves – although this too varies with age.\n\nChildren are the only age group who enjoy the time they spend alone significantly more than the time they spend with others. People’s enjoyment of both the time they spend alone and with others increases from the age of 55.\n\nThis might be because of the activities people are doing when they're alone. Older people are more likely to be working, commuting and doing household chores, while children and young adults may do more enjoyable things when they're by themselves. \n\n####Enjoyment of time alone and with others, by age group (on a scale from 0 to 7); UK, 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc505/chart3/index.html\" full-width=\"false\" title=\"Enjoyment of time alone and with others, by age group (on a scale from 0 to 7); UK, 2015\"/>\n[Download the data][8]\n\n###Most people get together at least every week\n\nWe see our family and friends pretty regularly – most people in England manage to see their loved ones at least once a week, especially those in the younger and older age groups. People aged in their late 30s and 40s are least likely to meet up, but even in this age group, 70% see their relatives and friends at least weekly.\n\n####Proportion of people who meet with family or friends at least once a week, by age group; England, 2016 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc505/chart4/index.html\" full-width=\"false\" title=\"Proportion of people who meet with family or friends at least once a week, by age group; England, 2016 to 2017\"/>\n[Download the data][9]\n\nChatting to our neighbours is less likely, and whether people do so varies much more with age. Those aged 65 and over are more than twice as likely to talk to neighbours as 16 to 24-year-olds.\n\n####Proportion of people who chat to their neighbours (more than just to say hello) at least once a week, by age group; England, 2016 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc505/chart5/index.html\" full-width=\"false\" title=\"Proportion of people who chat to their neighbours (more than just to say hello) at least once a week, by age group; England, 2016 to 2017\"/>\n[Download the data][10]\n\n\n  [1]: https://www.greatgettogether.org/\n  [2]: https://hansard.parliament.uk/Commons/2015-06-03/debates/15060324000002/DevolutionAndGrowthAcrossBritain#contribution-15060332000038\n  [3]: https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/2015\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/menenjoyfivehoursmoreleisuretimeperweekthanwomen/2018-01-09\n  [5]: https://www.ons.gov.uk/visualisations/dvc505/chart1.csv\n  [6]: https://www.ons.gov.uk/visualisations/dvc505/chart2.csv\n  [7]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/2018-04-10\n  [8]: https://www.ons.gov.uk/visualisations/dvc505/chart3.csv\n  [9]: https://www.ons.gov.uk/visualisations/dvc505/chart4.csv\n  [10]: https://www.ons.gov.uk/visualisations/dvc505/chart5.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/wellbeing/articles/menenjoyfivehoursmoreleisuretimeperweekthanwomen/2018-01-09"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "The Great Get Together",
+      "uri": "https://www.greatgettogether.org/"
+    },
+    {
+      "title": "United Kingdom Time Use Survey (UK Data Service)",
+      "uri": "https://discover.ukdataservice.ac.uk/series/?sn=2000054"
+    },
+    {
+      "title": "Community Life Survey (Department for Digital, Culture, Media & Sport)",
+      "uri": "https://www.gov.uk/government/statistics/community-life-survey-2016-17"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/wellbeing/articles/britsspend29oftheirleisuretimealone/2018-06-22",
+  "description": {
+    "title": "Brits spend 29% of their leisure time alone",
+    "keywords": [
+      "Well-being",
+      "Time use",
+      "Communities"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "qualityoflife@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-06-21T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "The Great Get Together, inspired by Jo Cox, aims to bring people across the UK together this weekend. ONS analysis shows that we spend most of our free time with others, but 100 minutes of our free time alone every day.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

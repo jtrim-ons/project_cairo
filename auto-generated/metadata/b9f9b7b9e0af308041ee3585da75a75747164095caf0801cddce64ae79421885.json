@@ -1,0 +1,69 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The steady rise in the cost of buying a home shows no sign of abating, as ONS figures reveal that average house prices have risen by 8.7% in the year to June 2016.\nBut house prices are just one part of the story; here are five facts about housing in the UK, from renting to the number of homes being built.\n\n###1. The average UK house price was £214,000 in June 2016\n \n\nThis average price is £24,000 above its pre-economic downturn peak of £190,000 in September 2007.\n####Average UK house price, January 2005 to June 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc358/chart-1/line-chart/index.html\" full-width=\"false\" title=\"Average UK house price, January 2005 to June 2016\"/>\n[Download the data][1]\n###2. The percentage of 25 to 29 year olds owning their home decreased from 55% in 1996 to 29% in 2015\n \n\nThe percentage of 30 to 34 year olds owning their home decreased from 68% to 45%, between 1996 and 2015.\n\n####Percentage of 25 to 34 year old householders owning or renting, UK, 1996 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc315/chart2/line_chart/index.html\" full-width=\"false\" title=\"Percentage of 25 to 34 year old householders owning or renting, UK, 1996 to 2015\"/>\n[Download the data][2]\n###3. All the countries that constitute Great Britain have experienced rises in their private rental prices since 2011\n \n\nSince January 2011 England rental prices have increased more than those of Wales and Scotland.\n\n####IHHRP indices for Great Britain and its constituent countries, January 2011 to June 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc358/chart-3/line-chart/index.html\" full-width=\"false\" title=\"IHHRP indices for Great Britain and its constituent countries, January 2011 to June 2016\"/>\n[Download the data][3]\n###4. In 1995 the cheapest small area in England and Wales to buy a property was in the Alexandra Park area of Manchester\n \n\nThe average (median) price of £9,000. In 2015, the cheapest area was in the Pendle district of Lancashire, at £30,000.\n\n####Middle layer super output areas (MSOAs) by median price band, 1995 to 2015, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc358/chart-4/distribution/index.html\" full-width=\"false\" title=\"Middle layer super output areas (MSOAs) by median price band, 1995 to 2015, England and Wales\"/>\n[Download the data][4]\n###5. The overall level of house building in the UK has declined since 1980, with 152, 380 houses built in the financial year ending 2015\n \n\nThis represents a fall of nearly 40% from the 251,820 built in the financial year ending 1980. New data for 2015/2016 from England and Northern Ireland suggests that the recent increase in UK house building is continuing.\n\n####Permanent dwellings completed, by tenure, UK, financial year ending 1980 to financial year ending 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc336/House_Chart6/House_Chart6.html\" full-width=\"false\"/>\n[Download the data][5]\n\n\n\nFor more information, please contact <digitalcontent@ons.gov.uk>\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/08/1Average-UK-house-price-January-2005-to-June-2016.csv\n  [2]: https://static.ons.gov.uk/visual/2016/08/2Percentage-of-25-to-34-year-old-householders-owning-or-renting-UK-1996-to-2015.xlsx\n  [3]: https://static.ons.gov.uk/visual/2016/08/3IPHRP-indices-for-Great-Britain-and-its-constituent-countries-January-2011-to-June-2016.csv\n  [4]: https://static.ons.gov.uk/visual/2016/08/4Middle-layer-super-output-areas-MSOAs-by-median-price-band.png\n  [5]: https://static.ons.gov.uk/visual/2016/08/5Permanent-dwellings-completed-by-tenure-UK-financial-year-ending-1980-to-financial-year-ending-2015.xlsx\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "House price statistics for small areas: year ending Dec 1995 to year ending Dec 2015",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housepricestatisticsforsmallareas/yearendingdec1995toyearendingdec2015#20-years-of-house-price-change"
+    },
+    {
+      "title": "UK Perspectives 2016: Housing and home ownership in the UK",
+      "uri": "https://visual.ons.gov.uk/uk-perspectives-2016-housing-and-home-ownership-in-the-uk/"
+    },
+    {
+      "title": "Index of private housing rental prices (IPHRP) in Great Britain, results: June 2016",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/indexofprivatehousingrentalprices/june2016"
+    },
+    {
+      "title": "Why are more young people living with their parents?",
+      "uri": "https://visual.ons.gov.uk/living-with-parents/"
+    },
+    {
+      "title": "UK house price index: June 2016",
+      "uri": "https://www.ons.gov.uk/releases/ukhousepriceindexjune2016"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/fivefactsabouthousing/2016-08-17",
+  "description": {
+    "title": "Five facts about… housing",
+    "keywords": [
+      "People, population and community",
+      "Five facts about",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-08-17T02:59:50.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

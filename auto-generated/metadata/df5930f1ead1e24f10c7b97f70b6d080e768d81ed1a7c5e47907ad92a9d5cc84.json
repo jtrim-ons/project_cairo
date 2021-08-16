@@ -1,0 +1,78 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "[Research][1] has found that the British public often have misconceptions about teenage pregnancies.\n\nHow far are your perceptions from the truth?\n\nHere we challenge you to test your understanding of the facts about teenage pregnancy in England and Wales.\n\n\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc311/quiz/index.html\" full-width=\"false\" title=\"Teenage pregnancy â€“ perception versus reality\"/>\n###Teenage pregnancies since 1969\nNow let’s take a look at the teenage pregnancy rate over time.\n\nYou might think that teenage pregnancies are a more recent phenomenon but this chart shows that they are not: in fact rates for both under 16s and under 18s have been falling since 2007.\n\n####Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 2014^1^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc311/linechart/index.html\" full-width=\"false\" title=\"Percentage of girls under 16 and under 18 becoming pregnant, England and Wales, 1969 to 2014^1^\"/>\n\n[Download the data][2]\n\nThe fall in teenage pregnancies in recent years is likely to be due to:\n\n- initiatives by the government, for example improved sex and relationship guidance and improved access to contraception and sexual health services\n\n- more young women in higher education\n\n- negative attitudes towards teenage mothers in society\n\nGovernments in both England and Wales are committed to reducing the teenage pregnancy rate further, although they have now moved away from setting specific targets.\n\nThe[ last target][3], set by the government in England in 1999, was to halve the 1998 under 18 teenage pregnancy rate for England by 2010. Rates fell substantially during this period and this target was [reached in 2014][4].\n###Teenage pregnancies in your area\n09/03/16 11.00am - Some areas were showing the incorrect data for 2014. This was noticed shortly after publication and has now been rectified.\n\nUse this interactive map to test your perceptions of under 18 pregnancies where you live.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc311/map/map.html\" full-width=\"false\" title=\"Maps\"/>\n\nNote: The under 16 teenage pregnancy rates by area can be found in table 5 of these [datasets][5].\n\n\n\n\n  [1]: https://www.ipsos-mori.com/researchpublications/researcharchive/3188/Perceptions-are-not-reality-the-top-10-we-get-wrong.aspx\n  [2]: https://static.ons.gov.uk/visual/2016/03/Data-Download-for-Teenage-Pregnancies1.csv\n  [3]: http://webarchive.nationalarchives.gov.uk/20091212133529/http://dcsf.gov.uk/everychildmatters/healthandwellbeing/teenagepregnancy/about/strategy/\n\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/conceptionstatistics/previousReleases\n  [5]: http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables\n  [6]: mailto:vsob@ons.gov.uk\n\n\n###Footnotes:\n1. The percentages for 1969 to 1986 are not directly comparable to the percentages for 1987 onwards due to changes in the methodology for estimating age at conception"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Conceptions in England and Wales, 2014",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/conceptionstatistics/latest"
+    },
+    {
+      "title": "Quarterly Conceptions to Women aged under 18, England and Wales",
+      "uri": "http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/quarterlyconceptionstowomenagedunder18englandandwales"
+    },
+    {
+      "title": "How big will the UK population be in 25 years’ time?",
+      "uri": "https://visual.ons.gov.uk/how-big-will-the-uk-population-be-in-25-years-time/"
+    },
+    {
+      "title": "Trends in births and deaths over the last century",
+      "uri": "https://visual.ons.gov.uk/birthsanddeaths/"
+    },
+    {
+      "title": "A decade of population change in England and Wales",
+      "uri": "https://visual.ons.gov.uk/a-decade-of-population-change-in-england-and-wales/"
+    },
+    {
+      "title": "How does your family size compare?",
+      "uri": "https://visual.ons.gov.uk/how-does-your-family-size-compare/"
+    },
+    {
+      "title": "https://visual.ons.gov.uk/baby-names/",
+      "uri": "https://visual.ons.gov.uk/baby-names/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/articles/teenagepregnanciesperceptionversusreality/2016-03-09",
+  "description": {
+    "title": "Teenage pregnancies - perception versus reality",
+    "keywords": [
+      "People, population and community",
+      "Births",
+      "Young people",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-03-09T09:33:24.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

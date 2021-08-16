@@ -1,0 +1,122 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/563d65ce.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Having a disability is among the most significant factors affecting  a person’s chances of returning to work after being out of a job.  Longer periods <a href=\"#methods\">out of work</a> also significantly reduce a person’s chances of finding a job in the next financial quarter.\n   \nOther factors, such as holding higher qualifications  or having completed training in the past year, were found to boost a person’s chances of returning to work.  \n\nUsing data from the Office for National Statistics (ONS) Labour Force Survey and the Understanding Society Longitudinal Surveys, our analysis has found that people who  struggle to return to work are more likely to experience [unemployment scarring][1] effects - the negative impacts that a period out of work has on a person’s future career prospects, earnings, and wellbeing. Findings presented in this article refer to Labour Force Survey (LFS) data unless otherwise stated.\n\nPeople less likely to find a job following time out of work could be at higher risk of being left behind as the labour market recovers from the effects of the coronavirus (COVID-19) pandemic.  \n\nAll our estimates can be found in our [associated data tables.][2]\n\n\n  [1]: https://esrc.ukri.org/about-us/50-years-of-esrc/50-achievements/unemployment-scarring/#:~:text=Decades%20of%20research%20has%20shed,is%20harmful%20for%20one's%20health.\n  [2]: https://www.ons.gov.uk/releases/unemploymentscarringwhataffectsapersonschancesoffindingajobfollowingaperiodoutofwork"
+    },
+    {
+      "title": "",
+      "markdown": "##More people are remaining out of employment for three months or more during the pandemic \n\n<ons-chart path=\"f8cae487\" />\n\nBetween Quarter 2 (Apr to June) 2020 and Quarter 3 (July to Sept) 2020, the number of people out of work aged 16 to 69 years increased by 212,000 to 2.1 million. Of these, just 24.0% had returned to work by the following financial quarter. (Figures for each quarter in the chart refer to the number of people out of work in the previous quarter who either returned to work or remained out of employment). \n\nDuring the financial crisis of 2008, the number of people out of work climbed from 2.0 million in Quarter 4 (Oct to Dec) 2007 to 2.4 million in Quarter 4 2008. The economic effects of the coronavirus pandemic are not directly comparable with those of the financial crisis. \n\nInterventions such as the government’s [Job Retention Scheme (CJRS)][1], allowing firms to furlough staff at 80% of their wages, have reduced the number of job losses during the pandemic. However, the number of people remaining out of employment still rose in the second half of 2020. Of those who hadn’t found a job by the end of 2020, those who became out of work after March represented a larger share than at the same time the previous year (38.8% and 24.9% respectively), probably reflecting the impact of the pandemic.    \n\n\n  [1]: https://www.gov.uk/government/collections/coronavirus-job-retention-scheme"
+    },
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\n<a href=\"#methods2\"><b><h3>How do we identify a person’s chances of returning to work?</h3></b></a>\n\nThe analysis presented in this article refers to the period 2007 to 2020. Read more about how we compare people’s chances of returning to work  having been unemployed. \n</ons-box>"
+    },
+    {
+      "title": "",
+      "markdown": "##Those who had spent more time out of work were less likely to find a job\n\nThe longer a person remained out of a job, the worse their chances of returning to work became. \n\nBetween 2007 and 2020, more than two fifths (41.4%) of people who had been out of work for up to 3 months returned to work within the next three months. This reduced to 28.5% of people who had been out of work for up to six months, and 23.3% of people who had been out of a job for six to nine months. \n\nThe trend continued as the duration out of work increased; only 7.1% people who had been out of work for between 5 and 8 years returned to work within the next three months.\n\nWhen controlling for differences in personal characteristics, how long a person’s current stint of unemployment lasted for was still found to significantly affect their likelihood of returning to work.\n\n####The more time spent out of work, the less likely someone would be to return to employment\n#####Percentage point difference in likelihood of returning to work in the next quarter, by duration out of work, 2007 - 2020\n\n<ons-interactive url=\"/visualisations/dvc1269/duration-total/index.html\" full-width=\"false\" title=\"The more time spent out of work, the less likely someone would be to return to employment\"/>\n\n#####Notes\n1. Weighted estimates based on the population specification (see <a href=\"#methods2\">How do we identify a person’s chances of returning to work?</a>)\n2. Average Marginal Effect - The average change in probability of returning to employment when a co-variate increase by one percentage point.\n3. The horizontal bars represent [error bars or 95% confidence intervals][1]. \n\n\n\n[Download the data][2]\n\nAs the amount of time out of work increased, the effect of other influential factors such as education, conditions in the local area, and disability reduced.\n \nFor example, for those who had been out of work for less than a year, the negative effect of a higher unemployment rate in the local area was three times larger than for those out of work for more than a year.\n\nSimilarly, for the population as a whole, holding higher education qualifications such as degrees or A-Levels boosted chances of returning to work, but these effects were smaller among people who had been out of the workforce for more than a year.\n\n The positive effects of holding A-levels as your highest qualification compared with GCSEs was four times smaller for people who had been out of work for more than a year.  \n\n\n  [1]: https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval\n  [2]: https://www.ons.gov.uk/visualisations/dvc1269/duration-total/datadownload.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "##Disabled people and those with diagnosed health conditions were less likely to return to work  \n\nBetween 2007 and 2020, 7.6% of disabled people who were out of work, but had previously had a job, returned to employment in the next three months. This is compared with 26.8% of out-of-work non-disabled people. \n\nSeveral different factors contribute to this disparity. For example, disabled people are disproportionately older, which negatively effects a person’s chances of finding a job. \n\nHowever, when controlling for  personal characteristics, being disabled was found to be one of the strongest negative associations to people’s chances of returning to work. Disabled people’s chances of finding a job were 7.4 percentage points lower on average than those of non-disabled people. \n\nAs with those out of work for more than a year, the positive effects of higher qualifications were less pronounced among disabled people.\n\n####The positive effects of higher qualifications were less prominent for disabled people \n#####Percentage point difference in likelihood of returning to work in the next quarter, by highest qualification level and disability status, 2007 to 2020\n\n<ons-interactive url=\"/visualisations/dvc1269/disability/index.html\" full-width=\"false\" title=\"The positive effects of higher qualifications were less prominent for disabled people \"/>\n\n#####Notes:\n1. Weighted estimates based on the population specification (see <a href=\"#methods2\">How do we identify a person’s chances of returning to work?</a>)\n2. Average Marginal Effect - The average change in probability of returning to employment when a co-variate increase by one percentage point.\n3. “Higher education” refers to a qualification between A-Level and degree level, such as an NVQ Level 4, BTEC higher or other higher education diploma. “Other qualifications”  refer to other qualifications up to GCSE level, such as NVQ Level 1 or foundation GNVQ / GSVQ.  Further detail is available in the [Labour Force Survey user guide.][1]  \n4. The horizontal bars represent [error bars or 95% confidence intervals][2]\n\n[Download the data][3]\n\nAccording to the Understanding Society Longitudinal Surveys (USoc) data, people with one or more diagnosed health conditions and those with caring responsibilities were also less likely to find work.\nEconomic disadvantage  also seemed to negatively affect chances. Those who either found their financial situation very difficult, did not have anyone employed in the household, or were renting in social housing were all less likely to return to work than those with a more stable economic situation.\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance#2020-update\n  [2]: https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval\n  [3]: https://www.ons.gov.uk/visualisations/dvc1269/disability/datadownload.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "##People from ethnic minorities were less likely to return to work than those from a white ethnic background  \n\nBetween 2007 and 2020, people from mixed, Asian, or Chinese and Other minority ethnic backgrounds have returned to work at the rate of 21.9%, 19.3% and 18%, respectively. In contrast people of white or black ethnicity have returned to work at slightly lower rates, 17.9% and 16.9% respectively.  \n\nHowever, when controlling for differences in personal characteristics , being from a Black, Asian, or Chinese or other ethnic minority background were all found to significantly reduce a person’s likelihood of returning to work, compared with people of white ethnicity. \n\nPersonal characteristic differences, such as those out of work from an ethnic minority background typically being younger, may be driving the higher rates at which people from some ethnic minorities returned to work. \n\n####Black, Asian and Chinese or other ethnicities were less likely to return to employment compared to White ethnicity\n#####Percentage point difference in likelihood of returning to work in the next quarter, by ethnicity, 2007 - 2020\n\n<ons-interactive url=\"/visualisations/dvc1269/ethnicity-total/index.html\" full-width=\"false\" title=\"Black, Asian and Chinese or other, ethnicities were less likely to return to employment compared to White ethnicity\"/>\n\n#####Notes\n1. Weighted estimates based on the population specification (see <a href=\"#methods2\">How do we identify a person’s chances of returning to work?</a>)\n2. Average Marginal Effect - The average change in probability of returning to employment when a co-variate increase by one percentage point.\n3. The horizontal bars represent [error bars or 95% confidence intervals.][1] \n\n[Download the data][2] \n\nSome ethnic minority groups were even more disproportionately affected. For example, Asian women were less likely to return to work than Asian men. This is in contrast to women in the total population, who were on average slightly more likely to return to work than men.\n\nAsian young people (aged 16 to 21 years) were significantly less likely to return to work than Asian people in their thirties, a disparity that was not apparent in the total population. Conversely, young people of Chinese or Other ethnic background (aged 16 to 24 years) were much more likely to return to work than their older counterparts.\n\n\n  [1]: https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval\n  [2]: https://www.ons.gov.uk/visualisations/dvc1269/ethnicity-total/datadownload.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "##Likelihood of returning to work decreases with age  \n\nBetween 2007 and 2020, just under a third (31.5%) of people aged 22 to 24 years returned to work within three months. This dropped to a fifth (20.2%) of people in their thirties, and 12.2% of people in their fifties. \n\nWhen controlling for other differences in personal characteristics, there was still a significant positive difference in the likelihood of returning to work for those aged 22 to 24 years compared with those aged 30 to 39 years, and a negative difference for those aged over 50 years. \n\n####Those aged 50 and over are less likely to return to work than those aged 30 to 39\n#####Percentage point difference in likelihood of returning to work in the next quarter, by age, 2007 - 2020\n\n<ons-interactive url=\"/visualisations/dvc1269/age/index.html\" full-width=\"false\" title=\"Those aged 50 and over are less likely to return to work than those aged 30 to 39\"/>\n\n#####Notes\n1. Weighted estimates based on the population specification (see <a href=\"#methods2\">How do we identify a person’s chances of returning to work?</a>)\n2. Average Marginal Effect - The average change in probability of returning to employment when a co-variate increase by one percentage point.\n3. The horizontal bars represent [error bars or 95% confidence intervals.][1] \n\n[Download the data][2]\n\nWhen examining the effect on younger age groups specifically, using Understanding Society Longitudinal Surveys (USoc) data, we also considered those out of work who have never had a job, and those who were out of work because they were full-time students. \n\nHaving previously had a job, such as working while being a student, had a positive effect on returning to work for those aged between 16 and 24 years old.\n\nThe positive effect of holding higher qualifications was much larger for this group compared with the total population. For example, for those aged 16 to 24 years, holding a degree or equivalent increased the likelihood of returning to employment by 30.5  percentage points on average, compared with those holding GCSEs or equivalent.\n\nAdditionally, those in this group who had changed qualification level whilst being out of work were significantly more likely to return to or enter employment than those who hadn’t gained new qualifications.\n\nEven though young people in general were more likely to return to work, we know from [past research][3] that younger age groups will be affected by a period of being out of work in later life in other ways, such as negative lower future earnings. \n\nOther findings for young people can be seen in our [associated data tables][4].  \n\n\n  [1]: https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit#confidence-interval\n  [2]: https://www.ons.gov.uk/visualisations/dvc1269/age/datadownload.xlsx\n  [3]: https://www.bristol.ac.uk/media-library/sites/cmpo/migrated/documents/wp97.pdf\n  [4]: https://www.ons.gov.uk/releases/unemploymentscarringwhataffectsapersonschancesoffindingajobfollowingaperiodoutofwork"
+    },
+    {
+      "title": "",
+      "markdown": "##The local unemployment rate significantly affects a person’s chances of returning to work\n\nWhen looking at the proportions of unemployed people who returned to work over this period, the highest rate of people returning to work was seen in the South East (21.2%), and the lowest was seen in Northern Ireland (8.4%).     \n\nHowever, when controlling for other personal characteristics, Northern Ireland was the only 1 of the 12 UK countries or regions in which residents’ re-employment prospects were significantly different from those in London.  \n\nDifferences at a more granular regional level, on the other hand, such as the local unemployment rate at [NUTS2 level][1], did significantly affect a person’s chances of returning to work.\n\nThose living in areas with lower unemployment rates saw better chances of finding a job than those in areas with higher unemployment rates. This was more pronounced among people who previously worked in the hospitality sector, and among people of Asian ethnicity.\n\nThe demographics of different regions also probably affected the rates at which people returned to work. \n\nFor example, people in Northern Ireland who were out of work were more likely to hold no qualifications (25.0%) and less likely to hold degrees (9.5%) compared with the UK population.\n\nAdditionally, more than half of people out of work in Wales were disabled, which was higher than other regions and countries in the UK. Further regional differences in the populations out of work can be found in our [associated data tables.][2] \n\n<hr style=\"border: 0;height: 0;border-top: 4px solid #808080;\">\n\n\n  [1]: https://geoportal.statistics.gov.uk/datasets/ded3b436114440e5a1561c1e53400803_0\n  [2]: https://www.ons.gov.uk/releases/unemploymentscarringwhataffectsapersonschancesoffindingajobfollowingaperiodoutofwork"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"methods2\">How do we identify a person’s chances of returning to work?</a></h2>\n\nData from the Labour Force Survey (LFS) and the Understanding Society Longitudinal Surveys (USoc) allow us to identify the proportions of people out of a job who returned to work within the next three months (or 12 months in the case of the USoc). We can then see how these proportions differ by different characteristics, such as age or ethnicity. \n\nWe measured whether people who were out of a job in a particular period  had returned to employment in the next period. For our LFS analysis, the next period was one quarter later, while for the USoc data, it was one year later. \n\nIn order to understand the influence of any personal characteristic in isolation, we have used a model to control for other variables, called a fixed effects logistical regression. This shows the effect of individual characteristics on people’s likelihood of returning to work, in comparison with a reference group. \n\nFor this, we pooled all the LFS data from 2007 to 2020, which means our model refers to people who had been out of work any time between these periods. It is important to note the fluctuating labour market conditions during this time period which include times of recession and economic recovery. The same process was applied when using the USoc data from the financial year ending 2010 and financial year ending 2018.  \n  \nIdentifying which factors affect a person’s likelihood of returning to work the most helps us to understand who might be more likely to experience the effects of scarring in the future. This is particularly important because [the unemployment rate has been rising.][1]\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest"
+    },
+    {
+      "title": "",
+      "markdown": "<h2 id=\"methods\">What do we mean by “out of work”?</a></h2>\n\nWe have referred to people who are “out of work”, rather than “unemployed”, as people are only classed as unemployed if they are actively seeking work and available to start. Our analysis includes those classed as unemployed, but also those who are looking for work but are unavailable to start straight away, and those who are not actively looking, but would like a job. \n\nWe did not consider those who were retired, had never had a paid job, or students, apart from when focussing on young people.   \n\nWe also excluded those out of work due to family and home commitments, those not looking but would like a job, and those not looking and would not like a job.  \n"
+    },
+    {
+      "title": "",
+      "markdown": "###Personal characteristics being controlled for\n\nWe controlled for several personal characteristics to identify average effects in isolation. These are captured in the following table:\n\n<ons-table-v2 path=\"/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/5da76c35\" /> \n\n####Economic disadvantage factors\nIn addition to the characteristics mentioned in this section, for more specific analysis we considered extra other variables. For example, we considered differences in financial security by taking into account household income, household tenure status and how many other people in the household are employed. \n\n####Young people analysis\nWhen focusing on young people, we included those who were initially students and then entered the labour market in the subsequent period, either because they have finished their studies or have stopped studying for another reason. We also considered young people who have never had a paid job, as well as those who have worked previously."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/enablingordisablingfactorsforreturningtoworkdatamodelledfindings"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/enablingordisablingfactorsforreturningtoworkdatasummarystatistics"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "The number of people remaining out of employment rose during the second half of 2020, but remains below the levels seen during the 2008 recession ",
+      "filename": "f8cae487",
+      "uri": "/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/f8cae487"
+    }
+  ],
+  "tables": [
+    {
+      "title": "Personal characteristics being controlled for",
+      "filename": "5da76c35",
+      "version": "2",
+      "uri": "/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30/5da76c35"
+    }
+  ],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK economy latest",
+      "uri": "https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/ukeconomylatest/2021-01-25"
+    },
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peoplenotinwork/unemployment/articles/whichgroupsfindithardesttofindajobfollowingaperiodoutofwork/2021-03-30",
+  "description": {
+    "title": "Which groups find it hardest to find a job following a period out of work? ",
+    "keywords": [
+      "unemployment",
+      "coronavirus",
+      "covid-19",
+      "financial crisis",
+      "scarring",
+      "human capital"
+    ],
+    "metaDescription": "Disabled people and those who had spent longer out of work are among those least likely to return to a job ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "Economic.Wellbeing@ons.gov.uk",
+      "name": "Gueorguie Vassilev",
+      "telephone": "01633 456265"
+    },
+    "releaseDate": "2021-03-29T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Disabled people and those who had spent longer out of work are among those least likely to return to a job ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

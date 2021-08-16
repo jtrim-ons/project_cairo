@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In the financial year ending 2017, the UK government spent £264 billion on welfare, which made up 34% of all government spending. In the financial year ending 2013, the government spent £253 billion on welfare, around 35% of government spending.\n####How do you think this was split?\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc457/contentGA.html\" full-width=\"false\" title=\"How do you think this was split?\"/>\n\n[Download the full data][1]\n\n####How much do we spend on welfare for retired people?\nWelfare covers a number of benefits, and many people don’t realise that the largest amount is actually spent on pensions at £111 billion.\n\nTotal pension spending has increased by 9% since the financial year ending 2013. This isn’t surprising as life expectancy has been steadily increasing, so State Pensions are being claimed for longer. The remaining life expectancy for someone aged 65 years, in 2016, is 21 years for a man and 24 years for a woman. To find out how long your pension pot might need to last, [check out our interactive here][2].\n####How much do we spend on care?\nAround £30 billion is spent on personal social services. About £44 billion goes on benefits for people who are ill or disabled, while £10 billion goes on elderly care payments.\n\n####How much do we spend on working age people?\nOver £46 billion goes on family benefits, income support and tax credits. This includes benefits such as Child Benefit and support for people on low income. Around £2.2 billion goes to the unemployed.\n\nAs for unemployed people claiming Jobseeker's Allowance or Universal Credit, there were 804,100 people claiming these benefits in September 2017. This number has increased by 3.3% compared with a year earlier.\n\n\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][4]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/10/Socialprotection.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howlongwillmypensionneedtolast/2015-03-27\n  [3]: mailto:digitalcontent@ons.gov.uk\n  [4]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Public sector finances",
+      "uri": "https://www.gov.uk/government/statistics/public-expenditure-statistical-analyses-2017"
+    },
+    {
+      "title": "Government spending",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/629960/PESA_2017_Chapter_5_Tables.xlsx"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/articles/howisthewelfarebudgetspent/2016-03-16",
+  "description": {
+    "title": "How is the welfare budget spent?",
+    "keywords": [
+      "Economy",
+      "Government spending",
+      "Welfare",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-03-16T10:05:37.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "London households’ average weekly spending is one and-a-half times more than households in the North East of England, latest data from the ONS shows.\n\nAt £652.40, households in London spent the most each week, on average, of all the UK countries and regions, while households in the North East spent the least at £423.50.\n\nAverage weekly spend in London was between £40 and £228 more than any other country and region, the figures, using data from the last three financial years, show.\n\nAcross the UK, the average weekly household expenditure for the last three full financial years was £527.20.\n\n\n\nHow much do you think your household spends every week?\n\nTake a look at our regional spending interactive tool and see how it compares with the rest of the UK:\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc389/barcodeplot/index.html\" full-width=\"false\" title=\"Family Spending\"/>\n\nSource: [Family Spending in the UK, Financial Year Ending March 2016][1]\n\n[Download the data][2]\n\n\n\nThe interactive shows that average weekly spending differs across the UK, particularly when it comes to housing costs.\n\nSpending on housing accounts for the bulk of the difference between London and the UK countries and regions.\n\nFor example, in the financial year ending 2016, an average renter in London spent £167.10 a week on net rent. This is an increase on the previous financial year (figures not adjusted for inflation) where average spending stood at £159.10 and is more than three times the amount spent in 2016 by renters in the North East (£46.30) and Northern Ireland (£44.60).\n\nThe ONS’s [Family Spending][3] release highlights the different spending patterns that households have in other regions.\n###Alcohol and Tobacco\nData from the last three financial years showed spending on alcoholic drinks and tobacco varied across the UK. Households in [Scotland][4] spent the most on alcoholic drinks, with an average of £8.90 a week; 1.8% of Scotland households’ total expenditure.\n\nThis was partly driven by expenditure on spirits and liqueurs, where Scottish households spent an average of £2.70 a week, compared with the UK average of £1.70\n\nIn contrast to this, London households spent 1.1% of their total expenditure on alcoholic drinks. The ethnic diversity of London may contribute to the low levels of spending on alcohol in this region.\n\nExpenditure on tobacco is even more varied across the UK. The average weekly spending on cigarettes for England was £2.90, Wales £3.00, Scotland £4.90 and Northern Ireland £6.60.\n\n####Food and Non-Alcoholic Drinks\n\nNorthern Ireland and the South East spent more on food and non-alcoholic drinks than any other UK country or region at £64.20 per week - £14.60 more than the North East, where households spent the least.\n\nNorthern Ireland households spent more on tea, bread, buns and cakes than any other UK country and region, while the South East spent the most on cheese.\n\nLondon households spent the most on fresh fruit and fresh vegetables (£4.50 and £5.50) per week, while the North East households spent the least (£2.50 and £3).\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html#.L/Fresh%20fruit/Fresh%20vegetables\" full-width=\"false\" title=\"Food and Non-Alcoholic Drinks Northern Ireland and the South East spent more on food and non-alcoholic drinks than any other UK country or region at Â£64.20 per week - Â£14.60 more than the North East, where households spent the least. Northern Ireland households spent more on tea, bread, buns and cakes than any other UK country and region, while the South East spent the most on cheese. London households spent the most on fresh fruit and fresh vegetables (Â£4.50 and Â£5.50) per week, while the North East households spent the least (Â£2.50 and Â£3).\"/>\n\n\nHowever, the North East spent more on food and non-alcoholic drinks as a percentage of total spending than London – at 12% to the capital’s 10%.\n\nCommunication is the only category of spending where the percentage of total expenditure does not vary at all between regions – at 3%.\n\n\n\nThere are plenty more fascinating facts about household spending habits across the UK regions. Take a look at this explorer to find out more about your region:\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html\" full-width=\"false\" title=\"Family Spending Explorer\"/>\n\nSource: [Family Spending in the UK, Financial Year Ending March 2016][5]\n\n[Download the data][6]\n\n\nOther Visual.ONS articles:\n\n[Women shoulder the responsibility of unpaid work][8]\n\n[The gender pay gap - what is it and what affects it?][9]\n\n[What's the best time for a wedding?][10]\n\n\n  [1]: https://www.ons.gov.uk/releases/familyspendingintheuk2016\n  [2]: https://static.ons.gov.uk/visual/2017/02/Family-Spending-interactive1.xlsx\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/financialyearendingmarch2016\n  [4]: https://www.ons.gov.uk/visualisations/dvc389/barcodeplot_exp/index.html#.S/Spirits%20and%20liqueurs%20(brought%20home)\n  [5]: https://www.ons.gov.uk/releases/familyspendingintheuk2016\n  [6]: https://static.ons.gov.uk/visual/2017/02/Family-spending-interactive2.xlsx\n  [7]: mailto:joanna.bulman@ons.gov.uk\n  [8]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [9]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thegenderpaygapwhatisitandwhataffectsit/2016-10-26\n  [10]: https://www.ons.gov.uk/visualisations/marriages/marriages/index.html\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Family Spending in the UK, Financial Year Ending March 2016",
+      "uri": "https://www.ons.gov.uk/releases/familyspendingintheuk2016"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/londonhouseholdspendingoutstripstherestoftheuk/2017-02-16",
+  "description": {
+    "title": "London household spending outstrips the rest of the UK",
+    "keywords": [
+      "Economy",
+      "People, population and community",
+      "Family spending"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-02-16T09:32:25.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,44 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Climate change and sustainable energy have generated an increasing amount of  media, public and political debate in the UK during recent years.\n\nThis article, part of a series of UK Perspectives, provides an overview of the nation over the last two decades, presenting some key statistics relating to national energy and emissions trends.\n\n###1. Transport is the UK’s biggest energy consumer\n####Energy consumption by final user^1^ (energy supplied basis) for the industry, transport and domestic sectors, UK, 1980 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc339/Energy_Chart1/Energy_Chart1.html\" full-width=\"false\" title=\"Energy consumption by final user^1^ (energy supplied basis) for the industry, transport and domestic sectors, UK, 1980 to 2015\"/>\n\nIn 1988, transport became, and remained, the largest energy consumer. In 2015, it accounted for more than a third (40%) of total energy consumption – compared to a quarter (25%) in 1980.\n\nIn contrast, industry – accounting for the largest share (34%) of the UK’s total energy consumption in 1980 – had fallen to 17% by 2015. This is in line with its reduced UK economic share, combined with industrial processes becoming more energy efficient.\n\nDespite the increase in the number of UK households over time, domestic consumption has remained relatively constant – likely a result of improved energy efficiency. However, since the main driver of domestic energy consumption is heating, year on year fluctuations have generally occurred in accordance with seasonal weather conditions.\n\nTotal UK energy consumption^2^ was highest from 2000 to 2005 at around 160,000 kilotonnes of oil equivalent (ktoe) per year.  In recent years consumption has fallen and by 2015 was 135,000 ktoe, similar to levels seen in the early 1980s.\n\n###2. The UK imports over one third of its energy supply\n\n<ons-box align=\"full\">Net import dependency is the proportion of the UK’s energy supply that comes from imports. It is calculated by dividing net energy imports (imports minus exports) by the total amount of energy used.</ons-box>\n \n####Energy import dependency, UK, 1980 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc339/Energy_Chart2/Energy_Chart2.html\" full-width=\"false\" title=\"Energy import dependency, UK, 1980 to 2015\"/>\n\nA number of factors determine the amount of energy the UK imports, including energy consumption, production and the price of imports compared with the price of domestic production.\n\nIn 2015, the UK imported more energy than it exported – with an import dependency level of 39%. This meant over one third of the UK’s net energy supply came from imports. The UK’s import dependency has fallen from 46% in 2014. This decrease was due to a rise in exports and fall in imports with fossil fuel dependency at a record low in 2015.\n\nThe UK’s dependency on energy imports has fluctuated over time. In the early 1980s, the UK became a net exporter of energy after development of oil and gas production in the North Sea. Output fell back in the late 1980s following the [Piper Alpha disaster][1], with the UK temporarily regaining a position as a net exporter in the mid 1990s. However, North Sea production peaked in 1999, and the UK returned to being a net energy importer in 2004 – where it has remained since.\n\n###3. Gas and renewable energy are the main fuels used for UK electricity generation\n####Electricity supplied by fuel type, UK, 1980 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc339/Energy_Chart3/Energy_Chart3.html\" full-width=\"false\" title=\"Electricity supplied by fuel type, UK, 1980 to 2015\"/>\n\nCoal and gas have been the main fuels used in the UK’s electricity generation since 1997. Although gas currently generates the largest amount of electricity, proportions have fluctuated over time, largely in line with prices. In 2015 renewables overtook coal for the first time to become the second largest generator of electricity. Renewable energy has grown steadily since 1980 – with renewable energy sources in 2015 accounting for 25% of total UK electricity generation. Of this, 60% came from wind and solar power.\n\nNuclear power has declined since its peak in 1998, corresponding with the closure of a number of nuclear reactors.\n\n###4. The UK’s greenhouse gas (GHG) emissions are decreasing\n\n<ons-box align=\"full\">The UK has both international and domestic targets for reducing GHG emissions. The 2008 Climate Change Act established the world’s first legally binding emission target of reducing GHG emissions in the UK by at least 80% (from the 1990 baseline) by 2050.</ons-box>\n\n\nCarbon dioxide is responsible for the largest amount of GHG emissions, accounting for 82% of the total in 2014.\n\n###Emissions of greenhouse gases^3,^ UK, 1990 to 2014\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc339/Energy_Chart4/Energy_Chart4.html\" full-width=\"false\" title=\"Emissions of greenhouse gases\"/>\n\n - Total UK GHG emissions have dropped by 35% since 1990.\n - Total UK carbon dioxide emissions have decreased by around 29% since 1990.\n\nA number of factors have contributed to the reductions in emissions, including improvements in energy efficiency, investment in [low carbon technology, changes in the fuel mix for electricity generation, carbon budgets][2] and the EU Emissions Trading System [(EU ETS)][3].\n\n[Provisional greenhouse gas (GHG) emission figures][4] are available from the Department of Energy and Climate Change.\n\n####Conclusion: adapting to change\nThe way the UK sources and consumes energy has changed over time. Currently, more energy is imported than exported, and the transport sector remains the largest consumer of energy, a position it has held since 1988. Renewable energy sources have overtaken coal to become the 2nd largest generator of electricity in the UK in 2015, behind gas.\n\nIt is important that the UK is able to adapt to these kinds of ongoing changes and maintain its future energy security for many reasons, including meeting emissions targets and environmental protection – as well as economic prosperity.\n\n####Footnotes:\n\n1. Energy consumption by final user refers to energy that is not used for transformation into other forms of energy.\n2. Total energy consumption also includes a small amount of consumption from other final users which are mainly agriculture, public administration and commerce.\n3. The greenhouse gas total consists of seven greenhouse gases covered by the [Kyoto Protocol][5]. Nitrogen trifluoride emissions are being included in this total for the first time this year, following the introduction of updated guidelines for emissions reporting.\n\n\n  [1]: https://en.wikipedia.org/wiki/Piper_Alpha\n  [2]: https://www.gov.uk/government/publications/2010-to-2015-government-policy-low-carbon-technologies/2010-to-2015-government-policy-low-carbon-technologies#appendix-1-bioenergy\n  [3]: https://www.gov.uk/government/publications/2010-to-2015-government-policy-greenhouse-gas-emissions/2010-to-2015-government-policy-greenhouse-gas-emissions#appendix-2-eu-emissions-trading-system-eu-ets\n  [4]: https://www.gov.uk/government/statistics/provisional-uk-greenhouse-gas-emissions-national-statistics-2015\n  [5]: https://en.wikipedia.org/wiki/Kyoto_Protocol"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/ukperspectives2016energyandemissionsintheuk/2016-05-26",
+  "description": {
+    "title": "UK Perspectives 2016: Energy and emissions in the UK",
+    "keywords": [],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "better.info@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-05-25T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,56 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The average ([median][1]) weekly pay for full-time employees rose by 1.8% in the latest year, according to the latest figures from the Annual Survey of Hours and Earnings (ASHE).\n\nThe data showed a rise from £518 in April 2014 to £528 in April 2015. But how has pay changed over a longer period?\n\nBack in 1997 the average hourly wage for full-time employees was £7.92 compared to £13.36 in 2015, but looking at averages alone can mask bigger changes in the distribution of earnings. Pay is affected by many factors, not least the health of the economy. Several pay initiatives have also been introduced over the last 18 years, including those written into law such as the National Minimum Wage (NMW). This analysis shows that such initiatives appear to have had a profound effect on the distribution of earnings.\n\n####Distribution of gross hourly earnings, 1997 to 2015, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc304/minwage1/index.html\" full-width=\"true\" title=\"Distribution of gross hourly earnings, 1997 to 2015, UK\"/>[Download the data][2]\n\nIn 1997, the distribution shows that many jobs were paying between £4 and £5 per hour, with the number of jobs being paid more than this gradually decreasing as hourly pay increased. In 2015, by contrast, there is a large spike of jobs being paid around the £6.50 mark – in line with the [NWM rate][3] for those aged over 21 in 2014. Above this level of pay the distribution follows a similar pattern to that of 1997, albeit shifted to right, with larger numbers of jobs at higher hourly wages partly as a result of inflation and higher productivity.\n\nSo it appears that there is a bigger concentration of jobs at the bottom end of the pay scale in 2015 than in 1997, many of them being paid close to the minimum wage.\n\n*Correction - This section was incorrectly described in terms of hours worked paid close to the minimum wage, rather than jobs paid close to the minimum wage [02/12/15 1.30pm]*\n####Proportion of adult jobs worked paid within 2% of the National Minimum Wage, 1999 to 2015, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc304/minwage2/index.html\" full-width=\"false\" title=\"Proportion of adult jobs worked paid within 2% of the National Minimum Wage, 1999 to 2015, UK\"/>[Download the data][4]\n\nThe National Minimum Wage was introduced in April 1999 and at the time the adult rate (those aged 22 and above) was set at £3.60 an hour. This has gradually increased over time to £6.70 in October 2015 for those aged 21 and over. During this time a greater proportion of jobs have been paid at or close to this rate. In 1999, around 2% of jobs were paid within 2% of the NMW, and this has steadily increased to over 5% of jobs in 2015.\n\nSo more jobs are being paid close to the minimum wage. One possible reason for this is that earnings growth for employees hasn’t always matched increases to the minimum wage - which have been greater than inflation in most years since its introduction. In 2002, around 70% of full-time employees saw real earnings growth (a measure that is adjusted for inflation). However, following the economic downturn this fell to around 35% in 2011.\n\nIn fact, many full-time employees saw a reduction in their real weekly earnings during this time. By 2015, this trend had reversed again: around 70% of full-time employees experienced real weekly earnings growth in the year to April 2015.\n\n####Percentage of full-time employees by their annual rate of real weekly earnings^1^ growth %, 2002 to 2015, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc304/minwage3/index.html\" full-width=\"false\" title=\"Percentage of full-time employees by their annual rate of real weekly earnings^1^ growth %, 2002 to 2015, UK\"/>[Download the data][5]\n\n\n  [1]: https://en.wikipedia.org/wiki/Median\n  [2]: https://static.ons.gov.uk/visual/2015/11/data11.csv\n  [3]: http://www.gov.uk/national-minimum-wage-rates\n  [4]: https://static.ons.gov.uk/visual/2015/11/data2.csv\n  [5]: https://static.ons.gov.uk/visual/2015/11/data3.csv\n\n\n\n####Footnotes:\n1. The Consumer Price Index for April of each respective year has been used to deflate earnings."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Economic Review - December 2015",
+      "uri": "http://www.ons.gov.uk/ons/rel/elmr/economic-review/december-2015/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/nationalaccounts/uksectoraccounts/articles/morejobsbeingpaidclosetotheminimumwage/2015-12-01",
+  "description": {
+    "title": "More jobs being paid close to the minimum wage",
+    "keywords": [
+      "Economy",
+      "Employment and labour market",
+      "Earnings",
+      "Income",
+      "Labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-12-01T09:30:05.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

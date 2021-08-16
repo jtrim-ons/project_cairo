@@ -1,0 +1,65 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The proportion of male smokers has dropped to its lowest levels in 40 years.\n\nOn [No Smoking Day][1], the annual push to help smokers in Great Britain kick the habit, ONS reveals the number of male smokers has reduced from 51% in 1974 to 20% in 2014.\n\nFor women it was 41% in 1974, compared with 17% in 2014.\n\nWhat else has changed between 1974 and 2014?\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-01.png\"/>][2]\n[Download the data][3]\n\nAcross all age groups men were more likely to smoke than women.[<img src=\"https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-02.png\"/>][4]\n\n[Download the data][5]\n\nThere has also been a drop in the number of cigarettes smoked daily.\n\nOn average, men smoke 1.7 more cigarettes a day, compared to women. While those aged 25 to 34 are the most likely to smoke, they smoked the lowest amount per day - at 9.6 cigarettes - while smokers aged 50 to 59 smoked the most at 13.4 cigarettes a day.\n\nMen aged 60 and over and women aged 50 to 59 bucked the downward trend in cigarette smoking between 2013 and 2014 by lighting up more. The men increased their consumption from 13.7 to 14.6, while the women’s use rose from 12.0 to 12.3.\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-042.png\"/>][6]\n\n[Download the data][7]\n\nSmoking is the leading cause of preventable death in Great Britain, causing almost 80,000 deaths in England in 2013, according to [Adult Smoking Habits in Great Britain 2014][8]. Estimates from the Welsh Government put the annual death toll at 5,500, whereas the Scottish Government estimates 13,500.\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-05.png\"/>][9]\n[Download the data][10]\n\nIn 2014, 55% of men who had previously smoked had quit, compared with 54% of women.\n\n[<img src=\"https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-062.png\"/>][11]\n[Download the data][12]\n\n\n\n\n  [1]: https://nosmokingday.org.uk/\n  [2]: https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-01.png\n  [3]: https://static.ons.gov.uk/visual/2016/03/Proportion-of-smokers-by-gender.csv\n  [4]: https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-02.png\n  [5]: https://static.ons.gov.uk/visual/2016/03/Average-number-of-cigarettes-smoked-every-day-Great-Britain-1974-and-2014.csv\n  [6]: https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-042.png\n  [7]: https://static.ons.gov.uk/visual/2016/03/Proportion-of-smokers-by-gender.csv\n  [8]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/adultsmokinghabitsingreatbritain/2014\n  [9]: https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-05.png\n  [10]: https://static.ons.gov.uk/visual/2016/03/Number-of-deaths-due-to-smoking-in-England-Scotland-and-Wales-2013.csv\n  [11]: https://static.ons.gov.uk/visual/2016/03/Non-Smoking-Day-062.png\n  [12]: https://static.ons.gov.uk/visual/2016/03/Number-of-deaths-due-to-smoking-in-England-Scotland-and-Wales-2013.csv\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Adult Smoking Habits in Great Britain 2014",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/adultsmokinghabitsingreatbritain/2014"
+    },
+    {
+      "title": "Most people use e-cigarettes to help them quit smoking",
+      "uri": "https://visual.ons.gov.uk/most-people-use-e-cigarettes-to-help-them-quit-smoking-cigarettes/"
+    },
+    {
+      "title": "Four facts about smoking in the UK 2014",
+      "uri": "https://visual.ons.gov.uk/4-facts-about-smoking-in-the-uk-2014/"
+    },
+    {
+      "title": "How long will you live in good health?",
+      "uri": "https://visual.ons.gov.uk/how-long-will-you-live-in-good-health/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/articles/40yearsofsmokingingreatbritain/2016-03-09",
+  "description": {
+    "title": "40 years of smoking in Great Britain",
+    "keywords": [
+      "Health",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-03-09T09:56:25.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

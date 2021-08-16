@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21/7acbf2f7.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Imagine [£1.8 trillion][1]^1^ in bundles of £50 notes, double stacked on pallets – it would cover an area almost the size of four football pitches.\n\nThis mind-bogglingly large amount of money is the current estimated value of the UK’s Gross Domestic Product (GDP).\n\nGDP is the standard measure of the size and health of a country’s economy. It’s the way we measure and compare how well or badly countries are doing. (Diane Coyle, GDP, Princeton Press)\n\nIn other words, the value, profits and consumption of every item, product, or service brought to market by workers, companies, or other economic resources resident inside a country in a period of time is part of the GDP.\n\n####Gross Domestic Product: chained volume measures: seasonally adjusted £m\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc381/chart1/index.html\" full-width=\"false\" title=\"Gross Domestic Product: chained volume measures: seasonally adjusted Â£m\"/>\n[Download the data][2]\n\nThis measure can also be broken down into an annual figure, per head of population (per capita),  which in 2015 was valued at £28,149^2^ for the UK.\n###Why is GDP important?\nIt’s a way of keeping track of how the economy is doing, how big it is and whether it’s healthy. The higher the value of GDP, the bigger the economy.\n\n<blockquote style=\"border-left: none; padding: 25px 25px 25px 65px; margin: 25px 0;  position: relative; background: #F2F2F2 url('https://visual.ons.gov.uk/wp-content/themes/ons-datastories/assets/img/quote.png') no-repeat 20px 25px;\"><p><strong>Without measures of economic aggregates like GDP, policymakers would be adrift in a sea of unorganised data.</strong></p>\n<p>Paul Samuelson in Samuelson and Nordhaus (1995)</p></blockquote>\n\nIf GDP goes up, the economy is doing well; this is associated with higher incomes, more plentiful jobs and higher spending.\n\nIf GDP goes down, the economy is not doing so well; this is associated with falling incomes, lower consumption and a lower standard of living.\n\nWe can also use GDP to compare the health of our economy against others.\n\n####GDP growth in the G7 nations, year on year growth, April to June 2015 to April to June 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc381/chart2/index.html\" full-width=\"false\" title=\"GDP growth in the G7 nations, year on year growth, April to June 2015 to April to June 2016\"/>\n\n[Download the data][3]\n###How is GDP measured?\nIn simple terms, the GDP of a country is made up of:\n\n- the value of goods and services (output); examples of these include anything from accommodation and restaurant services to shoes produced in a UK factory\n- all of the country’s spending; the bulk of this is household spending, but it also includes the expenditure of government, businesses and charities\n- the UK’s income, which includes our wages, profits of businesses and any money we make in trade.\n\nOf course, it’s much more complicated in practice.\n\nGDP is estimated by looking at survey data and administrative data from other government and non-governmental departments, such as HM Treasury, Department for Work and Pensions, Living Costs and Food Survey, business surveys (which cover expenditure, taxes, income, profits of corporations) and construction surveys, among others.\n###How has GDP changed over time?\nHow we measure GDP now is very different from 1948. But if we apply modern measures to 1948, we can see how the makeup of the economy has changed.\n\n####Comparing the sectors of the economy: 1948 and now^3^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc381/chart3/index.html\" full-width=\"false\" title=\"Comparing the sectors of the economy: 1948 and now^3^\"/>\n\n[Download the data][4]\n###The history of GDP and the Blue Book\nThe UK first started measuring the economy after World War II, as a way of assessing the country’s finances.\n\nThe UK’s economy took a battering during the conflict and was in pretty dire straits, so it was important to get a more accurate account of economic conditions.\n\nAnd so the National Accounts came into being – also known as the Blue Book, because when first published, it had a blue cover. It only became the Blue Book officially in 1984.\n\n|[<img src=\"https://static.ons.gov.uk/visual/2016/11/BB-scans-page-004-e1479675423811.jpg\">][5]| \n|:--:| \n| *A copy of the Blue Book from 1984, from the ONS archives* |\n\nIt was originally called the National Income and Expenditure of the UK and first published on 29 April, 1946, costing one shilling. It covered the periods between 1938 and 1945.\n\nAs well as GDP, the National Accounts included the cost of war, national income, expenditure on goods and services and taxes. By 1948 it expanded to cover the national wage bill, private income and [Gross National Product][6].\n\nBy 1952, the Blue Book had incorporated new economic concepts and improved sources and began to resemble the format that we now know.\n\nToday’s Blue Book, which is in its 70th year, is no longer blue and is now in a digital format; it was first produced as a [web-based publication in 2013][7].\n\n\n\n\n- The next quarterly GDP release, is the second estimate and will be published on 25 November.\n\n\n\n\nFor more information, please contact: <gdp@ons.gov.uk>\n\n\n\nOther Visual.ONS articles:\n\n[The challenges of measuring GDP in the digital, borderless world][9]\n\n[Why has the value of the pound been falling?][10]\n\n[The gender pay gap - what is it and what affects it?][11]\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][12]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/pgdp\n  [2]: https://visual.ons.gov.uk/wp-content/uploads/2016/11/1811-gdp-Seasonally-adjusted-£m-CHART1.csv\n  [3]: https://static.ons.gov.uk/visual/2016/11/data.csv\n  [4]: https://static.ons.gov.uk/visual/2016/11/Change-in-GDP-over-time-chart3.xlsx\n  [5]: https://static.ons.gov.uk/visual/2016/11/BB-scans-page-004-e1479675423811.jpg\n  [6]: http://www.investopedia.com/terms/g/gnp.asp\n  [7]: http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/naa1-rd/united-kingdom-national-accounts/the-blue-book--2013-edition/index.html\n  [8]: mailto:gdp@ons.gov.uk\n  [9]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/thechallengesofmeasuringgdpinthedigitalborderlessworld/2016-11-22\n  [10]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/whyhasthevalueofthepoundbeenfallingandwhatcouldthismeanforpeopleintheuk/2016-10-28\n  [11]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thegenderpaygapwhatisitandwhataffectsit/2016-10-26\n  [12]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n\n###Footnotes:\n1. Annual GDP: chained volume measures: seasonally adjusted £m. Value: £1,832,807m in 2015.\n2. Annual GDP per head is GDP divided by the population estimates of the UK.\n3. The latest figures are weights calculated for the economy. The 1948 figures are calculated using our modern definitions of the four sectors of the economy; Agriculture, Construction, Production, and Services. These figures are calculated as a percentage of GDP in 1948."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "A guide to national accounts and gross domestic product",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/national-accounts/a-guide-to-national-accounts/index.html"
+    },
+    {
+      "title": "National Accounts, The Blue Book 2016",
+      "uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/compendium/unitedkingdomnationalaccountsthebluebook/2016edition"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21",
+  "description": {
+    "title": "What is GDP?",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "GDP",
+      "Gross Domestic Product"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-11-21T09:57:17.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Find out more how Gross Domestic Product  is used to measure the size and health of a country’s economy.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

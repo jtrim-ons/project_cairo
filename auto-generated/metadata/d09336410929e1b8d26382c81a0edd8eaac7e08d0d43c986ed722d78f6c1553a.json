@@ -1,0 +1,74 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/whatdochildrenintheukspendtheirmoneyon/2018-02-15/57d12563.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Children aged 15 years spent more than three times that of a seven-year-old, new data have revealed.\n\nSpending data for the financial years 2015 to 2017 show that, on average, 15-year-olds spent £25.00 a week, compared with seven-year-olds, who spent £7.40.\n\nChildren aged between 7 and 15 years were asked to keep a diary of everything they spent their money on within a two-week period, from pocket money, gifts or through a job such as a paper round.\n\nThe information collected and published as part of [Family Spending][1] shows for the first time since 2004 how children behave as consumers.\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/financialyearending2017"
+    },
+    {
+      "title": "",
+      "markdown": "###Age and spending preferences\n\nOn average, children aged between 7 and 15 years spent £12.40 a week. Broken down into single age years, the amount they spent increased with age.\n####Expenditure by children by single year of age, UK, financial year ending 2015 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc476/family_spending/charts/weekly_spend_by_age/\" full-width=\"false\" title=\"Expenditure by children by single year of age, UK, financial year ending 2015 to 2017\"/>\n\n[Download the data][1]\n\n \n\n\n  [1]: https://static.ons.gov.uk/visual/2018/02/weekly_spend_by_age.csv"
+    },
+    {
+      "title": "",
+      "markdown": "###Toiletries and cosmetics separate the sexes\nGirls and boys aged 7 to 12 years spent broadly similar amounts, but the gap widened as children entered their teenage years, where girls spent an average of £2.80 a week more than boys.\n\nBoys and girls spent differing amounts on different things.\n\nOne area that separated the sexes was toiletries and cosmetics, which includes items such as soap, shampoo and makeup.\n\nBoys of all age ranges spent less than 10 pence per week on toiletries and cosmetics, with only 2% buying at least one of these items, compared with 17% of girls.\n\nIn contrast, spending on toiletries and cosmetics by girls increased with age; seven-to-nine-year-old girls spent 20 pence a week, rising to £1.70 for girls aged 13 to 15 years."
+    },
+    {
+      "title": "",
+      "markdown": "###Overall children’s spending by category\n\nChildren spent the most on clothes and shoes, followed by school dinners and soft drinks.\n####Top spending categories for children aged 7 to 15 years old, UK, financial year ending 2015 to 2017\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc476/family_spending/charts/weekly_spend_by_item/\" full-width=\"false\" title=\"Top spending categories for children aged 7 to 15 years old, UK, financial year ending 2015 to 2017\"/>\n\n[Download the data][1]\n\nThe analysis shows that 56% of 7-to-15-year-olds bought at least one soft drink in a two-week period, and mainly drank them away from home.\n\nThe older children were, the more likely they were to buy soft drinks; 75% of 13-to-15-year-olds bought at least one soft drink, compared with 58% of 10-to-12-year-olds and 38% of seven-to-nine year olds.\n\nThe data also show that almost half (48%) of all children spent money on confectionery, which includes chocolate, in a two-week period.\n\nGames, toys and hobbies was the top spending category for seven-to-nine-year-olds, who spent £1.30 a week on average, on items such as jigsaw puzzles, teddy bears and card games.\n\nA quarter of children aged between seven and nine years bought at least one item that fell into this category, compared with 14% of 10-to-12-year-olds and 5% of 13-to-15-year-olds.\n\n\n  [1]: https://static.ons.gov.uk/visual/2018/02/weekly_spend_by_item.csv"
+    },
+    {
+      "title": "",
+      "markdown": "####How well do you know the spending habits of children living in the UK? Take our quick-fire quiz to find out:\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc476/family_spending/quiz/\" full-width=\"false\" title=\"How well do you know the spending habits of children living in the UK? Take our quick-fire quiz to find out:\"/>"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Paddington, Star Wars and the rise of the UK film industry",
+      "uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/paddingtonstarwarsandtheriseoftheukfilmindustry/2017-12-14"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/articles/whatdochildrenintheukspendtheirmoneyon/2018-02-15",
+  "description": {
+    "title": "What do children in the UK spend their money on?",
+    "keywords": [
+      "Spending",
+      "Children",
+      "Money"
+    ],
+    "metaDescription": "A detailed look at the spending habits of UK children for the first time since 2004; looking at how age and sex divides their preferences.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "LCF_Enquiries@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-02-15T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "The spending preferences of children aged between 7 and 15 are revealed for the first time since 2004.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

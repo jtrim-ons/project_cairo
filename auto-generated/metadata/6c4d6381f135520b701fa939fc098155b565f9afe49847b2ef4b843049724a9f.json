@@ -1,0 +1,52 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In 2014 overseas residents made 34.4 million visits to the UK, 23.9% higher than in 2004. During this time, visits from residents of North America have decreased 16.8% to 3.6 million in 2014, whereas visits from Europe and other countries have increased 31.0% and 33.6% respectively.\n\n\n\nThe data below show the change in the number of visits to the UK by overseas residents over the last ten years.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc247/traveltrends.html\" full-width=\"true\" title=\"Travel Trends 2013\"/>\n\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Travel trend 2004-2014",
+      "uri": "http://www.ons.gov.uk/ons/rel/ott/travel-trends/2014/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/whovisitstheuktraveltrendsfrom20042014/2015-05-20",
+  "description": {
+    "title": "Who visits the UK? Travel trends from 2004-2014",
+    "keywords": [
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-05-20T08:33:22.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,68 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "With people travelling over 6,500 miles per year^1^ on average, transport is a fundamental part of daily living and, therefore, plays an important role in our economy. The transport industry is a substantial greenhouse gas (GHG) emitter and, over time, has become an increasingly large energy consumer. This inevitably impacts the environment – as illustrated in the [Energy and emissions in the UK][2] article.\n\nThis latest instalment in the [UK Perspectives series][3] presents some key statistics relating to how passenger transport has changed over time in Great Britain. It is important to note there is likely to be sub-national variation within the data, particularly between rural and urban areas. As transport policy in Northern Ireland is fully devolved, transport statistics for [Northern Ireland][4] are recorded separately.\n##1. Distance travelled by car has increased\n####Passenger transport by mode^2^, Great Britain, 1980 to 2013\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart1/Transport_Chart1.html\" full-width=\"false\" title=\"Passenger transport by mode^2^, Great Britain, 1980 to 2013\"/>\n\n[Download the data.][5]\n\nSince 1980, the total distance travelled has increased, predominantly due to increased travel via cars, vans and taxis. Between 1980 and 1990 growth was rapid; this then steadied until 2007, when distance travelled started to level and then fall slightly.\n\nDistance travelled by rail has also risen, particularly in the last 20 years – the distance travelled in 2013 was more than double that in 1980.\n\nCars, vans and taxis’ share of distance travelled has remained fairly stable, and in 2013 were still by far the most used modes of transport – accounting for 83% of all passenger distance travelled in Great Britain. The number of licensed motor vehicles has continued to rise, increasing in every year but one, from 19 million in 1980 to an all-time high of 35 million in 2013^3^.\n\nBuses and coaches accounted for the second largest proportion of all distance travelled in 1980. However, distance travelled by buses and coaches has since declined and from 2001 rail was the mode of transport responsible for the second largest distance travelled in Great Britain.\n##2. Rail accounts for the most distance travelled on public transport\n####Passenger kilometres on public transport, Great Britain, 1985/86 to 2013/14\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart2/Transport_Chart2.html\" full-width=\"false\" title=\"Passenger kilometres on public transport, Great Britain, 1985/86 to 2013/14\"/>\n\n[Download the data.][7]\n\nThe largest proportion of distance travelled on public transport in 1985/86 was by bus. However, in 2013/14 rail accounted for 59% of all passenger kilometres, over double that for buses (29%). Passenger distance travelled by both light rail and tram and the underground remained relatively low throughout the period, although they are increasing.\n##3. Buses account for the majority of passenger journeys on public transport\n####Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2013/14\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart3/Transport_Chart3.html\" full-width=\"false\" title=\"Passenger journeys on public transport vehicles, Great Britain, 1985/86 to 2013/14\"/>\n\n[Download the data.][8]\n\nWhile rail accounts for the most distance travelled by public transport, the highest number of all journeys in Great Britain in 2013/14 were via bus (63%).\n\nThe number of bus journeys in Great Britain outside of London has fallen by more than a third since 1985/86, while the number of bus journeys in London has doubled over the same period. Over half of all bus passenger journeys in England in 2013/14 occurred in London^4^, suggesting bus travel in London is an important driver of overall trends in Great Britain. Both inside and outside of London, bus passenger journeys increased in 2013/14^5^.\n\nPassenger journeys in Great Britain by rail have more than doubled since 1991/92, to 19% in 2013/14. Journeys by light rail and tram, as well as the underground, have also risen in recent years; they were the highest ever in 2013/14, at 0.23 and 1.23 billion journeys respectively.\n##4. Air passenger numbers were almost 4 times greater in 2013 compared to 1980\n####Air traffic: UK airports, 1991 to 2013\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart4/Transport_Chart4.html\" full-width=\"false\" title=\"Air traffic: UK airports, 1991 to 2013\"/>\n\n[Download the data.][11]\n\nSince 1991, the volume of passengers at UK airports has more than doubled – from 95 million to just under 230 million in 2013. The number of commercial aircraft take-offs and landings has also increased, from 1.4 million in 1991 to over 2 million in 2013.\n\nCompared to 58 million passengers in 1980, air passenger numbers in 2013 were almost four times greater, and aircraft take-offs and landings more than double^6^. Following strong historic growth, air traffic fell during the recent economic downturn (2008 and 2009) as well as in 2010, coinciding with volcanic ash and severe winter weather disruption. Passenger numbers increased by 3.5% in 2013, although they remain 5% below the peak of 240 million in 2007. Commercial aircraft movements have remained fairly level since the economic downturn, suggesting the increase in passenger numbers could be due to increasing aircraft size and numbers of passengers per plane.\n\nThere were 72 million passengers at Heathrow airport in 2013, an increase of 2 million from 2012 and accounting for 32% of the total passengers at all UK airports. This was more than twice as many as Gatwick, the second largest UK airport (35 million)^7^.\n##5. Numbers of road accidents and casualties have fallen\n####Reported road accidents, Great Britain, 1980 to 2013\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart5/Transport_Chart5.html\" full-width=\"false\" title=\"Reported road accidents, Great Britain, 1980 to 2013\"/>\n\n[Download the data.][14]\n\nThe number of reported road traffic accidents decreased from 251,000 in 1980 to 139,000 in 2013, a reduction of almost 45%. This is despite the number of licensed motor vehicles having almost doubled since 1980.\n\n- The number of seriously injured casualties has fallen by nearly three quarters since 1980^8^.\n\n\n- The number of fatalities from road accidents has fallen by two thirds, from almost 6,000 in 1980 to under 2,000 in 2013. This is almost 80% lower than the worst peacetime toll of 7,985 road traffic deaths, recorded in 1966.\n\n##6. The number of car occupant injuries in accidents have seen the greatest reduction\n####Killed or seriously injured from road accidents, Great Britain, 1980 to 2013\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc231/Transport_Chart6/Transport_Chart6.html\" full-width=\"false\" title=\"Killed or seriously injured from road accidents, Great Britain, 1980 to 2013\"/>\n\n[Download the data.][16]\n\nThe number of people killed or seriously injured in road accidents is higher in car occupants than any other group of road users. However, the number of car occupants killed or seriously injured has fallen more quickly than the corresponding number of pedestrians, pedal cyclists and motor cyclists. This is partly because of advanced vehicle technology providing improved protection, whereas pedestrians, pedal cyclists and motor cyclists remain more vulnerable.\n\nConsequentially, the numbers of different road users killed or seriously injured are more similar. From 1985, pedestrian deaths or serious injuries became more common than for motorcycle riders or passengers – although this difference is now smaller than it was between the mid 1980s and start of the 2000s. From 2004 to 2012 the number of pedal cyclists killed or seriously injured increased; however, numbers have fallen slightly in the latest 2013 figure.\n##Conclusion\nIn general, people are travelling greater distances – mostly by car. Public transport usage patterns have also changed, with differences between modes used for distance travelled and the number of journeys. Within these patterns, there is also considerable sub-national variation – the related links section has more information.\n\nThe number of road accidents, meanwhile, has fallen considerably since 1980. In addition to the accompanying decline in deaths and serious injuries, this trend would also help to reduce traffic congestion – and the demand for and cost to emergency, health and welfare services.\n\n\n\n\n  [1]: https://www.gov.uk/government/statistics/transport-statistics-great-britain-2014\n  [2]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-energy-and-emissions\n  [3]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/\n  [4]: http://www.drdni.gov.uk/ni_transport_statistics.htm\n  [5]: https://static.ons.gov.uk/visual/2015/02/1-Passenger-transport-by-mode.csv\n  [6]: https://www.gov.uk/government/statistical-data-sets/ras40-reported-accidents-vehicles-and-casualties\n  [7]: https://static.ons.gov.uk/visual/2015/02/2-Passenger-kilometres-on-public-transport.csv\n  [8]: https://static.ons.gov.uk/visual/2015/02/3-Passenger-journeys-on-public-transport.csv\n  [9]: https://www.gov.uk/government/statistics/transport-statistics-great-britain-2014\n  [10]: https://www.gov.uk/government/statistical-data-sets/bus01-local-bus-passenger-journeys\n  [11]: https://static.ons.gov.uk/visual/2015/02/4-Air-traffic-UK-airports.csv\n  [12]: https://www.gov.uk/government/statistical-data-sets/avi01-traffic-passenger-numbers-mode-of-travel-to-airport\n  [13]: https://www.gov.uk/government/statistical-data-sets/avi01-traffic-passenger-numbers-mode-of-travel-to-airport\n  [14]: https://static.ons.gov.uk/visual/2015/02/5-Reported-road-accidents.csv\n  [15]: https://www.gov.uk/government/statistical-data-sets/ras30-reported-casualties-in-road-accidents\n  [16]: https://static.ons.gov.uk/visual/2015/02/6-Killed-or-seriously-injured-from-road-accidents.csv\n  [17]: mailto:better.info@ons.gov.uk\n\n\n###Footnotes:\n1. [Transport Statistics Great Britain 2014][1], DfT\n2. Total distance travelled (all modes) also includes distance travelled by motor cycle, pedal cycle and UK air travel.\n3. Road accidents and safety statistics, Table [RAS40001][6], DfT\n4. [Transport Statistics Great Britain 2014][9], DfT\n5. Bus statistics, Table [BUS0103][10], DfT\n6. Aviation statistics, Table [AVI0101][12], DfT\n7. Air traffic at UK airports, Table [AVI0102][13], DfT\n8. Road accidents and safety statistics, Table [RAS30059][15], DfT"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Transport Statistics Great Britain 2014",
+      "uri": "https://www.gov.uk/government/statistics/transport-statistics-great-britain-2014"
+    },
+    {
+      "title": "How and why people travel in Great Britain: National Travel Survey annual report",
+      "uri": "https://www.gov.uk/government/collections/national-travel-survey-statistics#publications-released-during-2014"
+    },
+    {
+      "title": "Northern Ireland transport statistics",
+      "uri": "http://www.drdni.gov.uk/ni_transport_statistics.htm"
+    },
+    {
+      "title": "How and why people travel in Northern Ireland: Northern Ireland travel survey",
+      "uri": "http://www.drdni.gov.uk/index/statistics/statscategories/northern_ireland_travel_survey.htm"
+    },
+    {
+      "title": "2011 Census Analysis - Method of travel to work, England and Wales",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/method-of-travel-to-work-in-england-and-wales/art-method-of-travel-to-work.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/leisureandtourism/articles/howwetravel/2015-02-19",
+  "description": {
+    "title": "How we travel",
+    "keywords": [
+      "People,population and community",
+      "UK perspectives"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-02-19T09:29:52.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

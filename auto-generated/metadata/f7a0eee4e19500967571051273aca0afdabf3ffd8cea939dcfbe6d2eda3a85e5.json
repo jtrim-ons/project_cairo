@@ -1,0 +1,46 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/diaryofanationlifeinlockdown/2020-09-23/87cd1f77.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-interactive url=\"/visualisations/dvc983/landingpage/index.html\" title=\"Diary of a nation: Life in lockdown\" full-width=\"false\"/>\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/diaryofanationlifeinlockdown/2020-09-23",
+  "description": {
+    "title": "Diary of a nation: life in lockdown",
+    "keywords": [],
+    "metaDescription": "We look at what life has been like in lockdown for people in Great Britain, presenting our data alongside people's own words. ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "policy.evidence.analysis@ons.gov.uk",
+      "name": "Andrea Lacey",
+      "telephone": ""
+    },
+    "releaseDate": "2020-09-22T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Six months ago, lockdown measures were introduced in the UK to slow the spread of the coronavirus (COVID-19). Throughout the pandemic, we have been asking people about their opinions and behaviours and for the first time, we present people’s experiences in their own words.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,63 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This interactive tool allows you to find out the gender pay gaps and average earnings in a wide range of jobs. It also shows how many women and men work in each role.\n\nThis article contains data from the Annual Survey of Earnings and Hours, 2016. But you can also [explore the gender pay gap and test your knowledge][1] using the latest data from the 2017 Annual Survey of Earnings and Hours. \n\nAt 18.1%, the gap in average pay between men and women, for all employees, is the lowest since records began.\n\nThe gender pay gap does not show differences in rate of pay for comparable jobs.\n\nThe underlying causes are more complex and may include:\n\n- more women work in lower paid jobs or sectors.\n\n- women are more likely to work part-time, which can mean a lower rate of pay.\n\n- women are under-represented in senior roles. This may be due to stereotypical attitudes about gender roles, lack of flexible working or women taking time to look after their family.\n\nSo what is the gender pay gap for your job? Enter your job to find out.\n\n####Annual Survey of Hours and Earnings, 2016, UK\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc384/original/explorer/index.html\" full-width=\"false\" title=\"Annual Survey of Hours and Earnings, 2016, UK\"/>\n\n\n####Other Visual.ONS articles\n[Test your knowledge on the gender pay gap][5]<br>\n[Women shoulder the responsibility of ‘unpaid work’][6]<br>\n[The gender pay gap – what is it and what affects it?][7]<br>\n\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][8]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://visual.ons.gov.uk/explore-the-gender-pay-gap-and-test-your-knowledge/\n  [2]: http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults\n  [3]: mailto:earnings@ons.gov.uk\n  [4]: https://static.ons.gov.uk/visual/2016/11/218px-Government_Equalities_Office_Logo.png\n  [5]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/testyourknowledgeonthegenderpaygap/2016-12-09\n  [6]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [7]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thegenderpaygapwhatisitandwhataffectsit/2016-10-26\n  [8]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Hours and Earnings, 2016 Provisional Results",
+      "uri": "http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2016provisionalresults"
+    },
+    {
+      "title": "Annual Survey of Hours and Earnings - all bulletins",
+      "uri": "http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/index.html"
+    },
+    {
+      "title": "Test your knowledge on the Gender Pay Gap",
+      "uri": "https://visual.ons.gov.uk/test-your-knowledge-on-the-gender-pay-gap/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/findoutthegenderpaygapforyourjob/2016-12-09",
+  "description": {
+    "title": "Find out the gender pay gap for your job",
+    "keywords": [
+      "Employment and labour market",
+      "People, population and community",
+      "Gender",
+      "Labour market",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-12-09T12:01:11.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

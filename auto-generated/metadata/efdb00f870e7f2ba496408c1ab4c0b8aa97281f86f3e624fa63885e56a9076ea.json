@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The gender pay gap for full-time employees now stands at 9.1% in favour of men, the lowest since records began in 1997.\n\n\n<ons-box align=\"full\">\nWhat is the gender pay gap?\n\nCalculated as the difference between average hourly earnings (excluding overtime) of men and women as a proportion of average hourly earnings (excluding overtime) of men’s earnings. It is the primary measure used when comparing differences in pay between men and women.\n\n[<img src=\"https://static.ons.gov.uk/visual/2017/10/Gender_Pay_side_ancore.png\"/>][1]\n</ons-box>\n\n\nThe UK government has committed to closing the gender pay gap and introduced new legislation requiring all companies with 250 or more employees to disclose their pay gap [in a register][2] by April 2018.\n\nOne of the widest gender pay gaps is in financial occupations. ONS data show, for example, that female financial institution managers and directors earn 26.2% less, on average, than men in the same occupation. The pay gap varies considerably across occupations, and in some cases there is no difference in earnings between men and women, or women earn more than men.\n\nCan you guess which occupations see the largest difference in earnings for men and women?\n###Test your knowledge on the gender pay gap with our quiz\n####Annual Survey of Hours and Earnings full-time ^1^ gender pay gap^2^, 2017, UK\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc384/quiz/quiz/index.html\" full-width=\"false\" title=\"Annual Survey of Hours and Earnings full-time ^1^ gender pay gap^2^, 2017, UK\"/>\n\n###What causes the gender pay gap?\nThe underlying causes of the gender pay gap are complex and may include:\n\n- more women work in lower-paid jobs or sectors\n- women are more likely to work part-time, which can mean a lower rate of pay\n- women are under-represented in senior roles -this may be due to attitudes about gender roles, lack of flexible working or women taking time to look after their family\n\n<h3 id=\"interactive\">Explore the gender pay gap by occupation</h3>\nThis interactive tool allows you to find out the gender pay gaps and average earnings in a wide range of jobs. It also shows how many women and men work in each occupation.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc384/explorer/index.html\" full-width=\"false\" title=\"What is the gender pay gap for your job?\"/>\n\n\nMore information on ASHE is available [here][4]. \n\nAlternatively, if you have questions e-mail [earnings@ons.gov.uk][5]\n\n\n\n Other Visual.ONS articles\n\n- [Women shoulder the responsibility of ‘unpaid work’][6]\n- [The gender pay gap – what is it and what affects it?][7]\n- [How do the jobs men and women do affect the gender pay gap?][8]\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][9]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n\n\n  [1]: #interactive\n  [2]: https://genderpaygap.campaign.gov.uk/\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupation4digitsoc2010ashetable14\n  [4]: http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/latest\n  [5]: mailto:earnings@ons.gov.uk\n  [6]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [7]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/thegenderpaygapwhatisitandwhataffectsit/2016-10-26\n  [8]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/howdothejobsmenandwomendoaffectthegenderpaygap/2017-10-06\n  [9]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n\n###Footnotes:\n1. The quality of earning estimates varies by occupation - there are [quality measures available.][3]\n2. The pay gap is calculated as the difference between average hourly earnings (excluding overtime) of men and women as a proportion of average hourly earnings (excluding overtime) of men’s earnings. "
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Annual Survey of Earnings and Hours: 2017 provisional results",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/latest"
+    },
+    {
+      "title": "Annual Survey of Earnings and Hours: all bulletins",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/previousReleases"
+    },
+    {
+      "title": "How do the jobs men and women do affect the gender pay gap?",
+      "uri": "https://visual.ons.gov.uk/how-do-the-jobs-men-and-women-do-affect-the-gender-pay-gap/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/explorethegenderpaygapandtestyourknowledge/2017-10-26",
+  "description": {
+    "title": "Explore the gender pay gap and test your knowledge",
+    "keywords": [
+      "Gender Pay Gap",
+      "Wages",
+      "Earnings",
+      "Economy, Employment and Labour Market"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-10-26T08:31:51.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

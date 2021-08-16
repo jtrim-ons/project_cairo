@@ -1,0 +1,55 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Deaths from dementia or Alzheimer’s and respiratory disease, including flu and pneumonia, were key factors behind the largest annual rise in deaths since the 1960s.\n\nProvisional analysis of death registrations in England and Wales show a 5.6% increase in deaths in 2015; the biggest year-on-year percentage increase seen since 1967-68, when deaths were up by 6.3% on the previous year.\n\n####Registered deaths, England and Wales, 1995 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc321/deaths1/index.html\" full-width=\"false\" title=\"Registered deaths, England and Wales, 1995 to 2015\"/>\n[Download the data][1]\n\nAn extra 28,189 deaths were registered in 2015 compared with 12 months earlier, increasing from 501,424 deaths in 2014 to 529,613 in 2015.\n\nThere were 24,065 more deaths registered in the first three months of 2015 compared with the same period in 2014, with 11,865 of these extra deaths registered in January alone, when flu was circulating at its highest levels.\n\nThe number of death registrations remained much higher than average until June 2015, before dropping in the rest of the year to nearer the five-year average (deaths in 2010-14).\n###Most extra deaths were in people aged 75 and over\nPeople aged 75 and over made up 86% of the 28,189 increase in deaths between 2014 and 2015 – a figure of 24,201.\n\nThe largest increase was seen for those aged 90 and over, whose age specific mortality rate increased by 9.3%.\n\nThere were almost 11,000 more deaths in older people aged 90 and over in 2015 than in the previous year - 38% of the total increase in 2015.\n\nThe strain of flu circulating in early 2015 was more virulent in older people, who are also more likely to have a pre-existing medical condition, thereby usually resulting in more deaths.\n\n####Percentage change in age-specific mortality rates, England and Wales, 2014 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc321/deaths3/index.html\" full-width=\"false\" title=\"Percentage change in age-specific mortality rates, England and Wales, 2014 to 2015\"/>\n[Download the data][2]\n###Dementia / Alzheimer’s and respiratory disease caused most of the increase in deaths\nOf the 24,201 extra deaths in those aged 75 and over registered in 2015, 41% had an underlying cause of dementia or Alzheimer’s disease and 31% had an underlying cause of respiratory disease.\n\nRespiratory disease deaths, including flu and pneumonia, in those aged 75 and over were far higher than the five-year average in the first few months of 2015 and fluctuated above and below the average throughout the rest of the year. However, these numbers will be an underestimate of those who had respiratory disease, at or around the time of death, as it is not always recorded as the underlying cause of death.\n\nThe predominant circulating flu virus in 2015 was influenza A(H3N2) a strain known to predominantly affect older people.\n\nThere were numerous reported outbreaks in care homes, higher than expected numbers of admissions to hospital and intensive care for flu and evidence that the flu vaccine was less effective than in previous years.\n\nThe peak in influenza admissions to intensive care occurred in January, at the same time as the peak increase in deaths.\n\nDementia and Alzheimer's disease deaths were well above the five-year average throughout the year, particularly so between January and March 2015, and have shown a general upward trend over the last decade. The reasons for this may be partly related to attempts across the health system to [improve the diagnosis of people][3] with dementia.\n\nHowever, it may be related to the greater vulnerability to respiratory diseases of people with these conditions, difficulties with self-care and falls, all of which may be more important in winter months.\n\nGenerally more than a third of deaths with an underlying cause of dementia or Alzheimer's disease also have a respiratory disease mentioned on the death certificate. This was true of deaths in 2015.\n###There has been a fall in life expectancy\nPeriod life expectancy[^1^](#notes) Life expectancy figures are based on a provisional extract of deaths and population figures for 2015, taken from the ONS series of Principal Population Projections.\n\nAn increase in the number of deaths has a direct impact on the provisional life expectancy at birth for England and Wales. This has dropped by 0.2 years for males (to 79.3 years) and 0.3 years for females (to 82.9 years) since 2014, according to provisional mortality rates for 2015.\n\n\n\nFor information on diagnosis of dementia, click on [Challenge on Dementia][4] and on the [ Mandate from the Government to the NHS][5].\n\n<h4 id=\"notes\">Notes:</h4>\n1 - Life expectancy figures are based on a provisional extract of deaths and population figures for 2015, taken from the ONS series of Principal Population Projections.\n\n Death rates are likely to change in the future, so period life expectancy does not therefore give the number of years someone could actually expect to live.\n\n Official life expectancy figures for 2015 will be calculated by ONS using the final annual release of 2015 deaths and mid-year population estimates for 2015, published in the summer of 2016.\n\n Period life expectancies are a useful summary measure of mortality rates as they are age-standardised, and therefore take into account differences in the age structure of populations, allowing valid comparisons to be made over time and between different geographical areas.\n\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2016/04/Figure-1.xls\n  [2]: https://static.ons.gov.uk/visual/2016/04/Figure-3.xls\n  [3]: https://www.england.nhs.uk/statistics/statistical-work-areas/dementia/\n  [4]: https://www.gov.uk/government/publications/prime-ministers-challenge-on-dementia-2020\n  [5]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/486818/mndate-NHSE-15_16.pdf\n  [6]: mailto:digitalcontent@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Provisional analysis of 2015 death registrations in England and Wales",
+      "uri": "https://www.ons.gov.uk/releases/provisionalanalysisof2015deathregistrationsinenglandandwales"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/dementiaandrespiratorydiseasebehindbiggestannualdeathsincreasesincethe1960s/2016-04-07",
+  "description": {
+    "title": "Dementia/alzheimer's and respiratory disesase behind biggest annual increase in deaths since the 1960s",
+    "keywords": [
+      "Health",
+      "People, population and community",
+      "Life expectancy",
+      "Principal population projections",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-04-07T08:31:01.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

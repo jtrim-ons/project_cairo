@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The 2011 Census highlighted the substantial inequalities in health by: gender, ethnicity, socio-economic position, and area. Our general health is important to our sense of wellbeing and quality of life. But is it also an important indicator of whether we will need future medical or social care, or how long we will be able to work.\n##Very good health highest in London\n####Health and activity limitation by Local Authority, England and Wales, 2001 and 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc256/chart1/HealthSA.html\" full-width=\"true\" title=\"Health and activity limitation by Local Authority, England and Wales, 2001 and 2011\"/>\nSource: [2011 Census Analysis, ONS][1]\n[Download the data][2]\n\nAround four-fifths (81.2%, 45.5 million) of the population were in good or very good general health in 2011. The proportion was higher in England (81.4%) than it was in Wales (77.8%).\n\nPeople living in London reported better general health than any other region in England and Wales; more than half (50.5%) rated their health as very good. This is likely due to the younger age structure of the London population compared to other regions of England or Wales. By contrast, people in the North East tended to report the poorest general health with only 44% rating their health as very good and 7.4% rating their health as bad or very bad.\n##Gypsy or Irish Travellers were in the poorest health\n####People in \"Not Good\" health by ethnicity, England and Wales, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc256/chart2/index.html\" full-width=\"false\" title=\"Gypsy or Irish Travellers were in the poorest health\"/>[Download the data.][3]\n\nAcross different ethnic groups, there was a  [mixed picture of general health][4] that may reflect different age structures, different social conditions or cultural expectations. The poorest health was reported by Gypsy or Irish Travellers, with close to a third (29.8%) in ‘Not Good’ health. In contrast, only around 1 in 12 (8.4%) Black Africans reported ‘Not Good’ health.\n\n<ons-box align=\"full\">For these analyses, people in ‘Not Good’ health refer to those who rated their general health as either fair, bad or very bad, whilst ‘Good’ health refers to people who rated their general health as either very good or good.</ons-box>\n\n##People in routine occupations more than twice as likely to report ‘Not Good’ health\n####People in \"Not Good\" health by sex and selected socio-economic class, England and Wales, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc256/chart3/index.html\" full-width=\"false\" title=\"People in routine occupations more than twice as likely to report ‘Not Good’ health\"/>[Download the data.][5]\n\nPoorer general health was associated with [worse socio-economic outcomes][6]. People working in routine occupations^1^ were more than twice as likely to report ‘Not Good’ health than people working in higher managerial and professional occupations^2^ for both males (30.5% compared with 13.7%) and females (33.8% compared with 14.1%).\n##People living in overcrowded houses were in worse health\n####People in \"Not Good\" health by age group and overcrowded household type, England and Wales, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc256/chart4/index.html\" full-width=\"false\" title=\"People living in overcrowded houses were in worse health\"/>[Download the data.][7]\n\nLooking at different age groups, young people, aged less than 16, in overcrowded households were more than twice as likely as their counterparts in under-occupied households to report ‘Not Good’ health (4.0% compared with 1.6% respectively). For those aged 65 and over, 62.0% of those living in overcrowded households reported ‘Not Good’ health, compared with 42.5% in under-occupied households^3^.\n\nPeople living in more deprived areas^4^ reported poorer health than people living in areas with less deprivation. Strikingly, men aged 80 to 84 living in the least deprived areas had better rates of health than men 20 years younger in the most deprived areas.\n\nThe difference in health between the most and least deprived areas is present across all age groups but becomes particularly notable from age 30-34. By ages 60-64 for men and 55-59 for women, there was a 36% gap in the percentages of ‘Not Good’ health across areas.\n##How long do people live in ‘Good’ health?\n####Healthy life expectancy by NHS Clinical Commissioning Groups (CCGs) and sex, England, 2010-12\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc256/chart6/index.html\" full-width=\"true\" title=\"Healthy life expectancy by NHS Clinical Commissioning Groups (CCGs) and sex, England, 2010-12\"/>\nSource: [2011 Census Analysis, ONS][8]\n[Download the data.][9]\n\nHealthy life expectancy (HLE) indicates how long a person can expect to live in ‘Good’ health. Males born in England and Wales in 2011 could, on average, expect to live for slightly more than 79 years and spend 63.5 of those years in ‘Good’ health. Females born in England and Wales in 2011, however, could expect to live longer to an average age of 83 years, spending almost 65 of those years in ‘Good’ health.\n\nThis means that although females born in 2011 were estimated to have a longer life and more life years in ‘Good’ health, males could expect to spend a greater proportion of their lives in ‘Good’ health (80.2% compared with 78.0% for females).\n\nThere was a clear North-South divide in health expectancies. People living in areas in the South of England had HLEs above the national average, while the lowest HLEs were in areas with greater.\n\n\n\nVisit the [2011 Census Analysis website][10] for more information on what the 2011 Census told us about England and Wales, or contact [census.customerservices@ons.gov.uk.][11]\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/local-authority-variations-in-self-assessed-general-health-for-males-and-females--england-and-wales-2011/sty-general-health.html\n  [2]: http://www.nomisweb.co.uk/census/2011/ks301ew\n  [3]: https://static.ons.gov.uk/visual/2015/07/health_data2.csv\n  [4]: http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/ethnic-variations-in-general-health-and-unpaid-care-provision/rpt-ethnic-variations-in-general-health-and-unpaid-care-provision.html\n  [5]: https://static.ons.gov.uk/visual/2015/07/health_data3.csv\n  [6]: http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/health-gaps-by-socio-economic-position-of-occupations-in-england--wales--english-regions-and-local-authorities--2011/rpt-health-gaps-2011.html\n  [7]: https://static.ons.gov.uk/visual/2015/07/health_data4.csv\n  [8]: http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/healthy-life-expectancy-at-birth-and-at-age-65--clinical-commissioning-groups--ccgs--2010-12/index.html\n  [9]: https://static.ons.gov.uk/visual/2015/07/health_data6.csv\n  [10]: http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html\n  [11]: mailto:census.customerservices@ons.gov.uk\n\n\n###Footnotes:\n1. Routine occupations are generally semi-skilled or unskilled and are among the lowest paid. Examples of jobs include bar staff, cleaners and labourers.\n2.  Managerial and professional occupations often require extensive qualifications and are generally the highest paid. Examples of jobs include lawyers, architects and medical doctors.\n3. People who were living alone were excluded from this analysis, as a house cannot be overcrowded with only one person living in it. As a large proportion of those living alone are aged 65 or over, excluding them from this analysis also helps control for the ill-health effects of old age.\n4. Area deprivation is measured by the Index of Multiple Deprivation 2010 (Welsh Index of Multiple Deprivation 2011 in Wales). These indices assess deprivation across measures including income, employment, education and crime."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Census 2011 analysis website",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/census/analysis/index.html"
+    },
+    {
+      "title": "General Health in England and Wales: 2011 and comparison with 2001",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-and-quick-statistics-for-wards-and-output-areas-in-england-and-wales/rpt-general-health-short-story.html"
+    },
+    {
+      "title": "Census analysis of local variations in health",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/local-authority-variations-in-self-assessed-general-health-for-males-and-females--england-and-wales-2011/index.html"
+    },
+    {
+      "title": "Healthy life expectancy across England",
+      "uri": "http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/healthy-life-expectancy-at-birth-and-at-age-65--clinical-commissioning-groups--ccgs--2010-12/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/8in10peoplehavegoodorverygoodhealthinenglandandwales/2015-07-02",
+  "description": {
+    "title": "8 in 10 people have good or very good health in England and Wales",
+    "keywords": [
+      "People, population and community",
+      "2011 census",
+      "Health",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-02T08:33:43.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

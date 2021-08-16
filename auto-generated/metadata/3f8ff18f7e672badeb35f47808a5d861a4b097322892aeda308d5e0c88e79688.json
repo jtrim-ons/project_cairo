@@ -1,0 +1,101 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/25c00fc9.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "UK households have seen their outgoings surpass their income for the first time in nearly 30 years, our data have shown.\n \nOn average, each UK household spent or invested around £900 more than they received in income in 2017; amounting to almost £25 billion (or [about one-fifth of the annual NHS budget in England][1]).\n\nHouseholds’ outgoings last outstripped their income for a whole year in 1988, although the shortfall was much smaller at just £0.3 billion.  \n \nEven in the run-up to the financial crisis of 2008 and 2009 – when 100% (and more) mortgages were offered to home buyers without a deposit – the country did not reach a point where the average household was a net borrower^1^.\n\n<ons-chart path=\"c3782085\" />\n\nTo fund this shortfall, households either have to borrow – at which point they could be living beyond their means – or dip into their savings.\n\nAnd our data show they are borrowing more and saving less.\n\nHouseholds took out nearly £80 billion in loans last year, the most in a decade; but they deposited just £37 billion with UK banks, the least since 2011.\n\n<ons-chart path=\"fde52585\" />\n\nIn total, households accumulated more debt (due mainly to loans) than assets (such as deposits, bonds, shares and pensions) in 2017 for the first time since records began in 1987. If this were to continue, households could risk lacking enough collateral to cover their debts. \n\nWe’re borrowing more and saving less partly because the interest rate – which dictates returns on money saved and the size of loan repayments – has been at or near a record low for the past decade.\n\nThe base rate set by the Bank of England is just 0.5%, compared with almost 15% in 1990, making financial conditions better for borrowers rather than savers.\n\nRecently, the Bank of England has been [warning the country to expect interest rate rises][2]. Expectations of an interest rate rise can affect saving and borrowing behaviour. Borrowing could rise in the short-term as households seek to take advantage of smaller repayments, while saving could be put off amid the prospect of higher returns in future.\n\n\n  [1]: http://fullfact.org/health/spending-english-nhs/\n  [2]: http://www.theguardian.com/business/2018/jun/07/bank-of-england-interest-rate-setter-hints-at-rise-in-august"
+    },
+    {
+      "title": "Are we living beyond our means?",
+      "markdown": "Click through the cards to see how household budgets have changed in the last 30 years.\n\n<ons-interactive url=\"/visualisations/dvc507/wallet/index.html\" full-width=\"false\" title=\"Are we living beyond our means?\"/>\n\n[Download the data.][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc507/dataforwallet.xls"
+    },
+    {
+      "title": "Which households are living beyond their means?",
+      "markdown": "So far, we’ve looked at the average household’s finances, but it’s wrong to assume that all households are facing the same budget pressures.\n\nAccording to our recent [expenditure poverty analysis][1] based on Living Costs and Food Survey data, the poorest 10% of households^2^ spent two-and-a-half times their disposable income, on average, in the financial year ending 2017. In contrast, the richest 10% spent less than half of their available income during the same period.\n\n####Lower earners are most likely to spend beyond their means\n\n**Income and expenditure per household in the UK, financial year ending 2017**\n\n<ons-interactive url=\"/visualisations/dvc507/chart/barchart/index.html\" full-width=\"false\" title=\"Lower earners are most likely to spend beyond their means **Income and expenditure per household in the UK, financial year ending 2017**\"/>\n\n[Download the data.][2]\n\nIf we go beyond disposable income and look at wealth – which adds up the value of savings accounts, investments such as stocks and shares, pensions, belongings such as antiques or cars and any property owned – there remains inequality. \n\nThe wealthiest 10% of households were five times wealthier – and therefore much less likely to live beyond their means – than the bottom 50% of households in July 2014 to June 2016. \n\n\n  [1]: http://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/anexpenditurebasedapproachtopovertyintheuk/financialyearending2017\n  [2]: https://www.ons.gov.uk/visualisations/dvc507/dataforchart.csv"
+    },
+    {
+      "title": "Are other countries feeling the squeeze?",
+      "markdown": "Households living beyond their means is unusual in the UK, but how unusual is this trend in a global context?\n \nThe average household in Canada and the US is familiar with these sorts of budget pressures. They’ve been in the red for at least some of the last two decades, with hardly any disposable income left over to save once spending and taxes are accounted for.   \n \nMeanwhile, the average household in Germany and France has always been able to cover their outgoings without turning to debt, partly because they’re historically bigger savers than the UK, Canada and the US. \n\nFor a long time, the average UK household was in a similar position to those in France and Germany. However, we’re now much closer to Canada and the US than our European neighbours.\n\n<ons-chart path=\"ccdc8ea5\" />\n"
+    },
+    {
+      "title": "Finding help",
+      "markdown": "If you’re struggling with debt, or know someone who is, there are tools available to help you take control of your finances. Try this [budget planner][1] by the Money Advice Service.\n \nAlternatively, if you need to speak to someone about debt, charities like [Stepchange][2] and [National Debtline][3] offer free help and advice.\n\n\n  [1]: http://www.moneyadviceservice.org.uk/en/tools/budget-planner\n  [2]: http://www.stepchange.org/\n  [3]: http://www.nationaldebtline.org/"
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. In this context, the term “net borrowers” doesn’t necessarily mean households are borrowing. It just means their income is failing to cover their outgoings.\n\n2. It’s worth bearing in mind that some households at the bottom of the income distribution may be there only temporarily. For example, many students will feature in the poorest 10% of households. Those in temporary low-income spells could be more likely to borrow or use savings to maintain their spending levels. Meanwhile, others on low income may be receiving benefits. There’s evidence to suggest that certain types of benefits are under-reported in survey data, which could lead to income being underestimated at the bottom of the distribution.\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/economy/nationalaccounts/uksectoraccounts/datasets/unitedkingdomeconomicaccountssectorhouseholdsandnonprofitinstitutionsservinghouseholds"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/nationalaccounts/uksectoraccounts/bulletins/quarterlysectoraccounts/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/alternativemeasuresofrealhouseholdsdisposableincomeandthesavingratio/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/anexpenditurebasedapproachtopovertyintheuk/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Loans and deposits diverged last year",
+      "filename": "fde52585",
+      "uri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/fde52585"
+    },
+    {
+      "title": "Households have become net borrowers for the first time since 1988",
+      "filename": "c3782085",
+      "uri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/c3782085"
+    },
+    {
+      "title": "UK households had generally lived within their means, like France and Germany",
+      "filename": "ccdc8ea5",
+      "uri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26/ccdc8ea5"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/nationalaccounts/uksectoraccounts/articles/makingendsmeetarehouseholdslivingbeyondtheirmeans/2018-07-26",
+  "description": {
+    "title": "Making ends meet: are households living beyond their means?",
+    "keywords": [
+      "Households",
+      "Income",
+      "Spending",
+      "Saving",
+      "Borrowing"
+    ],
+    "metaDescription": "Explore how UK household finances have changed in the last 30 years.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "sector.accounts@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-07-25T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore how UK household finances have changed in the last 30 years.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

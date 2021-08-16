@@ -1,0 +1,70 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "There are around 600 million people over the age of 60 across the globe; a figure which is expected to double by 2025, according to the United Nations.\n\nThe organisation has designated October 1 as [International Day of Older Person][1]s (IDOP). UK Older People's Day is also held on October 1 each year, to celebrate the contributions of older people to society.\n\nTo mark IDOP 2015, here are nine facts you may not know about older people.\n\n####1. There were more than half a million people aged 90 and over living in the UK in 2014, almost triple the number thirty years ago.\n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-01.png\"/>][2]\n[Download the data][3]\n\n####2. For every 100 people aged 90 and over in 2014, 29 were male and 71 were female.\n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-02.png\"/>][4]\n\n####3. The number of centenarians (people aged 100 and over) living in the UK has risen by 72% over the last decade to 14,450 in 2014. \n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-03.png\"/>][5]\n[Download the data][6]\n\n####4. Male life expectancy has increased from 70.8 in 1980-82 to 79.1 in 2012-14. Female life expectancy has increased from 76.8 to 82.8 during the same period.\n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-04.png\"/>][7]\n\n####5. The most common age of death was 86 years for men and 89 years for women. This is higher than current average life expectancy at birth.\n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-05.png\"/>][8]\n\n####6. Men aged 85 in 2012-14 could expect to live to 90.8 whereas women could expect to live to 91.8.\n[<img src=\"https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-06.png\"/>][9]\n\n####7. Three in 10 of those aged 80 and over reported being lonely in 2014 to 2015.\n[<img src=\"https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-07.png\"/>][10]\n\n####8. A third of those over 80 reported very high levels of life satisfaction in 2014 to 2015.\n[<img src=\"https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-08.png\"/>][11]\n\n####9. Around 1 in 10 (11%) of those aged 75 and over reported having no close friends in 2011 to 2012.\n[<img src=\"https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-09.png\"/>][12]\n\n\n\n\n\n\n  [1]: http://undesadspd.org/ageing/internationaldayofolderpersons.aspx\n  [2]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-01.png\n  [3]: https://static.ons.gov.uk/visual/2015/10/1-Number-of-people-aged-90-and-over.csv\n  [4]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-02.png\n  [5]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-03.png\n  [6]: https://static.ons.gov.uk/visual/2015/10/3-Number-of-people-aged-100-and-over.csv\n  [7]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-04.png\n  [8]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-05.png\n  [9]: https://static.ons.gov.uk/visual/2015/09/Older-Peoples-Day-06.png\n  [10]: https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-07.png\n  [11]: https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-08.png\n  [12]: https://static.ons.gov.uk/visual/2015/10/Older-Peoples-Day-Visual-09.png\n  [13]: mailto:lifetables@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "National Life Tables 2012-2014",
+      "uri": "http://www.ons.gov.uk/ons/rel/lifetables/national-life-tables/2012-2014/index.html"
+    },
+    {
+      "title": "UK Older People's Day",
+      "uri": "http://olderpeoplesday.co.uk/"
+    },
+    {
+      "title": "Estimates of the Very Old",
+      "uri": "http://www.ons.gov.uk/ons/rel/mortality-ageing/estimates-of-the-very-old--including-centenarians-/2002-2014--england-and-wales-and-the-uk/index.html"
+    },
+    {
+      "title": "Measuring National Well-being, Insights into Loneliness, Older People and Well-being, 2015",
+      "uri": "http://www.ons.gov.uk/ons/rel/wellbeing/measuring-national-well-being/older-people-s-well-being/index.html"
+    },
+    {
+      "title": "How long does my pension need to last?",
+      "uri": "https://visual.ons.gov.uk/how-long-will-my-pension-need-to-last/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/ageing/articles/ninethingsyoumightnotknowaboutolderpeopleintheuk/2015-10-01",
+  "description": {
+    "title": "Nine things you might not know about older people in the UK",
+    "keywords": [
+      "People, population and community",
+      "Ageing",
+      "Well-being",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-10-01T08:31:36.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

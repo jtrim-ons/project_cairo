@@ -1,0 +1,48 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Men who live in the least deprived parts of Kensington & Chelsea can expect almost a quarter of a century more of good health than their male counterparts in the most deprived part of the borough.\n\nFor males at birth, the number of years an individual could expect to live in good health based on current rates - known as healthy life expectancy - differed by an average of 24.6 years between the most and least deprived parts of the borough.\n\nFor females at birth, inequality during the same period was 21.2 years. Overall healthy life expectancy in the borough was 67.6 years for males and 69.1 years for females.\n\nThe London borough of Newham had the lowest level of health inequality within it for men, at 3.8 years, as well as one of the lowest levels of healthy life expectancy overall at 57.9 years.\n\nFor females, Newham had the second lowest level of inequality (3.1 years) and also a low number of years lived in good health (56.8 years).\n\nInequality in health between areas within Newham is less noteworthy than elsewhere, largely because most of the areas within the borough have a similarly low healthy life expectancy.\n\nFor example, among males, out of 21 small areas within Kensington and Chelsea only three had a lower healthy life expectancy than the Newham average of 57.9 years.\n\n####Inequality in healthy life expectancy, 2009 to 2013, by upper tier local authority\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc299/scatterplot/index.html\" full-width=\"false\" title=\"Inequality in healthy life expectancy, 2009 to 2013, by upper tier local authority\"/>\n[Download the data][1]\n###Wokingham is the local authority with the highest male healthy life expectancy in England\nWokingham, in Berkshire, has the highest healthy life expectancy for men (70.0 years), when local authorities in England are compared in terms of their overall healthy life expectancy.\n\nThe borough has the second highest healthy life expectancy for women (70.8 years) as well as a relatively low level of health inequality, 7.1 years between its most and least deprived areas for both men and women. In this case, it is because most areas have good levels of healthy life expectancy.\n\nIn contrast to the example of Newham, there are many local authorities in England that are characterised by low overall healthy life expectancies alongside large inequalities between the areas within them.\n\nOne example of this is Middlesbrough in the North East. Here the average number of years an individual can expect to live in good health is 58.6 years for males and 60.1 years for females, around 10 to 11 years lower than in Wokingham. The level of inequality between the most and least deprived areas in Middlesbrough is 21.0 years for males and 20.0 for females – only slightly less than in Kensington and Chelsea and around five times larger than in Newham.\n\nThe levels of health inequality, described here, are estimated by relating healthy life expectancy in small areas within each local authority, to the level of deprivation in each area, using a statistical model to derive a summary indicator - known as the Slope Index of Inequality. More information on this measure and changes over time in inequalities nationally is available in our[ full report][2].\n\nIf you want to know the expected level of healthy years in the small area in which you live and the inequality in health that exists across your local authority, put your postcode in our tool below to find out.\n\n####Healthy life expectancy and inequality, 2013, by Middle Super Output Area (MSOA)\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc299map/index.html\" full-width=\"true\" title=\"Healthy life expectancy and inequality, 2013, by Middle Super Output Area (MSOA)\"/>\n\n\n  [1]: http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-417115\n  [2]: http://www.ons.gov.uk/ons/rel/disability-and-health-measurement/health-expectancies-at-birth-by-middle-layer-super-output-areas--england/inequality-in-health-expectancies-using-imd-2015-small-area-deprivation-scores--2009-13/stb-he.html\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howlongwillyouliveingoodhealth/2015-11-20",
+  "description": {
+    "title": "How long will you live in good health?",
+    "keywords": [
+      "Health",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-11-20T09:32:16.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

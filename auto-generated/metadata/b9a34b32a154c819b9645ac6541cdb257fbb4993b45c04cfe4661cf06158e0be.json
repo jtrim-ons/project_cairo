@@ -1,0 +1,61 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "In the build up to the Rio 2016 Olympics there was a lot of discussion about what medals the GB team would come home with. In the end Team GB broke its own target and finished second on the medals table, above China.\n\n\nIt makes sense to think that countries with larger populations will race to victory more often – there’s a bigger pool of talent to draw from. But this isn’t always the case. For example, India had a population almost four times the size of the USA in 2012, yet didn’t win a single gold while the USA came back with 46.\n\nHowever, USA success could be because it sent 530 athletes to the games, compared with India’s 83. There are other factors at play in determining medal success at the Olympics.\n\nOne factor which may be linked with medal success is the size of a country’s economy; a richer country would be in a better financial position to support a team of athletes.\n\nExplore for yourself the link between the top 30 medal-winning countries in Rio 2016 and the strength of their economies, by looking at their [GDP][1].\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc354/Rio/index.html\" full-width=\"false\" title=\"The top 30 medal-winning countries in Rio 2016 and the strength of their economies\"/>\n\n[Download the GDP data.][2]\n\nYou can compare this with the top 30 medal-winning countries in London 2012 and the strength of their economies.\n<ons-interactive url=\"https://onsvisual.github.io/dvc354/London/index.html\" full-width=\"false\"/>\n\n[Download the GDP data.][3]\n\nIn which sports did these countries win gold medals? This [BBC article][4] has the answers.\n\n####Notes\n\nPlease note that for consistency across all our Olympics/Paralympics content we have included estimates of GDP for [Argentina][5], [North Korea][6], [Iran][7] and [Cuba][8].\n\n####Other Visual.ONS articles: \n\n[Household Income and Inequality: Where do you fit in?][9]\n\n[Trends in births and deaths over the last century][10]\n\n[Which is the happiest country?][11]\n\nFor more information e-mail us at: <digitalcontent@ons.gov.uk>\n\n\n  [1]: http://www.bbc.co.uk/news/business-22277954\n  [2]: https://static.ons.gov.uk/visual/2016/09/Data-download-for-2015-GDP.csv\n  [3]: https://static.ons.gov.uk/visual/2016/09/data-download-for-2012-gdp.csv\n  [4]: http://www.bbc.co.uk/sport/olympics/2012/medals/countries\n  [5]: http://www.tradingeconomics.com/argentina/gdp\n  [6]: http://www.tradingeconomics.com/north-korea/gdp\n  [7]: http://www.tradingeconomics.com/iran/gdp\n  [8]: http://www.tradingeconomics.com/cuba/gdp\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/householdincomeandinequalitywheredoyoufitin/2016-02-23\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15\n  [11]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/who-is-the-happiest-country-in-europe/\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Medals by country and sport",
+      "uri": "http://www.bbc.co.uk/sport/olympics/2012/medals/countries"
+    },
+    {
+      "title": "GDP from the Office for National Statistics",
+      "uri": "https://www.ons.gov.uk/economy/grossdomesticproductgdp"
+    },
+    {
+      "title": "GDP by country",
+      "uri": "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD?year_high_desc=true"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/grossdomesticproductgdp/articles/nomoneynomedals/2016-08-22",
+  "description": {
+    "title": "No money, no medals?",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "GDP"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-08-22T04:30:05.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

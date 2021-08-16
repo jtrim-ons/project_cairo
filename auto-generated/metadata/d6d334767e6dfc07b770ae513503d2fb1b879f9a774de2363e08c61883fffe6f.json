@@ -1,0 +1,67 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/sicknessabsencefallstothelowestratein24years/2018-07-30/78336c26.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The average number of sickness absence days that UK workers take has almost halved since records began in 1993, Office for National Statistics (ONS)  figures have revealed^1^. \n\nThe figures show that employees took an average of 4.1 sickness absence days in 2017, compared with 7.2 days in 1993, but sickness absence started to fall overall from 1999.\n\nThe proportion of working hours lost to sickness absence is known as the sickness absence rate. \n\nSince the economic downturn of 2008 sickness absence rates in the UK have fallen by 0.5 percentage points to 1.9% in 2017. Over the same period, in the private sector rates have decreased by 0.4 percentage points. In 2017, the rate stood at 1.7% for the private sector and 2.6% for the public sector. Public sector health workers had the highest rates at 3.3%.\n\nRates may have decreased as [healthy life expectancy has improved over time][1]. Rates in the private sector could be lower as workers are less likely to be paid for a spell of sickness. There may also be an increase in [presenteeism,][2] where people go to work even though they are ill. \n\n###Sickness absence overall decreasing \n<ons-chart path=\"666843b1\" />\n\n###How do you compare with other workers? Tell us about where you work to find out\nYour sickness absence rates can be affected  by whether you work in the private or public sector, the workforce size of your employer and the sort of industry you work in.\n\n<ons-interactive url=\"/visualisations/dvc502/calc/index.html\" full-width=\"false\" title=\"Sickness absence calculator\"/>\n[Download the data.][3]\n\n###How employer type affects sickness absence rates \nThough the sickness absence rate for the public sector as a whole was 2.6% in 2017, workers in the public administration, education and health industry, which includes some private sector health and education workers, have the highest sickness absence rate across all industries. In 2017, this stood at 2.5%. It is possible that the exposure of health workers to infections and diseases contributes to their higher sickness absence rate. Also, this industry is still largely in the public sector, which has a higher sickness absence rate.\n\nSince 1994 (the earliest data available), the rate for workers in the public sector has been consistently higher than in the private sector, although both sectors have seen an overall decrease. \n\nHigher sickness absence in the public sector is [partly explained by][4] the profile of the workforce: it employs more older people and women, both of whom tend to have higher rates of sickness absence; it is more likely to employ staff with a long-standing health condition who are more likely to go off sick and tends to offer more generous sick pay arrangements.\n\nWorkers in large organisations employing 500 or more people report the highest rate of sickness absence across all business sizes. In 2017, this stood at 2.3% compared with a rate of 1.6% for workers in organisations that employ fewer than 25 people. It may be possible that individuals in smaller workforces are under more pressure to make up any lost hours.  \n\n###How age affects reasons for sickness absence\nMore than a quarter (26.2%) of days lost through sickness absence in 2017 were attributed to minor illness (such as coughs and colds). This adds up to 34.3 million days per year.\n\nWhile minor illness remained the predominant reason for sickness absence in each age group, there was a difference between ages when other reasons were examined.\n\nMusculoskeletal problems, such as back and joint pain, was a reason for sickness absence for 20.8% of 50-to 64-year-olds and 18.7% of 35-to 49-year-olds. \n\nThere has been an increase in the proportion of younger workers aged 25 to 34, who attribute their sickness absence to mental health conditions, rising from 7.2% in 2009 to 9.6% in 2017, an increase of 2.4 percentage points.\n\n####Reasons for sickness absence: by age, UK, 2017\n<ons-interactive url=\"/visualisations/dvc502/slope_age/index.html\" full-width=\"false\" title=\"Reasons for sickness absence: by age, UK, 2017\"/>\n[Download the data.][5]\n\nThere is also a divide between the sexes in sickness absence, with women more prone to minor illnesses (38.5% compared with 32.7%) and men tending to experience more sickness absence due to musculoskeletal conditions (28% compared with 18.4%).\n\nWomen were also more likely than men to cite mental health conditions as reasons for sickness absence-- 8.1% of women compared with 5.7% of men. Sickness absence for mental health reasons could be higher for women because [men are less likely to seek medical help for mental health problems than women][6] and also because medical professionals are [more likely to diagnose women][7] with mental health conditions than men. \n\n####Reasons for sickness absence: by sex, UK, 2017\n\n<ons-interactive url=\"/visualisations/dvc502/slope_sex/index.html\" full-width=\"false\" title=\"Reasons for sickness absence: by sex, UK, 2017\"/>\n[Download the data.][8]\n\n##How health status affects sickness absence reasons\nWorkers with long-term health conditions experienced a higher rate of sickness absence, at 3.9% compared with 1.2% for those without. \n\nWorkers with disabilities experienced the highest sickness absence rate across all workers, at 6.7% compared with 1.2% for those without, albeit down from 8.1% in 2014. \n\n##Footnotes: \n1. Sickness absence rates are used by government and businesses to measure employee health and to prevent loss of work. The costs associated with sickness absence can impact productivity of the economy.\n\n2. The sickness absence rate is the percentage of total expected working hours lost due to sickness.\n\n3. These factors were determined by a logistic regression model, detailed in Table 19 of the data download. \n\n4. This article uses Labour Force Survey and Annual Population Survey data.\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/healthexpectanciesatbirthandatage65intheunitedkingdom/2014-11-18#what-are-the-changes-in-healthy-life-expectancy-hle-at-birth-over-a-decade\n  [2]: https://www.cipd.co.uk/about/media/press/020518-health-wellbeing-survey\n  [3]: /visualisations/dvc502/data_calc.xls\n  [4]: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/181060/health-at-work.pdf\n  [5]: /visualisations/dvc502/data_age.csv\n  [6]: https://www.mentalhealth.org.uk/news/survey-people-lived-experience-mental-health-problems-reveals-men-less-likely-seek-medical\n  [7]: http://www.who.int/mental_health/prevention/genderwomen/en/\n  [8]: /visualisations/dvc502/data_sex.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/sicknessabsenceinthelabourmarket"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "Number of days^1^ lost through sickness per worker^2^ ^3^, 1993 to 2017, UK",
+      "filename": "666843b1",
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/sicknessabsencefallstothelowestratein24years/2018-07-30/666843b1"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Labour Force Survey",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyuserguidance"
+    },
+    {
+      "title": "Sickness Absence in the Labour Market",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/sicknessabsenceinthelabourmarket"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/sicknessabsencefallstothelowestratein24years/2018-07-30",
+  "description": {
+    "title": "Sickness absence falls to the lowest rate on record",
+    "keywords": [
+      "sickness absence",
+      "presenteeism"
+    ],
+    "metaDescription": "The latest figures for 2017 show that the average number of sickness absence days that UK workers take has almost halved since 1993.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "Policy.Evidence.Analysis@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-07-29T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "The latest figures for 2017 show that the average number of sickness absence days that UK workers take has almost halved since 1993.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

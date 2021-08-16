@@ -1,0 +1,52 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The England and Wales population was 57,408,654 in 2014, an increase of 4.3 million since 2004. This change is not evenly distributed across England and Wales, in some local areas populations are declining. This article focuses on population change at the local authority level in England and Wales. Explore the interactive map below to find out how the population in your area has changed over the past decade.\n####8 out of the 10 local authorities experiencing the largest population growth are in London\n#####Map of population change in England and Wales, 2004-2014^1^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc264/map/index.html\" full-width=\"true\" title=\"Maps\"/>[Download the data][1]\n####Tower Hamlets experienced the largest population growth over the last decade at 34.5%\n#####Local authorities with the highest percentage increase in population, 2004-2014, England and Wales\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc264/charts/Horizontal_bar_charttop/index.html\" full-width=\"true\" title=\"Tower Hamlets experienced the largest population growth over the last decade at 34.5%\"/>[Download the data][2]\n\nTower Hamlets had the largest population increase at 34.5% over the decade to 2014. This was because 56,300 people came to the area from overseas and 12,000 left the area to live elsewhere in the UK, giving a net migration gain of 44,400. Also, 32,700 more people were born than died, between mid-2004 and mid-2014.\n\nEight of the 10 local authorities with the biggest population growth between 2004 and 2014 were in London. The remaining two were Corby in the East Midlands and Slough in the South East. Net migration has also been the main driver of the increases in Islington and Corby.\n\nNatural change (births minus deaths) has been the main driver of population increase over the decade in Newham, Hackney, Slough, Brent and Waltham Forest with net in-migration having a relatively small effect. This is because relatively high numbers of people are moving from countries outside of the UK to live in these areas, but the increase is cancelled out by similarly high numbers of people moving from these areas to other areas in the UK. This phenomenon is known as population churn.\n####Kensington and Chelsea saw the greatest decrease in population size over the last decade, at 5.8%\n#####Local authorities with the highest percentage decrease in population, 2004-2014, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc264/charts/Horizontal_bar_chartbottom/index.html\" full-width=\"true\" title=\"Kensington and Chelsea saw the greatest decrease in population size over the last decade, at 5.8%\"/>[Download the data][3]\n\nThe population decreased in 16 local authorities over the decade. The greatest loss was seen in Kensington & Chelsea at 5.8%. The main driver of this decrease was net internal migration, a high number of people moving to live elsewhere in the UK. In contrast to all other areas in London, this effect was not offset by international migration as more people moved from Kensington and Chelsea to live outside the UK than moved in from outside the UK.\n\nThe majority of local authorities with a population decrease were in the North of England. The populations of Barrow-in-Furness and Cleveland decreased mainly because of people moving to live elsewhere in the UK. The populations of West Somerset, Sefton and South Tyneside decreased mainly as a result of smaller numbers of people being born than the numbers dying over the decade.\n\n\n\n\n\n\n  [1]: http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc264/map/data/data.csv\n  [2]: http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc264/charts/Horizontal_bar_charttop/data_top.csv\n  [3]: http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc264/charts/Horizontal_bar_chartbottom/data_bottom.csv\n  [4]: mailto:pop.info@ons.gov.uk\n\n\n###Footnotes:\n1. Includes estimated net effect of changes to special populations during the twelve months to mid-year. Special populations comprise prisoners, armed forces and their overseas based dependent populations. Also reflects the residual remaining from the original 2001 Census based MYE series and the revised 2011 Census based series which applies to series years 2002 to 2011."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Population Estimates for UK, England and Wales, Scotland and Northern Ireland, Mid-2014 Release",
+      "uri": "http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/mid-2014/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/adecadeofpopulationchangeinenglandandwales/2015-06-25",
+  "description": {
+    "title": "A decade of population change in England and Wales",
+    "keywords": [
+      "People, population and community",
+      "Population"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-06-25T08:30:51.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

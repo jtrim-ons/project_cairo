@@ -1,0 +1,128 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24/77a2e068.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The coronavirus (COVID-19) has not gone away and continues to have a major impact on people’s lives.\n\nStatistics allow us to keep track of the pandemic; not just through the number of deaths or infections, but also with measures of the impact on the economy and businesses, as well as people’s well-being, working situation and their daily routine. \n\nHere are 10 charts that show how the emergence of COVID-19 has affected life, society and the economy."
+    },
+    {
+      "title": "1. The number of deaths peaked at more than twice normal levels because of COVID-19",
+      "markdown": "#####Death registrations in England and Wales compared with five-year average (2015 to 2019), by whether or not COVID-19 was mentioned on the death certificate\n\n<ons-interactive url=\"/visualisations/dvc984/fig1alt/index.html\" title=\"The number of deaths peaked at more than twice normal levels because of COVID-19\" full-width=\"false\"/>\n\n#####Notes:\n1. Bank holidays affected registrations in the weeks ending 8 May, 29 May and 4 September.\n2. Figures include deaths of non-residents.\n3. Based on date a death was registered rather than occurred.\n4. All figures for 2020 are provisional.\n5. The International Classification of Diseases, Tenth Edition (ICD-10) definitions are as follows: coronavirus (COVID-19) (U07.1 and U07.2).\n\n[Data download][1]\n\nAt the peak of the pandemic in England and Wales (the weeks ending 17 and 24 April), the total number of deaths per week was more than twice normal levels.\n\nThis was largely because more than 8,000 people died with COVID-19 in both weeks, but deaths from other causes were also higher than the average between 2015 and 2019.\n\nIn total, there have been almost 52,000 deaths involving COVID-19 registered up to 11 September, 89% of which have been people aged 65 years and over. Including deaths from other causes, the total rises to more than 58,000 excess deaths since the first COVID-19 death was registered in the week ending 13 March. \n\n[Our analysis][2] has identified a large number of non-COVID-19 excess deaths for which there are several possible explanations, including people not attending hospital for treatment.\n\n[Comparisons of mortality rates][3] show that England had the highest peak in excess deaths of the four UK nations, and the second-highest peak in Europe (behind Spain). England also had the longest continuous period of above-average mortality, resulting in the highest overall levels of excess deaths of any country in Europe.\n\nData for deaths registrations in Scotland and Northern Ireland are published separately by [National Records of Scotland (NRS)][4] and [Northern Ireland Statistics and Research Agency (NISRA)][5].\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig1alt/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/analysisofdeathregistrationsnotinvolvingcoronaviruscovid19englandandwales28december2019to1may2020/technicalannex\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/comparisonsofallcausemortalitybetweeneuropeancountriesandregions/januarytojune2020\n  [4]: https://www.nrscotland.gov.uk/covid19stats\n  [5]: https://www.nisra.gov.uk/publications/weekly-deaths"
+    },
+    {
+      "title": "2. There have been more excess deaths in care homes and private homes than in hospitals",
+      "markdown": "#####Difference between death registrations in 2020 and the five-year average between 2015 and 2019, by place of death, England and Wales\n\n<ons-interactive url=\"/visualisations/dvc984/fig2/index.html\" title=\"There have been more excess deaths in care homes and private homes than in hospitals\" full-width=\"false\"/>\n\n#####Notes:\n1. Bank holidays affected registrations in the weeks ending 8 May, 29 May and 4 September\n2. Based on area of usual residence, boundaries correct as of August 2020.\n3. Based on date a death was registered rather than occurred.\n4. All figures for 2020 are provisional.\n5. The International Classification of Diseases, Tenth Edition (ICD-10) definitions are as follows: coronavirus (COVID-19) (U07.1 and U07.2).\n6. \"Other\" includes deaths in communal establishments other than hospitals and care homes, in hospices, and that occurred \"elsewhere\". This is the same definition as used in previous weeks, but the label has been updated. More information on the place of death definitions used is available in the accompanying dataset.\n\n[Data download][1]\n\nWhile deaths in hospitals peaked at 88% (an additional 4,416 deaths) above normal levels in the week ending 17 April, deaths in care homes soared to more than three-and-a-half times the average a week later (an additional 5,656).\n\nThe subsequent decline in COVID-19 mortality has brought weekly deaths in hospitals and care homes back down to normal levels (or lower). However, deaths in private homes remain 30% to 40% above what we would normally see (700 to 1,000 additional deaths per week). \n\nOver the course of the pandemic as a whole, the proportion of deaths occurring in hospitals has been lower compared with the same period in previous years (40% versus 47%). The proportions of deaths occurring in care homes and private homes have increased.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig2/datadownload.xlsx"
+    },
+    {
+      "title": "3. The mortality rate from COVID-19 has been highest among black men",
+      "markdown": "#####Age-standardised rates for deaths involving COVID-19 at ages 9 to 64 years by sex and ethnic group, per 100,000 people: England and Wales, occurring 2 March to 15 May 2020\n\n<ons-interactive url=\"/visualisations/dvc984/fig3/index.html\" title=\"The mortality rate from COVID-19 has been highest among black men\" full-width=\"false\"/>\n\n#####Notes:\n1. Figures based on death registrations up to 29 May 2020 that occurred between 2 March and 15 May 2020 that could be linked to the 2011 Census for the coronavirus (COVID-19) rate of death.\n2. Other ethnic group encompasses Asian other, Arab and other ethnic group categories in the classification.\n3. Non-overlapping error bars denote a statistically significant difference in rates of death.\n4. The rates for Chinese females are deemed unreliable because of low counts; therefore, we could not calculate confidence intervals around their estimate.\n\n[Data download][1]\n\n[Analysis from the height of the pandemic][2] showed that the death rate from COVID-19 was significantly higher among people of Black, Bangladeshi and Pakistani, Indian, and Other ethnicity compared with those of White ethnicity. \n\nBlack males between the ages of 9 and 64 years died at a rate of 47 per 100,000 in the population, compared with 10 per 100,000 White males. The mortality rate among Black females was also over four times higher than that of White women, at nearly 25 deaths per 100,000 in the population.\n\nEven after [adjusting for socio-demographic factors][3] that are likely to affect risk of exposure to the virus and dying once infected, such as age and living and working conditions, the rate of death involving COVID-19 among Black males remained twice as great as that for comparable White males.\n\nWe have also looked at mortality rates by [disability][4], [religion][5], and [occupation type][6]. Compared with the rate among people of the same sex and age in England and Wales, men working in elementary occupations had the highest rate of death involving COVID-19, at 39.7 deaths per 100,000 men (421 deaths); of the specific elementary occupations, men working as security guards had the highest rate, at 74.0 deaths per 100,000 (104 deaths). \n\nElementary occupations were also found to be among those with the highest [potential exposure to COVID-19][7], alongside medical occupations.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig3/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyethnicgroupenglandandwales/2march2020to15may2020#age-standardised-mortality-rates-of-death-involving-covid-19-by-ethnic-group\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyethnicgroupenglandandwales/2march2020to15may2020#ethnic-group-differences-in-deaths-involving-covid-19-adjusted-for-socio-demographic-factors\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbydisabilitystatusenglandandwales/2marchto14july2020\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyreligiousgroupenglandandwales/2marchto15may2020\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/bulletins/coronaviruscovid19relateddeathsbyoccupationenglandandwales/deathsregisteredbetween9marchand25may2020\n  [7]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationshavethehighestpotentialexposuretothecoronaviruscovid19/2020-05-11"
+    },
+    {
+      "title": "4. The number of people newly infected with COVID-19 is increasing",
+      "markdown": "#####Estimated numbers of new infections with the coronavirus (COVID-19), England, based on tests conducted since 11 May 2020\n\n<ons-interactive url=\"/visualisations/dvc984/fig4/index.html\" title=\"The number of people newly infected with COVID-19 is increasing\" full-width=\"false\"/>\n\n#####Notes:\n1. All results are provisional and subject to revision.\n2. The break distinguishes between the latest six-week estimates and the earlier period. The earlier estimates will be updated periodically. Using data from only the most recent six weeks in the model enables us to continue to provide timely results.\n3. This model does not control for household clustering, where multiple new cases derive from the same household.\n4. Official reported estimates are plotted at a reference point believed to be most representative of the given week. Details of which day was used for each week can be found in the dataset that accompanies this bulletin.\n5. Modelled estimates include additional swab test results not available when the official reported estimates were produced.\n6. Initial unweighted estimates covering the full study period to date are not included in the official reported estimates chart.\n\n[Data download][1]\n\nSince 11 May 2020, we have estimated the number and rate of new infections in the community population in England from the COVID-19 Infection Survey.  \n\nThere has been a [rise in new infections in recent weeks][2], with the latest figures pointing to 6,000 new cases per day in England (95% credible interval: 4,200 to 8,300). This does not include people staying in hospitals, care homes or other institutional settings. Prior to the recent rise, new infections reached a low point in June, which had levelled off in August.\n\nIn particular, there is clear evidence of an increase in new cases among younger age groups. \n\nWe have also published estimates of the number of people with COVID-19 in the community in England (the positivity rate) since 26 April. This measure has also been increasing in recent weeks. We do not have any estimates of infections in the period before 26 April.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig4/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/englandandwales18september2020"
+    },
+    {
+      "title": "5. The number of people visiting workplaces, shops and public transport hubs fell drastically because of lockdown",
+      "markdown": "#####Google mobility data showing the change in the number of people frequenting different public settings in the UK, compared with a February base\n\n<ons-interactive url=\"/visualisations/dvc984/fig5/index.html\" title=\"The number of people visiting workplaces, shops and public transport hubs fell drastically because of lockdown\" full-width=\"false\"/>\n\nNotes:\n1. As mobility is compared to a February base, it is expected that use of parks would rise during the spring and summer.\n\n[Data download][1]\n\nLockdown measures introduced to slow the spread of COVID-19 precipitated a huge change in people’s lifestyles and habits. The number of people in the UK spending time at transport hubs, in workplaces and on high streets remains below pre-pandemic levels, according to [Google mobility data][2], while people are continuing to spend more time around their homes and in public parks. \n\nAccording to data from Springboard – which compares [footfall levels][3] in high streets, retail parks and shopping centres – footfall has returned to 75% of its level this time last year. This has risen from March and April when the strictest lockdown measures were in place – footfall levels were between 10% and 20% of their level at the same time last year.\n\nMajor changes to lifestyles, impacting on people’s ability to socialise with loved ones and engage in hobbies and interests, have had a significant impact on the nation’s well-being. Our [Diary of a nation][4] presents people’s experiences in their own words.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig5/datadownload.xlsx\n  [2]: https://www.google.com/covid19/mobility/\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirustheukeconomyandsocietyfasterindicators/10september2020#footfall\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/diaryofanationlifeinlockdown/2020-09-23"
+    },
+    {
+      "title": "6. Parents working from home tended to work in the morning and carry out homeschooling duties later in the day",
+      "markdown": "#####Percentage of parents spending time working compared with percentage home schooling by time of day, Great Britain, 28 March to 26 April 2020\n\n<ons-interactive url=\"/visualisations/dvc984/fig6/index.html\" title=\"Parents working from home tended to work in mornings and carry out homeschooling duties later in the day\" full-width=\"false\"/>\n\n[Data download][1]\n\nMany schools were closed from when lockdown was imposed in late March, until the autumn term resumed in August and September. This meant that working parents had to juggle work with childcare responsibilities such as homeschooling. \n\n[Time use data][2] showed that many parents used the mornings to complete work, with the most common homeschooling hours taking place in late afternoon and evening. \n\n[In early April, respondents to our Opinions and Lifestyle Survey (OPN)][3] were asked whether they agreed that homeschooling was putting strain on their household relationships, and almost half (48%) either strongly or somewhat agreed. \n\nNearly a third (30%) of parents strongly or somewhat agreed that homeschooling was negatively affecting their well-being, while 50% said it was negatively affecting the well-being of their children.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig6/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/parentinginlockdowncoronavirusandtheeffectsonworklifebalance/2020-07-22\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/23april2020#homeschooling"
+    },
+    {
+      "title": "7. The economy is 11.7% smaller than it was pre-lockdown, despite recovering some ground since April",
+      "markdown": "#####Monthly output (March, April, May, June and July 2020) as a proportion of February 2020, overall gross domestic product (GDP) and selected industries, UK (February 2020 output = 100%)\n\n<ons-interactive url=\"/visualisations/dvc984/fig9/index.html\" title=\"The economy is 11.7% smaller than it was pre-lockdown, despite recovering some ground since April\" full-width=\"false\"/>\n\n[Data download][1]\n\nThe inevitable impact of lockdown meant that the economy shrunk by around a quarter between February and April. It has since [recovered some ground between May and July][2], but it remains substantially smaller than before the pandemic.\n\nAcross Quarter 2 (April to June), the economy contracted by a record 20.4%. In comparison, the largest quarterly decline during the 2008 recession was 2.1%.\n\nAlmost all sectors have seen declines, particularly those largely shut down because of coronavirus restrictions. In hospitality, for example, fewer than one in four businesses were trading between March and May (according to [results from previous waves of our Business Impact of COVID-19 Survey (BICS)][3]). \n\nThe most timely economic figures are showing further signs of recovery – [retail sales][4] are back above pre-pandemic levels, and there was big take-up of [Eat Out to Help Out][5] in August.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig9/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/july2020\n  [3]: https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/businessimpactofcovid19surveybicsresults\n  [4]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/august2020\n  [5]: https://www.gov.uk/government/collections/hmrc-coronavirus-covid-19-statistics#eat-out-to-help-out-scheme"
+    },
+    {
+      "title": "8. Almost one-third of jobs have been furloughed at some point, with young people most affected",
+      "markdown": "#####Proportion of eligible UK jobs furloughed at any point up to the end of June 2020, by age of employee\n\n<ons-interactive url=\"/visualisations/dvc984/fig7/index.html\" title=\"Almost one-third of jobs have been furloughed at some point, with young people most affected\" full-width=\"false\"/>\n\n[Data download][1]\n\nIn total, [32% of eligible jobs (9.6 million) were furloughed][2] through the government’s Coronavirus Job Retention Scheme (CJRS) for at least part of the period between March and June 2020. \n\nThe CJRS allows employers to apply for a government grant to cover up to 80% of employee wages up to £2,500 per month. The scheme – available until the end of October – was designed to help employers retain their staff, despite reduced activity because of lockdown.\n\nWith young people more likely to work in affected sectors such as hospitality, the proportion furloughed was much higher (47%) among 16- to 24-year-olds.\n\nWhile the overall unemployment rate remains historically low (having increased only slightly in the latest three months), [our data][3] show that the number of young people (aged 16 to 24 years) in employment has fallen.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig7/datadownload.xlsx\n  [2]: https://www.gov.uk/government/statistics/coronavirus-job-retention-scheme-statistics-august-2020\n  [3]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/employmentintheuk/september2020"
+    },
+    {
+      "title": "9. With vacancies falling across all industries, people are competing for fewer jobs",
+      "markdown": "####Number of vacancies per 100 employee jobs by industry, UK, June to August 2020 compared with June to August 2019\n\n<ons-interactive url=\"/visualisations/dvc984/fig8/index.html\" title=\"With vacancies falling across all industries, people are competing for fewer jobs\" full-width=\"false\"/>\n\n[Data download][1]\n\nFirms have scaled back hiring significantly, with [job vacancies][2] still almost 50% below pre-pandemic levels.\n\nThere were 1.4 vacancies per 100 employee jobs in the three months to August 2020, down from 2.7 at the same time last year. The ratio of vacancies to jobs has risen slightly since the height of lockdown (April to June), but it remains lower than anything seen during the financial crisis of 2008 and 2009.\n\nThe shortage of vacancies is leading to [greater competition for jobs][3] and people applying for positions for which they are arguably overqualified.\n\nBy industry, arts, entertainment and recreation, and accommodation and food service activities have seen the greatest declines compared with the same time last year. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc984/fig8/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/september2020\n  [3]: https://www.bbc.co.uk/news/business-53528653"
+    },
+    {
+      "title": "10. Public sector debt has exceeded gross domestic product (GDP) for the first time since the early 1960s",
+      "markdown": "<ons-chart path=\"d46dc347\" />\n\nA combination of increased government spending, reduced cash receipts and a fall in GDP has pushed [public sector net debt at the end of July 2020][1] to 100.5% of GDP. \n\nBefore July, debt had not exceeded GDP since the financial year ending March 1961. \n\nIn cash terms, debt has passed £2 trillion for the first time. It has risen sharply in recent months because of increased spending on relief schemes ([which have seen widespread take-up among businesses][2]) and reduced revenue from taxes. Net borrowing in the first four months of this financial year (April to July 2020) was £150.5 billion, more than six times the total in the same period last year.\n\n\n  [1]: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/july2020\n  [2]: https://www.ons.gov.uk/businessindustryandtrade/business/businessservices/bulletins/coronavirusandtheeconomicimpactsontheuk/latest#government-schemes"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/coronaviruscovid19relateddeathsbyethnicgroupenglandandwales/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/parentinginlockdowncoronavirusandtheeffectsonworklifebalance/latest"
+    },
+    {
+      "uri": "/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest"
+    },
+    {
+      "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": "Public sector net debt (excluding public sector banks) as percentage of GDP, UK, financial year ending March 1921 to July 2020 (100 = debt is equal to GDP)",
+      "filename": "d46dc347",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24/d46dc347"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Diary of a nation: life in lockdown",
+      "uri": "https://www.ons.gov.uk/visualisations/dvc983/Diary_of_a_nation-20200907082746841/index.html"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19in10charts/2020-09-24",
+  "description": {
+    "title": "Coronavirus (COVID-19) in 10 charts",
+    "keywords": [
+      "coronavirus",
+      "COVID-19",
+      "pandemic",
+      "charts"
+    ],
+    "metaDescription": "Our data highlight the profound impacts of the pandemic on the UK economy and society.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-09-23T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Our data highlight the profound impacts of the pandemic on the UK economy and society.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases"
+    }
+  ]
+}

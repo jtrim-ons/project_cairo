@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Arguably the biggest change to shopping in the 20th century was the emergence of supermarkets. For many this made the shopping experience less personal, but as online shopping has become the norm for many in the 21st century, shopping has, to some, become even less personal; in 2008 just 5p of every £1 spent in shops was spent online – by 2015 this had risen to 13p.\n\n####Percentage of all spending in shops that was spent in online shops, Great Britain, 2008 and 2015<ons-interactive url=\"https://www.ons.gov.uk/visualisations/github/dvc352/chart1/ch1/chart1.html\" full-width=\"false\" title=\"Percentage of all spending in shops that was spent in online shops, Great Britain, 2008 and 2015\"/>\n###But where are people shopping online?\n####Spending in online shops broken down by shop type, Great Britain, 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc352/dvc352/chart2/Donut/index.html\" full-width=\"false\" title=\"Spending in online shops broken down by shop type, Great Britain, 2015\"/>[Download the data][1]\n\nSo, nearly half of every £1 spent in shops online in 2015 was spent in online stores that have no permanent physical presence on the high street or out of town shopping park. These shops might have a stall sometimes in a market or fair, but that’s it. This is not a blip – it’s actually a growing trend – up from 41p of every £1 spent in shops online in 2010.\n\n####Amount of every £1 spent in shops online that is spent in shops with no physical shop, 2008 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc352/dvc352/chart3/Vertical-Bar-Chart/vertical_bar_chart/index.html\" full-width=\"false\" title=\"Amount of every Â£1 spent in shops online that is spent in shops with no physical shop, 2008 to 2015\"/>[Download the data][2]\n###So what does this mean for British shopkeepers?\nWell, considering that nearly 88% of all shopping in Great Britain in 2015 was done in physical stores it’s clear that the British public are not ready quite yet to move to an exclusively online shopping experience. However, it could be that some shop types will become more online focused than others in the future, as it does seem that there are some items we are more willing to buy online than others.\n\nLooking at physical shops that also have an online presence, only 4p of every pound spent in shops mainly selling food was spent online, whereas 12p of every pound spent in clothing stores was spent online and 11p of every pound spent in department stores.\n\nThis might have something to do with delivery and returns. When ordering food to be delivered you have to ensure you are at home for the delivery – this is not so for clothing items. Also, it can be difficult and time consuming to return food but lots of clothing stores have made it free and very easy to return their products by making it possible to drop packages off at the corner shop for example, or using lockers in supermarkets.\n\n####Percentage of sales for each shop type made online and in-store, Great Britain, 2015 \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc352/dvc352/chart4/Stacked-Bar/stackedbar/index.html\" full-width=\"false\" title=\"Percentage of sales for each shop type made online and in-store, Great Britain, 2015Â�\"/>[Download the data][3]\n###The November effect on online shopping\nOne of the most intriguing trends over recent years has been growth of online shopping in November.  There is a spike in our overall spending in online shops in that month.\n\nIn 2008, 6% of all shopping in November was carried out online, rising to 16% in November 2015.\n\nWhile people spend more overall online and in store in December than November, the advent of online sales events like [Cyber Monday][4], which take place in November, and the increasing convenience of online shopping, has seen people seemingly using online buying as a chance to get organised early for Christmas.\n\n####Percentage of all spending in shops that was spent in online shops by month (non seasonally adjusted), 2008 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc352/dvc352/chart5/line_chart/index.html\" full-width=\"false\" title=\"Percentage of all spending in shops that was spent in online shops by month (non seasonally adjusted), 2008 to 2016\"/>[Download the data][5]\n\n\n\n####Notes\n\n\nAll statistics here are based on retail sales excluding spending on fuel.\n\nRetail is divided into the following sectors:\n\n- food stores – these are supermarkets, specialist food stores and stores that sell alcoholic drinks and tobacco (summarised as “Shops that mainly sell food” here)\n- department stores\n- textiles, clothing and footwear stores (summarised as “Clothing shops” here)\n- household goods stores, such as those selling electrical items and furniture\n- other stores, such as those selling jewellery, toys, sporting goods and books\n- non-store retailing, which includes retailers with no physical stores, mail order, catalogues and market stalls.\n\nAll statistics here are based on retail sales excluding spending on fuel.\n\n\n\nFor more information e-mail us at: <retail.sales.enquiries@ons.gov.uk>\n\nOther Visual.ONS articles:\n\n[What's in the Basket of Goods?][7]\n\n[Two Decades of Sunday Trading][8]\n\n[How Popular is Your Birthday?][9]\n\n \n\n\n  [1]: https://static.ons.gov.uk/visual/2016/07/data-5.csv\n  [2]: https://static.ons.gov.uk/visual/2016/07/data-4.csv\n  [3]: https://static.ons.gov.uk/visual/2016/07/data-3.csv\n  [4]: https://en.wikipedia.org/wiki/Cyber_Monday\n  [5]: https://static.ons.gov.uk/visual/2016/07/data-6.csv\n  [7]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/whatsinthebasketofgoods70yearsofshoppinghistory/2016-07-21\n  [8]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/articles/twodecadesofsundaytrading/2016-03-09\n  [9]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/howpopularisyourbirthday/2015-12-18\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Retail Sales Bulletins",
+      "uri": "http://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/previousReleases"
+    },
+    {
+      "title": "What's in the Basket of Goods? 80 years of shopping history",
+      "uri": "https://visual.ons.gov.uk/wp-admin/post.php?post=8436&action=edit"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/retailindustry/articles/shoppinginshopsthathavenoshops/2016-07-29",
+  "description": {
+    "title": "Shopping in shops that have no 'shops'",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-07-29T09:01:35.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

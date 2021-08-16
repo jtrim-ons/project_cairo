@@ -1,0 +1,91 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/coronavirusvaccinehesitancyfallingacrosstheregionsandcountriesofgreatbritain/2021-08-09/1bacfdfb.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "People from all parts of Great Britain became less likely to report vaccine hesitancy during the first half of 2021.  \n\nNew analysis compares hesitancy towards the coronavirus vaccine in the period 7 January to 28 March with that seen in the period 28 April to 18 July 2021. \n\nThe sharpest decline in hesitancy was in Wales (where the rate decreased from 9% in January to March to 4% in April to July 2021), followed by London (11% to 7%), Yorkshire and The Humber (8% to 4%) and the North East (7% to 3%).  \n\nDespite the fall, Londoners remained the most vaccine hesitant among the regions and countries of Great Britain. \n\n\"Vaccine hesitancy\" refers to adults who: \n\n- have been offered the coronavirus vaccine and decided not to be vaccinated \n- report being very or fairly unlikely to have the coronavirus vaccine if offered \n- responded \"neither likely nor unlikely\", \"don't know\" or \"prefer not to say\" to the question \"If a vaccine for the coronavirus (COVID-19) was offered to you, how likely or unlikely would you be to have the vaccine?\""
+    },
+    {
+      "title": "In some regions, people in bad health became less likely to report vaccine hesitancy than those in good health ",
+      "markdown": "Regional rates of vaccine hesitancy among people who say they are in bad health in general were lower or similar to those reporting good health in April to July, reversing the trend seen in January to March 2021. \n\nIn the first three months of 2021, the highest levels of vaccine hesitancy among those in bad health were reported in Yorkshire and The Humber (15%), London (13%) and West Midlands (12%).  \n\nHesitancy among those in bad health had fallen sharply in all three regions by April to July 2021, and now appear lower than people reporting good health. \n\nThere are several possible reasons for this decline. Some people in poor health may have been hesitant initially because of pre-existing medical conditions or concerns about side-effects.  \n\nThe widespread fall in hesitancy, regardless of self-reported health, coincides with growing [evidence that vaccines are effective in preventing hospitalisation from COVID-19][2], as well as changes to guidance for those who are double-vaccinated. Fully vaccinated adults are now able to [return from amber list countries without quarantining][3], and by 16 August they will [no longer need to self-isolate][4] when identified as a close contact of someone with COVID-19. \n\nOur analysis hasn’t tested whether falls in hesitancy are driven by bad health or a combination of factors. \n\n####People in self-reported bad health are now equally or less vaccine hesitant than those in good health \n#####Percentage of adults reporting vaccine hesitancy by self-reported health, English regions and Scotland, 7 January to 28 March and 28 April to 18 July 2021\n\n<ons-interactive url=\"/visualisations/dvc1507/slope-multiple/index.html\" full-width=\"false\" title=\"Percentage of adults reporting vaccine hesitancy by self-reported health, English regions, Scotland and Wales, 7 January to 28 March and 28 April to 18 July 2021\"/>\n\n[Data on coronavirus vaccine hesitancy by self-reported health (XLSX, 22KB)][5]\n\n\n  [2]: https://www.gov.uk/government/news/vaccines-highly-effective-against-hospitalisation-from-delta-variant\n  [3]: https://www.gov.uk/government/news/quarantine-free-travel-to-resume-on-19-july-for-fully-vaccinated-passengers-returning-from-amber-list-countries\n  [4]: https://www.gov.uk/government/news/self-isolation-to-be-eased-for-fully-vaccinated-adults-in-step-4\n  [5]: https://www.ons.gov.uk/visualisations/dvc1507/slope-multiple/datadownload.xlsx"
+    },
+    {
+      "title": "Vaccine hesitancy has reduced in almost every area of Great Britain",
+      "markdown": "At a sub-regional level, most areas have seen a fall in vaccine hesitancy so far in 2021.  \n\nAreas that recorded the highest hesitancy rates during January to March had seen a reduction by April to July, such as Inner London East (13% to 7%), Outer London West and North West (12% to 7%), and West Wales and The Valleys (11% to 5%). \n\nHowever, there remains some local variation, with hesitancy rates remaining as high as 10% in Outer London East and North East, compared with 2% in parts of Scotland, Cheshire, Hampshire and the Isle of Wight. \n\nAreas in the map are International Territorial Level (ITL) 2, more information about geographic classification is available in the [data tables][1]. \n\n####There has been a widespread fall in vaccine hesitancy so far in 2021 \n#####Percentage of adults reporting vaccine hesitancy, Great Britain, 28 April to 18 July 2021 compared with 7 January to 28 March 2021 \n\n<ons-interactive url=\"/visualisations/dvc1507/map/index.html\" full-width=\"false\" title=\"Percentage of adults reporting vaccine hesitancy, Great Britain, 28 April to 18 July 2021 compared with 7 January to 28 March 2021\"/>\n\n[Data on coronavirus vaccine hesitancy in ITL2 areas (XLSX, 23KB)][2]\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandvaccinehesitancyinternationalterritoriallevelitl2\n  [2]: https://www.ons.gov.uk/visualisations/dvc1507/map/datadownload.xlsx"
+    },
+    {
+      "title": "The most hesitant groups are found in London and the Midlands ",
+      "markdown": "In line with [trends observed across Great Britain as a whole][1], young adults, those of Black or Black British ethnicity, and the unemployed are generally the most hesitant towards vaccines in all English regions, Scotland and Wales. \n\nRates of hesitancy among these groups tended to be highest in London and the Midlands in April to July 2021, despite falling compared with earlier in the year. \n\nNearly one in six (15%) young adults (16 to 29-year-olds) in the West Midlands reported vaccine hesitancy in the latest period.  \n\nThe West Midlands also had a relatively high proportion of the unemployed saying they were hesitant towards coronavirus vaccines (19%), as did London (17%).  \n\nIn the East Midlands, one in three (34%) Black or Black British adults reported vaccine hesitancy.  \n\nAmong English regions, London and the West Midlands recorded high rates of hesitancy among adults living in deprived areas (both 12%).   \n\n####The highest rates of vaccine hesitancy are generally seen in London and the Midlands \n#####Percentage of adults reporting vaccine hesitancy by various personal characteristics, Great Britain, 28 April to 18 July 2021\n\n<ons-interactive url=\"/visualisations/dvc1507/mosthesitant/index.html\" full-width=\"false\" title=\"Percentage of adults reporting vaccine hesitancy by various personal characteristics, Great Britain, 28 April to 18 July 2021\"/>\n\n[Data on coronavirus vaccine hesitancy by selected personal characteristics (XLSX, 20KB)][2]\n\n#####Notes: \n1. *Data suppressed because of small sample size. The Index of Multiple Deprivation (IMD) was only included for England, there are no hesitancy rates by deprivation for Scotland and Wales. \n\nVaccine hesitancy rates were relatively high in London among certain groups of adults.  \n\nThis includes one in nine (11%) people with no qualifications in London reporting vaccine hesitancy in April to July, among the highest in Great Britain and little changed since January to March 2021 (10%). \n\nLondon is also among the most hesitant for renters (10%), and those who are unable to afford an unexpected, but necessary, expense of £850 (13%). \n\nMeanwhile, 1 in 10 (10%) adults living in London households of three or more people remain hesitant. However, only 4% of those who care for someone in their own home in London reported hesitancy in April to July 2021. \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandvaccinehesitancygreatbritain/9august2021\n  [2]: https://www.ons.gov.uk/visualisations/dvc1507/mosthesitant/datadownload.xlsx"
+    },
+    {
+      "title": "Vaccine uptake in London is behind other regions",
+      "markdown": "As of 19 July, [all adults aged 18 years and over in the UK had been offered at least one dose of a coronavirus vaccine][1]. \n\nThe latest UK-wide data (up to 1 August 2021) show that 88.6% of the adult population has received one dose of a vaccine, with 72.7% double-vaccinated. Numbers for the four UK nations are available on the [GOV.UK coronavirus dashboard][2].  \n\nEstimates of vaccine uptake among those aged 50 years and over are available for English regions in [Public Health England’s COVID-19 Health Inequalities Monitoring for England (CHIME) tool][3].  \n\nThe most recent data, up to the end of June 2021, show that one in nine (11%) adults aged 50 years and over in London have not received a coronavirus vaccine, twice the rate of any other English region. \n\nThe figures cover residents in England who could be linked to the 2011 Census and General Practice (GP) data. They should not be used to represent the total number of vaccinations, and may also differ from the administrative data on vaccinations published by NHS England weekly. \n\n####The rate of not receiving a vaccine among over-50s is twice as high in London as anywhere else \n#####Percentage of adults aged 50 years and over that have not received a coronavirus vaccine, English regions, end of June compared with end of March 2021\n\n<ons-interactive url=\"/visualisations/dvc1507/dot-plot-jiggle/index.html\" full-width=\"false\" title=\"Percentage of adults aged 50 years and over that have not received a coronavirus vaccine, English regions, end of June compared with end of March 2021\"/>\n\n[Data on adults aged 50 years and over that have not received a coronavirus vaccine (XLSX, 18KB)][4]\n\nAmong ethnic groups, the highest rate of not receiving a vaccine was in London for Black Caribbean adults (32%) and West Midlands for those of Black African ethnicity (30%). \n\nThose who have never worked and are long-term unemployed were more likely to have not had a vaccine than those in employment. The highest rate of non-vaccination was in London (21%). \n\nJust as rates of vaccine hesitancy increase with levels of deprivation, the likelihood of not having a vaccine also rises in more deprived areas across all English regions. Around one in six (17%) over-50s living in the most deprived parts of London had not received a vaccine by the end of June 2021 (the highest of any region). \n\n\n  [1]: https://www.gov.uk/government/news/every-adult-in-uk-offered-covid-19-vaccine\n  [2]: https://coronavirus.data.gov.uk/details/vaccinations\n  [3]: https://analytics.phe.gov.uk/apps/chime/\n  [4]: https://www.ons.gov.uk/visualisations/dvc1507/dot-plot-jiggle/datadownload.xlsx"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandvaccinehesitancyinternationalterritoriallevelitl1"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandvaccinehesitancyinternationalterritoriallevelitl2"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/coronavirusandvaccinehesitancygreatbritain"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandvaccinehesitancygreatbritain/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) latest insights",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights"
+    },
+    {
+      "title": "Two-thirds of adults still plan to wear masks in shops and on public transport",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/twothirdsofadultsstillplantowearmasksinshopsandonpublictransport/2021-07-16"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/coronavirusvaccinehesitancyfallingacrosstheregionsandcountriesofgreatbritain/2021-08-09",
+  "description": {
+    "title": "Coronavirus vaccine hesitancy falling across the regions and countries of Great Britain ",
+    "keywords": [
+      "coronavirus",
+      "COVID-19",
+      "vaccine",
+      "hesitancy",
+      "regions"
+    ],
+    "metaDescription": "Adults from all English regions, Scotland and Wales became increasingly likely to say they would accept the coronavirus (COVID-19) vaccine during the first half of 2021, with some of the biggest changes seen among people in self-reported bad health. ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "cities@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-08-08T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Adults from all English regions, Scotland and Wales became increasingly likely to say they would accept the coronavirus (COVID-19) vaccine during the first half of 2021, with some of the biggest changes seen among people in self-reported bad health. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

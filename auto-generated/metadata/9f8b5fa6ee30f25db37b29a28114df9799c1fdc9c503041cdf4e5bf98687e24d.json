@@ -1,0 +1,56 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Commonwealth trade ministers gather today for the [first-ever meeting][1] of its kind, looking at ways of boosting trade relations among the 52 member nations.\n\nAs the UK prepares to leave the European Union, it may be an opportunity for the UK government to discuss the trade landscape in a post-Brexit world.\n\nThe meeting may offer a chance to lay the [groundwork for future trade negotiations][2], once Article 50 has been activated, something due to take place at the end of March.\n\nAs well as securing already strong existing relationships with nations such as Australia, Canada and India, the UK’s trade minister Liam Fox may seek to explore opportunities elsewhere in the Commonwealth.\n\nHow much does the Commonwealth trade with the UK and where are future opportunities for expanding trade?\n\n####UK Imports and Exports, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc397/treemap/imports.html\" full-width=\"false\" title=\"UK Imports andÂ� Exports, 2015\"/>\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc397/treemap/exports.html\" full-width=\"false\" title=\"Trade - Exports treemap\"/>\n\n[Download the data.][3]\n\nThe Commonwealth makes up a relatively small part of UK trade. Around 9% of total UK exports went to the Commonwealth in 2015, against 44% to the EU. The EU also accounted for 53% of UK imports, versus just 8% from the Commonwealth.\n\nUK goods exports to the Commonwealth nearly doubled from just under £13 billion in 1999 to close to £25 billion in 2010, but the trend has since reversed. UK goods exports to the Commonwealth fell from £29.9 billion in 2013 to £25.1 billion in 2015. The decline is consistent with falling global trade in recent years. UK goods exports to the EU were worth over £151 billion in 2013, before falling to £134 billion in 2015.\n\nMeanwhile, UK services exports to the Commonwealth almost tripled from £8.5 billion in 1999 to over £22 billion in 2010 before levelling off.  They were valued at £22.3 billion in 2015.\n\n####UK trade in goods and services with the Commonwealth, 1999 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc397/timeseries/chart3/index.html\" full-width=\"false\" title=\"UK trade in goods and services with the Commonwealth, 1999 to 2015\"/>\n\n###Who are the big players in the Commonwealth?\n\nStill, the UK has some major trading partners in the Commonwealth. Australia, Canada and India are among the largest economies in the world, while a number of Asian and African members rank among the fastest-growing.\n\n####UK trade balance with Commonwealth countries, 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc397/scatter_zoom_out/index.html\" full-width=\"false\" title=\"UK trade balance with Commonwealth countries, 2015\"/>\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc397/scatter_zoom_in/index.html\" full-width=\"false\" title=\"UK trade balance with Commonwealth countries, 2015 \"\"\"\"\"\"\"/>\n\n[Download the data.][4]\n\nDespite the distance between the two countries, the UK exported £8.6 billion of goods and services to Australia in 2015, more than any other Commonwealth nation. The strength of this relationship is boosted by tourism between Australia and the UK – travel accounted for more than £1 billion of UK services imports and exports with Australia in 2015.\n\nHowever, India is increasingly becoming the UK’s key Commonwealth trading partner, particularly in terms of imports. The rise in [offshoring and outsourcing][5] in recent years has led to the value of goods and services imported from India rising from £4.4 billion in 2005 to £9.5 billion in 2015.\n\nTrade ties between the UK and the largest Commonwealth nations remain distant compared with close relationships enjoyed with countries in the EU. The UK exported much more to Germany alone (£48.5 billion) in 2015 than Australia, Canada, India, Malaysia, New Zealand and Singapore combined (£32.8 billion).\n###What about Africa?\nMore than a third of Commonwealth members are African nations, including giant economies such as South Africa and Nigeria. The UK posted a £1.4 billion trade surplus with African Commonwealth countries in 2015, compared with a £2.9 billion deficit in 2005. Exports have increased by more than 60% over that period.\n\nSouth Africa is the UK’s biggest trading partner among African Commonwealth countries, followed by Nigeria. Together, these two nations made up around 72% of UK trade (exports plus imports) with the African Commonwealth in 2015.\n\nOverall, UK exports to Africa remain strikingly low compared with EU trading. Exports to Germany were more than five times more valuable than exports to all 18 African Commonwealth nations (£9.2 billion) in 2015.\n\n####World trade map explorer\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html\" full-width=\"false\" title=\"World trade map explorer\"/>\n\n[Download the data][6].\n\n\n\n\nOther Visual.ONS articles:\n\n[Who does the UK trade with?][8]\n\n[Understanding the UK economy][9]\n\n[Five facts about GDP][10]\n\n\n  [1]: http://www.cweic.org/event/commonwealth-trade-ministers-meeting/\n  [2]: http://thecommonwealth.org/media/news/trade-opportunities-commonwealth-post-brexit\n  [3]: https://static.ons.gov.uk/visual/2017/03/Total-imports-and-exports-2015.csv\n  [4]: https://static.ons.gov.uk/visual/2017/03/Total-imports-and-exports-2015.csv\n  [5]: https://www.theguardian.com/business/2016/mar/15/rbs-to-cut-450-investment-banking-jobs-uk-two-thirds-offshore-india\n  [6]: https://static.ons.gov.uk/visual/2017/02/Imports-exports-1999-2015.xlsx\n  [7]: mailto:trade@ons.gov.uk\n  [8]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-trade-partners/\n  [9]: https://www.ons.gov.uk/economy/nationalaccounts/articles/dashboardunderstandingtheukeconomy/2017-02-22\n  [10]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/fivefactsaboutgdp/2017-02-17\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Who does the UK trade with?",
+      "uri": "https://visual.ons.gov.uk/uk-trade-partners/"
+    },
+    {
+      "title": "Four facts about trade and business links between the UK and the Commonwealth",
+      "uri": "https://visual.ons.gov.uk/four-facts-about-trade-and-business-links-between-the-uk-and-the-commonwealth/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/internationaltrade/articles/commonwealthtradeinfocusasukpreparesforbrexit/2017-03-09",
+  "description": {
+    "title": "Commonwealth trade in focus as UK prepares for Brexit",
+    "keywords": [
+      "Business, industry and trade",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-03-09T01:13:39.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

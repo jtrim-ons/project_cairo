@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The government recently announced plans to [end the sale of petrol and diesel cars by 2040][1], which is part of a long-term plan to tackle air pollution. Emissions from vehicles contribute to pollution and climate change, as well as harming our health. As the UK’s plan for this notes: \"Although air pollution has improved, it still poses an urgent health problem\".\n###Nearly all of the cars on our roads are diesel or petrol\nThere were 30.8 million licensed cars on the roads in Great Britain in 2016. This has risen by nearly 10 million since 1994.\n\n\nIn 2016, diesel cars accounted for 39.1% of licensed cars on our roads, up from just 7.4% in 1994. Meanwhile, petrol cars accounted for 59.7% of all licensed cars in 2016, down from 92.6% in 1994. \n\nThe rise in the sale of diesel cars in recent years is linked to a tax cut on diesel cars and a reduced vehicle tax on all cars with low carbon dioxide emissions, which encouraged people to trade their petrol cars for diesel vehicles.\n\nThere has been an increase in the number of alternative fuel vehicles, which includes electric cars, illustrating some willingness for consumers to adapt to new technologies. However, they still make up a tiny percentage (1.2%) of all licensed cars on the road today.\n\n####Number of vehicles licensed^1^, Great Britain, 1994 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc426/petroldiesel/index.html\" full-width=\"false\" title=\"Number of vehicles licensed^1^, Great Britain, 1994 to 2016\"/>\n\n[Download the data.][2]\n###Motorists pay the bulk of environmental taxes\nEnvironmental tax accounts for 7.2% of all taxes and social contributions to government. It includes transport, energy, pollution and resource taxes.\n\nGovernment revenue from environmental taxes reached £47.6 billion in 2016. Revenue from the taxes that affect motorists – indirect taxes like the tax on fuel, and direct taxes like vehicle tax – make up a high proportion of the overall revenue from environmental taxes.\n\n####Government revenue from environmental taxes^2^, UK, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc426/tax2016/index.html\" full-width=\"false\" title=\"Government revenue from environmental taxes^2^, UK, 2016\"/>\n\n[Download the data.][3]\n###Few people are thinking about buying an electric car\nJust 5% of adults aged 16 and over had thought about buying an electric car or van in 2016. Meanwhile, over half (55%) reported they had not thought about buying an electric car or van. Some 16% said they considered it, but decided not to buy one just yet.\n\nThe most significant barrier to buying an electric car, for many people, was related to the battery. This included the perceived lack of charging stations, and concerns that they won’t be able to recharge when they need to, or that the battery is limited to a distance that is too short.\n\nThe advent of new technologies, which can increase battery capacity and therefore the distance vehicles can travel on one charge, may convince motorists that electric is a more attractive option.\n\n\n\nOther Visual.ONS articles:\n[UK energy: how much, what type, and where from?][4]\n[UK Perspectives 2016: How we travel][5]\n[UK Perspectives 2016: Energy and emissions][6]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][7] to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n\nFor more information, please contact: [qualityoflife@ons.gov.uk][8] or [environment.accounts@ons.gov.uk][9]\n\n\n  [1]: https://www.gov.uk/government/news/plan-for-roadside-no2-concentrations-published\n  [2]: https://static.ons.gov.uk/visual/2017/08/petroldieselvehicles.csv\n  [3]: https://static.ons.gov.uk/visual/2017/08/envirotax.csv\n  [4]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/ukenergyhowmuchwhattypeandwherefrom/2016-08-15\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/articles/ukperspectives2016howwetravel/2016-05-26\n  [6]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-2016-energy-and-emissions-in-the-uk//\n  [7]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  [8]: mailto:qualityoflife@ons.gov.uk\n  [9]: environment.accounts@ons.gov.uk\n\n\n###Footnotes:\n1. Alternative fuel includes: electric and hybrid electric, gas, gas bi-fuel, petrol/gas and gas-diesel, as well as new fuel technologies, fuel cells and steam.\n2. Fuel duty refers to hydrocarbon oil including mineral oils, biofuels, fuel substitutes, and fuel additives. This includes taxes on energy production and on energy products used for both transport and stationary purposes."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Environmental accounts statistical bulletin",
+      "uri": "https://www.ons.gov.uk/economy/environmentalaccounts/bulletins/ukenvironmentalaccounts/2017"
+    },
+    {
+      "title": "Public attitudes towards electric vehicles: 2016 (PDF)",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/551446/electric-vehicles-survey-2016.pdf"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/environmentalaccounts/articles/arewereadytoswitchtoelectriccars/2017-08-16",
+  "description": {
+    "title": "Are we ready to switch to electric cars?",
+    "keywords": [
+      "Environment",
+      "Health",
+      "Business, Industry and Trade"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-08-16T08:45:24.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

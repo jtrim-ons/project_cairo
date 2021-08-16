@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": false,
+  "sections": [
+    {
+      "title": " Introducing our interactive tool for business productivity benchmarking",
+      "markdown": "Productivity is a measure of the amount of output a business produces for a unit of input. In its simplest form, labour productivity measures the amount of output produced per worker: higher productivity means that a business produces more output for each worker it employs. \n\nProductivity is important because it is a key determinant of living standards in the long term. Growing productivity over time means businesses can produce more goods and services per unit of input (labour, capital and others), permitting higher wages, supporting economic growth, holding back inflation and increasing tax revenues, in turn making it easier for government to provide essential services. Its importance makes the UK’s relatively poor productivity performance since 2008 one of the UK’s biggest economic policy challenges, reflected in the prominence of productivity in the recently published white paper on the [Industrial Strategy][1]. \n\nTo help businesses better understand their productivity, and how they compare to other businesses, we have launched an interactive productivity benchmarking tool. This will let you  calculate the productivity of your own business over time; and   compare your productivity performance to other businesses in your industry. You only need three pieces of information: your turnover (or sales), your purchases of inputs (excluding investment), and how many people you employ. \n\n\n\n\n\n  [1]: https://www.gov.uk/government/publications/industrial-strategy-building-a-britain-fit-for-the-future\n  [2]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/labourproductivitymeasuresfromtheannualbusinesssurvey/2006to2015\n  [3]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/understandingfirmsinthebottom10ofthelabourproductivitydistributioningreatbritain/jantomar2017\n  [4]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/foreigndirectinvestmentandlabourproductivityamicrodataperspective/2012to2015\n  [5]: http://%5C%5Cnsdata7%5CEconlab%5CProjects%5CProductivity%20Benchmarking%5C%E2%80%A2%09https:%5Cwww.ons.gov.uk%5Cemploymentandlabourmarket%5Cpeopleinwork%5Clabourproductivity%5Carticles%5Cexperimentaldataonthemanagementpracticesofmanufacturingbusinessesingreatbritain%5C2018-04-06\n  [6]: https://www.ons.gov.uk//economy/economicoutputandproductivity/productivitymeasures/articles/uktradeingoodsandproductivitynewfindings/2018-07-06"
+    },
+    {
+      "title": "Business calculator – Compare your business to others in Great Britain",
+      "markdown": "<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc513/index.html\" full-width=\"false\" title=\"Productivity Calculator\"/>\n\nWhat makes some businesses more productive than others? The importance of understanding why UK productivity growth has slowed so sharply means that ONS and others have spent a lot of time examining the drivers of productivity growth and characteristics of highly productive businesses. ONS research has identified a range of business characteristics that are correlated with higher levels of productivity including the impact of size, foreign direct investment (FDI), management practices and trade. Details can be found in the following articles:\n\n- [Labour productivity measures from the Annual Business Survey: 2006 to 2015][1]\n\n- [Understanding firms in the bottom 10% of the labour productivity distribution in Great Britain: “the laggards”, 2003 to 2015][2]\n\n- [Foreign direct investment (FDI) and labour productivity, a micro-data perspective: 2012 to 2015][3]\n\n- [Management practices and productivity in British production and services industries - initial results from the Management and Expectations Survey: 2016][4]\n\n- [UK trade in goods and productivity: New findings][5]\n \n\n\n  [1]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/labourproductivitymeasuresfromtheannualbusinesssurvey/2006to2015\n  [2]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/understandingfirmsinthebottom10ofthelabourproductivitydistributioningreatbritain/jantomar2017\n  [3]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/foreigndirectinvestmentandlabourproductivityamicrodataperspective/2012to2015\n  [4]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/experimentaldataonthemanagementpracticesofmanufacturingbusinessesingreatbritain/2018-04-06 \n  [5]: https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/articles/uktradeingoodsandproductivitynewfindings/2018-07-06"
+    },
+    {
+      "title": "Data sources and methods",
+      "markdown": "The Annual Business Survey (ABS) provides the financial data on turnover, intermediate purchases and “approximate gross value added” (aGVA) for calculating labour productivity in our analysis. The ABS is the main structural business survey conducted by the ONS. It surveys around 65,000 firms on an annual basis to collect information from firms in the production, construction, distribution and services industries, representing approximately two-thirds of the UK economy. The ABS data used for the benchmarking tool covers firms in Great Britain and therefore excludes Northern Ireland. The ABS has partial coverage of agricultural and financial services industries. For quality and confidentiality reasons, data for certain industries have been supressed.\n\nThe business-specific measure of labour input that we used in this analysis was employment – including both employees and working proprietors – and was obtained from the Inter-Departmental Business Register (IDBR) at the time of sample selection of the ABS. \n\nFinally, our measure of labour productivity (GVA per worker) was calculated as aGVA at basic prices over employment. To derive our estimates of labour productivity, we excluded firms at the top and bottom 1% of the ABS sample as an outlier adjustment. Businesses can have negative productivity in periods where their expenditure on goods and services exceeds their turnover (sales) for that period.\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/labourproductivity/articles/howproductiveisyourbusiness/2018-07-06",
+  "description": {
+    "title": "How productive is your business?",
+    "keywords": [
+      "calculator",
+      "business",
+      "output per worker",
+      "productivity",
+      "benchmarking"
+    ],
+    "metaDescription": "This is an interactive tool which aids businesses to calculate their productivity and compare their performance to other businesses in Great Britain.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "productivity@ons.gov.uk",
+      "name": "Gaganan Awano",
+      "telephone": "+44(0)163345 5452"
+    },
+    "releaseDate": "2018-07-05T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "This is an interactive tool which aids businesses to calculate their productivity and compare their performance to other businesses in Great Britain.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

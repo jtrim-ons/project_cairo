@@ -1,0 +1,48 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "At its simplest, the UK economy, like any other, is a system which converts work into the output of goods and services. Productivity measures this rate of conversion.\n\nHistorically, productivity has trended upwards over time: more goods and services have been produced per hour worked. This has allowed living standards to rise.\n\n##What has happened to productivity since the economic downturn?\n\n####Productivity, UK, January to March 1997 to January to March 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc270/Prod1/index.html\" full-width=\"false\" title=\"Productivity, UK, January to March 1997 to January to March 2015\"/>[Download the data][1]\n\nEconomies are subject to cyclical fluctuations – booms and busts. It is not unusual for productivity to fall during downturns, as happened in 2008-09. What is unusual is the flat-lining of productivity since 2010. This is unprecedented in the post-war era and has come to be referred to as the “productivity puzzle”.\n\nIf the pre-2007 trend had continued, productivity would now be 16% higher than it actually is. Wages and living standards would also be higher.\n\nThe productivity puzzle is not unique to the UK. Other countries, especially in Europe, have also experienced unusually weak productivity growth during the recent period.\n\n##Output, hours and productivity compared\n\n####Productivity compared with GDP, Employment and Total hours worked, UK, January to March 2008 to January to March 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc270/Prod2/index.html\" full-width=\"false\" title=\"Productivity compared with GDP, Employment and Total hours worked, UK, January to March 2008 to January to March 2015\"/>[Download the data][2]\n\nOutput of goods and services across the whole economy – usually measured by gross domestic product (GDP) - has resumed an upward trend after falling steeply during the economic downturn of 2008-2009. Whereas following earlier downturns this was reflected in rising productivity, this time it has shown up in more hours worked, which have been rising strongly. This has been good for the number of jobs, but not so much for living standards.\n\nMany economists have tried to explain the productivity puzzle but a full explanation remains elusive. Among the many reasons suggested are low levels of investment, the impact of the financial crisis on bank’s willingness to lend to new businesses, higher numbers of people working beyond normal retirement age as a result of population and pensions changes, and firms’ ability to retain staff because of low pay growth. While these and other factors may be relevant, they do not provide a complete explanation for the weakness in productivity.\n\n##How does UK productivity compare with other countries?\n\n####Difference from UK productivity level, G7 countries, 2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc270/chart3/index.html\" full-width=\"false\" title=\"Difference from UK productivity level, G7 countries, 2013\"/>[Download the data][3]\n\nThe level of productivity is higher in the UK than in Japan, but lower than in other major developed economies including the US, Germany and France. The shortfall in the level of UK productivity has persisted for many years, and is often attributed to relatively low levels of investment in the UK.\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/07/data11.csv\n  [2]: https://static.ons.gov.uk/visual/2015/07/data21.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/data3.csv\n  [4]: mailto:digitalcontent@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07",
+  "description": {
+    "title": "What is the productivity puzzle?",
+    "keywords": [
+      "Economy",
+      "Productivity",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-07T12:06:54.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The latest figures from [Deaths Related to Drug Poisoning in England and Wales 2014][1] revealed a 64% hike in deaths involving heroin/morphine – from 579 in 2012 to 952 deaths in 2014.\n###Deaths involving heroin and morphine similar to peak in 2001\n####Heroin and morphine deaths, 1993 to 2014, England and Wales\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc282/line/index.html\" full-width=\"false\" title=\"Heroin and morphine deaths, 1993 to 2014, England and Wales\"/>[Download the data][2]\n\nThere were a total of 3,346 registered drug poisoning deaths in 2014 - the highest since comparable records began in 1993.\n\nOf those 2,248 (67%) were due to drug misuse, involving illegal drugs.\n\nA complex number of factors such as the increased availability of heroin, price, street level purity, the age of those taking the drug and the combination of other narcotics taken can influence the number of deaths.\n\nThe number of fatal heroin/morphine overdoses each year is likely to be an underestimate, as some may have been recorded by coroners as ‘opiate overdose’ on a death certificate.\n\nSince 1993, there has been an increase in deaths where heroin is more frequently taken with other substances, from 30% in 1993 to 48% in 2014. The substances most frequently mentioned alongside heroin on death certificates are alcohol, diazepam, methadone and cocaine.\n\nBetween 2008 and 2012, deaths involving heroin and/or morphine had steadily declined; a fall which coincided with a ‘heroin’ drought’ in the UK, which reduced availability in some areas.\n\nBut by 2014, the picture was very different; global opium poppy cultivation had reached its highest level since the late 1930s, according to the United Nations in its [World Annual Drugs Report 2014][3], published in June 2015.\n###There have been recent rises in purity\nThe recent rise in heroin/morphine deaths also coincides with a fall in the purity-adjusted price of heroin; which dropped from £74.32 per gram in 2011 to £49.55 in 2013 ([United Kingdom Drug Situation][4], 2014).\n\nThere was also an increase in the street-level purity of heroin from 17% in 2012 to 29% in 2013 and 36% by 2014, according to National Crime Agency estimates. This compares with a street level purity of 46% in 2009, before the ‘drought’ period.\n\nThe recent UN World Drug Report said: “Overdoses are associated with higher drug purity”.\n\nBut purity remains one of a multitude of factors which can explain fatal heroin and morphine overdoses.\n###Most deaths involving heroin now occur among 30 to 49 year olds\n\nThis is a shift from the situation back in 1993 where deaths occurred predominantly among those in their twenties.\n\n####Drugs deaths by age, 1993 and 2014 \n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc282/cluster/index.html\" full-width=\"false\" title=\"Drugs deaths by age, 1993 and 2014Â�\"/>\n[Download the data][5]\n\nThe recent rise in heroin deaths is not confined to just England and Wales. A National Records of Scotland report, published on August 25, revealed a sharp spike in the number of deaths from heroin and morphine.\n\nMore than half of the 613 drug-related deaths in Scotland were attributed to heroin or morphine; with 309 lives lost. The figure is a 39% increase on the number of deaths from the drug in 2012.\n\nThe UN report points out that heroin related deaths in the United States of America increased sharply from 5,925 in 2012 to 8,257 in 2013 – an increase of 39%.\n###Anti-overdose drugs due to become more available\nThe risk of a fatal overdose can also be influenced by the availability of substances used to treat overdose.\n\nIn October 2015, changes to the medicines regulations will make anti-overdose drug naloxone easier to obtain.\n\nCurrently naloxone can only be supplied under prescription, therefore non-medical services (such as hostels) which may experience frequent opiate-related overdoses are not able to legally hold stocks of it to use in an emergency (ACMD report, 2012).\n\nAccording to a survey in England by Release and the National Needle Exchange Forum, one-third of local authorities are currently providing take-home naloxone to people who use drugs, as part of their efforts to prevent overdose deaths.\n\nFollowing recommendations by the World Health Organisation and the Advisory Council on the Misuse of Drugs that take-home naloxone should be made more widely available, Public Health England released an[ Public Health England advice note][6] for local authorities and local partners promoting the wider availability of naloxone to reduce overdose death from heroin and similar drugs (Public Health England, 2015).\n\n \n\n\n\n\n\n  [1]: http://www.ons.gov.uk/ons/rel/subnational-health3/deaths-related-to-drug-poisoning/england-and-wales---2014/deaths-related-to-drug-poisoning-in-england-and-wales--2014-registrations.html\n  [2]: https://static.ons.gov.uk/visual/2015/09/Heroin1.csv\n  [3]: https://www.unodc.org/documents/wdr2015/World_Drug_Report_2015.pdf\n  [4]: http://www.nta.nhs.uk/uploads/uk-focal-point-report-2014.pdf\n  [5]: https://static.ons.gov.uk/visual/2015/09/Heroin2.csv\n  [6]: http://www.nta.nhs.uk/uploads/take-home-naloxone-for-opioid-overdose-feb-2015.pdf)\n  [7]: mailto:better.info@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Deaths related to drug poisoning in England and Wales, 2014 registrations",
+      "uri": "http://www.ons.gov.uk/ons/rel/subnational-health3/deaths-related-to-drug-poisoning/england-and-wales---2014/deaths-related-to-drug-poisoning-in-england-and-wales--2014-registrations.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsinvolvingheroinupbytwothirdsintwoyears/2015-09-03",
+  "description": {
+    "title": "Deaths involving heroin up two thirds in two years",
+    "keywords": [
+      "Health",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-09-03T08:33:27.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

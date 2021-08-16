@@ -1,0 +1,71 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/leisureandtourism/articles/youngpeoplespendathirdoftheirleisuretimeondevices/2017-12-19/b7b220cc.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Young people spent more than a third of their overall leisure time – around 14 hours per week – using a device in 2015, new analysis shows.\n\nMen aged 25 and under use devices such as mobile phones, tablets, e-readers and laptops the most. Device use occupied 35% of their leisure time, whereas for women it was 29%.\n\n####Percentage of leisure time spent using a device, by age and gender\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc467v2/age_device_use/index.html\" full-width=\"false\" title=\"Percentage of leisure time spent using a device, by age and gender\"/>\n\n[Download the data.][1]\n\n\nThe highest share of time devoted to device use was when people were pursuing hobbies, computing, or playing games which is to be expected, as computing naturally requires device use. Resting had the second highest share of device use, which can include searching the web and chatting using a mobile phone.\n\nPeople in this age group are more likely to be heavier users of social media. This may explain their high use of devices compared with other age groups.\n\n####Device and leisure time use broken down by activity\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc467/activity_device_use/index.html\" full-width=\"false\" title=\"Device and leisure time use broken down by activity\"/>\n\n[Download the data.][2]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc467v2/datadownloads/device_use_by_age_and_gender.xlsx\n  [2]: https://www.ons.gov.uk/visualisations/dvc467v2/datadownloads/device_use_by_activity.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "###People are spending less leisure time being active\n\nCompared to 2000, people in 2015 spent less of their leisure time, on average, on activities like sports and cultural pursuits. The 2015 survey included the category ‘device use’ which could contribute to the difference in other leisure pursuits.\n\n[Adults aged 19 to 64 are advised by the NHS][1] to undertake a mixture of aerobic and strength exercises every week. This could include 150 minutes of aerobic activity and two days per week spent doing exercises that use all muscle groups.\n\n[In 2015 to 2016, 26% of adults in England were classified as inactive][2] (carrying out less than 30 minutes of physical activity per week). [According to the NHS][3], people in the UK are around 20% less active now than they were in the 1960s.\n\nThe NHS says this is down to varying factors like the rise of car ownership, and more recently, the popularity of sedentary activities such as playing video games and computing.\n\n\n####Percentage of leisure time that is active leisure\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc467/active_leisure_time/index.html\" full-width=\"false\" title=\"Percentage of leisure time that is active leisure\"/>\n\n[Download the data.][4]\n\n\nPeople aged 56 and over performed the smallest proportion of active leisure, however, this includes elderly people who are recommended to do fewer hours.\n\nIn terms of how these numbers have changed, people aged 46 to 55 years took a lower share of active leisure time compared to those of a similar age in 2000, the biggest decrease in any age category.\n####Change in active leisure since 2000\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc467/active_leisure_by_age/index.html\" full-width=\"false\" title=\"Change in active leisure since 2000\"/>\n\n[Download the data.][5]\n\n\n  [1]: https://www.nhs.uk/Livewell/fitness/Pages/physical-activity-guidelines-for-adults.aspx\n  [2]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/613532/obes-phys-acti-diet-eng-2017-rep.pdf\n  [3]: https://www.gov.uk/government/publications/health-matters-getting-every-adult-active-every-day/health-matters-getting-every-adult-active-every-day\n  [4]: https://www.ons.gov.uk/visualisations/dvc467v2/datadownloads/active_leisure_time_by_age.xlsx\n  [5]: https://www.ons.gov.uk/visualisations/dvc467v2/datadownloads/change_in_active_leisure_by_age.xlsx"
+    },
+    {
+      "title": "",
+      "markdown": "###Are we becoming less sociable?\n\nIn 2015, people spent an average of around six hours per week socialising – a fall of 12.7% since 2000. When compared with total leisure time available – 38 hours per week for women and 43 hours per week for men – this is a small amount of the total.\n\nComparatively, mass media consumption, for example, reading, listening to music or watching television, accounts for around half of all leisure time taken. People may be using mobile phones to socialise when they’re watching television, but it’s not necessarily face-to-face communication.\n\nIt’s possible that with increased device use, people are becoming less likely to go out of their way to meet up and socialise. Easy internet access enables people to talk to friends via social media apps, but they’re still doing so alone.\n\nThe data show that, of all leisure time spent using a device, 46% of this time is spent alone compared with 29% without a device."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/nationalaccounts/satelliteaccounts/articles/leisuretimeintheuk/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Paddington, Star Wars and the rise of the UK film industry",
+      "uri": "https://visual.ons.gov.uk/paddington-star-wars-and-the-rise-of-the-uk-film-industry/"
+    },
+    {
+      "title": "Migration since the Brexit vote: what’s changed in six charts",
+      "uri": "https://visual.ons.gov.uk/migration-since-the-brexit-vote-whats-changed-in-six-charts/"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/leisureandtourism/articles/youngpeoplespendathirdoftheirleisuretimeondevices/2017-12-19",
+  "description": {
+    "title": "Young people spend a third of their leisure time on devices",
+    "keywords": [
+      "leisure time",
+      "technology",
+      "activity",
+      "socialising"
+    ],
+    "metaDescription": "Is technology making us less sociable?  A look at how technology has influenced our leisure time",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-12-19T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Is technology making us less sociable? A look at how technology has influenced our leisure time.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

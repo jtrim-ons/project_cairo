@@ -1,0 +1,108 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/ee9305ef.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Life in England and Wales changed dramatically between 1961 and 2011, from the homes we live in to our relationships and everyday amenities.  \n\nRecently digitised data from the 1961 Census Small Area Statistics can show these changes in detail at a local level for the first time. \n\nThey also show how the picture provided by the census of people’s needs and lives has always been useful. \n\nExplore how areas compared with each other with our interactive maps and see what changed in the 50 years up to 2011. \n\n<ons-box align=\"full\">\nThis article is produced with thanks to the [2,800 volunteers who made 5.5 million checks][1] to help turn scans of the 1961 Census Small Area Statistics into digital tables.\n</ons-box>\n\n\n  [1]: https://www.zooniverse.org/projects/dataliberation/1961-census/about/research"
+    },
+    {
+      "title": "In some areas of England and Wales in 1961, more than half of homes didn’t have an inside toilet",
+      "markdown": "We take it for granted now that you have a flushing toilet at home but in 1961, indoor toilets were much less common. \n\nThe census that year asked if people had a toilet inside or attached to the home they were living in. Nearly 7% of households in England and Wales did not. \n\nOutdoor toilets could be in a separate building in the garden, or in some cases, a communal toilet for the street.  \n\nIn some rural districts, more than half of households had a toilet separate from their property. \n\nOf the 1961 districts with the highest proportion of homes without inside or attached toilets, the top 50 were all rural areas, ranging from 39% of homes without a toilet in Teifiside in Wales, to as high as 59% in the area of Mitford and Launditch in Norfolk. \n\nThe 1961 Census also asked if households had a fixed bath with waste-water plumbing. Those who didn’t have a fixed bath sometimes had a table-top or standalone bath, filled and emptied by bucket or ladle from a water heater.  \n\nYou can explore the results for both questions using the interactive maps. They display data on the map of England and Wales as it looked in 1961, so your area may look different to how it is today. The letters after place names are part of their description – a rural district (RD) is a distinct area from an urban district (UD) or a metropolitan or municipal borough (MB).\n\n####Homes without a toilet indoors or attached to the building in 1961 \n#####Explore historic census data, 1961 area boundaries\n\n<ons-interactive url=\"/visualisations/dvc1420/toilet/index.html\" full-width=\"false\" title=\"Homes without a toilet indoors or attached to the building in 1961\"/>\n\n[Data for 1961 homes without toilets (XLSX, 85KB)][1]\n\n####Homes without a fixed bath in 1961\n#####Explore historic census data, 1961 area boundaries\n\n<ons-interactive url=\"/visualisations/dvc1420/bath/index.html\" full-width=\"false\" title=\"Homes without a fixed bath in 1961\"/>\n\n[Data for homes without a fixed bath in 1961 (XLSX, 84KB)][2]\n\nThe 1961 Census also asked about access to a cooking stove, a kitchen sink and hot water, questions that were removed on the 1981 Census. But questions about inside toilets and a fixed bath remained on the census as recently as 2001. \n\n<ons-image path=\"a9382fac\"/>\n\nCensus questions about heating have also evolved. We didn’t ask about central heating until 1991, and in 2021, the census started asking about homes heated using renewable energy.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1420/toilet/data/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/visualisations/dvc1420/bath/data/datadownload.xlsx"
+    },
+    {
+      "title": "Divorce has risen tenfold and fewer people are married",
+      "markdown": "At the time of the 1961 Census, 68% of people aged 16 years and over were married and 0.8% were divorced. In the 2011 Census, this had changed to 49% of people aged 16 years and over married or in a same-sex civil partnership, and 9% divorced or in a legally dissolved civil partnership. \n\nCensuses are snapshots, so they can’t tell us how many times someone has been married or in a civil partnership but the differences between these figures for 1961 and 2011 reflect a period of stark social change. \n\nBy 2011, divorce law had become less stringent, civil partnerships for same-sex couples had existed for six years and people who were separated but legally married could record this on the census, options that were not available in 1961. To allow comparison between years, we have included separated but legally married people as “married” in 2011.\n\n####People are marrying and divorcing more in older age groups\n#####Legal partnerships by age group, 1961 and 2011\n\n<ons-interactive url=\"/visualisations/dvc1420/statusbyage/wrapper/index.html\" full-width=\"false\" title=\"Legal partnerships by age group, 1961 and 2011\"/>\n\n[Data for legal partnerships by age group, 1961 and 2011 (XLSX, 13KB)][1]\n\n#####Notes:\n1. \"Married\" for the purposes for visualisation in 2011 includes same-sex civil partnerships and people separated but still legally married or in a same-sex civil partnership.\n2. \"Divorced\" or the purposes for visualisation in 2011 includes legally dissolved same-sex civil partnerships.\n\nThe proportion of people married was lower in 2011 in almost every local area of England and Wales than 50 years previously.\n\nOnly 6 local authority areas, as they existed in 1961, saw an increase in marriage. Most of these areas, and the places that saw the smallest reduction in marriage, were rural, possibly because of communities being typically older. \n\nIn the rural district of Clitheroe in the North West, the proportion of people married at each census had gone up 8 percentage points, and in Blackburn rural district, marriage was up 4 percentage points.\n\n<ons-image path=\"70cded15\" />\n\nSince 2003, there has been a drop in divorce, both because of fewer people being married and people typically getting married later – marriages at older ages tend to be less likely to break up.\n\nWidows and widowers were slightly less common in 2011 than in 1961 (7% of people compared with 9%), but at a local level, around a fifth (17%) of local areas as they were in 1961 saw an increase in widowed people. \n\nSome of these areas also had some of the largest increases in population of people aged 75 years and over, such as Hunstanton urban district on the east coast of Norfolk.\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1420/statusbyage/data/datadownload.xlsx"
+    },
+    {
+      "title": "More people owned a home in 2011 than 50 years before",
+      "markdown": "Renting was the norm for most households in 1961. Only 42% of households owned their own home, and in several areas of central London, home ownership was lower than 10%. \n\nBy the time of the 2011 Census, 50 years on, home ownership had risen to 64%. The lowest home ownership was still in London areas, as they existed geographically in 1961, the very lowest being in the area that was the 1961 metropolitan borough of Shoreditch, at 16%. \n\n<ons-image path=\"8259f793\" />\n\nWho people rented from changed too. In 1961, 28% of households were private rented accommodation, and 24% of households rented from a local authority or New Town corporation. \n\nThese [“New Towns”][1] were part of efforts to meet housing shortages after the Second World War by building new settlements, such as Stevenage and Crawley. The developer corporations were dissolved, and rented homes handed over to local councils, which is why the category does not exist today. \n\nThe introduction of the “Right to Buy” policy in 1980 allowed council tenants to buy the home they rented and, in some instances, council housing was replaced by properties owned by private landlords.\n\nBy 2011, only 9% of homes were rented from a local authority and 15% of homes were in private rented accommodation.\n\n####Explore home ownership changes by area\n#####Tenure type by local area in England and Wales in 1961 and 2011, 1961 boundaries\n\n<ons-interactive url=\"/visualisations/dvc1420/tenure/index.html\" full-width=\"false\" title=\"Tenure type by local area in England and Wales in 1961 and 2011, 1961 boundaries\"/>\n\n[Data for tenure type by 1961 area compared with 2011 (XLSX, 185KB)][2]\n\n#####Notes:\n1. Percentages may not sum to 100%. Some housing categories not included due to lack of comparability between 1961 and 2011 censuses.\n\nIn some places, there were quite dramatic changes in tenure. In Kirkby, near Liverpool, a New Town had been built post-war to meet housing shortages. In 1961, 91% of homes in the area were owned by the council or New Town corporation. In the 2011 Census, only 15% of homes were council owned. \n\nHome ownership hasn’t risen continuously in the 50 years up to 2011. In recent years, the rising cost of housing relative to people’s income as well as the effects of the 2008 recession has seen home ownership fall.\n\n\n  [1]: https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/towns/overview/newtowns/\n  [2]: https://www.ons.gov.uk/visualisations/dvc1420/tenure/data/datadownload.xlsx"
+    },
+    {
+      "title": "The population aged and rural areas became more urbanised",
+      "markdown": "Between 1961 and 2011, the population increased and became proportionally older. This was a result of increased life expectancy and declining birth rates. \n\nIn nearly every area of England and Wales (97%), the proportion of people aged 75 years and over increased. The places with the biggest increases in residents aged 75 years and over were mostly in coastal areas of Norfolk and Suffolk. In Hunstanton (urban district), the proportion of older people increased from 6% to 23%. \n\nThere are a few exceptions, such as in some parts of Sussex and London. In what was the municipal borough of Hove, the proportion of over-75-year-olds dropped from 11% to 7% between 1961 and 2011, and in Hastings county borough it went down from 10% to 8%.\n\n####Population has aged in most areas of England and Wales\n#####Explore 1961 areas by population age bands compared with 2011\n\n<ons-interactive url=\"/visualisations/dvc1420/pyramid_map/index.html\" full-width=\"false\" title=\"Explore 1961 areas by population age bands compared with 2011\"/>\n\n[Data for 1961 areas by population age bands compared with 2011 (XLSX, 796KB)][1]\n\nAs the population grew, people needed more homes outside of city centres as they existed in 1961.\n\nSome of these were the [New Towns][2], which included new settlements built between 1961 and 2011. These include Milton Keynes and Northampton, which account for the local areas with the largest increases in population in the 50 years.  \n\nProportionally, the places with the biggest populations in England and Wales in 2011 were the same six urban districts as they were in 1961, as defined by historical 1961 boundaries: the cities of Birmingham, Manchester, Leeds, Liverpool, Sheffield and Bristol. \n\nOf those six urban centres, five also saw the biggest reductions in the proportion of the population of England and Wales they were home to between censuses. The city of Birmingham, as it was defined in 1961, went from housing 2.4% of the population to 1.7%.  \n\nPlaces that saw an increase in population proportion between censuses were generally areas that in 1961 were classed as rural districts. As cities spread, people moved and the New Towns were built, some of these previously rural districts became more urbanised. \n\nSee how the population has changed in an area using this interactive map. We’ve used the 1961 map with all of the council areas as they were then as the basis for both maps to allow comparison between the two.\n\n####Population increased in 1961 rural districts\n#####Explore 1961 area population size compared with 2011, 1961 boundaries\n\n<ons-interactive url=\"/visualisations/dvc1420/map_comparison/index.html\" full-width=\"false\" title=\"Explore 1961 area population size compared with 2011, 1961 boundaries\"/>\n\n[Data for 1961 area population size compared with 2011 (XLSX, 70 KB)][3]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1420/pyramid_map/data/datadownload.xlsx\n  [2]: https://www.parliament.uk/about/living-heritage/transformingsociety/towncountry/towns/overview/newtowns/\n  [3]: https://www.ons.gov.uk/visualisations/dvc1420/map_comparison/data/datadownload.xlsx"
+    },
+    {
+      "title": "Households have fewer people per room in 2011 than 1961",
+      "markdown": "In most areas of England and Wales, people in 2011 lived in less crowded homes than in 1961, not in terms of space, but in terms of people. \n\nPeople filling out the census in 1961 and 2011 told us how many rooms they had and how many people lived in their home. \n\nWe can use this to calculate “persons per room”, where rooms include kitchens and conservatories but not bathrooms and store cupboards or corridors. \n\nOne person per room could mean one person in a single room, or 5 people in a 5-room house.  \n\nIt can’t tell us how much space each person has – one room may be a very small studio or a large kitchen-diner – but it does tell us we’re getting more spread out in how we live as households. \n\nPossible reasons for this are wide-ranging and include new housing reducing the need for multi-generational households, people having fewer children and older people living longer in family houses. \n\nNearly every local area as they were in 1961 (over 99%) has seen an increase in the number of households in that area that have 1 person per room or less, showing households have more rooms available per person to live in.\n\n<ons-image path=\"1d535572\" />\n\nThis is particularly pronounced in Kirkby urban district, which has seen a 38 percentage point (pp) increase in households with up to 1 person per room, a 27 pp reduction in households with 1 to 1.5 persons per room, and an 11 pp reduction in households with more than 1.5 persons per room.  \n\nSome areas have bucked this trend, where homes had more people per room. In a few areas, notably East Ham (Essex) county borough, Southall (Middlesex) and Leyton (Essex) municipal boroughs, there was an increase in the percentage of households that had between 1 and 1.5 persons per room compared with 1961, and also households with more than 1.5 persons per room."
+    },
+    {
+      "title": "Be a part of it ",
+      "markdown": "This analysis is the first to be published from the Historic Censuses Digitisation Project, as part of our statistical archaeology work. Your feedback and comments would be welcomed. Understanding what interests you and how you use or interpret the analysis will assist us with the production of data stories from the 1921 Census digitised data.\n\nWe’re continuing digitisation work with our partners at the University of Salford Pattern Recognition and Image Analysis Research Lab (PRImA) who have carried out innovative research and developed software tools and workflows to enable high quality digitisation of printed tabular statistics.\n\nThe digitisation process started with optical character recognition (OCR) of over 140,000 digital images of the small area statistics outputs held by the ONS. This process recognised over 95% of the characters and numbers contained within the images.\n\nIn an effort to extract the extra 5% of characters, the PRImA team used crowdsourcing via the citizen science platform [Zooniverse][1]. Over 2,800 volunteers classified images by the submission of figures from the images presented to them, 5.5 million classifications in total.\n\nInteractives are produced with thanks to the [National Library of Scotland][2], for the use of [historical maps][3].  \n\nWe’re currently working on 1921 county and topic report tables and other census years alongside the release of 2021 data next year. To find out more, [sign up for GovDelivery updates on our historical census work][4].\n\n\n  [1]: https://www.zooniverse.org/projects/dataliberation/1961-census/about/research\n  [2]: https://maps.nls.uk/\n  [3]: https://maps.nls.uk/projects/subscription-api/\n  [4]: https://public.govdelivery.com/accounts/UKONS/subscribers/new"
+    },
+    {
+      "title": "Data sources",
+      "markdown": "The [1961 Census Small Area Statistics][1] are available in beta release on Nomis. \nFeedback on the tables and analysis is welcome using the contact details below.\n\nFor comparison, we mapped 2011 Census data onto 1961 local authority district boundaries. \n\nThe ONS Geography Portal contains [the lookup file to match 2011 Output Areas to 1961 local authority districts][2] and [the 1961 local authority district boundaries][3]. \n\n\n  [1]: https://www.ons.gov.uk/census/2001censusandearlier/1961censussmallareastatistics\n  [2]: https://geoportal.statistics.gov.uk/datasets/output-areas-2011-to-local-authority-districts-1961-lookup-in-england-and-wales/about\n  [3]: https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_CEN_1961)"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [
+    {
+      "title": "Marriage status by age from the 1961 microfilm printout for Hammersmith",
+      "filename": "70cded15",
+      "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/70cded15"
+    },
+    {
+      "title": "Density of persons per rooms, 1961 microfilm printout for Kirkby district",
+      "filename": "83c2aba1",
+      "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/83c2aba1"
+    },
+    {
+      "title": "Housing tenure in Hammersmith, 1961 microfilm printout",
+      "filename": "8259f793",
+      "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/8259f793"
+    },
+    {
+      "title": "Household amenities, 1961 microfilm printout for Hammersmith",
+      "filename": "a9382fac",
+      "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/a9382fac"
+    },
+    {
+      "title": "Persons per room in Hammersmith, 1961 microfilm printout",
+      "filename": "1d535572",
+      "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09/1d535572"
+    }
+  ],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/censusunearthedexplore50yearsofchangefrom1961/2021-08-09",
+  "description": {
+    "title": "Census unearthed: explore 50 years of change from 1961",
+    "keywords": [
+      "census",
+      "1961 small area statistics",
+      "historic",
+      "census unearthed",
+      "historic census digitisation",
+      "digitisation",
+      "inside toilets"
+    ],
+    "metaDescription": "Article exploring ways in which how we live has changed in the 50 years between 1961 and 2011, presenting insights from the 1961 Census small area statistics compared with census data from 2011.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "census.historical.research@ons.gov.uk",
+      "name": "Amy Boyson",
+      "telephone": ""
+    },
+    "releaseDate": "2021-08-08T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "From having an inside toilet to how many of us are married, newly digitised data show how the ways we live changed from 1961 to 2011. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

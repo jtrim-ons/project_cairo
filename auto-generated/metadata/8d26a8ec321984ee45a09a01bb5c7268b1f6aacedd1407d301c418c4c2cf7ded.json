@@ -1,0 +1,64 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Social care and the money spent on it is a hot topic, especially now as we have a rapidly ageing population and a [higher life expectancy][1].\n\nAs people get older, not only are they generally more reliant on health services like the NHS for medical treatment; they also require ongoing care. At age 65 a man will spend, on average, 44% of the rest of his life in poorer health, and a woman, 47% of her life.\n\n####Life expectancy at age 65, UK, 2013 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc415/stackedbar1/index.html\" full-width=\"false\" title=\"Life expectancy at age 65, UK, 2013 to 2015\"/>\n\n[Download the data.][2]\n\nSpend on social care in England has decreased in real terms (adjusted for inflation)  since 2009 to 2010, when it was at its highest. The total spend on social care came to [just under £17 billion last financial year][3], according to the Health and Social Care Information Centre (HSCIC). This is even lower than spend in 2005 to 2006 (£17.2 billion in real terms).\n\n####Spend on social care, England, 2005 to 2016\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc415/line_chart/index.html\" full-width=\"false\" title=\"Spend on social care, England, 2005 to 2016\"/>\n\n[Download the data.][4]\n\nIn Wales, [spend on adult care][5] was £1.4 billion in 2015 to 16 but it has gradually increased over time. In Scotland, the latest figures available, for 2013 to 2014, show spend on adult care was [£2.9 billion][6] annually^1^.\n\nWhile debate has focused on social care funding, much less is known about those people who end up working as carers for their family members. Unpaid adult carers in the UK provide care worth an [estimated £56.9 billion a year][7], in 2014, meaning it could cost this much to replace them with paid carers.\n###Who are the carers?\nDuring the 2015 to 2016 financial year, 8% of the UK's private household population were \"informal carers\" for someone, according to [survey data][8] from the Department for Work and Pensions. Nearly two-thirds (59%) of these carers were females. Half of adult carers were employed either part-time or full-time and nearly a third (29%) said they spent 35 hours or more a week as an informal carer.\n\nThese data refer to caring that is \"not prescriptively defined but includes activities such as going shopping for someone and helping with paperwork\".\n\nWhile ONS doesn’t have data that directly compares to this, we know that counting \"active\" caring - the amount of time spent washing, replacing bandages, etc - looks different. Women over 50 (regardless of whether they were a carer or not), spent on average, 1 minute and 15 seconds actively caring for someone each day. Men of the same age spent just 45 seconds on average each day.\n\nThese figures show that both men and women over 50 [increased the amount][9] they spent on care by 15% and 21% respectively, between 2000 and 2015, which illustrates a growing need for care resources.\n\n####Change in time spent providing adult care by over 50s, UK, between 2000 and 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc415/barhorizontal/index.html\" full-width=\"false\" title=\"Change in time spentÂ� providing adult care by over 50s, UK, between 2000 and 2015\"/>\n\n[Download the data.][10]\n###How many years do people spend providing unpaid care over their lifetime?\nWe can estimate the average amount of life spent as an unpaid carer using census data and life expectancy data.\n\nWhen women reach 50, they are likely to spend 5.9 years of their remaining life as unpaid carers. At 65, they spend 2.6 years as unpaid carers. In contrast, men at 50 are likely to spend 4.9 years of their remaining life as an unpaid carer and at age 65, it’s 2.7 years.\n\n####Unpaid care likelihood, England, 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc415/isotype/index.html\" full-width=\"false\" title=\"Unpaid care likelihood, England, 2011\"/>\n\n[Download the data.][11]\n\nCompare this to the likely time spent working, though, and it looks different. In 2010, 50-year-old men were anticipated to work 12.47 years compared with women of the same age, who were anticipated to work 9.8 years. At 65 it is 1.8 years for men and just 1 year for women.\n\n\n\nOther Visual.ONS articles:\n\n[Women shoulder the responsibility of unpaid work][12]\n\n[Care home population stabilises as unpaid carer population increases][13]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][14] to our email alerts, selecting \"stories and infographics\" under preferences.\n\n\n\nFor more information, please contact us via email at <hhsa@ons.gov.uk>.\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howhaslifeexpectancychangedovertime/2015-09-09\n  [2]: https://static.ons.gov.uk/visual/2017/07/lifeexpectancyage65.csv\n  [3]: http://content.digital.nhs.uk/searchcatalogue?productid=23352&topics=0%2fSocial+care&sort=Relevance&size=10&page=1#top\n  [4]: https://static.ons.gov.uk/visual/2017/07/socialcarespending.csv\n  [5]: https://statswales.gov.wales/Catalogue/Local-Government/Finance/Revenue/Social-Services/socialservicesrevenueexpendituresubjectiveanalysis-by-authority\n  [6]: http://www.gov.scot/Publications/2015/03/5885\n  [7]: https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/compendium/householdsatelliteaccounts/2005to2014/chapter3homeproducedadultcareservices#gross-value-added-of-informal-adult-care\n  [8]: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/600465/family-resources-survey-2015-16.pdf\n  [9]: https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/articles/changesinthevalueanddivisionofunpaidcareworkintheuk/2000to2015#changes-in-the-division-of-unpaid-care-between-2000-and-2015-part-2-adult-care\n  [10]: https://static.ons.gov.uk/visual/2017/07/timespentchange.csv\n  [11]: https://static.ons.gov.uk/visual/2017/07/unpaidcareexpectancy.csv\n  [12]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [13]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/articles/carehomepopulationstabilisesasunpaidcarerpopulationincreases/2015-06-08\n  [14]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n\n\n####Footnotes:\n\n1. Data on adult social care expenditure for Northern Ireland is not available as figures are not broken down in a comparable way."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Gross value added of informal adult care",
+      "uri": "https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/compendium/householdsatelliteaccounts/2005to2014/chapter3homeproducedadultcareservices#gross-value-added-of-informal-adult-care"
+    },
+    {
+      "title": "Changes in the division of unpaid care between 2000 and 2015",
+      "uri": "https://www.ons.gov.uk/economy/nationalaccounts/satelliteaccounts/articles/changesinthevalueanddivisionofunpaidcareworkintheuk/2000to2015#changes-in-the-division-of-unpaid-care-between-2000-and-2015-part-2-adult-care"
+    },
+    {
+      "title": "Unpaid Care Expectancy",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-362591"
+    },
+    {
+      "title": "Working Life Expectancy",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/pensions/pension-trends/chapter-4--the-labour-market-and-retirement--2013-edition/art-pt2013ch4.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/unpaidcarersprovidesocialcareworth57billion/2017-07-10",
+  "description": {
+    "title": "Unpaid carers provide social care worth £57 billion",
+    "keywords": [
+      "Employment and Labour Market",
+      "People, Population and Community"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-07-10T08:29:13.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

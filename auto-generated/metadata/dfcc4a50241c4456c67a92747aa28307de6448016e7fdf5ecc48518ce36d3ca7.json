@@ -1,0 +1,59 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/inflationandpriceindices/articles/areyourwageskeepingupwithinflation/2017-06-20/f19cc350.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Inflation is the rate at which the cost of goods and services rises year-on-year. In order to be able to buy the same amount of goods, your salary must increase by at least the same level as inflation.\n\nWhere the inflation rate outstrips wage increases, you lose money in real terms. You need to spend a higher proportion of your wages to buy the same goods, so your living costs increase.\n\nWhere your wage grows at a higher rate than inflation, you have gained money in real terms. You can buy the same goods for a lower proportion of your wages, effectively enjoying a higher standard of living.\n###How does your salary increase compare with the change in inflation?\nUse this calculator to find out:\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc409/calc/index.html\" full-width=\"false\" title=\"What should your next pay rise be?\"/>\n\n\n\nNote: This interactive is an illustrative example and should not be used to make financial decisions.\n\n\n\nFor more information, contact: <labour.market@ons.gov.uk>\n\n\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "UK consumer price inflation",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/latest"
+    },
+    {
+      "title": "UK labour market",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/inflationandpriceindices/articles/areyourwageskeepingupwithinflation/2017-06-20",
+  "description": {
+    "title": "Are your wages keeping up with inflation?",
+    "keywords": [
+      "Economy",
+      "Earnings",
+      "Employment",
+      "Wages",
+      "Inflation"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-06-20T11:29:23.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Use our calculator to find out if your salary is keeping pace with inflation.\n",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

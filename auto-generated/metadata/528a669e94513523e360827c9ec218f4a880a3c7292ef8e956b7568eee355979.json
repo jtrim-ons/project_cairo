@@ -1,0 +1,63 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/whichjobsaremostlikelytohaveseenadropinpayduringthepandemic/2021-03-05/4836453c.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<a href=\"https://www.ons.gov.uk/visualisations/dvc1227/index.html\"><div style = \"background-color:#206095;\"> \n<h3 style=\"color:#fff;padding:30px 20px 0 20px;\">Which jobs are most likely to have seen a drop in pay during the pandemic? </h3>\n<p style=\"color:#fff;padding:0 20px 0px 20px;\"> We examine which jobs were more likely to be furloughed or experience reduced working hours in April 2020</p> <img src=\"https://www.ons.gov.uk/resource?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/whichjobsaremostlikelytohaveseenadropinpayduringthepandemic/2021-03-05/35a6831a.png\" alt=\"\" style=\"width:100%;\"/>\n</div>\n</a>\n<br/>\n<a style=\"font-weight:bold;\" href=\"https://www.ons.gov.uk/visualisations/dvc1227/index.html\">Read Which jobs are most likely to have seen a drop in pay during the pandemic?</a>\n<br/>\n<br/>\n\n\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/occupationandjobvulnerabilitygroupswithpaydetail"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [
+    {
+      "title": "Which jobs have seen a pay drop during the pandemic?",
+      "filename": "35a6831a",
+      "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/whichjobsaremostlikelytohaveseenadropinpayduringthepandemic/2021-03-05/35a6831a"
+    }
+  ],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/whichjobsaremostlikelytohaveseenadropinpayduringthepandemic/2021-03-05",
+  "description": {
+    "title": "Which jobs are most likely to have seen a drop in pay during the pandemic? ",
+    "keywords": [
+      "Coronavirus",
+      "COVID-19",
+      "Employment",
+      "earnings",
+      "furlough",
+      "pay"
+    ],
+    "metaDescription": "Jobs less likely to include key workers and with less ability to work from home were more likely to be furloughed or work reduced hours in April 2020 ",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-03-05T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Jobs less likely to include key workers and with less ability to work from home were more likely to be furloughed or work reduced hours in April 2020 ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

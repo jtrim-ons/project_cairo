@@ -1,0 +1,59 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "From the onset of the Industrial Revolution, working men and women have been withholding their labour as a means of bargaining for better pay and conditions.\n\nA widespread workers' consciousness formed in the UK from the peak of the Chartist movement in the 1830s, leading to a wave of strikes in 1842. Those strikes have been viewed as the first time that a large body of workers organised themselves in a politically-motivated action to win concessions.\n\nHowever, official statistics on strikes weren't collected until 1891. Since that time, strikes have become a frequent fixture in industrial relations in the UK, sometimes changing the landscape of our society.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc277/line_chart/index.html\" full-width=\"false\" title=\"Working days lost\"/>\n\n[Download the data][1]\n\n \n\n \n\n\n\n\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/09/Labour-Disputes.csv\n  [2]: mailto:labour.market@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Labour Market Disputes",
+      "uri": "http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/november-2015/statistical-bulletin.html#tab-7--Labour-disputes--not-seasonally-adjusted-"
+    },
+    {
+      "title": "Five facts about strikes",
+      "uri": "https://visual.ons.gov.uk/five-facts-about-strikes/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/thehistoryofstrikesintheuk/2015-09-21",
+  "description": {
+    "title": "The history of strikes in the UK",
+    "keywords": [
+      "Business, industry and trade",
+      "Employment and labour market",
+      "People, population and community",
+      "Strikes",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-09-21T01:25:20.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

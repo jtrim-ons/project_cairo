@@ -1,0 +1,60 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/mappingincomedeprivationatalocalauthoritylevel/2021-05-24/96c97858.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<div style=\"background-image:url('https://www.ons.gov.uk/visualisations/dvc1371/img/map.png'); margin-bottom:30px;\">\n<a href=\"https://www.ons.gov.uk/visualisations/dvc1371/\">\n<h3 style=\"color:#fff;padding:30px 20px 0 20px;text-decoration:underline;\">Exploring local income deprivation</h3>\n<p style=\"color:#fff; margin-bottom:16px; text-decoration:underline; padding:0 20px 0px 20px;\">Read our new interactive article</p>\n<img src=\"https://www.ons.gov.uk/visualisations/dvc1371/img/data-chart.png\" alt=\"\" style=\"display:block; margin-left:auto;margin-right:auto;padding-bottom:15px;\" width=\"117\">\n</a>\n</div>"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/mappingincomedeprivationatalocalauthoritylevel"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/regionalaccounts/grossdisposablehouseholdincome/articles/mappingregionaldifferencesinproductivityandhouseholdincome/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/mappingincomedeprivationatalocalauthoritylevel/2021-05-24",
+  "description": {
+    "title": "Mapping income deprivation at a local authority level",
+    "keywords": [
+      "income deprivation",
+      "IMD",
+      "LSOA",
+      "local authority",
+      "subregional"
+    ],
+    "metaDescription": "showing disparities in income deprivation both between and within local authority areas in England to a neighbourhood level (LSOA), based on data from the Index of Multiple Deprivation (IMD).",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "subnational@ons.gov.uk",
+      "name": "Richard Prothero",
+      "telephone": "+44 (0)1329 447816"
+    },
+    "releaseDate": "2021-05-23T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore disparities in income deprivation both between and within local authority areas in England",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

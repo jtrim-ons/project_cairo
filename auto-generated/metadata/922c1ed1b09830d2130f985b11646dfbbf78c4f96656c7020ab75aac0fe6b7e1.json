@@ -1,0 +1,64 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<ons-box align=\"full\">\nThis calculator does not contain the latest data. The latest version can be found in [What is my life expectancy and how might it change?](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whatismylifeexpectancyandhowmightitchange/2017-12-01)\n</ons-box>\n\nPeople are living longer. On average, people aged 55 today will live to their mid-to-late 80s. Around 1 in 10 men and 1 in 5 women this age will live to 100 – and receive their telegram from The Queen.\n\nBeing more informed about how much longer you potentially have to live is no bad thing, especially when it comes to financial planning. Enter your details below in our calculator and find out your life expectancy, your chance of living to 100... and how long you’ll likely need to make your pension pot last.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc221/longevity.html\" full-width=\"true\"/>\n \n\n\nIf you like our visual.ONS content and would like to see more, please [sign up](https://public.govdelivery.com/accounts/UKONS/subscribers/new) to our email alerts, selecting 'stories and infographics' under preferences.\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Plan how long your pension needs to last",
+      "uri": "https://www.pensionwise.gov.uk/making-money-last?utm_source=https://visual.ons.gov.uk/how-long-will-my-pension-need-to-last&utm_medium=referral"
+    },
+    {
+      "title": "What is life expectancy?",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/method-quality/specific/population-and-migration/demography/guide-to-period-and-cohort-life-expectancy/index.html"
+    },
+    {
+      "title": "Historic and Projected Data from the Period and Cohort Life Tables",
+      "uri": "http://www.ons.gov.uk/ons/rel/lifetables/historic-and-projected-data-from-the-period-and-cohort-life-tables/2012-based/index.html"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howlongwillmypensionneedtolast/2015-03-27",
+  "description": {
+    "title": "How long will my pension need to last?",
+    "keywords": [
+      "Economy",
+      "People,population and community",
+      "Life expectancy",
+      "Pensions",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-03-27T10:31:10.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

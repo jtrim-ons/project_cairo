@@ -1,0 +1,81 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "This article presents some key data on the UK economy and UK economic policy from 1980 until the present day, and covers three themes – economic output and trade, inflation and interest rates and public sector finances (deficits and debts).\n\nOther economic aspects have been covered elsewhere in the [UK Perspectives series][1], which presents an overview of the social and economic changes that have occurred in the UK over the last three decades.\n##Economic output and trade\n<ons-box align=\"full\">Gross Domestic Product (GDP) is a measure of the economic output produced by a country. Real GDP is GDP in real or constant price terms; that is, GDP adjusted for price changes.</ons-box>\n###The UK economy has returned to growth\n####Real GDP growth year-on-year, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart1/Economy_Chart1.html\" full-width=\"false\" title=\"Real GDP growth year-on-year, UK, 1980 to 2014\"/>\n\n[Download the data.][2]\n\nReal GDP in the UK has typically increased every year, although there have been three downturns in the economy since 1980. After the downturn in the early 1990s, the UK economy experienced sixteen consecutive years of growth before output fell in 2008 and 2009. From 2010, output has been growing again – regaining pre-downturn levels in the third quarter of 2013. Over the period 1980 to 2014, real GDP growth has averaged 2.2% per year.\n\n####Real GDP per head, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart2/Economy_Chart2.html\" full-width=\"false\" title=\"Real GDP per head, UK, 1980 to 2014\"/>\n\n[Download the data.][3]\n\nThe rate of growth in UK real GDP has exceeded the rate of growth in UK population since 1980, with UK GDP per head 87% higher in 2014 than in 1980. The impact of the economic downturn in 2008 and 2009 can be seen, however, by the fact that GDP per head in 2014 remained below the 2007 level.\n###UK productivity levels remain subdued\n<ons-box align=\"full\">Productivity is one of the most important drivers of economic growth. When productivity increases, more is produced with the same amount of inputs; for example, with the same amount of hours worked. This section focuses on labour productivity defined as output per hour worked.</ons-box>\n\n####Output per hour worked growth year-on-year, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart3/Economy_Chart3.html\" full-width=\"false\" title=\"Output per hour worked growth year-on-year, UK, 1980 to 2014\"/>\n\n[Download the data.][4]\n\nLabour productivity grew by an average 1.8% per year during 1980 to 2013. Productivity declined sharply in 2009 during the economic downturn. Growth in productivity was also negative in 2012 and 2013, reflecting that labour market input was rising faster than GDP growth, despite the fact that GDP was once again growing by this time.\n\nThis recent weakness of UK labour productivity relative to its longer term trend has been labelled the ‘productivity puzzle'.\n###The UK has run a trade deficit since 1998\n<ons-box align=\"full\">Trade balance equals exports minus imports. A country has a trade surplus if it exports more than it imports (positive trade balance). A trade deficit occurs if a country imports more than it exports (negative trade balance).</ons-box>\n\n####Imports, exports and trade balance, UK, 1980 to 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart4/Economy_Chart4.html\" full-width=\"false\" title=\"Imports, exports and trade balance, UK, 1980 to 2014\"/>\n\n[Download the data.][5]\n\nInternational trade can benefit consumers and producers, providing them with a wider range of goods and services and with more export opportunities. In the UK, both imports and exports have been growing over time, but imports have been higher than exports since the late 1990s – meaning the UK has been running a trade deficit. The last time the UK ran a trade surplus was in 1997.\n\nThe UK balance of trade can be looked at in more detail by breaking it down into goods and services. The UK tends to run a deficit on its trade in goods (imports of goods exceed exports of goods), but a surplus on its services (exports of services exceed imports of services) balance of trade.\n##Inflation and interest rates\n<ons-box align=\"full\">The Bank of England is responsible for price stability in the UK. The inflation rate measures the rate at which the average prices of goods and services change, and the Bank of England’s goal is to maintain this rate close to a target that ensures price stability. This target is 2%. Inflation more than 1 percentage point above or below this target requires the Governor of the Bank of England to write an open letter to the Chancellor. To measure the inflation rate the Bank uses the Consumer Prices Index (CPI). The CPI is calculated using the prices of a specific ‘shopping basket’ of items that’s representative of consumer spending patterns on items such as energy, food and clothing.</ons-box>\n###The inflation rate currently stands at 0.1%\n####Inflation rate, January 1989 to May 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart5/Economy_Chart5.html\" full-width=\"false\" title=\"Inflation rate, January 1989 to May 2015\"/>\n\n[Download the data.][6]\n\nIn May 2015, the inflation rate rose to 0.1% from -0.1% in the previous month. An annual fall in prices is often referred to as \"negative inflation\" or \"deflation\". Based on comparable historic estimates, the last time the UK saw consumer price deflation prior to April 2015 was in the year to March 1960, when prices fell by an estimated 0.6%. The inflation rate has exceeded 3% during five periods since 2003; the highest rate observed being 5.2% in September 2008 and September 2011.\n###Interest rates are also at record low levels\n<ons-box align=\"full\">The Bank of England is responsible for maintaining price stability (controlling inflation) – it does so primarily by setting the ‘base’ interest rate.</ons-box>\n\n####Bank of England interest rates, 1st January 1980 to 6th July 2015^1^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart6/Economy_Chart6.html\" full-width=\"false\" title=\"Bank of England interest rates, 1st January 1980 to 6th July 2015^1^\"/>\n\n[Download the data.][7]\n\nThe primary method that the Bank of England uses to maintain price stability is the interest rate at which it lends to financial institutions. This rate affects the rates set by other financial institutions, including lending rates offered to businesses and individuals.\n\nThe official bank rate has been 0.5% since March 2009, which is very low compared to historic trends. A low interest rate can have a positive impact on the economy, because it reduces the cost of borrowing and makes savings less attractive – so people invest and consume more.\n##Public sector finances (deficits and debts)\n<ons-box align=\"full\">If government spending is higher than income, it’s operating what is known as a budget deficit. Public Sector Net Borrowing excluding public sector banks (PSNB ex) is the most widely accepted measure of the overall government budget deficit (or surplus).</ons-box>\n###The UK deficit has been typically positive since 1980\n####UK government deficit, financial year ending 1981 to financial year ending 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart7/Economy_Chart7.html\" full-width=\"false\" title=\"UK government deficit, financial year ending 1981 to financial year ending 2014\"/>\n\n[Download the data.][8]\n\nGovernment expenditure has been larger than government income for most years since 1980, which is why the UK deficit has been typically positive since 1980.\n\nIn the financial year ending 2009, the deficit rose sharply following the global financial shock, peaking the following financial year at £153 billion. Government spending for the latest full financial year ending 2014 was £97.3 billion higher than government receipts.\n###UK government debt as a percentage of GDP is rising\n<ons-box align=\"full\">The level of government debt indicates how much the government owes in total. It's an accumulation of each year’s budget deficit, and the government must pay interest payments on this debt. The rate of interest is determined by different factors, including the credibility of the government to pay back and service its debt and market interest rates. Interest rates on UK government debt are currently very low.</ons-box>\n\n####UK government debt as a percentage of GDP, financial year ending 1980 to financial year ending 2014\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart8/Economy_Chart8.html\" full-width=\"false\" title=\"UK government debt as a percentage of GDP, financial year ending 1980 to financial year ending 2014\"/>\n\n[Download the data.][9]\n\nThe government has operated a budget deficit most financial years since the financial year ending 1981. As a consequence, the total level of debt has also risen in almost every year since that time. In the financial year ending 2008, prior to the economic downturn, the level of debt was £558bn. By the financial year ending 2014, it had risen to £1402bn.\n\nThe level of debt is often expressed as a percentage of GDP. Debt ranged between 24.2% and 45.6% of GDP over the period financial year ending 1981 to financial year ending 2008. In the financial year ending 2014, it reached 79.1% of GDP.\n\n####Interest payments on public sector debt as a percentage of government expenditure, UK, financial year ending 1981 to financial year ending 2014 ^2^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc234/Economy_Chart9/Economy_Chart9.html\" full-width=\"false\" title=\"Interest payments on public sector debt as a percentage of government expenditure, UK,Â� financial year ending 1981 to financial year ending 2014Â� ^2^\"/>\n\n[Download the data.][10]\n\nThe size of the government debt affects the size of government interest repayments. As with other types of debt, the cost of interest repayments is affected both by the size of the debt and also by the interest rate. Relatively low interest rates explain why debt interest payments as a share of government expenditure since financial year ending 2009 have remained below the share seen in the mid to late 1990s, despite the high levels of the overall debt.\n\n\n  [1]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/\n  [2]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart2.csv\n  [4]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart3.csv\n  [5]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart4.csv\n  [6]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart5.csv\n  [7]: https://static.ons.gov.uk/visual/2015/07/Economy_Chart6.csv\n  [8]: https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-7-deficit.csv\n  [9]: https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-8-debt.csv\n  [10]: https://static.ons.gov.uk/visual/2015/02/UKP-Economy-Fig-9-debt-interest.csv\n\n\n###Footnotes:\n1. Figures used in chart: Minimum Lending Rate, 1972 to 1981; Minimum Band 1 Dealing Rate, 1981 to 1996; Repo Rate, 1997 to 2005; Official Bank Rate, 2006 onwards.\n2. The total amount that the government spends is known as Total Managed Expenditure"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Quarterly national accounts",
+      "uri": "http://www.ons.gov.uk/ons/rel/naa2/quarterly-national-accounts/index.html"
+    },
+    {
+      "title": "Economic review",
+      "uri": "http://www.ons.gov.uk/ons/rel/elmr/economic-review/index.html"
+    },
+    {
+      "title": "Labour productivity",
+      "uri": "http://www.ons.gov.uk/ons/rel/productivity/labour-productivity/q3-2014/stbq314.html"
+    },
+    {
+      "title": "International comparisons of productivity",
+      "uri": "http://www.ons.gov.uk/ons/rel/icp/international-comparisons-of-productivity/2013---final-estimates/stb-icp0215.html"
+    },
+    {
+      "title": "Public sector finances",
+      "uri": "http://www.ons.gov.uk/ons/rel/psa/public-sector-finances/index.html"
+    },
+    {
+      "title": "Public sector finances - longer term trends",
+      "uri": "http://www.ons.gov.uk/ons/rel/elmr/longer-term-trends/public-sector-fianaces/art-ltt-psf.html"
+    },
+    {
+      "title": "Public sector finances - a glossary",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/public-sector-finances/public-sector-finances---glossary/index.html"
+    },
+    {
+      "title": "A glossary of economic terms",
+      "uri": "http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/glossary-of-key-economic-terms/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/economicoutputandproductivity/productivitymeasures/articles/trendsintheukeconomy/2015-02-27",
+  "description": {
+    "title": "Trends in the UK economy",
+    "keywords": [
+      "Economy",
+      "UK perspectives",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-02-27T09:29:42.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,53 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "####May 8th 2015 is the anniversary of VE Day (Victory in Europe Day), marking 70 years since the end of the Second World War in Europe. We’ve pulled together a range of data to show how the war affected life in the UK, and how the country has changed since then.\n\n\n\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/HU_041808.jpg\"/>](https://static.ons.gov.uk/visual/2015/05/HU_041808.jpg)\n\n© IWM. Crown Copyright\n##World War II had a big impact on marriage\n####Annual number of marriages and divorces, England and Wales, 1931 to 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc246/mar_div/mar_div.html\" full-width=\"false\" title=\"Annual number of marriages and divorces, England and Wales, 1931 to 2011\"/>[Download the data](https://static.ons.gov.uk/visual/2015/05/marriages_divorces_data.csv)\n\nThe sharp increase in marriages observed around 1940 can be attributed to the start of the Second World War. The number of males aged under 20 and 20 to 24 marrying increased by 77% and 48% respectively between 1938 and 1940. Following this rise, the number of marriages declined during the war period of 1941 to 1943 but began to rise again towards the end of the war.\n\nThe number of divorces generally increased between 1932 and the early 1990s as a result of changes in behaviour and attitudes. The large increase in the late 1940s (following the end of the Second World War) is considered to be because of women’s increased participation in the labour force which meant couples were no longer as financially dependent on each other.\n\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/EA_065799.jpg\"/>](https://static.ons.gov.uk/visual/2015/05/EA_065799.jpg)\n\n© IWM. Crown Copyright\n##Births peaked after the war and created the generation known as the 'baby boomers'\n####Annual number of births and deaths, England and Wales, 1931 to 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc246/birth_death/birth_death.html\" full-width=\"false\" title=\"Annual number of births and deaths, England and Wales, 1931 to 2011\"/>[Download the data](https://static.ons.gov.uk/visual/2015/05/births_deaths_data.csv)\n\nThe number of live births and the total fertility rate (TFR) fluctuated throughout the twentieth century with a sharp peak soon after the end of World War II, in 1947.  Live births peaked again in 1964 (875,972 births), but since then lower numbers have been recorded. The lowest annual number of births in the twentieth century was 569,259 in 1977. The number of births is dependent on both fertility rates and the size and age structure of the female population.\n\nThe chart shows a relatively small increase in deaths during WW2, this is because ONS doesn't have records for the significant loss of life by the armed forces overseas. The increase was mainly due to rising infant mortality at the time.\n\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/population-2.png\"/>](https://static.ons.gov.uk/visual/2015/05/population-2.png)\n\n© IWM. Crown Copyright\n##Adoptions rose during and after the war\n####Annual number of adoptions, England and Wales, 1931 to 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc246/adopt/adopt.html\" full-width=\"false\" title=\"Annual number of adoptions, England and Wales, 1931 to 2011\"/>[Download the data](https://static.ons.gov.uk/visual/2015/05/adoptions_data.csv)\n\nAdoptions increased during the war and peaked after the war in 1946. This is likely due to the introduction of the Children Regulations Act in 1943, formalising the process of adoption.\n\n[<img src=\"https://static.ons.gov.uk/visual/2015/05/D_001442.jpg\"/>](https://static.ons.gov.uk/visual/2015/05/D_001442.jpg)\n\n© IWM. Crown Copyright\n##Life expectancy increased after the war\n####Life expectancy, England and Wales, 1931 to 2011\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc246/life_exp/life_exp.html\" full-width=\"false\" title=\"Life expectancy, England and Wales, 1931 to 2011\"/>[Download the data](https://static.ons.gov.uk/visual/2015/05/life_expectancy_data.csv)\n\nLife expectancy fell in 1940 because of the effect of the war on the civilian population. For instance, many armed forces were conscripted overseas. After the war life expectancy continued to increase partly due to improvements in infant mortality and childhood immunisation.\n\nLife expectancy at birth in 1931 was 57.8 years for males and 61.8 years for females. This has risen to 80.1 years and 83.8 years respectively in 2015. However, female life expectancy has been consistently higher than male life expectancy throughout the period 1931-2015. It is worth noting that 2013, 2014, 2015 are projections.\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "VE Day 70th anniversary events",
+      "uri": "https://www.gov.uk/government/topical-events/ve-day-70th-anniversary"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/articles/victoryineuropedayhowworldwariichangedtheuk/2015-05-08",
+  "description": {
+    "title": "Victory in Europe Day: How World War II changed the UK",
+    "keywords": [
+      "People,population and community",
+      "Marriages",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-05-08T10:52:34.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

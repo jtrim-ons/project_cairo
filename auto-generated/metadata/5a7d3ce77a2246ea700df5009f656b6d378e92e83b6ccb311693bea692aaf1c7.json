@@ -1,0 +1,60 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "People are living longer than ever before. Newborn boys in England in 2013 to 2015 could expect to live until 80 years old, while baby girls were likely to reach their 83rd birthday. \n\nHowever, these children are likely to spend at least 20% of their lives in poorer health. Boys born in 2013 to 2015 will enjoy just 63 years of good health on average, while girls can expect 64 healthy years.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/chart/stackedbar/index.html\" full-width=\"false\" title=\"Boys born in 2013 to 2015 will enjoy just 63 years of good health on average, while girls can expect 64 healthy years\"/>\n\n[Download the data.][1]\n\nAs we continue to both work and live longer, how long we will spend in good health, our healthy life expectancy, becomes increasingly important. The State Pension age is expected to [rise towards 70][2] in the future, so there will be an onus on people to maintain good health until older ages. \n\nThat said, the picture varies significantly by area. For example, boys and girls born in Wokingham in 2013 to 2015 could expect to live 70 years in good health, whereas in Manchester they are only likely to be in good health for 56 years.\n\nWhat are the reasons behind these differences? Which factors have the greatest impact on an area’s healthy life expectancy?\n\n[ONS][3] has taken data from [Public Health England][4] and its own [Annual Population Survey][5] to analyse these impacts in England.\n\n\n\n###Smoking\nDespite falling [popularity][6], smoking remains the primary cause of preventable death in England. Around 79,000, or one in six, deaths were linked to smoking in 2015. \n\nAreas with higher numbers of smokers generally have a lower healthy life expectancy. For example, people in Hull are nearly three times more likely to smoke than in Wokingham. Healthy life expectancy in Hull is around 15 years shorter than in Wokingham for both men and women. \n\nWhat could happen to an area's healthy life expectancy if the number of smokers changed? Move the slider to find out.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/sliders/smoking/index.html\" full-width=\"false\" title=\"Healthy life expectancy - Smoking slider\"/>\n\nHow does this slider work?^1^\n\n[Download the data.][7]\n\nSource: [Annual Population Survey][8], ONS\n###Alcohol\nThe harmful effects of drinking alcohol can be measured using alcohol-related hospital admissions, which are far more common in some areas than others. There were more than 1,200 alcohol-related hospital admissions per 100,000 people in Blackpool, nearly 200 per 100,000 more than anywhere else in England. Neither men nor women in Blackpool are expected to live 60 years in good health. In contrast, there were fewer than 400 admissions per 100,000 people in Wokingham, the lowest in England.\n\nAlcohol-related hospital admissions reflect the underlying harmful drinking behaviour of an area, so tend to be higher in areas with lower healthy life expectancy. What could happen to an area's healthy life expectancy if the rate of alcohol-related hospital admissions changed? Move the slider to find out.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/sliders/alcohol/index.html\" full-width=\"false\" title=\"Healthy life expectancy - Alcohol slider\"/>\n\n[Download the data.][9]\n\nSource: [Public Health England][10]\n###Diet\nMore than half of the English population successfully met the government guideline of five portions of fruit and vegetables per day in 2015.\n\nAreas with a greater percentage of healthy eaters have a higher healthy life expectancy. More than 60% of people living in Rutland, an area in the East Midlands, reported consuming at least five a day in 2015. On the other hand, nearly two in every three Liverpudlians failed to meet the guideline. Healthy life expectancy in Rutland is roughly 13 years longer than in Liverpool.\n\nWhat could happen to an area's healthy life expectancy in the future if the number of people consuming at least five fruit and vegetables per day changed? Move the slider to find out.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/sliders/diet/index.html\" full-width=\"false\" title=\"Healthy life expectancy - diet slider\"/>\n\n[Download the data.][11]\n\nSource: [Public Health England][12]\n###Physical activity\nAs well as maintaining a healthy diet, the government recommends at least 150 minutes of moderate intensity physical activity per week. Examples of moderate exercise include cycling and fast walking. More than half of adults in England (57%) were meeting this guideline in 2013 to 2015.\n\nYork was the most active area in England, with nearly 70% of adults meeting the exercise guideline. Healthy life expectancy is above average at 66 for males and females in York.\n\nMeanwhile, the Olympic legacy is yet to materialise in the London borough of Newham. Despite hosting the Games in 2012, Newham was the least active area for adults in England (less than 45% of adults met the recommendation). People born in Newham in 2013 to 2015 are likely to live only 60 years in good health.\n\nWhat could happen to an area's healthy life expectancy in the future if the number of people meeting the physical activity guideline changed? Move the slider to find out.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/sliders/physicalactivity/index.html\" full-width=\"false\" title=\"Healthy life expectancy - physical activity slider\"/>\n\n[Download the data.][13]\n\nSource: [Public Health England][14]\n\n\n\n###Find out how your area compares with the rest of England in terms of the lifestyle factors previously listed.\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc413/barcodes/barcode/index.html\" full-width=\"false\" title=\"HLE Barcode Plots\"/>\n\n[Download the data.][15]\n\n\n###Location matters as well as lifestyle\nOf course, healthy life expectancy depends on more than just lifestyle. For example, deprivation, linked to education and employment, limits access to resources and services necessary for maintaining health. A person’s or family’s disposable income and the area in which they live has a major bearing on how they live their life and their resultant exposure to health risks. \n\nFactors tied to where people live are often outside their control. People generally have little say over where they go to school, but they can decide to quit smoking. \n\nWhere a person lives clearly has a significant impact on their healthy life expectancy. Boys born in England’s wealthiest areas can expect 19 extra healthy years compared with boys in the country’s poorest areas. For girls, this stretches to 20 years.\n\nDeprivation is not spread evenly across the country and therefore helps to explain some of the variation in healthy life expectancy between areas. The North of England represents 30% of the population, but is home to 50% of the poorest areas. Many northern towns and cities – including Hartlepool, Hull, Manchester and County Durham – rank among the lowest in England in terms of healthy life expectancy.\n\n\n\n\nOther Visual.ONS publications:\n\n[Women shoulder the responsibility of ‘unpaid work’][16]\n\n[How does UK healthcare spending compare internationally?][17]\n\n[How long will you live in good health?][18]\n\n\n\nIf you like our Visual.ONS content and would like to see more, please [sign up][19] to our email alerts, selecting 'stories and infographics' under preferences.\n\nFor more information, please contact: <digitalcontent@ons.gov.uk>\n\n####Footnotes:\n\n1. The analysis used in the sliders shows the linear relationships between individual lifestyle factors and healthy life expectancy. It is not suggesting that a person's healthy life expectancy would rise by a certain number of months if they were to give up smoking, for example. Neither does it refer to likely impacts on specific areas. Instead, it shows what might happen, on average, to an area's healthy life expectancy if smoking prevalence across England were to change. It is based on data from 150 local authorities in England.\n\n\n  [1]: https://static.ons.gov.uk/visual/2017/06/HLEvsLE.csv\n  [2]: http://www.telegraph.co.uk/pensions-retirement/financial-planning/state-pension-age-look-up-when-you-will-retire/\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthinequalities/articles/healthrelatedlifestylesandwidercharacteristicsofpeoplelivinginareaswiththehighestorlowesthealthylife/june2017\n  [4]: http://www.phoutcomes.info/\n  [5]: https://www.ons.gov.uk/search?q=annual+population+survey\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/bulletins/adultsmokinghabitsingreatbritain/2016\n  [7]: https://static.ons.gov.uk/visual/2017/06/Smoking.csv\n  [8]: https://www.ons.gov.uk/search?q=annual+population+survey\n  [9]: https://static.ons.gov.uk/visual/2017/06/Alcohol.csv\n  [10]: http://www.phoutcomes.info/\n  [11]: https://static.ons.gov.uk/visual/2017/06/Diet.csv\n  [12]: http://www.phoutcomes.info/\n  [13]: https://static.ons.gov.uk/visual/2017/06/Physical-activity.csv\n  [14]: http://www.phoutcomes.info/\n  [15]: https://static.ons.gov.uk/visual/2017/06/All-factors-by-area.csv\n  [16]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/womenshouldertheresponsibilityofunpaidwork/2016-11-10\n  [17]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/articles/howdoesukhealthcarespendingcompareinternationally/2016-11-01\n  [18]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/howlongwillyouliveingoodhealth/2015-11-20\n  [19]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "An overview of lifestyles and wider characteristics linked to Healthy Life Expectancy in England: June 2017",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthinequalities/articles/healthrelatedlifestylesandwidercharacteristicsofpeoplelivinginareaswiththehighestorlowesthealthylife/june2017"
+    },
+    {
+      "title": "How does UK healthcare spending compare internationally?",
+      "uri": "https://visual.ons.gov.uk/how-does-uk-healthcare-spending-compare-internationally/"
+    },
+    {
+      "title": "How long will you live in good health?",
+      "uri": "https://visual.ons.gov.uk/how-long-will-you-live-in-good-health/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/articles/whataffectsanareashealthylifeexpectancy/2017-06-28",
+  "description": {
+    "title": "What affects an area’s healthy life expectancy?",
+    "keywords": [
+      "Health",
+      "People, Population and Community"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-06-28T08:30:08.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

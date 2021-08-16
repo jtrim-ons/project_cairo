@@ -1,0 +1,62 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Long-term international migration was a key factor in the EU referendum debate and as the details of how we will leave the EU emerge over the coming years it is likely to remain so.\n\n\nIt wasn’t always this way though. At the start of the 20th century there weren’t even any laws about who could and couldn’t stay in the UK.\n\nBut as the century wore on, modes of transportation developed, living standards rose, war caused displacement and labour shortages, revolutions and political unrest created many refugees, the British Empire came to an end and the UK became an ever more integrated member of the European Union.\n\n[Final 2015 figures][1] published today show that net migration (that is, the number of people coming to live here minus the number of people leaving to live elsewhere) was 332,000 in 2015. While it’s impossible to predict how international migration might change in the future, we can look back in time to see what has affected international migration to and from the UK in the past.\n\n###How has international migration varied since 1964?\n\nExplore this interactive timeline to see topical events and changes that may have had an impact on those entering and leaving the UK.\n\n####Long-Term International Migration to and from the UK, 1964 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc380/timeline/index.html\" full-width=\"false\" title=\"Long-Term International Migration to and from the UK, 1964 to 2015\"/>\nSource: [Long-Term International Migration and International Passenger Survey, ONS][2]\n\n\nThe reasons why people have left or entered the UK to start new lives over the last century are complicated and varied. Increased living standards, developments in transport and work opportunities in the UK combined with global displacement due to war have all influenced UK international migration.\n\nThere has also been a shift away from the British Empire and Commonwealth – who used to have the same citizen status as British nationals – to an inclusive European community where members have freedom of movement across the EU.\n\n###Who is coming and going from the UK?\n\nChanges in initiatives, policies and laws over the years have not only influenced the number of people moving to and from the UK, but also the nationality of those moving.\n\nIn 2015 there were 332,000 more people entering the UK than leaving the UK. This number includes British citizens; such as those British citizens returning from living or working abroad or British citizens born abroad and returning to the UK.\n\nHistorically there have always been more British citizens leaving the UK than entering, therefore net migration of British citizens has been negative.\n\n####Long-Term International Migration to and from the UK by British citizens, 1964 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc380/charts/chart2/Bar-and-Line/index.html\" full-width=\"false\" title=\"Long-Term International Migration to and from the UK by British citizens, 1964 to 2015\"/>\n[Download the data][3].\n\nThe current government ambition is to cut overall net migration, which has mainly been driven by changing levels of immigration, to \"sustainable levels\".\n\nNon-EU citizens continue to account for a slightly larger share of immigration, compared with EU citizens. However the gap is narrowing with recent larger increases seen for EU immigration and decreases for non-EU immigration.\n\nNon-EU citizens made up 44% of all immigrants in 2015, a reduction from the highest proportion of non-EU immigrants (69%) seen in 2002.\n\n####Long-Term International Migration to and from the UK by non-EU and EU citizens, 1975 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc380/charts/chart3/index.html\" full-width=\"false\" title=\"Long-Term International Migration to and from the UK by non-EU and EU citizens, 1975 to 2015\"/>\n[Download the data][4].\n\nEU immigration has also increased over recent years and one of the contributing factors has been immigration from the EU8 and EU2 countries which peaked at 112,000 in 2007 for EU8 citizens and 65,000 in 2015 for EU2 citizens.\n\n####Long-term International Migration to and from the UK by EU15, EU8 and EU2 citizens, 1975 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc380/charts/chart4/index.html\" full-width=\"false\" title=\"Long-term International Migration to and from the UK by EU15, EU8 and EU2 citizens, 1975 to 2015\"/>\n[Download the data][5].\n\n\n\nMore information on migration estimates for the UK is available [here][6]. Alternatively, if you have questions e-mail [migstatsunit@ons.gov.uk][7]\n\n\n\n Other Visual.ONS articles\n[What are migration levels like in your area?][8]\n[GDP and special events in history][9]\n[UK Perspectives 2016 – International migration to and from the UK][10]\n\nIf you like our visual.ONS content and would like to see more, please [sign up ][11]to our email alerts, selecting 'stories and infographics' under preferences.\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/dec2016\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/adhocs/006408longterminternationalmigrationintoandoutoftheukbycitizenship1964to2015\n  [3]: https://static.ons.gov.uk/visual/2016/12/data.csv\n  [4]: https://static.ons.gov.uk/visual/2016/12/EU-NonEU-1.csv\n  [5]: https://static.ons.gov.uk/visual/2016/12/EU2-EU8-EU15.csv\n  [6]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration\n  [7]: mailto:migstatsunit@ons.gov.uk\n  [8]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/whataremigrationlevelslikeinyourarea/2015-08-28\n  [9]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/gdpandspecialeventsinhistory/2016-11-25\n  [10]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/ukperspectives2016internationalmigrationtoandfromtheuk/2016-05-26\n  [11]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Migration indicators suite",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration"
+    },
+    {
+      "title": "Migration methodology",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/internationalmigrationmethodology"
+    },
+    {
+      "title": "Long term international migration - latest provisional estimates",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/explore50yearsofinternationalmigrationtoandfromtheuk/2016-12-01",
+  "description": {
+    "title": "Explore 50 years of international migration to and from the UK",
+    "keywords": [
+      "People, population and community",
+      "Migration",
+      "Timeline",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-12-01T09:31:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/economy/inflationandpriceindices/articles/whatsinthebasketofgoods70yearsofshoppinghistory/2016-07-21/3efd2ff9.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "For seven decades the Office for National Statistics has been using a notional 'Basket of Goods and Services' to help measure the rising and falling cost of products and services over time, known as consumer price inflation.\n\nThis 'shopping basket' contains hundreds of goods and services, with some items taken out of the basket and some brought in to make sure the measures are up to date and representative of consumer spending patterns.\n\nExplore the history of the basket below. Some basket data is missing, so we have only been able to estimate when an item was excluded from the list.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc481/index.html\" full-width=\"true\" title=\"Basket of goods timeline\"/>\n###How is the Basket of Goods compiled?\nIn principle, the basket of goods and services should contain all consumer goods and services purchased by households and the prices measured in every shop or outlet that supplies them.\n\nIn practice, a sample of prices for a selection of representative goods and services in a range of UK retail locations is used.\n\nCurrently, around 180,000 separate price quotations are used every month in compiling the measures, covering around 700 representative consumer goods and services. These prices are collected in around 140 locations across the UK and from the internet and over the phone at ONS.\n\nWithin each year , the consumer price indices represent the changing cost of a basket of goods and services of fixed composition, quantity and quality. In this way, changes in the consumer price indices from month to month reflect only changes in prices, and not ongoing variations in the quality and quantity of items purchased by consumers.\n\nHowever, the contents of the consumer price inflation basket of goods and services and their associated expenditure weights are updated annually. Weights are applied to items to ensure that their influence on the overall measure reflects their importance in the typical household budget.\n\nThis annual updating is important in helping to avoid potential biases that might otherwise develop over time - for example, due to the development of entirely new goods and services, or the tendency for consumers to move away from buying goods and services which have risen relatively rapidly in price and to goods and services whose prices have fallen. For example, if the price of tea rose dramatically during one year, consumers might switch their spending towards coffee making it necessary to adjust the expenditure weights accordingly in the following year.\n###Longer-term trends\nThese procedures also help to ensure that the indices reflect longer-term trends in consumer spending patterns. For example, the proportion of household spending on services has broadly risen overall over the last 25 years. This is reflected both in an increasing weight for this component in the consumer price indices, and the addition of new items in the basket to improve measurement of price changes in this area.\n\nEqually, the weights of education and communication in the CPI have risen since the start of the millennium as university fees have risen and increased use has been made of mobile phones and bundled communication services. Conversely the weights of food and tobacco have fallen.\n\nThere are four different measures of consumer price inflation - the Consumer Prices Index (CPI) which is produced to international standards, CPIH which is a measure of consumer price inflation that includes owner occupier housing costs, the Retail Prices Index (a long-standing measure of UK inflation that has been used for a wide range of purposes), and an improved variant of RPI, called RPIJ, which unlike the RPI uses formulae that meet international standards.\n\nThere are 12 divisions of CPI in the 2016 basket: food & non-alcoholic beverages, alcohol & tobacco, clothing & footwear, housing & household services, furniture & household goods, health, transport, communication, recreation & culture, education, restaurants & hotels and miscellaneous goods & services. These are broken down further into 85 classes, for example, bread and cereals, electricity, new cars and cultural services.\n\nMore technical information about how the Basket of Goods is compiled is available from the [ONS website.][1]\n\n\n\nOther Visual.ONS articles:\n\n[Shopping in shops that have no 'shops'][2]\n\n[How do childhood circumstances affect your chances of poverty as an adult?][3]\n\n[Deaths from 'legal highs'][4]\n\n\n\nFor more information, please contact: <cpi@ons.gov.uk>\n\n\n  [1]: https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationbasketofgoodsandservices/2016\n  [2]: https://www.ons.gov.uk/businessindustryandtrade/retailindustry/articles/shoppinginshopsthathavenoshops/2016-07-29\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/articles/howdochildhoodcircumstancesaffectyourchancesofpovertyasanadult/2016-05-16\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsfromlegalhighs/2016-04-28\n  [5]: mailto:cpi@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "The Basket of Goods and Services 2016",
+      "uri": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/consumerpriceinflationbasketofgoodsandservices/2016"
+    },
+    {
+      "title": "Historical basket of goods",
+      "uri": "http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/guide-method/user-guidance/prices/cpi-and-rpi/cpi-and-rpi-basket-of-goods-and-services/index.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/inflationandpriceindices/articles/whatsinthebasketofgoods70yearsofshoppinghistory/2016-07-21",
+  "description": {
+    "title": "What's in the basket of goods? 70 years of shopping history",
+    "keywords": [
+      "Business, industry and trade",
+      "Economy",
+      "People, population and community",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2016-07-21T07:23:27.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore how the basket of goods has changed over the decades and how the ONS calculates inflation.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

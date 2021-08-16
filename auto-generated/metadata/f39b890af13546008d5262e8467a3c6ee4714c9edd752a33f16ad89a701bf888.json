@@ -1,0 +1,88 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07/21c6516c.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "After a year of lockdowns, social distancing, and restrictions on travel and gatherings, some groups of people have reported high rates of loneliness and poorer well-being in recent months. \n\nLevels of loneliness in Great Britain have increased since spring 2020. [Between 3 April and 3 May 2020, 5.0% of people (about 2.6 million adults) said that they felt lonely “often” or “always”][1]. From October 2020 to February 2021, results from the Opinions and Lifestyle Survey (OPN) show that proportion increased to 7.2% of the adult population (about 3.7 million adults). \n\nMapping trends across the country also shows the types of places where a higher proportion of people felt lonely often or always, and differences in personal well-being. Areas with a higher concentration of younger people (aged 16-24) and areas with higher rates of unemployment tended to have higher rates of loneliness during the study  period (October 2020 to February 2021). \n\nLocal authorities in countryside areas also had a lower loneliness rate than urban, industrial, or other types of area. \n\n<ons-chart path=\"e86cdb9e\" />\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/coronavirusandlonelinessgreatbritain/3aprilto3may2020\n"
+    },
+    {
+      "title": "Places with younger populations tended to have higher levels of loneliness  ",
+      "markdown": "Places with a lower average (median) age generally experienced higher rates of loneliness during the pandemic, that is, a greater percentage of people in that area said they “often or always” felt lonely. Higher rates of loneliness reported by young people are particularly associated with urban areas outside London.\n\n\n####Interactive map: Loneliness rates by local authority\n#####Percentage reporting “often or always” feeling lonely, Great Britain, 14 October 2020 to 22 February 2021\n\n<ons-interactive url=\"/visualisations/dvc1262/alwaysoftenmap/index.html\" full-width=\"false\" title=\"Percentage reporting “often or always” feeling lonely, Great Britain, 14 October 2020 to 22 February 2021\"/>\n\n#####Notes:\n1.   The map represents the percentages of adults aged 16 years and over across Great Britain who were asked how often they felt lonely and responded with \"often or always\". Other response options included: \"some of the time\", \"occasionally\", \"hardly ever\" and \"never\". \n2. Local authorities with an underlying sample size of less than five have been suppressed, as indicated by the grey colouring.  \n3. Because of small sample sizes and large confidence intervals, local authorities should not be ranked against each other.  \n\n[Data download][1]\n\n\nAge and marital status are known to be significant factors in experiences of loneliness. [Pre-pandemic, those aged 16 to 24 years, renting, and single were more likely to say they often felt lonely][2] than older age groups or those who were married. \n\nPrevious research during the pandemic found nearly two-thirds of students have reported a worsening in their mental health and well-being. [Over a quarter report feeling lonely often or always][3], a significantly higher amount than the adult population (8%). This is likely to be affecting loneliness scores for younger people in general at a local level. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1262/alwaysoftenmap/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/lonelinesswhatcharacteristicsandcircumstancesareassociatedwithfeelinglonely/2018-04-10\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandhighereducationstudents/19februaryto1march2021"
+    },
+    {
+      "title": "Younger and single people were more likely to be lonely in the last seven days ",
+      "markdown": "Living in a single-person household, difficulties with relationships caused by the pandemic, and not having anyone to talk to have also contributed to experiences of loneliness. \n\nFrom October 2020 to February 2021, of those who said their well-being had been affected in the last seven days by the pandemic, 38.6% (about 10.5 million people) said it was because they were lonely. Accounting for groups we know are particularly affected by loneliness more generally, we found young people and single people have also been most affected by this seven-day measure or “lockdown loneliness”. \n\n####Younger people were more likely to experience “lockdown loneliness”\n#####Odds of reporting feeling lonely in last 7 days, of people who said their well-being was affected by the coronavirus, Great Britain, 14 October 2020 to 22 February 2021. \n\n<ons-interactive url=\"/visualisations/dvc1262/oddsratioage/index.html\" full-width=\"false\" title=\"Younger people were more likely to experience “lockdown loneliness”\"/>\n\n#####Notes:\n1. The values in the chart are odds ratios; this is the comparison of the odds of reporting lockdown loneliness for someone in a certain age group compared with those aged 75 years and over, while controlling for other possible influences.  \n2. Lockdown loneliness is defined as those who said their well-being had been affected by the coronavirus through feeling lonely in the last seven days.  \n3. Please refer to the datasets for methodology information on the regression model as well as the full model, inclusive of the 16 variables found to be significant at the 5% level.  \n4. The error bars show the degree of confidence of the estimates. \n\n[Data download][1]\n\nThe odds of people who said they had no one to talk to reporting lockdown loneliness were almost 10 times greater than those who did have someone to talk to. Respondents who said they felt very uncomfortable leaving the house were also more likely to report lockdown loneliness compared with those who felt very comfortable leaving the house. \n\nOne-person households were also more likely to report lockdown loneliness compared with two-person households. \n\n####Unmarried people and those living alone were more likely to experience “lockdown loneliness” \n#####Odds of reporting feeling lonely in last 7 days, of people who said their well-being was affected by the coronavirus, Great Britain, 14 October 2020 to 22 February 2021.\n\n<ons-interactive url=\"/visualisations/dvc1262/oddsratiomarriage/index.html\" full-width=\"false\" title=\"Unmarried people and those living alone were more likely to experience “lockdown loneliness”\"/>\n\n#####Notes:\n1. The values in the chart are odds ratios; this is the comparison of the odds of reporting lockdown loneliness for someone in a certain age group compared with those aged 75 years and over, while controlling for other possible influences.  \n2. Lockdown loneliness is defined as those who said their well-being had been affected by the coronavirus through feeling lonely in the last seven days.  \n3. Please refer to the datasets for methodology information on the regression model as well as the full model, inclusive of the 16 variables found to be significant at the 5% level.  \n4. The error bars show the degree of confidence of the estimates. \n\n[Data download][2]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1262/oddsratioage/datadownload.xlsx\n  [2]: https://www.ons.gov.uk/visualisations/dvc1262/oddsratiomarriage/datadownload.xlsx"
+    },
+    {
+      "title": "Loneliness tended to be worse in areas with higher levels of unemployment",
+      "markdown": "Unemployment has been closely tied to loneliness levels during the pandemic. This was one of the most important factors identified through our analyses. Local authority areas with a higher unemployment rate (as measured between October 2019 and September 2020) had higher proportions of residents who said they were often or always lonely (from Opinions and Lifestyle Survey results in the period from October 2020 to February 2021). Additionally, in areas where residents earn more on average per week, loneliness rates tend to be lower. \n\nThe effect of unemployment on loneliness is particularly strong in urban areas outside London, while in London there is no clear correlation.\n\n####Higher unemployment in an area was linked to higher loneliness rates\n#####Correlation between latest unemployment rates (October 2019 to September 2020) and “often or always” feeling lonely (October 2020 to February 2020) in Great Britain\n\n<ons-interactive url=\"/visualisations/dvc1262/scatterunemployment/index.html\" full-width=\"false\" title=\"Higher unemployment in an area was linked to higher rates of loneliness\"/>\n\n#####Notes:\n1. Adults aged 16 years and over across Great Britain were asked how often they felt lonely and responded with \"often or always\". Other response options included: \"some of the time\", \"occasionally\", \"hardly ever\" and \"never\". \n2. Unemployment rates are calculated as a percentage of economically active adults, aged 16 years and over. [Unemployment data cover the period October 2019 to September 2020][1].\n\n[Data download][2]\n  \n\nHigher unemployment in an area is also linked to higher average anxiety in that area as well as poorer life satisfaction. During the pandemic, the link between high levels of unemployment and poorer life satisfaction has become stronger.\n\n\n  [1]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/locallabourmarketindicatorsforcountieslocalandunitaryauthoritiesli01\n  [2]: https://www.ons.gov.uk/visualisations/dvc1262/scatterunemployment/datadownload.xlsx"
+    },
+    {
+      "title": "Areas which typically have strong local business and adult education were more resilient to loneliness",
+      "markdown": "Some aspects of where people live appear to be connected to people feeling lonely often or always.  \n\nWe partnered with the [Centre for Thriving Places][1] to identify local factors that might be connected to higher or lower rates of loneliness, as reported in the [Opinions and Lifestyle Survey][2].\n\nAreas with strong local businesses and adult education tended to have lower rates of loneliness, modelling found that local authorities in London particularly benefit from these. \n\nAlthough it is unclear how many of the normal benefits of local business and adult education have been accessible during the pandemic, these features of life in London may be important in helping people to connect with one another. \n\n\n  [1]: https://www.centreforthrivingplaces.org/\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/bulletins/coronavirusandthesocialimpactsongreatbritain/latest"
+    },
+    {
+      "title": "Areas with a lower crime rate had lower levels of lockdown loneliness",
+      "markdown": "Places which tend to have lower crime rates showed lower levels of “lockdown loneliness” in the five months since October 2020 (people saying their well-being was affected by feeling lonely in the last seven days). The Centre for Thriving Places has a local safety measure based on crime rate. Comparing loneliness using this measure, lower crime rates in an area are connected to lower rates of loneliness.  \n\nThis was true in countryside areas which tended to see lower levels of loneliness than higher crime urban areas.\n\n####Interactive map: Personal well-being scores by local authority\n#####Average ratings of personal well-being, UK, April 2020 to September 2020\n\n<ons-interactive url=\"/visualisations/dvc1262/wellbeingmap/index.html\" full-width=\"false\" title=\"Interactive map: Personal well-being scores by local authority \"/>\n\n#####Notes:\n1. Data are weighted mean averages. \n2. Because of small sample sizes and large confidence intervals, local authorities should not be ranked against each other. \n3. All four measures ask people to evaluate, on a scale of 0 to 10, how satisfied they are with their life overall (life satisfaction), whether they feel they have meaning and purpose in life (worthwhile), and about their emotions (happiness and anxiety) during a particular period. Further [information on how we calculate personal well-being is available][1].  \n\n[Data download][2]\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingintheukqmi\n  [2]: https://www.ons.gov.uk/visualisations/dvc1262/wellbeingmap/datadownload.xlsx"
+    },
+    {
+      "title": "Anxiety has become more linked to living in crowded places during the pandemic",
+      "markdown": "[Loneliness has been linked to people feeling more anxious][1]. Levels of anxiety have also broadly increased across most regions in Great Britain from pre-pandemic levels (the period April 2019 to March 2020 compared with April 2020 to September 2020). \n\nDuring the pandemic, how densely populated an area is has become a more important factor for anxiety in local authorities in England, with higher population density linked to higher rates of anxiety. Further research is needed but this may be because of concerns around social distancing and the perceived risk of infection. \n\nLocal characteristics, as measured by the [Thriving Places Index][2], are also connected to higher or lower levels of anxiety in an area, as reported in the Annual Population Survey. \n\nIn the five months since October 2020, anxiety rates have increased particularly in areas assessed as having better quality provision for children’s education and educational attainment prior to the pandemic. This may relate to anxieties around home schooling, or worries about children falling behind educationally among adults in these areas. It is also noted that the age group of parents overlaps with the 25 to 44 years age group, which also reported higher \"lockdown loneliness\".\n\nAspects of an area that are associated with lower rates of anxiety include better general health and more opportunities for cultural engagement. These findings applied particularly to urban areas outside London. \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/coronavirusandlonelinessgreatbritain/3aprilto3may2020\n  [2]: https://www.thrivingplacesindex.org/"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/wellbeing/datasets/lonelinessratesandwellbeingindicatorsbylocalauthority"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [
+    {
+      "title": "Countryside areas reported lower rates of loneliness",
+      "filename": "e86cdb9e",
+      "uri": "/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07/e86cdb9e"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/wellbeing/articles/mappinglonelinessduringthecoronaviruspandemic/2021-04-07",
+  "description": {
+    "title": "Mapping loneliness during the coronavirus pandemic",
+    "keywords": [
+      "loneliness",
+      "coronavirus",
+      "anxiety",
+      "well-being",
+      "covid-19",
+      "mental health",
+      "covid19"
+    ],
+    "metaDescription": "Analysis of local authority loneliness rates shows young people and those in areas with higher unemployment have been more likely to experience loneliness during the coronavirus (COVID-19) pandemic.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "equalities@ons.gov.uk",
+      "name": "Chris Payne",
+      "telephone": ""
+    },
+    "releaseDate": "2021-04-06T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Areas with a higher concentration of younger people and areas with higher rates of unemployment tended to have higher rates of loneliness during the study period.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

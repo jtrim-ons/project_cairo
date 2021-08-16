@@ -1,0 +1,61 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/economy/regionalaccounts/grossdisposablehouseholdincome/articles/mappingregionaldifferencesinproductivityandhouseholdincome/2021-05-17/62372f22.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "<div style=\"background-image:url('https://www.ons.gov.uk/visualisations/dvc1370/img/map.png'); margin-bottom:30px;\">\n<a href=\"https://www.ons.gov.uk/visualisations/dvc1370/index.html\">\n<h3 style=\"color:#fff;padding:30px 20px 0 20px;text-decoration:underline;\">What are the regional differences in income and productivity</h3>\n<p style=\"color:#fff; margin-bottom:16px; text-decoration:underline; padding:0 20px 0px 20px;\">Read our new interactive article</p>\n<img width=\"117\" src=\"https://www.ons.gov.uk/visualisations/dvc1370/img/data-chart.png\" alt=\"\" style=\"display:block; margin-left:auto;margin-right:auto;padding-bottom:15px;\">\n</a>\n</div>"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/economy/regionalaccounts/grossdisposablehouseholdincome/datasets/regionaldifferencesinproductivityandhouseholdincome"
+    }
+  ],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/articles/mappingincomedeprivationatalocalauthoritylevel/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/regionalaccounts/grossdisposablehouseholdincome/articles/mappingregionaldifferencesinproductivityandhouseholdincome/2021-05-17",
+  "description": {
+    "title": "Mapping regional differences in productivity and household income",
+    "keywords": [
+      "household income",
+      "regional",
+      "economics",
+      "productivity",
+      "GDHI",
+      "GVA"
+    ],
+    "metaDescription": "Explore economic inequality in the UK with our map of household income and productivity.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "subnational@ons.gov.uk",
+      "name": "Richard Prothero",
+      "telephone": "+44 (0)1329 447816"
+    },
+    "releaseDate": "2021-05-16T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore economic inequality in the UK with our map",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

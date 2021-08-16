@@ -1,0 +1,76 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Spending by the UK Government currently accounts for around 40% of GDP. The way public funds are allocated impacts the provision and delivery of services (like health, pensions and benefits), and therefore affects people’s day to day lives.\n\nThis article - the latest in the [UK Perspectives series][1] - presents key statistics showing changes in government spending over the last two decades, and takes a closer look at some aspects of the largest spending categories.\n##1. Changes in public spending over time\n####Total UK government managed spending and government managed spending as % of GDP (in 2013-14 real terms), 1993-94 to 2013-14 ^1^ \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart1/Public_Chart1.html\" full-width=\"false\" title=\"Total UK government managed spending and government managed spending as % of GDP (in 2013-14 real terms), 1993-94 to 2013-14 ^1^\"/>\n\n[Download the data for this chart.][2]\n\n<svg height=\"110\" width=\"100%\">\n<text x=\"0\" y=\"65\" font-size=\"90\" font-family=\"Open Sans\" font-weight=\"bold\">£720</text>\n<text x=\"0\" y=\"100\" font-size=\"22\" font-family=\"Open Sans\">Billion, government spending</text>\n</svg>\n\n- Total government spending has increased in real terms each year apart from four since 1993-94, and it reached a high of £738.7 billion in 2010-11.\n- In 2013-14 government spending was £720.4 billion, the lowest it has been since 2008-09 in real terms.\n- Since 2009-10, government spending as a percentage of GDP has fallen from 45.3% to 41.6% in 2013-14.\n\n##2. Share of spending on health has increased over last 20 years\n####Proportions of total UK government spending by function (in 2013-14 real terms), £billions (and as a percentage of total) 1993-94 and 2013-14 ^2^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart2/Public_Chart2.html\" full-width=\"false\" title=\"Proportions of total UK government spending by function (in 2013-14 real terms), Â£billions (and as a percentage of total) 1993-94 and 2013-14 ^2^\"/>\n[Download the data for this chart.][3]\n\nSince 1993-94 the top three spending categories have been social protection, health and education. They all have a higher proportion of government spending than they did 20 years ago.\n\nHealth spending increased steadily and had the largest increase proportionally, increasing from 13.5% to 19.2% of all government spending in 2013-14.\n\nSocial protection (pensions and benefits) spending was the largest public spending category totalling £250.6 billion in 2013-14. Spending on social protection was 37.2% in 2013-14, up from 36.2% in 1993-94.\n\nEducation was the third largest area of government spending and proportionately, this has grown slightly over the last 20 years. Whereas spending on defence and public order and safety, which includes policing and crime prevention, has fallen as a share of all spending.\n##3. Pensions spending increased over last 5 years\n####Proportions of UK social protection spending by category (in real terms), 2009-10 and 2013-14 ^3^ \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart3/Public_Chart3.html\" full-width=\"false\" title=\"Proportions of UK social protection spending by category (in real terms), 2009-10 and 2013-14 ^3^\"/>\n[Download the data for this chart.][4]\n\n[data number=\"£251\" description=\"Billion, social protection spending\"]\n\nPensions was the largest type of social protection spending and its share of total spending has increased over the last five years. Increased spending on pensions in particular reflects [the UK’s growing and ageing population][5]. Government policies on the state pension age affect the number people who qualify for a state pension and therefore, the overall level of spending on pensions that is required. [Forecasts by the Pensions Commission][6] have suggested that, following changes in state pension age, spending on pensions will increase by around 1.5 percentage points by 2050.\n\nThe share of spending on family, income support and tax credits has fallen the most over the same period.\n##4. Healthcare funds mainly spent on medical services\n####Proportion of UK spending on healthcare categories, 2013-14 ^4^\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart4/Public_Chart4.html\" full-width=\"false\" title=\"Proportion of UK spending on healthcare categories, 2013-14 ^4^\"/>\n[Download the data for this chart.][8]\n\nThe vast majority of total healthcare spending was used for medical services in 2013-14 (95.6%). Spending on medical services includes the costs of running hospitals, GP surgeries and outpatients services, and has accounted for at least 95% of total healthcare spending in each of the last five years.\n\nSpending on medical research comprised the smallest share of total healthcare spending and in 2013-14 accounted for 0.7%. Spending in this area has been decreasing steadily since 2009-10, in 2010-11 it was 1.5% and in 2012-13 was 1.1%.\n##5. Secondary education made up largest share of education spending\n####Proportion of UK spending on four education categories, 2009-10 to 2013-14 ^5^ \n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart5/Public_Chart5.html\" full-width=\"false\" title=\"Proportion of UK spending on four education categories, 2009-10 to 2013-14 ^5^\"/>\n\n[Download the data for this chart.][9]\n\n<ons-box align=\"full\">Spending on education at all levels includes: operation and support of schools, administration and inspections.</ons-box>\n\nSpending on secondary education accounted for two fifths of all government spending on education in 2013-14, continuing similar levels to the previous four years. Primary education accounted for 30% of all education spending in 2013-14 while further and higher (tertiary) education spending had a 17% share.\n\nIn 2012 the Government changed the structure of higher education funding so that universities can decide how much to charge students on tuition fees, up to £9,000 a year. There are also costs on providing financial support for students, either in the form of loans or grants for students from low income backgrounds. Despite these changes to funding structure, the share of spending on further and higher education has changed relatively little in recent years but increased from 15.5% in 2012-13 to 17.0% in 2013-14.\n##6. Increases in military equipment spending since 2007-08\n####Estimated UK defence spending by manufacturing industry, 2007-08 to 2012-13\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc224/Public_Chart6/Public_Chart6.html\" full-width=\"false\" title=\"Estimated UK defence spending by manufacturing industry, 2007-08 to 2012-13\"/>\n[Download the data for this chart.][10]\n\nSince 2007-08, spending on military equipment for weapons and ammunition, shipbuilding and repairing, and aircraft and spacecraft has increased. The amount spent on shipbuilding and repairing has increased the most with a 91% increase to around £2.1 billion in 2012-13.\n\nGovernment spending on defence services also relates to the costs of employing armed forces personnel. Therefore the amount spent on defence in general tends to reflect the size of the UK’s armed forces, which have been reducing in size in recent years. In 2013-14 there were 159,600 [UK service personnel][11], a fall of more than 27,000 over the last five years.\n##Conclusion: Public spending reflects changing demands\nThere have been some large changes to the amount of government spending on different types of public service in the last 20 years. In particular, spending on health and pensions has played an increasingly important role over time as the UK’s population increases and gets older.\n\nChanges in government spending can be driven by requirements for public services like healthcare and pensions, as well as by policies initiated by government. In the future, the changing needs of the country’s population will help determine how public money is spent.\n\n\n\n\n\n\n  [1]: http://webarchive.nationalarchives.gov.uk/20170726163612/https://visual.ons.gov.uk/uk-perspectives-an-introduction/\n  [2]: https://static.ons.gov.uk/visual/2015/02/Pubsector_1.csv\n  [3]: https://static.ons.gov.uk/visual/2015/02/Pubsector_2.csv\n  [4]: https://static.ons.gov.uk/visual/2015/02/Pubsector_3.csv\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/migrationwithintheuk/articles/thechangingukpopulation/2015-01-15\n  [6]: http://www.webarchive.org.uk/wayback/archive/20070802120000/http:/www.pensionscommission.org.uk/publications/2006/final-report/final_report.pdf\n  [7]: http://unstats.un.org/unsd/cr/registry/regcs.asp?Cl=4&Lg=1&Co=09\n  [8]: https://static.ons.gov.uk/visual/2015/02/Pubsector_4.csv\n  [9]: https://static.ons.gov.uk/visual/2015/02/Pubsector_5.csv\n  [10]: https://static.ons.gov.uk/visual/2015/02/Pubsector_6.csv\n  [11]: https://www.gov.uk/government/collections/uk-armed-forces-annual-manning-statistics-index\n  [12]: mailto:better.info@ons.gov.uk\n\n\n###Footnotes:\n1. Real terms figures based on ONS GDP data as of 10 October 2014.\n2.  Figures do not include accounting adjustments.\n3. The level of detail required for the United Nations Classification of the Functions of Government is not yet available in England and Wales. Health spending for the UK is therefore presented using HM Treasury’s own sub-functional classification.\n4. Education spending categories are defined by the [United Nations Classification of the Functions of Government][7].\n5. The remaining share of education spending not shown on the chart includes subsidiary education spending and research and development spending."
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Defence article",
+      "uri": "http://www.ons.gov.uk/ons/rel/prodcom/prodcom-final-results/defence-related-activities-in-the-uk/sty-def.html"
+    },
+    {
+      "title": "Healthcare spending article",
+      "uri": "http://www.ons.gov.uk/ons/rel/psa/expenditure-on-healthcare-in-the-uk/2012/info-healthcare-spending.html"
+    },
+    {
+      "title": "Pensions infographic",
+      "uri": "http://www.ons.gov.uk/ons/rel/pensions/pensions-short-stories/characteristics-of-people-and-households-without-a-private-pension/info-pension.html"
+    },
+    {
+      "title": "Population article",
+      "uri": "https://visual.ons.gov.uk/uk-perspectives-the-changing-population/"
+    },
+    {
+      "title": "HM Treasury report",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/330634/HMT_annual_report_2014_online.pdf"
+    },
+    {
+      "title": "Department for Education report",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/397024/DfE_consolidated_annual_report_and_accounts_2013_to_2014.pdf"
+    },
+    {
+      "title": "Department for Health report",
+      "uri": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/335166/DH_annual_accounts_2013-14.pdf"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/economy/governmentpublicsectorandtaxes/publicspending/articles/spendingonpublicservicesintheuk/2015-02-10",
+  "description": {
+    "title": "Spending on public services in the UK",
+    "keywords": [
+      "Economy",
+      "UK perspectives"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-02-10T09:30:30.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

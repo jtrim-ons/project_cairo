@@ -1,0 +1,148 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/55328279.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "It has been a year since people across the UK were told they should limit their non-essential contact with others and stop all unnecessary travel. On 16 March 2020, [people were told to work from home wherever possible][1] while everyone was told to “avoid pubs, clubs, theatres and other such social venues”, to try to curb the spread of the coronavirus (COVID-19).  \n\nA week later, on 23 March 2020, the UK’s first lockdown would begin. From deaths and the pressure on hospitals, to the number of hours worked and people’s expectations of rising unemployment, we can see how the remarkable figures recorded over the past 12 months compare with others and made this a year like no other. \n\n\n  [1]: https://www.gov.uk/government/speeches/pm-statement-on-coronavirus-16-march-2020"
+    },
+    {
+      "title": "1. COVID-19 caused more deaths in 2020 than other infectious diseases caused for over a century ",
+      "markdown": "####Number of deaths registered due to infectious and parasitic diseases, England and Wales, 1901 to 2020 and COVID-19 in 2020  \n<ons-interactive url=\"/visualisations/dvc1214/fig1_deaths/index.html\" full-width=\"false\" title=\"Deaths from infectious and parasitic diseases\"/>\n\n####Notes: \n\n1. Figures include deaths of non-residents. \n2. Deaths are based on date a death was registered rather than occurred. \n3. All figures for 2020 are provisional. \n4. The International Classification of Diseases (ICD): ICD 1 to 9 codes are [available at the National Archives][1]; ICD-10: Infectious and parasitic diseases (A00-B99). \n5. Deaths data in this chart do not include influenza or pneumonia, which are classed as respiratory infections (J09-J18).\n\n[Download the data][2]\n\nMore than 140,000 people have now died in the UK with COVID-19 mentioned as the underlying cause or a contributory cause on their death certificates. \n\nThis includes more than 73,500 people in England and Wales whose deaths were due to COVID-19 — where it was the underlying cause — registered in 2020. Almost 4,400 further deaths from infectious and parasitic diseases were registered in 2020. COVID-19 is likely to be classed as an infectious and parasitic disease, following the precedent of similar diseases such as previous coronavirus strains (before COVID-19) and other viral infections.  \n\nThis means COVID-19 was the underlying cause of more deaths in 2020 than any other infectious and parasitic diseases had caused in any year since 1918; that year there were just over 89,900 deaths from various infectious and parasitic diseases registered in England and Wales. \n\nMore recently, there were nearly 8,200 deaths from infectious and parasitic diseases in England and Wales in 2007. This coincided with a peak in deaths in England [involving Clostridium difficile (C. difficile)][3]. \n\nThis analysis uses causes of death defined as “infectious or parasitic diseases” in the International Statistical Classification of Diseases and Related Health Problems (ICD), published by the World Health Organisation (WHO). This means it does not include deaths from influenza and pneumonia, which are categorised separately as respiratory infections.\nComparisons of deaths involving COVID-19 and those involving influenza and pneumonia [in England and Wales during the pandemic can be found in our weekly releases][4].\n\nOther nations’ deaths data are published by the [Northern Ireland Statistics and Research Agency][6] and [National Records of Scotland][7]. \n\n\n  [1]: https://webarchive.nationalarchives.gov.uk/20151014074732tf_/http://www.ons.gov.uk/ons/rel/subnational-health1/the-20th-century-mortality-files/20th-century-deaths/index.html\n  [2]: https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig1_deaths.csv\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsinvolvingclostridiumdifficileenglandandwales/2013-08-22\n  [4]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest\n  [5]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest\n  [6]: https://www.nisra.gov.uk/publications/weekly-deaths\n  [7]: https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/deaths-involving-coronavirus-covid-19-in-scotland"
+    },
+    {
+      "title": "2. The number of adults in critical care in hospitals was far higher than previous winters ",
+      "markdown": "####Adult critical care beds occupied during the winter months, acute hospital trusts in England, between December 2016 - March 2017 and November 2020 - March 2021 \n<ons-interactive url=\"/visualisations/dvc1214/fig2_hospitals/occupied_beds_tiers/index.html\" full-width=\"false\" title=\"Critical care beds occupied in winter, compared with previous years\"/>\n\n####Notes\n1. Data are submitted daily by acute trusts. This information is published in times of pressure on the NHS, usually from December to February, this winter November and March data have also been published. \n2. The UEC Daily SitRep is unvalidated management information. \n3. Data used in this chart are for acute trusts with a type 1 Accident and Emergency department in order to compare with previous years.\n\n[Download the data][1]\n\nWinter is usually the most pressured time in the NHS with the colder weather coinciding with an increase in illness and death. \n\nHowever, the winter of 2020 and early 2021 was far from normal. Data from [NHS England’s winter situation reports (SitReps)][2], show that acute hospital trusts opened significantly more critical care beds, and that many more were occupied than in recent previous years, as hospitals reported greater pressure from the coronavirus (COVID-19).  \n\nIn the last week of January 2021, more than 5,000 adult critical care beds a day were occupied in hospitals in England, compared with around 3,000 a day in the same week in 2020. \n\nWhile the number of adults in critical care decreased in February 2021, it was still higher than any February over the previous decade. \n\nHospitals also opened significantly more critical care beds than in recent winters, ready to care for people suffering the severe effects of COVID-19. Between 20 January and 5 February 2021 there were more than 6,000 critical care beds open each day. Throughout January and February between 2017 and 2020, the number of critical care beds open ranged between 3,500 and just over 3,900. \n\nThe daily SitReps are submitted by acute hospital trusts every day in times of pressure on the NHS. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig2_occupied_beds.csv\n  [2]: https://www.england.nhs.uk/statistics/statistical-work-areas/uec-sitrep/"
+    },
+    {
+      "title": "3. Weekly hours worked dropped significantly in lockdown compared with previous years ",
+      "markdown": "####Annual change in average actual weekly hours worked, selected UK industries, non-seasonally adjusted,  January to March 1998 to October to December 2020 \n<ons-interactive url=\"/visualisations/dvc1214/fig3_hours_worked/small-multiple-line/index.html\" full-width=\"false\" title=\"Average hours worked by industry compared with previous years\"/>\n####Notes: \n1. Includes people with a workplace outside UK and those who did not state their industry.  \n2. For people with two jobs, all hours are allocated to the industry sector of the main job. Includes paid and unpaid overtime.  \n3. The breakdown by industry sector for Quarter 1 (Jan to Mar) 2009 onwards is not entirely consistent with those of previous quarters following methodology changes. The effect of these changes on the time series is significant for some of the industry sectors shown.  No adjustments have been made to the average hours series to account for the effects of the changes. Further information is available in the data download. \n4. This analysis uses the established estimates for actual hours rather than the experimental imputation which suggests the impact on hours may have been even stronger than those reported here. \n\n[Download the data][1]\n\nWith up to 8.9 million people on furlough and many businesses unable to trade as normal during lockdown, [the average number of hours worked in the UK][2] per person per week fell to 25.9 in April to June 2020, compared with 32.3 in the same three months of 2019.  This was the lowest since January to March 2008, when average weekly working hours were 30.9 per person. \n\nAccommodation and food services industries, which included people furloughed from closed pubs, hotels and restaurants, recorded a 54% fall in average weekly hours worked in April to June 2020, with 13.0 hours per worker on average compared with 28.4 in the same three months of 2019. Other industries saw less significant falls. For example, in financial, insurance and real estate services, where many workers were likely to be able to do so from home, the average in April to June 2020 was down 6% on the same period of 2019.  \n\nBy October to December 2020, average weekly hours worked had increased but were still down by 7% overall on the same period of 2019, with accommodation and food services down 33% as they were affected by lockdown measures, the tier system in England and rules on the numbers of people allowed to meet indoors. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig3_hours_worked.csv\n  [2]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/averagehoursworkedbyindustryhour03"
+    },
+    {
+      "title": "4. For many industries, the fall in job vacancies during 2020 was bigger than the 2008 economic downturn ",
+      "markdown": "####Vacancies by industry in the UK, thousands, seasonally adjusted, between January to March 2008 and October to December 2020 \n<ons-interactive url=\"/visualisations/dvc1214/fig4_vacancies/index.html#0,index7,index16,index5\" full-width=\"false\" title=\"Vacancies by industry by quarter\"/>\n\n####Notes\n\n1. Electricity, gas, steam and air conditioning supply and real estate activities are not seasonally adjusted. These series do not display seasonality. Therefore the unadjusted series is the best estimate of a “seasonally adjusted” series. \n2. Data for this survey have been collected since 2001. The time period in this figure is to show the scale of the pandemic in reference to the 2008 economic downturn.\n\n[Download the data][1]\n\nThe number of [UK job vacancies][2] dropped sharply as we entered lockdown, after 23 March 2020. \n\nThe  Vacancy Survey shows that vacancies fell 38%, from 701,000 in January to March 2008 to a low of 432,000 in April to June 2009 before rising again. \n\nIn comparison, quarterly vacancies stood at 802,000 across the UK in October to December 2019 and fell by 57% to a low of 343,000 in April to June 2020, during the first lockdown. By October to December 2020, the number of vacancies had risen to 590,000, down 26% on the same three months of 2019. \n\nMost industries recorded fewer vacancies in October to December 2020 than the same period the year before. In the accommodation and food service sector, which had been affected by lockdowns and social distancing, there were 29,000 vacancies in these three months, down 66% from 86,000 in the same three months of 2019.  \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig4_vacancies.csv\n  [2]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/february2021"
+    },
+    {
+      "title": "5. Debt as a percentage of the economy has reached levels last seen in the early 1960s ",
+      "markdown": "<ons-chart path=\"afe20993\" />\n\nFrom supporting the wages of furloughed workers to financial help for struggling businesses, the government has pumped significant funding into coronavirus support schemes. These, combined with reduced cash receipts and a fall in gross domestic product (GDP), pushed public sector net debt as a percentage of the economy to levels last seen in the early 1960s. \n\nAt the end of January 2021 [public sector net debt][1] (excluding public sector banks) was 97.9% of GDP.\n\nYou can read more on [what GDP is and why it is important][2]. \n\n\n  [1]: https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest\n  [2]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/articles/whatisgdp/2016-11-21"
+    },
+    {
+      "title": "6. The value of imports and exports fell more during the first three months of the pandemic than during the 2008 and 2009 economic downturn  ",
+      "markdown": "####UK trade, exports and imports, excluding non-monetary gold and other precious metals, and selected commodities, three months ending April 2008 to three months ending January 2021, £ billion \n\n<ons-interactive url=\"/visualisations/dvc1214/fig6_trade/wrapper/index.html\" full-width=\"false\" title=\"Trade in imports, exports and selected commodities\"/>\n\n[Download the data][1]\n\n[The value of UK exports][2], excluding precious metals, fell by 22.5% year-on-year from £170.4 billion in the three months ending July 2019 to £132.1 billion in the same three months of  2020, while imports fell 26.1% from £176.8 billion to £130.7 billion. \n\nThis compared with an 8.8% year-on-year fall in the value of exports and 12.2% fall in the value of imports in the three months to July 2009 compared with the same three months of 2008, during the economic downturn. The data are in current prices and have not been adjusted for inflation. \n\nCertain commodities also saw significant year-on-year falls in imports and exports following the start of the coronavirus (COVID-19) pandemic. \n\nFuel imports in the three months ending July 2020 were down by 58.5% on the equivalent period of 2019 followed by a 41.3% year-on-year fall in the three months to October 2020. Lockdown restrictions and other measures, such as advice to work from home, led to reduced transport use, with fewer people driving and needing to refuel their vehicles. As 2020 ended, fuel exports were still down 47.5% and imports down 26.5% year-on-year in the three months ending January 2021. \n\nExports and imports of machinery and transport equipment, which includes cars, vans and office equipment, were both down in the three months ending July 2020 (exports by 29.4% and imports by 27.9%) compared with the same three months of 2019, during the tightest restrictions. The easing of lockdown and subsequent increase in travel over the summer therefore contributed to the increase in exports and imports of machinery and transport equipment. Meanwhile, material manufactures, which include many metals and base materials — such as non-ferrous metals, iron, steel and goods manufactured using these items — saw only small falls in UK exports. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc1214/datadownloads/fig6_trade.csv\n  [2]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/january2021"
+    },
+    {
+      "title": "7. Unlike the 2008 and 2009 economic downturn, average house prices increased while the economy shrank ",
+      "markdown": "<ons-chart path=\"3e759414\" />\n\nThe average UK house price reached a record high of £252,000 in December 2020 — an increase of 8.5% over the year.  \n\nAverage house prices increased in 2020 despite the significant fall in gross domestic product (GDP) during the first lockdown. This differed from the 2008 and 2009 economic downturn, where GDP and house prices both fell year on year. \n\nThis may reflect differences in the cause of each downturn. The 2008 to 2009 economic downturn was because of structural issues with financing mortgages. The fall in house prices in 2008 and 2009 reflects the impacts of the financial crisis on the cost and availability of finance, including for mortgages. Whereas the fall in GDP in 2020 was possibly driven more by reduced opportunities to spend, caused by lockdown restrictions, rather than primarily a lack of funds. \n\nThe [latest house price data, published on GOV.UK by HM Land Registry][1], may reflect the pent-up demand — from people who had been unable to buy during the lockdown — and changes to the types of property people wanted. In the UK House Price Index (HPI) data the average price of detached properties increased by 10.0% in the year to December 2020, compared with a 5.0% rise for flats and maisonettes. \n\nDuring the first lockdown, analysis by the Office for National Statistics (ONS) showed [one in eight households (12%) in Great Britain had no garden][2].   \n\nGovernment support schemes may also explain some of the rise in house prices while GDP declined. [Stamp Duty was suspended][3] on the first £500,000 of all property sales in England and Northern Ireland from July 2020 until the end of June 2021. In Wales, the threshold for paying the Land Transaction Tax was raised from £180,000 to £250,000 until 30 June 2021. In Scotland, the threshold for starting to pay the Land and Buildings Transaction Tax was raised from £145,000 to £250,000 until 31 March 2021. Furlough schemes were introduced to limit job losses while mortgage payment holidays and a ban on repossessions have assisted homeowners in managing their mortgage repayments.  \n\n\n  [1]: https://www.gov.uk/government/collections/uk-house-price-index-reports\n  [2]: https://www.ons.gov.uk/economy/environmentalaccounts/articles/oneineightbritishhouseholdshasnogarden/2020-05-14\n  [3]: https://www.gov.uk/stamp-duty-land-tax"
+    },
+    {
+      "title": "8. Fear of unemployment rose sharply while people’s expectations of their financial situation fell at its fastest rate on record",
+      "markdown": "<ons-chart path=\"fb9d88c1\" />\n\nAs more people reported their work had been affected by the pandemic, they also reported rising expectations for unemployment to increase, based on the scores in the [Eurobarometer Consumer Survey (PDF, 137.8KB)][1]. \n\nThe largest month-on-month rise on record in people's expectations for unemployment to increase was after March 2020, most of which was before the lockdown started. Expectations increased by 30 points (17.8 in March to 47.8 in April), followed by a further rise in May 2020 (49.4).  \n\nThis meant that people’s expectations for unemployment to increase reached the highest level in over eight years. The previous highest was in January 2012 (49.6), which followed the peak of unemployment after the 2008 and 2009 economic downturn. \n\nPeople's expectations of their financial situation for the next 12 months fell at the fastest rate since records began, down from 1.5 in the month up to March 2020 to negative 9.9 in April 2020, but recovered slightly in May (negative 9.0). The rating was slightly more positive in December 2020 (2.9). \n\n\n  [1]: https://ec.europa.eu/info/sites/info/files/questionnaires_uk_cons_en.pdf"
+    },
+    {
+      "title": "9. Overall, police recorded crime fell during the first lockdown but some offences saw an increase ",
+      "markdown": "<ons-chart path=\"6929445c\" />\n\nHome Office data show [police recorded crime in England and Wales][1] was down by 19% with 1.25 million offences in the three months to June 2020 compared with 1.53 million in the same three months of 2019. Altogether the year ending September 2020 saw a 6% decrease in recorded crime on the previous year.  \n\n[Scottish Government data][2] show police in Scotland recorded an 18% year on year fall in total crimes in April 2020, the first full month of lockdown, compared with April 2019. Over the three-month period April to June 2020 there were around 58,000 crimes recorded in Scotland, almost 9% down on the same period of 2019. [Police Service of Northern Ireland][3] data showed a 27% fall in recorded crime in April 2020 compared with April 2019. The three-month period April to June 2020 saw a 19% fall in recorded crime compared with the same months in 2019. Overall, recorded crime was down 5% in Northern Ireland in the year ending September 2020 compared with the year ending September 2019. \n\nDespite the overall reduction during the first lockdown, some categories of offence in England and Wales saw an increase. There was a 32% rise in possession of drugs offences recorded in April to June 2020 compared with the same three months of 2019 and a 24% rise in trafficking of drugs. Recorded stalking and harassment offences increased by 20% from around 118,500 in April to June 2019 to around 142,000 in April to June 2020. They continued to rise in the three months to September, with around 163,000 offences, 31% up on around 125,000 recorded in July to September 2019. \n\nNotable falls included a 74% drop year on year in recorded theft from the person in the three months to June 2020, a 47% drop in robberies and 51% drop in shoplifting. This coincided with the increase in time people spent at home during the lockdown period, reducing the opportunities for theft in public spaces and the closure of the night-time economy. Domestic burglaries were down 33% in the three months to June 2020, compared with the same period of 2019 and down 20% in the three months to September. \n\nPolice recorded crime data in England and Wales are not designated [official statistics][4] and there have been improvements to recording processes and practices by the police, that have made substantial contributions to rises in certain types of crime over the previous five years. \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingseptember2020\n  [2]: https://www.gov.scot/collections/recorded-crime-in-scotland/\n  [3]: https://www.psni.police.uk/inside-psni/Statistics/police-recorded-crime-statistics/\n  [4]: https://uksa.statisticsauthority.gov.uk/about-the-authority/what-we-do/uk-statistical-system/types-of-official-statistics/"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/latest"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest"
+    },
+    {
+      "uri": "/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest"
+    },
+    {
+      "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/jobsandvacanciesintheuk/latest"
+    },
+    {
+      "uri": "/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/latest"
+    },
+    {
+      "uri": "/economy/inflationandpriceindices/bulletins/housepriceindex/latest"
+    }
+  ],
+  "charts": [
+    {
+      "title": " Public sector net debt excluding public sector banks, UK, financial year ending March 1901 to January 2021",
+      "filename": "afe20993",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/afe20993"
+    },
+    {
+      "title": " England and Wales, quarterly figures, April to June 2015 to July to September 2020 ",
+      "filename": "6929445c",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/6929445c"
+    },
+    {
+      "title": " Annual house price rates of change for all dwellings and annual change in GDP (%), UK, January 2006 to December 2020 ",
+      "filename": "3e759414",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/3e759414"
+    },
+    {
+      "title": " Aggregate balance of expectations, UK, January 2000 to December 2020 ",
+      "filename": "fb9d88c1",
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15/fb9d88c1"
+    }
+  ],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) in charts: What we learned over the past month",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19inchartswhatwelearnedoverthepastmonth/2021-03-01"
+    },
+    {
+      "title": "Which jobs are most likely to have seen a drop in pay during the pandemic?",
+      "uri": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/whichjobsaremostlikelytohaveseenadropinpayduringthepandemic/2021-03-05"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronavirusayearlikenoother/2021-03-15",
+  "description": {
+    "title": "Coronavirus: a year like no other ",
+    "keywords": [
+      "coronavirus",
+      "covid19",
+      "house prices",
+      "GDP",
+      "crime",
+      "hospitals",
+      "healthcare",
+      "jobs",
+      "vacancies",
+      "unemployment"
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2021-03-15T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "A year on from the first government instructions to significantly limit social contact because of the coronavirus (COVID-19) pandemic, we look at what the data tell us about these extraordinary 12 months and the way our lives have changed. ",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

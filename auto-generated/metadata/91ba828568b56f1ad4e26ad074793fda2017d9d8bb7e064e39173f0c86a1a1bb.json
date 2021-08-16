@@ -1,0 +1,75 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/morethanoneinfoursandwichcarersreportsymptomsofmentalillhealth/2019-01-14/e0b0db2f.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Almost 27% of [sandwich carers][1] show symptoms of mental ill-health^1^  while caring for both sick, disabled or older relatives and children.\n\nWith [life expectancy increasing][2]^2^ and [women having their first child at an older age][3], around 3% of the UK general population^3^, equivalent to more than 1.3 million people, now have this twin responsibility. \n\nSandwich carers are more likely to experience symptoms of mental ill-health – which can include anxiety and depression – than the general population (22%), according to our analysis for 2016 to 2017^4^.\n\nThe prevalence of mental ill-health increases with the amount of care given. More than 33% of sandwich carers providing at least 20 hours of adult care per week report symptoms of mental ill-health, compared with 23% of those providing fewer than five hours each week.\n\n<ons-interactive url=\"/visualisations/dvc574/mental-health/index.html\" full-width=\"false\" title=\"Mental health\"/>\n\n[Download the data.][4]\n\n\n  [1]: https://www.carersuk.org/for-professionals/policy/policy-library/sandwich-caring\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/bulletins/nationallifetablesunitedkingdom/2015to2017\n  [3]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2017\n  [4]: https://www.ons.gov.uk/visualisations/dvc574/mental-health/data-download.csv"
+    },
+    {
+      "title": "Those providing fewer hours of adult care report higher levels of well-being",
+      "markdown": "People providing fewer than five hours of adult care each week report slightly higher levels of life and health satisfaction, relative to the general population. \n\nSome of the differences between the two groups could be explained by demographic differences. For example, more than 72% of the sandwich generation are aged between 35 and 54 years, while 62% are women. Whereas among the general population, 38% are aged 35 to 54 years and 51% are women.\n\nAround 76% of those providing fewer than five hours of adult care say they’re satisfied with life, while just 10% are dissatisfied. Meanwhile, 74% of the general population are satisfied with life, with 16% saying they’re dissatisfied.\n\nHowever, when sandwich carers spend more than five hours a week providing adult care, they report lower levels of life and health satisfaction than the general population. \n\n<ons-interactive url=\"/visualisations/dvc574/satisfaction/index.html\" full-width=\"false\" title=\"Satisfaction\"/>\n\n[Download the data.][1]\n\nThose providing between 10 and 19 hours of adult care per week are least satisfied according to both measures, even compared with those giving at least 20 hours each week. This could be because 69% of carers in the 10- to 19-hour category are in work (either employed or self-employed), compared with 41% of those providing at least 20 hours a week.\n\n<ons-interactive url=\"/visualisations/dvc574/employment/index.html\" full-width=\"false\" title=\"Employment\"/>\n\n[Download the data.][2]\n\nSimilarly, many sandwich carers are not satisfied with the amount of leisure time they have. Those looking after their relative in their own home – half of whom provide at least 20 hours of adult care per week – are least satisfied.\n\nOverall, around 61% of the general population are happy with their amount of leisure time, compared with 47% of sandwich carers looking after their relative outside the home and 38% of those providing care within their own home. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc574/satisfaction/data.csv\n  [2]: https://www.ons.gov.uk/visualisations/dvc574/employment/data-download.csv"
+    },
+    {
+      "title": "Many in-house carers feel unable to work at all or as much as they’d like",
+      "markdown": "As well as reporting a lack of leisure time, 41% of sandwich carers looking after a relative within their home say they’re unable to work at all or as much as they’d like.\n \nWomen sandwich carers – who account for 68% of those providing at least 20 hours of adult care per week – are more likely to feel restricted than men. Around 46% of women feel unable to work at all or as much as they’d like, compared with 35% of men.\n\n<ons-interactive url=\"/visualisations/dvc574/ability-to-work/index.html\" full-width=\"false\" title=\"Ability to work\"/>\n\n[Download the data.][1]\n\nWomen sandwich carers are also much more likely to be economically inactive than men – 28% are not part of the labour market, compared with just 10% of men in the same situation.\n\nIt should be said, though, that the majority of sandwich carers are able to balance their job with caring responsibilities. More than 59% of those providing care at home say this does not prevent paid employment. \n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc574/ability-to-work/data.csv"
+    },
+    {
+      "title": "A third of carers are \"just about getting by\" financially",
+      "markdown": "Clearly, caring for two generations could have an impact on carers’ finances. One in three sandwich carers say they are \"just about getting by\" financially, while one in ten are \"finding it difficult\" or \"very difficult\" to cope. \n\nMeanwhile, only 17% say they are \"living comfortably\", compared with 32% of the general population.\n\n<ons-interactive url=\"/visualisations/dvc574/finances/index.html\" full-width=\"false\" title=\"Managing financially\"/>\n\n[Download the data.][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc574/finances/data.csv"
+    },
+    {
+      "title": "Finding help",
+      "markdown": "If you’re struggling with the responsibility of providing care, charities such as [Carers UK][1] offer help, advice and support.\n\n\n  [1]: https://www.carersuk.org/help-and-advice\n "
+    },
+    {
+      "title": "Footnotes",
+      "markdown": "1. This is based on the General Health Questionnaire (GHQ), where a score of 4 or more indicates symptoms of mild to moderate mental illness such as anxiety or depression. The GHQ is self-reported.\n2. Life expectancy at birth in the UK did not improve in 2015 to 2017, having risen consistently for decades beforehand. [We’ve investigated the stalling of improvements in life expectancy and its links to mortality rates][1].\n3. For the purposes of this article, the general population is all adults (including sandwich carers) aged 16 to 70 years.\n4. Our analysis defines sandwich carers as people aged 16 to 70 years who have a dependent child (one aged under 16 years, or 16 to 18 years, who is in school or non-advanced further education, not married and living with parent) in their home, and also provide regular service to a relative (usually parents, parents-in-law, grandparents, aunts or uncles, or another relative) who is \"sick, disabled or elderly whom you look after or give special help to\". The analysis is taken from [Understanding Society][2], the UK Household Longitudinal Study. Households are surveyed each year either through a face-to-face interview or a self-completed online survey. Data collection takes place over a 24-month period, and the sample size for the general population in the 2016 to 2017 period was 34,000 individuals. \n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/changingtrendsinmortality/acrossukcomparison1981to2016\n  [2]: https://www.understandingsociety.ac.uk/documentation/mainstage/user-guide"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/datasets/sandwichcarers"
+    }
+  ],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/articles/morethanoneinfoursandwichcarersreportsymptomsofmentalillhealth/2019-01-14",
+  "description": {
+    "title": "More than one in four sandwich carers report symptoms of mental ill-health",
+    "keywords": [
+      "Mental health",
+      "Finance",
+      "Health",
+      "Unpaid care",
+      "Sandwich care"
+    ],
+    "metaDescription": "Sandwich carers – those who care for both sick, disabled or older relatives and dependent children – are more likely to report symptoms of mental ill-health, feel less satisfied with life, and struggle financially compared with the general population.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "policy.evidence.analysis@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2019-01-14T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Sandwich carers – those who care for both sick, disabled or older relatives and dependent children – are more likely to report symptoms of mental ill-health, feel less satisfied with life, and struggle financially compared with the general population.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

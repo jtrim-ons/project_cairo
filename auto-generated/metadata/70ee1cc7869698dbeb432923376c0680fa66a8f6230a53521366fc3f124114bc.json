@@ -1,0 +1,66 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "Entering employment is widely thought to be the most effective route out of poverty, a view supported by a range of research. But does getting a job always lead to people leaving poverty? \n\nOur recent analysis shows that finding a job does not always succeed in getting people out of poverty, though it is arguably more effective in the UK than any other EU country we studied. It also reveals the different ways people leave in-work poverty such as through increasing earnings and increasing hours.\n\n<ons-box align=\"full\">A person (aged 18-64) is considered as being in ‘in-work poverty’ if their household income (adjusted for household size and composition) is below the poverty threshold and they are in employment themselves.</ons-box>\n##Around 8 in 100 people in work are also in poverty\n####UK and EU average in-work poverty rates for people aged 18 to 64: 2005-2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc262/Poverty_Chart1/index.html\" full-width=\"false\" title=\"UK and EU average in-work poverty rates for people aged 18 to 64: 2005-2013\"/>[Download the data][1]\n\n8% of people were in in-work poverty in the UK in 2013; this was equivalent to around 3 million people. The rate has been relatively stable, with a fall in 2009 and 2010, possibly due to falls in both employment and average incomes.\n##In-work poverty rates in Romania highest in the EU\n####In work poverty rates by EU country for people aged 18-64, 2013\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc262/Poverty_Chart2/index.html\" full-width=\"false\" title=\"In work poverty rates by EU country for people aged 18-64, 2013\"/>[Download the data][2]\n\nThe average in-work poverty rate for the EU was 9% in 2013. Romania and Greece had the highest levels of in-work poverty at 18% and 13% respectively. Finland and the Czech Republic were lowest at 4%.\n####3 in 10 people remained in poverty despite getting a job\n\nOver 2007-2012, 70% of people (aged 18-59) left poverty after getting a job, however 30% remained in poverty. Similar analysis by the European Commission for 2009 showed that, for the EU overall, only around half (49%) of people left poverty when entering employment.\n##Those finding part-time jobs are less likely to leave poverty\n####Full-time and part-time workers in poverty, UK, 2007 to 2012\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc262/chart4/index.html\" full-width=\"false\" title=\"Full-time and part-time workers in poverty, UK, 2007 to 2012\"/>[Download the data][3]\n\nThose taking up full time jobs were more likely to move out of poverty when entering employment (76%), compared with those who moved into part time employment (62%). Looking at part time workers, those leaving poverty work more hours per week on average (18 hours) than those remaining in poverty (15 hours).\n\nPeople taking up temporary roles are no less likely to leave poverty than those taking up permanent contracts. However, temporary workers are more likely to see their income fall below the poverty threshold again the following year.\n##One adult households least likely to leave poverty when starting work\n###Poverty by household type, UK, 2007 to 2012\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc262/chart5/index.html\" full-width=\"false\" title=\"One adult households least likely to leave poverty when starting work\"/>[Download the data][4]\n\nSingle adult households without children were least likely to leave poverty when entering employment, with a poverty exit rate of 57%. By comparison, 73% of people living in two adult households left poverty when they started work.\n##How can people leave in-work poverty?\n####Reasons for workers leaving in-work poverty, UK, 2007 to 2012\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc262/Poverty_Chart6/index.html\" full-width=\"false\" title=\"Reasons for workers leaving in-work poverty, UK, 2007 to 2012\"/>[Download the data][5]\n\nThe ways in which people can leave in-work poverty are complex, and many things can have an effect at the same time. 70% of those leaving in-work poverty did so following an increase in their hourly pay, including those taking up a new job, while an increase in average hours was associated with 38% of exits from in-work poverty.\n\nOther possible reasons for leaving in-work poverty may include another family member starting work, an increase in income from another source such as pensions or benefits, or people entering or leaving the household.\n\nFor more information, please contact [hie@ons.gov.uk.][6]\n\n\n  [1]: https://static.ons.gov.uk/visual/2015/07/data1.csv\n  [2]: https://static.ons.gov.uk/visual/2015/07/data2.csv\n  [3]: https://static.ons.gov.uk/visual/2015/07/data4.csv\n  [4]: https://static.ons.gov.uk/visual/2015/07/data5.csv\n  [5]: https://static.ons.gov.uk/visual/2015/07/data6.csv\n  [6]: mailto:hie@ons.gov.uk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Persistent Poverty in the UK and EU, 2008-2013",
+      "uri": "http://www.ons.gov.uk/ons/rel/household-income/persistent-poverty-in-the-uk-and-eu/2008-2013/persistent-poverty-in-the-uk-and-eu--2008-2013.html#tab-conclusions"
+    },
+    {
+      "title": "Intergenerational transmission of disadvantage in the UK & EU",
+      "uri": "http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/blank.html"
+    },
+    {
+      "title": "Poverty and Social Exclusion in the UK and EU, 2005-2011",
+      "uri": "http://www.ons.gov.uk/ons/rel/household-income/poverty-and-social-exclusion-in-the-uk-and-eu/2005-2011/rpt--poverty-and-social-exclusion.html"
+    },
+    {
+      "title": "The effects of taxes and benefits on UK household income: 2012/13",
+      "uri": "http://www.ons.gov.uk/ons/rel/household-income/the-effects-of-taxes-and-benefits-on-household-income/2012-13/etb-stats-bulletin-2012-13.html"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/doesgettingajobalwaysleadtopeopleleavingpoverty/2015-07-06",
+  "description": {
+    "title": "Does getting a job always lead to people leaving poverty?",
+    "keywords": [
+      "Employment and labour market",
+      "People, population and community",
+      "Poverty",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-07-06T08:34:07.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

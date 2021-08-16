@@ -1,0 +1,57 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The various parliamentary constituencies – all 650 of them – that combine to form the UK are often very different, diverse places. For instance, did you know:\n\n- Kensington boasted both the highest average house price (£980,000) in England, Wales and Northern Ireland and the UK's highest average weekly wage (£848)?\n- 89% of West Aberdeenshire and Kincardine residents stated that they were in good health, compared to 71% in the Rhondda?\n\nOur interactive [cartogram][1] visualises the constituencies as hexagons – making it simpler to see patterns in the data. Uncover and share your own stories.\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/nesscontent/dvc237/hex.html\" full-width=\"true\" title=\"Hexagon map\"/>\n\n\n[Download the data.][2]\n\n\n\n\n\n  [1]: http://en.wikipedia.org/wiki/Cartogram\n  [2]: https://static.ons.gov.uk/visual/2015/03/UK-constituency-data.csv\n  [3]: mailto:digital.content@ons.gov.ukuk\n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Introducing UK Perspectives",
+      "uri": "https://visual.ons.gov.uk/uk-perspectives-an-introduction/"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/housing/articles/visualisingyourconstituency/2015-03-26",
+  "description": {
+    "title": "Visualising your constituency",
+    "keywords": [
+      "Economy",
+      "Employment and labour market",
+      "People, population and community",
+      "Earnings",
+      "Health",
+      "Map",
+      ""
+    ],
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2015-03-26T12:01:55.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

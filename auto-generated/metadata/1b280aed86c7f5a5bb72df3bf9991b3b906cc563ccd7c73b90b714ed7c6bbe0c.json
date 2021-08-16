@@ -1,0 +1,52 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/causesofdeathover100years/2017-09-18/e73f38df.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "We are living longer than we did 100 years ago because of advances in medical science as well as better sanitation, nutrition and hygiene.\n\nJust over a century ago the [average life expectancy][1] at birth for a man was 48.4 years, whereas women could expect to live to 54.0.\n\nFast forward from 1915 to 2015 and a[ man’s life span][2] extended by 31 years and almost 29 years for a woman (79.3 and 82.9 respectively).\n###A change in the top cause of death\nThe top causes of death at the start of the 20th century were very different to those that we see today. This may partially be explained by improvements in medical knowledge that have led to a more comprehensive classification system.\n\nIn 1915, people were dying in large numbers from infections, but by 2015, the most common causes of death were related to cancer, heart conditions or external causes.\n\n####Top causes of death by age and sex, 1915 to 2015\nExplore the top cause of death, by age and sex, by dragging your cursor (or tap your finger) across a coloured square:\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc427/heatmap_m/\" full-width=\"false\" title=\"Top causes of death by age and sex, 1915 to 2015 Explore the top cause of death, by age and sex, by dragging your cursor (or tap your finger) across a coloured square:\"/>\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc427/heatmap_f/\" full-width=\"false\" title=\"100 yrs Death\"/>\n\n[Download the data][3]\n\nNotes:\n\n1. Figures for deaths of those aged under one have been excluded from this chart.\n\n2. A full list of the top 10 underlying causes of death, with International Classification of Diseases (ICD codes), by age-group and sex can be found in the data download.\n\n\n\nBetween 1915 and 1945, infections were generally the leading cause of death for young and middle-aged males and females. For those aged one to four, infections remained the leading cause until 2005, with the exception of 1975 and 1985.\n\nThere was a dramatic decline in the number of people dying from infectious diseases in the 20th century. Poliomyelitis (polio), diptheria, tetanus, whooping cough, measles, mumps and rubella were all virtually wiped out during the second half of the 20th century, after childhood immunisation was introduced.\n\nMotor vehicle incidents began to emerge as a leading cause of death in young males and females in 1945. The number of road deaths of young people may be [attributable to the existence of the Blackout during World War II][4], when vehicles drove in total darkness. This trend continued until 1985, where the percentage of deaths to motor vehicle accidents began decreasing, perhaps due to the [introduction of compulsory seat belts in 1983][5].\n\nFrom 1985 onwards, external causes such as drug misuse, suicide and self-harm were the leading cause of death for young people, particularly affecting men more than women.\n\nMeanwhile heart conditions dominated as the leading cause of death for middle-to older-aged males from 1945 onwards. A similar trend was seen in females during this period, but at older ages; while younger to middle-aged females more frequently died of breast cancer.\n###Overall trends in deaths, 1915 to 2015\nNot only have the causes of death changed over time, but so have the number of people dying.\n\nThe number of deaths in England and Wales has decreased in the past century, whereas there has been an increase in the population; particularly the number of elderly people.\n\nIn 1915, there were 562,253 deaths in England and Wales, compared with 529,655 deaths in 2015, a decrease of 5.8%.\n\n####Deaths in England and Wales, 1915 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc427/figure2/\" full-width=\"false\" title=\"Deaths in England and Wales, 1915 to 2015\"/>\n\n[Download the data.][6]\n\nNote: Figures do not include deaths to those whose usual residence is England or Wales and have died abroad, ie those serving and who died in the World Wars overseas.\n\n\n\nThe overall population of England and Wales rose by 64.0% between 1915 and 2015, from 35.3 million to 57.9 million. The population also aged considerably over this period, with 0.6% of the population aged 80 and over in 1915 compared with 4.8% in 2015.\n\nIn 1915, 47,946 people aged 80 and over died; by 2015, the number of deaths at this age had increased by 524.1% to 299,254 people.\n\n####Death rate by age, England and Wales, 1915 to 2015\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc427/chart2rates/\" full-width=\"false\" title=\"Death rate by age, England and Wales, 1915 to 2015\"/>\n\n[Download the data.][7]\n\nNote: Rates for those under one year old are deaths per 1,000 live births, rates for other ages are deaths per 1,000 population.\n\n\n\nHowever, the number of deaths per 1,000 of the population aged 80 and over decreased by 49.3% from 212.2 in 1915 to 107.5 in 2015.\n\nA similar pattern can be seen in infant deaths (under one year) where the deaths per 1,000 of live births decreased by 96.4% from 109.7 in 1915 to just 3.9 in 2015.\n###Considerable drop in the number of child deaths\nThe drop in the number of deaths for children aged four and under is a prime illustration of the dramatic change in childhood mortality over the century.\n\nIn 1915, there were 89,380 deaths of children aged under one, compared with just 2,721 in 2015. The number of deaths of one-to four-year-olds was 55,607 in 1915, while it was 460 in 2015.\n\n####Childhood death numbers, England and Wales, 1915 to 2015\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc427/figure4/\" full-width=\"false\" title=\"Childhood death numbers, England and Wales, 1915 to 2015\"/>\n\n[Download the data.][8]\n\n[Mass vaccination programmes][9] largely eradicated diseases that had killed thousands of children between 1915 and 2015.\n\nThe [improvements in mortality][10] were attributed to rising standards of living, especially improvements in nutrition and hygiene, in addition to the decline in deaths from airborne disease.\n\nOne hundred years from now, perhaps medical advances will have progressed further for us to live even longer.\n\n\n\n\n  [1]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/adhocs/006833pastandprojecteddatafromtheperiodandcohortlifetables2014basedenglandandwales1841to2064\n  [2]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/adhocs/0066682015singleyearnationallifetablesenglandscotlandwalesandnorthernireland\n  [3]: https://static.ons.gov.uk/visual/2017/09/Top-10-data-download.xlsx\n  [4]: https://www.theguardian.com/lifeandstyle/2009/nov/01/blackout-britain-wartime\n  [5]: http://www.saferroads.org/advice/drivers/seatbelts/\n  [6]: https://www.ons.gov.uk/visualisations/dvc427/data2.csv\n  [7]: https://www.ons.gov.uk/visualisations/dvc427/data3.csv\n  [8]: https://www.ons.gov.uk/visualisations/dvc427/data4.csv\n  [9]: http://www.nhs.uk/Conditions/vaccinations/Pages/the-history-of-vaccination.aspx\n  [10]: http://webarchive.nationalarchives.gov.uk/20160110132842/http://www.ons.gov.uk/ons/rel/hsq/health-statistics-quarterly/no--18--summer-2003/index.html\n  [11]: https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/peoplegreatlyoverestimatetheirlikelihoodofbeingrobbed/2017-09-07\n  [12]: https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/whoismostatriskofsuicide/2017-09-07\n  [13]: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/articles/howareprivatepensionsaffectingtheincomeofretiredhouseholds/2017-08-08\n  [14]: https://public.govdelivery.com/accounts/UKONS/subscribers/new\n  \n"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Deaths registered in England and Wales Statistical bulletins",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregistrationsummarytables/previousReleases"
+    },
+    {
+      "title": "Vital Statistics: Population and Health Reference Tables",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/vitalstatisticspopulationandhealthreferencetables"
+    }
+  ],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/causesofdeathover100years/2017-09-18",
+  "description": {
+    "title": "Causes of death over 100 years",
+    "metaDescription": "",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2017-09-18T08:30:32.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore and learn more about how the causes of death have changed over the last century.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

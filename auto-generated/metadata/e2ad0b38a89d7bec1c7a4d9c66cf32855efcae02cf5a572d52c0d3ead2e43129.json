@@ -1,0 +1,78 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "isReleaseDateEnabled": true,
+  "imageUri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/populationexploreragehealthandunpaidcare/2020-04-08/32b559a8.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "People most at risk of severe illness from coronavirus (COVID-19) include those aged 70 years and over, those with underlying health conditions including certain chronic illnesses, as well as those with weakened immune systems. The UK government [advises people in these groups](https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults) to be particularly stringent in following “social distancing” measures.\n\nAs the UK population steps up national, local and community efforts to support its most vulnerable members, our interactive map allows you to identify which areas have the highest concentrations of people in some of the most vulnerable groups.\n\nOur data cannot identify the numbers of people with the specific underlying health conditions in the government’s guidance, but it is possible to explore the number of people in local areas who report having “bad” or “very bad” health, those with long-term health conditions or disability, and people whose day-to-day activities are limited a lot.\n\nYou can also see the number of people in neighbourhoods who provide unpaid care to others.\n\nTo select an area enter a postcode or hover over the map.\n<h4>Explore age, health and care small area data</h4>\nLower-super output areas, England and Wales\n<ons-interactive url=\"/visualisations/dvc791/mapnav/index.html\" full-width=\"true\"/>"
+    },
+    {
+      "title": "",
+      "markdown": "###### Notes:\n1. The data used to create this map do not allow individual people or households to be identified. Building groups are shaded to give a sense of the population density in an area.\n2. The data for those aged 70 years and over and 85 years and over are sourced from the Small area population estimates, while the remaining data are sourced from the 2011 Census.\n3. While the 2011 Census data are nine years old, they allow us to present the combinations of variables down to small areas. These variables will have changed, but the rate of change is likely to be slow.\n\n[Download the data][1]\n\n\n  [1]: https://www.ons.gov.uk/visualisations/dvc791/mapnav/datadownload.csv"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/wheredoover70slive/2020-03-24"
+    },
+    {
+      "uri": "/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [
+    {
+      "title": "Coronavirus (COVID-19) roundup",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19roundup/2020-03-26"
+    },
+    {
+      "title": "UK population summary by age and geography, mid-2018",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/11516ukpopulationsummarybyageandgeographymid2018"
+    },
+    {
+      "title": "Commissioned table that classifies all usual residents by age by general health by long-term health problem or disability from National level to LSOA level in England and Wales on census day",
+      "uri": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandwellbeing/adhocs/11483ct10872011census"
+    },
+    {
+      "title": "Full data from the 2011 Census are available, covering the whole range of population characteristics and subject areas",
+      "uri": "https://www.nomisweb.co.uk/census/2011"
+    }
+  ],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/populationexploreragehealthandunpaidcare/2020-04-08",
+  "description": {
+    "title": "Population explorer: age, health and unpaid care",
+    "keywords": [
+      "population",
+      "health",
+      "covid-19"
+    ],
+    "metaDescription": "Explore the population of England and Wales by age, levels of health, and those providing unpaid care to others",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "digitalcontent@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2020-04-07T23:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore the population of England and Wales by age, levels of health, and those providing unpaid care to others",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}

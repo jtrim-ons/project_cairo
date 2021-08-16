@@ -1,0 +1,58 @@
+{
+  "pdfTable": [],
+  "isPrototypeArticle": true,
+  "imageUri": "/businessindustryandtrade/internationaltrade/articles/whodoestheuktradewith/2017-02-21/de31d34a.png",
+  "sections": [
+    {
+      "title": "",
+      "markdown": "The start of trade negotiations between the UK and the EU moved a step closer in December.\n\nThe UK Government set out its strategy for trade policy after Brexit in a [paper published in October][1], which goes beyond trade with the EU and its 27 member countries.\n\nIn addition, since the referendum in June 2016, the government has signalled it is looking to strengthen ties with countries outside the EU like China, India, the United States, Australia and New Zealand.\n\nBut what do we know about our current trade with the world?\n\n###Explore the trade relationship between the UK and the rest of the world in our interactive map.\n\n####UK trade with the rest of the world, imports and exports, 1999 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html\" full-width=\"false\"/>\n\n[Download the data][2]\n\n###The EU remains an important UK trade partner\n\nBeing a member of the EU allows the UK to trade freely with 27 other countries. In 2016, the EU^1^ [accounted][3] for 48% of goods exports from the UK, while goods imports from the EU were worth more than imports from the rest of the world combined.\n\nBut the share of UK exports of goods and services going to the EU has fallen, from 54% in 2000 to 43% in 2016.\n\nMost of the decline in the EU’s share of UK exports is due to goods, not services. However, when comparing UK goods trade with EU and non-EU countries, [trade in gold (excluding gold held as reserves by the Bank of England)][4] can have a large impact^2^.\n\n###How much does the UK trade with the EU and the rest of the world?\n\n#####UK Imports, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/treemap/imports.html\" full-width=\"false\" title=\"Trade - Imports treemap\"/>\n\n[Download the data][5]\n\n#####UK Exports, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/treemap/exports.html\" full-width=\"false\" title=\"Trade - Exports treemap\"/>\n\n[Download the data][6]\n\nAlmost half (48%) of UK goods exports went to the EU in 2016. UK goods exports to the EU were worth £145 billion in 2016, or 7.4% of GDP.\n\nMotor vehicles and parts is the largest [product group][7] by value of exports: the UK exported £18 billion of motor vehicles (and trailers) to the EU in 2016. The next largest product group exported to the EU is chemicals and chemical products, £15 billion in 2016.\n\nMeanwhile, 37% of UK service exports went to the EU in 2016, down from 40% in 2015. Financial services contributed more than a quarter of the UK’s services exports to the EU (£27 billion out of £90 billion).\n\n###Love thy neighbour?\n\nUK trade relationships are usually stronger with neighbouring countries, as well as countries with large economies. China and the US are large economies and important UK trading partners, even accounting for their distance from us.\n\nHowever, distance is important. The value of the UK’s trading relationship with Ireland is higher than the value of UK trade with Italy or Spain, even though the total size of Ireland’s economy is much smaller than Italy’s or Spain’s.\n\n###How does geography impact UK exports and imports  to the rest of the world?\n\n#####UK Exports by distance from UK, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/distance/export/index.html\" full-width=\"false\" title=\"Trade - Scatter imports distance\"/>\n\n[Download the data][8]\n\n#####UK Imports by distance from UK, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/distance/import/index.html\" full-width=\"false\" title=\"Trade - Scatter imports distance\"/>\n\n[Download the data][9]\n\nThe UK runs a trade deficit (we import more than we export) with the biggest economies of the European Union.\n\nThe UK has a trade surplus (we export more than we import) with 67 territories, including Ireland, Switzerland, the United Arab Emirates, Saudi Arabia, Australia and Brazil.\n\n#####UK trade deficit and surplus by country, 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/in-out/index.html\" full-width=\"false\" title=\"Trade - scatter import/export\"/>\n\n[Download the data][10]\n\n#####Notes: \n1. The downloadable data relating to this figure, UK trade deficit and surplus by country, 2016 was incorrectly linked to the previous figure. This has now been corrected, the figure and everything else in this release has not been affected.\n\nThe largest trade deficit is with Germany. In 2016 the UK imported £75 billion in goods and services from Germany, and sold £49 billion.\n\nAlthough the UK has a trade deficit with Germany, France and the Netherlands^3^, they are the second, third and fourth most important destinations for UK exports.\n\n###\"Special relationship\" with the US\n\nThe US is the country from which the UK earns the most through trade. Exports to the US in 2016 were worth £100 billion, more than twice as much as exports to any other country.\n\nWith imports from the US totalling £66 billion, the UK ran a trade surplus with the US of £34 billion in 2016 (by far the highest globally)^4^.\n\nWhile the value of UK exports to the EU has fallen between 2011 and 2016 (from £243 billion to £236 billion), the UK is increasingly exporting to the US. Exports to the US rose by more than 26% over the same period.\n\nThat being said, as a union of 27 other countries, the EU still had a much greater share of UK exports than the US in 2016 (43% compared with 18%). A report in the [FT][11] showed how for almost every category of goods exported, the EU was by far a bigger market than the US.\n\n###Our trade relationship with the US has strengthened in recent years\n\n#####UK trade with the US and rest of the world, imports and exports, 1999 to 2016\n\n<ons-interactive url=\"https://www.ons.gov.uk/visualisations/dvc390/worldmap/index.html#sty=false&flow=flow1&period=16&fix=UK&fix2=US&view=0,-40,800,635\" full-width=\"false\"/>\n\n[Download the data][12]\n\n###Sign up for email alerts\n\nIf you like our Visual.ONS content and would like to see more, please [sign up to our email alerts][13], selecting ‘stories and infographics’ under preferences.\n\n###Footnotes\n\n1. Croatia joined the EU in 2013. In 2000 and 2001 data are for non-UK EU26 and from 2002 onwards data are for non-UK EU 27\n\n2. Gold is an erratic commodity, so trade in gold is often highly volatile. We’re currently looking at ways to publish additional trade statistics that exclude non-monetary gold.\n\n3. The Rotterdam effect: It has been argued that the pattern of trade between the UK and other countries has been distorted by the location of big international ports such as Rotterdam. The Rotterdam effect is the situation where goods which are initially exported to one country are then re-exported somewhere else. An ONS article estimated that 50 per cent of all goods exported to the Netherlands were re-exported to non-EU countries. It also estimated that the Rotterdam effect would account for around four percentage points of the UK’s exports of goods. These effects were calculated to illustrate the possible size of the Rotterdam effect and does not imply that a different data series should be produced or used.\n\n4. In their official statistics, the US reports a trade surplus with the UK. Countries reporting different trade balances with each other is a well known international phenomenon, which affects all countries. There are multiple reasons such as measurement differences, conceptual differences and different data sources. We have conducted some analysis of the UK’s trade asymmetries, engaged in bilateral meetings with other National Statistical Institutes (NSIs) to understand some of the potential reasons for differences and we are working with an academic to develop possible models that might lead to improvements. This will be an area of ongoing focus within our development plan\n\n\n  [1]: https://www.gov.uk/government/publications/preparing-for-our-future-uk-trade-policy\n  [2]: https://www.ons.gov.uk/visualisations/dvc390/Imports-exports-1999-2016.xlsx\n  [3]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/publicationtablesuktrade\n  [4]: https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/articles/nationalaccountsarticles/abriefexplanationofnonmonetarygoldinnationalaccounts\n  [5]: https://www.ons.gov.uk/visualisations/dvc390/Importstree.xlsx\n  [6]: https://www.ons.gov.uk/visualisations/dvc390/Exportstree.xlsx\n  [7]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/publicationtablesuktradecpa08/current\n  [8]: https://www.ons.gov.uk/visualisations/dvc390/Distance-exports.xlsx\n  [9]: https://www.ons.gov.uk/visualisations/dvc390/Distance-imports.xlsx\n  [10]: https://www.ons.gov.uk/visualisations/dvc390/Import-export.xlsx\n  [11]: https://www.ft.com/content/37aa67a0-e94e-11e6-893c-082c54a7f539\n  [12]: https://www.ons.gov.uk/visualisations/dvc390/Imports-exports-1999-2016.xlsx\n  [13]: https://public.govdelivery.com/accounts/UKONS/subscribers/new"
+    }
+  ],
+  "accordion": [],
+  "relatedData": [],
+  "relatedDocuments": [
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/balanceofpayments/bulletins/unitedkingdombalanceofpaymentsthepinkbook/latest"
+    },
+    {
+      "uri": "/economy/nationalaccounts/uksectoraccounts/articles/nationalaccountsarticles/latest"
+    }
+  ],
+  "charts": [],
+  "tables": [],
+  "images": [],
+  "equations": [],
+  "links": [],
+  "alerts": [],
+  "relatedMethodology": [],
+  "relatedMethodologyArticle": [],
+  "versions": [],
+  "type": "article",
+  "uri": "/businessindustryandtrade/internationaltrade/articles/whodoestheuktradewith/2017-02-21",
+  "description": {
+    "title": "Who does the UK trade with?",
+    "keywords": [
+      "Trade",
+      "Brexit"
+    ],
+    "metaDescription": "Explore the UK's trade relationships through interactive maps, charts and analysis.",
+    "nationalStatistic": false,
+    "latestRelease": true,
+    "contact": {
+      "email": "trade@ons.gov.uk",
+      "name": "",
+      "telephone": ""
+    },
+    "releaseDate": "2018-01-03T00:00:00.000Z",
+    "nextRelease": "",
+    "edition": "",
+    "_abstract": "Explore the UK's trade relationships through interactive maps, charts and analysis.",
+    "unit": "",
+    "preUnit": "",
+    "source": ""
+  },
+  "topics": []
+}
